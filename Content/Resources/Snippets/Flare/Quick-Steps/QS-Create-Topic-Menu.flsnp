@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div>
+            <div class="Tiles-8-4-Microcontent">
+                <div class="micro-content-dropdown">
+                    <p>
+                        <MadCap:snippetText src="../Proxies/Menu-Proxy-Summary.flsnp" />
+                    </p>
+                    <p class="topic-only">
+                        <img src="../../../Images/Flare/topic-menu1.png" class="MaxWidth100Percent" />
+                    </p>
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Create a Topic Menu</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <ol>
+                                <li>Place your cursor in a master page. You may need to press the down arrow on your keyboard and then press <span class="Emphasis">Enter</span> at the correct location. Then select <span class="Emphasis">Insert &gt; Proxy &gt; Insert Menu Proxy</span>.</li>
+                                <li>
+                                    <p>Complete the options in the dialog.</p>
+                                    <div class="topic-only">
+                                        <MadCap:snippetBlock src="../Proxies/Menu-Proxy-Options.flsnp" />
+                                    </div>
+                                </li>
+                                <li>Click <span class="Emphasis">OK</span> and save your work.</li>
+                                <li><a href="../../../../Flare/Master-Pages/Associating-Master-Pages-with-Targets.htm">Associate the master page with a target</a>.</li>
+                            </ol>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                    <p class="micro-content-only"><a href="../../../../Flare/Proxies/Creating-Topic-Menu.htm">More Details…</a>
+                    </p>
+                </div>
+                <div class="micro-content-only">
+                    <p class="center">
+                        <img src="../../../Images/Flare/topic-menu1.png" class="ThumbnailMicroContent" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

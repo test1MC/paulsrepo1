@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>This includes the ability to set certain builds as “Live,” meaning they can be viewed by the public. You can also mark other builds to “Keep,” in case you need to roll back to them for some reason.</p>
+    </body>
+</html>

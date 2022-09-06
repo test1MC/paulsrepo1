@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="95" MadCap:lastWidth="830">
+    <body>
+        <table style="width: 100%;">
+            <col style="width: 221px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <img src="../../../Images/D2H/ContentWordAddSaveDelete.png" alt="" title="" />
+                    </td>
+                    <td>Rename or delete an existing topic in a document, or add a new topic.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../D2H/Topics/Adding-Renaming-Deleting-Topics.htm">Adding, Renaming, and Deleting Topics</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide"> See the online Help or the <span class="EmphasisItalic">Documents, Templates, and Content Guide</span>.</MadCap:conditionalText></td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

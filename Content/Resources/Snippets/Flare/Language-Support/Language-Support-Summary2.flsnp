@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>There are multiple ways to produce output in different languages. For example, you might translate content directly in a Flare project, perhaps creating a different topic for each language. Alternatively, you can send the Flare files to a translator, who can use a CAT (computer-assisted translation) tool in order to translate the text strings. MadCap Lingo can be used as a CAT tool or for project management, packaging your Flare files to be sent to a translator, who uses a third-party CAT tool for the translation.</p>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>In this tutorial, the two projects had a lot of similarities as far as styles and file names are concerned. But in an actual scenario, it is likely that there are far more differences. Depending on the files that you decide to import into your actual project, you might want or need to make some adjustments to the styles, as well as where they are applied. In other words, you can use the steps in this tutorial to help minimize the work in a conversion, but you can also expect to do a certain amount of manual work after the fact.</p>
+    </body>
+</html>

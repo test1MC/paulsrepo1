@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>Open a stylesheet.</li>
+            <li>
+                <p>In the local toolbar of the Stylesheet Editor, click <img src="../../../../Images/Shared/Co-Fl/medium_btn.png" class="ReduceButtonSize" /> and select <span class="Emphasis">Add Medium</span>.</p>
+                <p MadCap:conditions="Products.Flare">
+                    <img src="../../../../Images/Flare/media_query1.png" alt="" title="" class="MaxWidth100Percent">
+                    </img>
+                </p>
+                <p>The New Medium/Media Query dialog opens.</p>
+            </li>
+            <li>Select <span class="Emphasis">Media Query</span>. Extra fields are shown in the dialog.</li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+            <li>
+                <p>You can enter your media query directly in the text field (as long as you use valid media query syntax). Alternatively, you can use the fields below it to choose criteria for the media query; the text field is populated accordingly.</p>
+                <p MadCap:conditions="Products.Flare">
+                    <img src="../../../../Images/Flare/media_query8.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>For more information about creating custom media queries and the options available in the New Medium dialog, see <a href="http://www.w3.org/TR/css3-mediaqueries/" target="_blank">http://www.w3.org/TR/css3-mediaqueries/</a>.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Some fields in this dialog will change depending on the options you choose in other fields.</p>
+                </div>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../All/Steps-General/Click-OK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../../All/Steps-General/Save-File.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

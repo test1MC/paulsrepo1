@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p><b>SQL </b>
+            <MadCap:snippetText src="../SQL/SQL-Summary.flsnp" />&#160;<a href="../../../../Lingo/SQL/SQL-Lingo.htm">More Details…</a></p>
+        <MadCap:dropDown class="Micro-Content">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><span class="micro-dropdown-head">SQL Lite (Local)</span>
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="micro-content-drodown-body">
+                    <MadCap:snippetBlock src="../SQL/SQLite-Summary.flsnp" />
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="Micro-Content">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><span class="micro-dropdown-head">SQL Server Express (Server)</span>
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="micro-content-drodown-body">
+                    <MadCap:snippetBlock src="../SQL/SQL-Express-Summary.flsnp" />
+                    <MadCap:snippetBlock src="../SQL/SQL-Express-Summary2.flsnp" />
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

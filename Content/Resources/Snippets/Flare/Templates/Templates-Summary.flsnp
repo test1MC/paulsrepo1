@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>When you <MadCap:conditionalText MadCap:conditions="Products.Flare">create a project and </MadCap:conditionalText>add content (e.g., topics, snippets, stylesheets) or project-related elements (e.g., <MadCap:conditionalText MadCap:conditions="Products.Flare">tables of contents, </MadCap:conditionalText>targets<MadCap:conditionalText MadCap:conditions="Products.Flare">, skins</MadCap:conditionalText>)<MadCap:conditionalText MadCap:conditions="Products.Flare"> to it</MadCap:conditionalText>, you can use templates. A template is simply an <MadCap:snippetText src="Template-Definition.flsnp" /></p>
+    </body>
+</html>

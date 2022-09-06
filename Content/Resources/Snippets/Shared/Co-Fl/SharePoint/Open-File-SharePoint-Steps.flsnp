@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <ol>
+            <li>Select <span class="Emphasis">View &gt; SharePoint Explorer</span>. <MadCap:conditionalText MadCap:conditions="Products.Flare-Online-Only">See <MadCap:xref href="../../../../../Flare/Interface/UI-Elements/SharePoint-Explorer.htm">SharePoint Explorer</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>
+                <p>Locate the file that you want to open. You can use the "multi-view" to do this.</p>
+                <MadCap:snippetBlock src="../UI-Elements/Multi-View-Table.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../../All/Steps-General/Do-One-Following.flsnp" />
+                <ul class="FirstLevel">
+                    <li>Double-click the file.</li>
+                    <li>Right-click the file and select <span class="Emphasis">Open</span>.</li>
+                    <li>Click on the file, and in the local toolbar click <img src="../../../../Images/Shared/Co-Fl-Li/open_btn.png" class="ReduceButtonSize" />.</li>
+                </ul>
+                <p>If it is a file type not supported in <MadCap:variable name="Other.Product" />, you will be directed to open the file in its default application.</p>
+            </li>
+        </ol>
+    </body>
+</html>

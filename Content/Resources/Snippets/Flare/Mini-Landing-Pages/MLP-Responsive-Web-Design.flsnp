@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareHTML5Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-4-4-4">
+            <div>
+                <p><span class="Emphasis">Responsive Web Design </span>A <MadCap:snippetText src="../Responsive-Design/Responsive-Design-Summary1.flsnp" /></p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Responsive-Skins.htm">Responsive Skins</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Responsive-Content.htm">Responsive Content</MadCap:xref> </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/rwd1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/rwd2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

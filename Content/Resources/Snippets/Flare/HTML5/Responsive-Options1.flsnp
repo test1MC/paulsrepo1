@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="87" MadCap:lastWidth="1194">
+    <body>
+        <p>(Optional) Responsive output is automatically enabled for<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> Side</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> Top</MadCap:conditionalText> Navigation skins. But you can set a few additional options on the <span class="Emphasis">Skin</span> tab of the Target Editor. See <MadCap:xref href="../../../../Flare/Responsive-Web-Design/About-Responsive-Web-Design.htm">About Responsive Web Design</MadCap:xref> and <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Responsive-Skins.htm">Responsive Skins</MadCap:xref>.</p>
+    </body>
+</html>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="551" MadCap:lastWidth="981">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');margin-left: 0;margin-right: auto;caption-side: top;width: 100%;" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Al-Ca-Co-Fl-Li-Mi/open_file_btn1.png" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">This opens the file that is selected in the list.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="Snippets.Snippet11">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/preview_conversion_btn.png" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This opens the HTML to XHTML Conversion dialog, which lets you see how the selected file looks in HTML and how it will look after its conversion to XHTML.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Link Generated Files to Source Files</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="Link-Generated-Files-Source-Files.flsnp" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Al-Ca-Co-Fl-Li-Mi/delete_btn.png" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This removes the selected file(s) from the list.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Ca-Co-Fl-Li/move_item_up_btn.png" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">This moves the selected file higher in the list (if you have more than one file to import). The file at the top is used for the name of the content folder holding the imported topics in <MadCap:variable name="Other.Product" />. Also, the order determines how the imported files are arranged in the <MadCap:variable name="Other.Product" /> TOC that is created as a result.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Ca-Co-Fl-Li/move_item_down_btn.png" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <p class="TableText">This moves the selected file lower in the list (if you have more than one file to import).</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

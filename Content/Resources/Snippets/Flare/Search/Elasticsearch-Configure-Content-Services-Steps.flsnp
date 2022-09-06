@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>
+                <p>Install the URL Rewrite Module. This is necessary to enable IP&#160;address security restrictions to work in your web.config file.</p>
+                <p>See <a href="https://www.iis.net/downloads/microsoft/url-rewrite" target="_blank">https://www.iis.net/downloads/microsoft/url-rewrite</a>.</p>
+            </li>
+            <li>Within the <span class="Emphasis">Web.ContentServices</span> folder, open the <span class="Emphasis">web.config</span> file.</li>
+            <li>
+                <p>Remove the comment characters from the <span class="Emphasis">&lt;rewrite&gt;</span> and <span class="Emphasis">&lt;/rewrite&gt;</span> tags in this file. </p>
+                <p>
+                    <img src="../../../Images/Flare/elasticsearch-remote-server-web-config.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>Modify   <span class="Emphasis">YOUR_IP_ADDRESS</span> with your desired IP address pattern . You can enter a range of IP&#160;addresses in this field, or a singular IP&#160;address. This will block other addresses that do not match your IP&#160;address pattern from gaining administrator access to your Content Services Portal.</p>
+                <p>
+                    <img src="../../../Images/Flare/elasticsearch-remote-server-web-config2.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Open IIS Manager.</li>
+            <li>
+                <p>Right-click <span class="Emphasis">Application Pools</span>, and select <span class="Emphasis">Add Application Pool</span>.</p>
+            </li>
+            <li>In IIS&#160;Manager, navigate to <span class="Emphasis">Sites &gt; Default Web Site</span>.</li>
+            <li>
+                <p>Right-click <span class="Emphasis">Default Web Site</span> and select <span class="Emphasis">Add Application</span>.</p>
+            </li>
+            <li>Enter the name of the <span class="Emphasis">Alias</span> for your Elasticsearch website.</li>
+            <li>
+                <p>Click the <span class="Emphasis">Select</span> button and choose your Application pool.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can use the default Application pool or create a new one for this service.</p>
+                </div>
+            </li>
+            <li>Next to the <span class="Emphasis">Physical path</span> field, click the ellipsis button .</li>
+            <li>Select the <span class="Emphasis">C:\inetpub\wwwroot\Web.ContentServices</span> directory. Or, if you placed the Web.ContentServices directory in another location on your server, select that location instead.</li>
+            <li>Click <span class="Emphasis">OK</span>. Your Content Services application is now displayed under Default Web Site in IIS.</li>
+            <li>Click <span class="Emphasis">Start</span> (or <span class="Emphasis">Restart</span> if it is already running) on your Default Web Site. The Content Services application is now running.</li>
+        </ol>
+    </body>
+</html>

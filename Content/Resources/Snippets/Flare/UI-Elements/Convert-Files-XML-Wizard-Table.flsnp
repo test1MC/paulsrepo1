@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');margin-left: 0;margin-right: auto;caption-side: top;width: 100%;" cellspacing="0" class="TableStyle-Basic-Alternate-Rows">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Button/Section</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Open File</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the selected HTML file in a browser window. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Preview Conversion</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens a window that lets you see how the selected file will look after the conversion to XHTML.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Create Backups of Original Files</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Ensures that backup copies of the original topic files are created and saved when you convert the files. The backup is stored in your Documents\Conversion Backups subfolder.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Remove</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Removes the selected HTML file from the wizard.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Convert</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Converts the files to XML.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Cancel</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <p class="TableText">Closes this wizard without converting the files.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

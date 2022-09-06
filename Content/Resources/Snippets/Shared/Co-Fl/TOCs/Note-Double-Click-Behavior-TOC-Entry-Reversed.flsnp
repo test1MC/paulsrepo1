@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can use the toggle button <img src="../../../../Images/Flare/toggle_double_click_toc_entry_btn.png" class="ReduceButtonSize" /> on the right side of the local toolbar in a TOC or browse sequence if you want to reverse the normal double-click behavior. The default behavior (without the toggle button selected) is that double-clicking an item will open the properties dialog, and holding down the CTRL key while double-clicking will open the file linked to the item. If you activate the toggle button, this behavior is reversed; double-clicking an item opens the file linked to it, and holding the CTRL key while double-clicking will open the properties dialog.</p>
+        </div>
+    </body>
+</html>

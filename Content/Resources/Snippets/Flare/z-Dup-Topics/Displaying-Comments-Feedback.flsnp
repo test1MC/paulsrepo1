@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature-Supported/HTML-Help-HTML5-WebHelp-WH-Plus-Note-Tripane-Skins.flsnp" />
+        <MadCap:snippetBlock src="../Feedback/Feedback-Comments-Summary.flsnp" />
+        <p MadCap:conditions="General.Online-Only">
+            <MadCap:snippetText src="../Feedback/Feedback-More-Information.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to display comments at the end of topics</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a Standard or HTML5 Tripane skin.</li>
+                    <li>Select the <span class="Emphasis">Community</span> tab.</li>
+                    <li>Click            <span class="Emphasis">Display topic comments at the end of each topic</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Make sure you associate the skin with the target. See <MadCap:xref href="../../../../Flare/Skins/Associating-Skins-with-Targets.htm">Associating Skins with Targets</MadCap:xref>.</p>
+                <p>After you generate and publish the output, you can open Feedback Explorer to view submitted comments and see how readers are using the output. See <MadCap:xref href="../../../../Flare/Feedback/Opening-Feedback-Explorer.htm">Opening Feedback Explorer</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

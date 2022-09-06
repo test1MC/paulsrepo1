@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>A page layout is used for page specifications (e.g., size, margins) and to apply certain content (e.g., headers, footers, page numbers) to many (or all) topics in print-based output. It allows for easy configuration through the use of content frames, bleeds, crop marks, registration marks, margins, padding, alignment features, and more.</p>
+    </body>
+</html>

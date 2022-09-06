@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="814" MadCap:lastWidth="1063">
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/Co-Fl/Reviews-Contributions/Changing-User-Name-Initials1.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Track-Changes/About-Track-Changes.htm">About Track Changes</MadCap:xref> and <MadCap:xref href="../../../../Flare/Reviews-Contributions/Annotations/Inserting-Annotations.htm">Inserting Annotations</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="../../Shared/Co-Fl/Reviews-Contributions/Changing-User-Name-Initials2.flsnp" />
+        <MadCap:snippetBlock src="../../Shared/Co-Fl/Reviews-Contributions/Changing-User-Name-Initials3.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Reviews-Contributions/Example-Changing-User-Name-Initials.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to change the user name and initials for reviews</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Reviews-Contributions/Changing-User-Name-Initials-Steps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.Online-Only">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Reviews-Contributions/Feature-Not-Supported-Central.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

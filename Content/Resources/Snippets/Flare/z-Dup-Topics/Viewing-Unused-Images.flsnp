@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Analysis/Unused-Images-Summary.flsnp" /> For more information about images, see <MadCap:xref href="../../../../Flare/Images/About-Images.htm" MadCap:conditions="General.Online-Only">About Images</MadCap:xref><MadCap:conditionalText MadCap:conditions="General.Print-Only">the <span class="EmphasisItalic">Flare Images Guide</span> or the Flare online Help</MadCap:conditionalText>.</p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Analysis-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view unused images</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Analysis/Unused-Items-Steps.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet3] exclude[Snippets.Snippet1 or Snippets.Snippet10 or Snippets.Snippet11 or Snippets.Snippet12 or Snippets.Snippet13 or Snippets.Snippet2 or Snippets.Snippet4 or Snippets.Snippet5 or Snippets.Snippet6 or Snippets.Snippet7 or Snippets.Snippet8 or Snippets.Snippet9] " />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Reports/Note-Can-Include-Info-Reports.flsnp" MadCap:conditions="General.Online-Only" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

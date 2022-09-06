@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">This option is not available for HTML5 targets using Elasticsearch or Google Search.</p>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Server-Mgmt-Purchasing-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p MadCap:conditions="Snippets.Snippet1" class="Microcontent-Heading"><span class="Emphasis">How to Purchase Seats or Storage Space</span>
+                </p>
+                <ol>
+                    <li>At the top of Central, click your user name, then <span class="Emphasis">Settings</span>.</li>
+                    <li>At the top of the dialog, click <span class="Emphasis">License</span>.</li>
+                    <li>On the left, select <b>Billing</b> and enter your credit card information, and click <b>Save</b>.</li>
+                    <li>On the left, select <b>General</b>. Then to the right of the <b>Storage</b>, <b>Authors</b>, or <b>Subject Matter Experts</b> fields, enter a number to add. (Storage can be added in 10 GB increments.)</li>
+                    <li>Click <b>Continue</b>.</li>
+                    <li>Click <b>Purchase</b> and <b>OK</b>.</li>
+                </ol>
+                <p MadCap:conditions="Snippets.Snippet1" class="Micro-Content"><a href="../../../../Central/Server/Purchasing-Seats-Space.htm">More Details…</a>
+                </p>
+            </div>
+            <div>
+                <div class="video">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=2-BmUy5_v0k" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                    <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/central/#LicenseSettings" target="_blank">View More Videos in This Series</a>
+                    </p>
+                </div>
+                <p style="text-align: center;" MadCap:conditions="General.Future">
+                    <img src="../../../Images/Central/QS-Purchase.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

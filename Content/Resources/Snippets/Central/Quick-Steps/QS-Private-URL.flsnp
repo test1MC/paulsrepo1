@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Projects-Builds-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p class="Micro-Content"><span class="Emphasis">Private URL </span>
+                    <MadCap:snippetText src="../Projects/Private-URLs.flsnp" /> <a href="../../../../Central/Projects/Builds/Using-Private-URLs.htm">More Details…</a></p>
+                <p class="Bold">How to Use a Private URL</p>
+                <ol>
+                    <li>On the left side of Central, select <span class="Emphasis">Projects</span>.</li>
+                    <li>In the grid, click the name of a project.</li>
+                    <li>
+                        <MadCap:snippetText src="../Projects/Open-Build-Management.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Projects/Navigate-Target.flsnp" />
+                    </li>
+                    <li>Click in a build row (not the check box) to expand it. </li>
+                    <li>Copy the URL&#160;from the <span class="Emphasis">Private URL</span>&#160;field, and provide it to anyone on your Central license.</li>
+                </ol>
+            </div>
+            <div>
+                <p style="text-align: center;">
+                    <img src="../../../Images/Central/Private-URL.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareNavigationLinksGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Toggler </span>A <MadCap:snippetText src="../../Shared/Co-Fl/Nav-Links/Toggler-Definition.flsnp" /><![CDATA[  ]]></p>
+                <p class="Bold">Common Tasks</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Togglers/Inserting-Togglers.htm">Inserting Togglers</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Togglers/Editing-Togglers.htm">Editing Togglers</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Togglers/Deleting-Togglers.htm">Deleting Togglers</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/toggler_example.png" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

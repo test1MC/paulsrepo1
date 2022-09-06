@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="1192" MadCap:lastWidth="1166">
+    <body>
+        <p MadCap:conditions="Flare-Guides.Flare-Indexing-Guide">In addition to the many features already covered in this guide, there are other index-related tasks  that you can perform in Flare.</p>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Indexing-Guide" />
+        <h2 MadCap:conditions="Flare-Guides.Flare-Indexing-Guide">
+            <MadCap:keyword term="Indexes:binary;HTML Help:binary indexes;Binary index:creating" /><a name="CreatingBinaryIndex"></a>Creating a Binary Index</h2>
+        <MadCap:snippetBlock src="../Banners/Feature-Supported/HTML-Help.flsnp" />
+        <p>
+            <MadCap:snippetText src="../Skins/Skin-Binary-Index-Summary.flsnp" />
+        </p>
+        <p>If you use this feature, please keep in mind that binary indexes do not support custom fonts.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create a binary index</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Create indexes in your projects.</li>
+                    <li>Set your master project to merge with the other CHM file(s) at run time.</li>
+                    <li>Open a Standard skin.</li>
+                    <li>Select the <span class="Emphasis">HTML Help Setup</span> tab.</li>
+                    <li>Click the <span class="Emphasis">Index Options</span> button.</li>
+                    <li>In the HTML Help Index Options dialog, select <span class="Emphasis">Binary</span>. </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="Flare-Guides.Flare-Skins-Guide,General.Online-Only">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also create a binary TOC in Flare. See <MadCap:xref href="../../../../Flare/Skins/More/Creating-Binary-TOC.htm">Creating a Binary TOC</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Make sure that you associate the skin with the target. See <MadCap:xref href="../../../../Flare/Skins/Associating-Skins-with-Targets.htm" target="" title="" alt="">Associating Skins with Targets</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

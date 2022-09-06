@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ol>
+            <li>Open a file in the Translation Editor.</li>
+            <li>Place your cursor in a segment where you want to insert the character or symbol. </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/UI-Elements/Select-Home-Ribbon.flsnp" /> In the <span class="Emphasis">Symbols</span> section, click the down arrow on the <span class="Emphasis">Character</span> button and choose a character or symbol listed under <span class="Emphasis">Recently Used</span>.</li>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <ul>
+            <li>It is recommended you create a separate table of contents (TOC)  to publish output to Zendesk.</li>
+            <li>You can use the initial categories and sections created in Zendesk Help Center if it aligns with the TOC you are  using for publishing. Otherwise, you can create your own categories and sections in Zendesk for better alignment with your TOC.</li>
+            <li>In the Destination Editor, the <span MadCap:createDate="2019-03-11T07:08:23.5260767-07:00" MadCap:creator="pstoecklein" MadCap:initials="PS" MadCap:comment="You should put this option in bold to make it consistent with the next list item, and also because it's not uppercase. Otherwise it's hard to tell where the field label ends and the rest of the sentence starts up again. Maybe even provide a small screenshot after this list item to show what option you're talking about. Is there a separate topic that you can link to like you've done in the following list item? If not, that's ok." MadCap:editor="pstoecklein" MadCap:editDate="2019-03-11T07:13:46.3591328-07:00" class="Emphasis">Use TOC to define</span> setting should be enabled  if the TOC has several nested levels. Otherwise, all topics from that TOC are published as articles to the default category and section. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>In the Target Editor, enable the setting on the Advanced tab labeled <span class="Emphasis">Exclude content not linked directly or indirectly from the target</span>. This prevents all of the content in your project from being published. Only the content specified in the TOC for your target is published. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Targets/More/Excluding-Content-not-Linked-Directly-or-Indirectly-from-Targets.htm">Excluding Content not Linked Directly or Indirectly from Targets</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>
+                <p>You should limit publishing multiple targets to Zendesk in the same batch to avoid any API&#160;rate limitations during the upload process. For more information, see the following:</p>
+                <p><a href="https://develop.zendesk.com/hc/en-us/articles/360001074328-Best-practices-for-avoiding-rate-limiting" target="_blank">https://develop.zendesk.com/hc/en-us/articles/360001074328-Best-practices-for-avoiding-rate-limiting</a>
+                </p>
+            </li>
+            <li>The attachment limits for uploading to Zendesk are 20 MB for images and other attachments (e.g., videos) per article.</li>
+        </ul>
+    </body>
+</html>

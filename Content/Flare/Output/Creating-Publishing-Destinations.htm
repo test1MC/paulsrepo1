@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="More...;MyDestination.&quot;;me...;needs.);Website;IP;ftp.acme.com.;allowed.);Url;s">
+    <head><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+        <meta name="description" content="Create the publish destination settings in a MadCap Flare project. Use FTP, SFTP, or publish your content to a File System. You can also publish to source control or Salesforce." />
+        <script src="../../Resources/Scripts/lity/vendor/jquery.js">
+        </script>
+        <script src="../../Resources/Scripts/lity/dist/lity.js">
+        </script>
+        <link href="../../Resources/Scripts/lity/dist/lity.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterOutput" />
+            <MadCap:keyword term="Publishing:destinations;Destinations:creating" />Creating Publishing Destinations</h1>
+        <p>When you build output from your project, <MadCap:variable name="Other.Product" /> produces the output files and places them in a folder with your project files. Publishing simply has to do with copying those output files and placing them in a location where others can access them<MadCap:conditionalText MadCap:conditions="General.Online-Only">, such as on a network, a website, Salesforce<span class="Registered-Trademark">®</span>,  a SharePoint server, or Zendesk</MadCap:conditionalText>. Of course, you can manually copy the output files from your project folder and paste them wherever you'd like, or you can use FTP software to transfer them to a remote server. <MadCap:variable name="Other.Product" />'s publishing feature is simply a way to do this more quickly and easily.</p>
+        <p>There is a little bit of setup work to complete initially when it comes to publishing your output. But once you are finished with the setup, the ongoing act of publishing your output files can be done with the click of a button.</p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Destinations/Destinations-Definition.flsnp" />
+        <p MadCap:conditions="General.Online-Only">A destination XML file has an <MadCap:keyword term="FLDES file" />.fldes extension and is stored in the Project Organizer under the Destinations folder. </p>
+        <div class="video" MadCap:conditions="General.Server-Only">
+            <p class="buttonT32-play"><a href="https://www.youtube.com/watch?v=AGU74MgSNXw" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+            </p>
+        </div>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>warning</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Output/Warning-Do-Not-Publish-Source-Folders.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Salesforce" />Preliminary Steps for mADcAP Connect FOR sALESFORCE<span class="Registered-Trademark">®</span></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Output/Salesforce8.flsnp" />
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Output/Salesforce7.flsnp" />
+                <ol type="1">
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Output/Salesforce3.flsnp" />
+                        </p>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Output/Salesforce4.flsnp" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Output/Salesforce5.flsnp" />
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/Custom-Install.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Output/Salesforce6.flsnp" />
+                        </p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/salesforce2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Create your publishing destination using the following steps, and complete the MadCap Connect for Salesforce<span class="Registered-Trademark">®</span> fields.</li>
+                </ol>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Output/Note-Salesforce-Clean-XHTML-Only.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Zendesk" />Preliminary Steps for MadCap Connect for Zendesk</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Output/Zendesk-Plugin-Install-Steps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create a publishing destination</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol type="1">
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Steps-General/Open-Project-Organizer.flsnp" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/Shared/All/Steps-General/Do-One-Following.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>if using an existing destination</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol type="1" class="LowerAlpha">
+                                    <li>
+                                        <p>Double-click the <span class="Emphasis">Destinations</span> folder. The existing publishing destinations are shown. Depending on the project template you select, <MadCap:variable name="Other.Product" /> may provide you with an initial destination to help get you started.</p>
+                                    </li>
+                                    <li>Double-click the destination that you want to open. The destination opens in its own page in the Destination Editor. (If you want, you can also rename the destination to fit your needs.)</li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>if creating a new destination</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol type="1" class="LowerAlpha">
+                                    <li>Right-click the <span class="Emphasis">Destinations</span> folder and select <span class="Emphasis">Add Destination</span>. The Add File dialog opens.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Templates/In-Source-Area-Template1.flsnp" />
+                                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Templates/Template-Options1.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Steps-General/Select-Subfolder-Project-Organizer1.flsnp" />
+                                    </li>
+                                    <li>In the <span class="Emphasis">File Name</span> field, type a new name for the destination<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (e.g., FictionSoft Staging website, FictionSoft Live website, Network Documentation Folder)</MadCap:conditionalText>.</li>
+                                    <li>(Optional) <MadCap:snippetText src="../../Resources/Snippets/Flare/Conditions/Select-Relevant-Condition-Tags.flsnp" />&#160;<MadCap:snippetText src="../../Resources/Snippets/Shared/All/Steps-General/Click-OK.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../Conditions/Applying-Condition-Tags-to-Content.htm">Applying Conditions to Content</MadCap:xref>.</MadCap:conditionalText></li>
+                                    <li>(Optional) <MadCap:snippetText src="../../Resources/Snippets/Flare/File-Tags/Select-Relevant-File-Tags.flsnp" />&#160;<MadCap:snippetText src="../../Resources/Snippets/Shared/All/Steps-General/Click-OK.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../File-Tagging/Associating-Tags-with-Files.htm">Associating Tags with Files</MadCap:xref>.</MadCap:conditionalText></li>
+                                    <li>Click <span class="Emphasis">Add</span>. The destination is added to the Project Organizer and opens in its own page in the Destination Editor.</li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Destinations/Type-Field1.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Types</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ul type="1">
+                                    <li>
+                                        <p> <MadCap:snippetText src="../../Resources/Snippets/Flare/Destinations/Destination-Editor-Elasticsearch.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../Search/Search-Engines/Elasticsearch/Elasticsearch.htm">About Elasticsearch</MadCap:xref>.</MadCap:conditionalText></p>
+                                        <div class="note">
+                                            <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Destinations/Publishing-Tab-Elasticsearch-Destination.flsnp" />
+                                            <p>
+                                                <img src="../../Resources/Images/Flare/target-editor-associating-elasticsearch.png" class="MaxWidth90Percent" />
+                                            </p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Destinations/Type-Field2.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <MadCap:snippetText src="../../Resources/Snippets/Flare/Destinations/Type-Field3.flsnp" />
+                                        </p>
+                                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Destinations/Type-Field4.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Destinations/Type-Field5.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Destinations/Type-Field6.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Destinations/Type-Field7.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Print-Only"> This option is not relevant to print-based output.</MadCap:conditionalText></li>
+                                    <li>
+                                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Destinations/Zendesk-Connect-Destination-Type.flsnp" />
+                                    </li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <p>If you are using MadCap Connect for Salesforce<span class="Registered-Trademark">®</span> or MadCap Connect for Zendesk, you will need to activate your license. For other destination types, skip to the next step.</p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Output/License-Activation-Steps.flsnp" />
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+                    <li>
+                        <p>Complete the rest of the fields in the Destination Editor. The options that you see depend on which transfer option you selected above.</p>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Destinations/Destination-Editor-Fields-List.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Now you need to associate this destination with the target(s) that you plan on publishing to this location. See <MadCap:xref href="Associating-Publishing-Destinations-Targets.htm" target="" title="" alt="">Associating Publishing Destinations with Targets</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

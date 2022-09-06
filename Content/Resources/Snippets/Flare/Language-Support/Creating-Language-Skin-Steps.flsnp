@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="11" MadCap:lastHeight="1019" MadCap:lastWidth="1344">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                <ul class="FirstLevel">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Ribbon </span>
+                            <MadCap:snippetText src="../UI-Elements/Select-Project-Ribbon.flsnp" /> In the <span class="Emphasis">Content</span> section select <span class="Emphasis">New &gt; Advanced &gt; Add Language Skin</span>. </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Right-Click</span> In the Project Organizer, right-click on the <span class="Emphasis">Advanced</span> folder and from the context menu select <span class="Emphasis">Add Language Skin</span>.</li>
+                </ul>
+                <p>The Add File dialog opens.</p>
+            </li>
+            <li>In the <span class="Emphasis">File Type</span> field at the top, make sure <span class="Emphasis">Language Skin</span> is selected.</li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../Templates/In-Source-Area-Template1.flsnp" />
+                </p>
+                <ul class="FirstLevel">
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Templates/New-Template.flsnp" />
+                        </p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Notes</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you have existing language skins in your AppData folder, you can use them as templates for new language skins. Select <span class="Emphasis">New as template</span>, then select an existing language skin from the <span class="Emphasis">Language Skins</span> folder.</p>
+                                <MadCap:snippetBlock src="../Templates/Manage-Templates.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../Templates/New-Existing.flsnp" />
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <MadCap:snippetText src="../Steps-General/Select-Subfolder-Project-Organizer1.flsnp" />
+            </li>
+            <li>
+                <p>From the <span class="Emphasis">Language</span> drop-down, select the language you want to use for the language skin.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The <span class="Emphasis">Language</span> drop-down defaults to the current project language.</p>
+            </li>
+            <li>In the <span class="Emphasis">File Name</span> field, type a new name for the language skin.</li>
+            <li>(Optional) <MadCap:snippetText src="../Conditions/Select-Relevant-Condition-Tags.flsnp" /> <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Conditions to Content</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>(Optional) <MadCap:snippetText src="../File-Tags/Select-Relevant-File-Tags.flsnp" /> <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/File-Tagging/Associating-Tags-with-Files.htm">Associating Tags with Files</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>Click <span class="Emphasis">Add</span>. The language skin is added to the Advanced folder in the Project Organizer. The Language Skin Editor opens to the right, with the new language skin shown. Depending on the language you selected when creating the language skin, the skin may include default translations for some UI&#160;text strings.</li>
+        </ol>
+    </body>
+</html>

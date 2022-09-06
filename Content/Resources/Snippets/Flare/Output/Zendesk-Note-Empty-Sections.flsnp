@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you remove topics from a TOC and republish that project to Zendesk, those corresponding articles are removed from the dashboard. However, an empty section might remain on the dashboard if all underlying articles have been removed. The empty section needs to be manually removed through your Zendesk dashboard.</p>
+        </div>
+    </body>
+</html>

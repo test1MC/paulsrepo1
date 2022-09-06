@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="117" MadCap:lastWidth="834">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="margin-left: 0; margin-right: auto; width: 100%; mc-table-style: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css'); mc-table-style-original: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col style="width: 34px;" class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: right;">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Co-Fl-Li/show_hide_folders_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="Shows-Hides-Folders.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows" style="text-align: right;">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Co-Fl/show_files_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="Shows-Hides-Files.flsnp" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

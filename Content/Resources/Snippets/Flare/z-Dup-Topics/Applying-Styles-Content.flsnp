@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Apply-Styles-Content-Summary.flsnp" /> See <MadCap:xref href="../../../../Flare/Styles/Applying-Table-Stylesheets-to-Tables.htm">Applying Table Stylesheets to Tables</MadCap:xref>.</p>
+        <div class="video" MadCap:conditions="General.Server-Only">
+            <p class="buttonT32-play"><a href="https://www.youtube.com/watch?v=qr5Ok1cczlk" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+            </p>
+            <p class="more-videos"><a href="https://www.madcapsoftware.com/videos/flare/#Styles" target="_blank">View More Videos in This Series</a>
+            </p>
+        </div>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to apply styles from a regular stylesheet</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Reg-Stylesheet-Summary.flsnp" />
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Apply-Styles-Reg-Stylesheet1.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Apply-Styles-Reg-Stylesheet2.flsnp" />
+                        </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Methods for Applying Styles</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Methods-Applying-Styles.flsnp" />
+                                <MadCap:dropDown class="ThirdLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>styles window pane </MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <p>
+                                            <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                                        </p>
+                                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Methods-Applying-Styles-Window-Pane.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                                <MadCap:dropDown class="ThirdLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>styles drop-down field</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Methods-Applying-Styles-Drop-Down-Field.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                                <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+                                <MadCap:dropDown class="ThirdLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>floating style picker </MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Methods-Applying-Styles-Floating-Picker.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                                <MadCap:dropDown class="ThirdLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>structure bars</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <ul>
+                                            <li>
+                                                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Methods-Applying-Styles-Structure-Bars.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Structure-Bars/About-Structure-Bars.htm" MadCap:conditions="General.Online-Only">About Structure Bars</MadCap:xref>.</MadCap:conditionalText></li>
+                                        </ul>
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                                <MadCap:dropDown class="ThirdLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>markers</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Methods-Applying-Styles-Markers.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>When You Don't See the Style You Need</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Wheres-My-Style.flsnp" />
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Example-Wheres-My-Style.flsnp" />
+                                <p>If you still do not see your style available for selection, try closing and re-launching <MadCap:variable name="Other.Product" />.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Generic Classes and IDentifiers</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Generic-Classes-Identifiers.flsnp" />
+                                <ul>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Generic-Classes.flsnp" /> See <MadCap:xref href="../../../../Flare/Styles/Basics-of-CSS/Important-Style-Terms-Concepts.htm#GenericClasses">Generic Classes</MadCap:xref>.</li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Generic-Identifiers.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Styles/Basics-of-CSS/Important-Style-Terms-Concepts.htm#Identifiers">Identifiers</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Print-Only">See <MadCap:xref href="../../../../Flare/Styles/Basics-of-CSS/Important-Style-Terms-Concepts.htm#IdentifiersPrint">Identifiers</MadCap:xref>.</MadCap:conditionalText></li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <p>In the file, do one of the following, depending on the type of content to which you are applying a style.</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>characters (i.e., selected text)</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Characters-Selected-Text.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>dynamic effects (e.g., drop-down text, expanding text, togglers, popups)</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                                </p>
+                                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+                                <MadCap:snippetBlock src="../Styles/Apply-Styles-Dynamic-Effects.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>footnotes </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                                </p>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Footnotes.flsnp" />
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Note-Apply-Styles-Content1.flsnp" />
+                                <div class="note">
+                                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Note-Apply-Styles-Content2.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Footnotes/Editing-Footnotes/Editing-Footnotes.htm">Editing Footnotes</MadCap:xref>.</MadCap:conditionalText></p>
+                                </div>
+                                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+                                <div class="note">
+                                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Note-Apply-Styles-Content3.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Footnotes/Editing-Footnotes/Editing-Footnotes.htm">Editing Footnotes</MadCap:xref>.</MadCap:conditionalText></p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>headings </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Headings.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>links (e.g., cross-references, text hyperlinks)  </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Links.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>lists</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Lists.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>paragraphs </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Paragraphs.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>responsive layouts  </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>For responsive layouts<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Creating-Responsive-Layouts.htm">Creating Responsive Layouts</MadCap:xref>)</MadCap:conditionalText>, you can click in a cell and apply styles to the content the way you normally would.</p>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Responsive-Layouts.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>reusable content (e.g., variables, proxies) </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>
+                                    <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                                </p>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Reusable-Content.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>slideshows</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Slideshows.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>tables</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>You can apply styles to tables in the following ways:</p>
+                                <ul>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Apply-Styles-Tables.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Apply-Styles-Tables2.flsnp" /> </p>
+                                        <p>
+                                            <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Apply-Styles-Tables3.flsnp" />
+                                        </p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Apply-Styles-Tables4.flsnp" />
+                                        <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Tables/Selecting-Styles-for-Table-Cell-Contents.htm">Selecting Styles for Table Cell Contents</MadCap:xref>.</MadCap:conditionalText>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Apply-Styles-Tables5.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Styles/About-Table-Stylesheets.htm">About Table Stylesheets</MadCap:xref> and <MadCap:xref href="../../../../Flare/Styles/Applying-Table-Stylesheets-to-Tables.htm">Applying Table Stylesheets to Tables</MadCap:xref>.</MadCap:conditionalText></li>
+                                </ul>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>Text Boxes  </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p>For text boxes<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../../../../Flare/Text-Boxes/About-Text-Boxes.htm">About Text Boxes</MadCap:xref>)</MadCap:conditionalText>, you can click within it and apply styles to the content the way you normally would.</p>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Apply-Styles-Text-Boxes.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Show or Hide Style Previews in User Interface</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Show-Hide-Style-Previews.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Tip</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Styles/Tip-Pinning-Styles.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../Conditions/Can-Also-Apply-Conditions-Styles.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Conditions/About-Condition-Tags.htm#Conditio2">Conditions on Styles</MadCap:xref>.</MadCap:conditionalText>
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+    </body>
+</html>

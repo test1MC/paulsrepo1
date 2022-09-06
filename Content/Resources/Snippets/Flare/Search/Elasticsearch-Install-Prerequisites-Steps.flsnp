@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>
+                <p>Ensure that the following components are installed on your web server for .NET Framework 4.5 and IIS&#160;Web Server:</p>
+                <ul>
+                    <li>.NET Framework 4.5 Features<ul><li>ASP.NET 4.5</li></ul></li>
+                    <li>Web Server (IIS)<ul><li>Web Server<ul class="ThirdLevel"><li>Common HTTP Features<ul class="FourthLevel"><li>Static Content</li><li>Default Document</li><li>Directory Browsing</li><li>HTTP Errors</li></ul></li><li>Security<ul class="FourthLevel"><li>Request Filtering</li><li>Basic Authentication</li><li>Windows Authentication</li></ul></li><li>Application Development<ul class="FourthLevel"><li>.NET Extensibility 4.5</li><li>ISAPI Extensions</li><li>ISAPI Filters</li><li>ASP.NET 4.5</li></ul></li><li>Health and Diagnostics<ul class="FourthLevel"><li>HTTP Logging</li></ul></li><li>Performance<ul class="FourthLevel"><li>Static Content Compression</li></ul></li></ul></li><li>Management Tools<ul class="FourthLevel"><li>IIS Management Console</li><li>IIS 6 Management Compatibility<ul class="Indented"><li>IIS&#160;6 Metabase Compatibility</li></ul></li></ul></li></ul></li>
+                </ul>
+                <p>If any of these components are missing, install them on the server to ensure the Elasticsearch service is installed and runs properly. They can be installed through <span class="Emphasis">Server Manager &gt; Add Roles and Features</span>.</p>
+            </li>
+            <li>
+                <p>Create and configure your web server on Internet Information Services (IIS). </p>
+            </li>
+            <li>
+                <p>Download and install .NET Core 1.1.6 Windows Hosting Bundle Installer.</p>
+                <p>See <a href="https://www.microsoft.com/net/download/dotnet-core/runtime-1.1.6" target="_blank">https://www.microsoft.com/net/download/dotnet-core/runtime-1.1.6</a>.</p>
+            </li>
+            <li>Reboot your web server.</li>
+            <p>Page break</p>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Search-Guide" />
+            <li>
+                <p>Download and install the 64-bit Java SE Development Kit (JDK) version 8 to your remote server.</p>
+                <p>See <a href="https://www.madcapsoftware.com/downloads/java.aspx" target="_blank">https://www.madcapsoftware.com/downloads/java.aspx</a>.</p>
+                <div class="note">
+                    <MadCap:snippetBlock src="Note-Open-JDK-Download.flsnp" />
+                </div>
+            </li>
+            <li>When JDK 8 has been successfully installed, open the Environment Variables dialog on your server.</li>
+            <li>Add a System Environment variable called “JAVA_HOME” that is pointing to the path where JDK&#160;was installed (i.e., C:\Program Files\Java\jdk1.8.0_171\).</li>
+            <li>Reboot the web server after adding the environment variable.</li>
+            <li>To verify that JDK 8 is working properly, open a command prompt window.</li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Search-Guide" />
+            <li>
+                <p>At the command prompt, type <span class="TypedEntry">javac</span> and press <span class="Emphasis">Enter</span>. If you see javac options display below the command prompt, JDK&#160;8 is working properly.</p>
+                <p>
+                    <img src="../../../Images/Flare/elasticsearch-remote-server-javac-command-prompt.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+        </ol>
+    </body>
+</html>

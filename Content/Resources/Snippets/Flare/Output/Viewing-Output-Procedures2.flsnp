@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>Open a browser window on any computer.</li>
+            <li>
+                <p>In the address field, type the URL to the main entry file of your output files (where you published them). </p>
+                <p>Unless you change the name of the output file (on the General tab of the Target Editor), the name of the main output file is Default.htm.</p>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p MadCap:conditions="Snippets.Snippet9">http://www.mycompanysite/help/myWHPtarget/Default.htm</p>
+                    <p MadCap:conditions="Snippets.Snippet10">http://www.mycompanysite/help/myHTML5target/Default.htm</p>
+                </div>
+            </li>
+            <li>Press <span class="Emphasis">Enter</span>.</li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" style="mc-master-page: url('../../../Resources/MasterPages/Shared/Fl-Li/Source-Control-Git.flmsp');">
+    <head><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Source control:differences;Differences:source control" />
+            <MadCap:concept term="FilterProjects" />
+            <MadCap:concept term="FilterFeatures" />Viewing Differences in Source Control Files<MadCap:conditionalText MadCap:conditions="General.Online-Only">—Git</MadCap:conditionalText></h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/View-Differences.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Ways to View Differences Between Files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>You can view differences between files in the following ways:</p>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Options-List-Git.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2] " />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Source-Control-Guide-Git" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view differences between two versions of the same source control file</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Window-Pane-Select-File.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/UI-Elements/Select-Source-Control-Ribbon.flsnp" /> In the <span class="Emphasis">File</span> section select <span class="Emphasis">View History</span>. </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Right-Click </span>If you have the Content Explorer, Project Organizer, <MadCap:keyword term="Source Control Explorer:Pending Changes pane" />Source Control Explorer, Pending Changes window pane, or File List open, right-click the file(s) you want to view and select <span class="Emphasis">Source Control &gt; View History</span>.</li>
+                        </ul>
+                        <p>The History dialog opens.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Select-First-File1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Select-Second-File1.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Select-Show-Differences.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Editor-Opens.flsnp" /></p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Single-Sourcing/Differences-Editor-Customize.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Close-Window1.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Future">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view differences between two different source control files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="General.Future">this doesn't work -- will probably be next versioned</p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/UI-Elements/Select-View-Ribbon.flsnp" /> In the <span class="Emphasis">Explorer</span> section select <span class="Emphasis">File List</span>.</p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press <span class="Emphasis">CTRL+SHIFT+J</span>.</li>
+                        </ul>
+                        <p>The File List window pane opens.</p>
+                    </li>
+                    <li>(Optional) In the local toolbar, click the down arrow in the <span class="Emphasis">Filter</span> field and select the types of files that you want to see in the window pane.</li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Select-First-File1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Select-Second-File1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/UI-Elements/Select-Source-Control-Ribbon.flsnp" /> In the <span class="Emphasis">File</span> section select <span class="Emphasis">Show Differences</span>. <p><MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Editor-Opens.flsnp" /></p></li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Single-Sourcing/Differences-Editor-Customize.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Close-Window1.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view differences between the local version of a file and the source control version</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Window-Pane-Select-File.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/UI-Elements/Select-Source-Control-Ribbon.flsnp" /> In the <span class="Emphasis">File</span> section select <span class="Emphasis">Show Differences</span>. </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Right-Click </span>If you have the Content Explorer, Project Organizer, Source Control Explorer, Pending Changes window pane, or File List open, right-click the file(s) you want to view and select <span class="Emphasis">Source Control &gt; Show Differences</span>.</li>
+                        </ul>
+                        <p>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Editor-Opens.flsnp" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Single-Sourcing/Differences-Editor-Customize.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Close-Window1.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Source-Control-Guide-Git" />
+        <MadCap:dropDown MadCap:conditions="General.Future">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:annotation MadCap:createDate="2015-03-03T11:02:39.7886713-08:00" MadCap:creator="kschneider" MadCap:initials="KS" MadCap:comment="Doesn't work in Git xxx" MadCap:editor="kschneider" MadCap:editDate="2015-03-03T11:02:45.8446713-08:00">how to view differences between the local version of all files in a folder and the source control version</MadCap:annotation>
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>In the Content Explorer or Project Organizer, select the relevant folder.</li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/UI-Elements/Select-Source-Control-Ribbon.flsnp" /> In the <span class="Emphasis">File</span> section select <span class="Emphasis">Show Differences</span>. </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Right-Click </span>Right-click the folder you want to view and select <span class="Emphasis">Source Control &gt; Show Differences</span>.</li>
+                        </ul>
+                        <p>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Options-Dialog-Opens.flsnp" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>(Optional) Use this dialog to specify the type of information that you want to see in the Differences Editor. (You can also choose these options from the local toolbar of the Differences Editor.)</p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">Show files that are only in the Left folder </span>
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Show-Left-Option.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Show files that are only in the Right folder </span>
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Show-Right-Option.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Show files that are different in both folders </span>
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Show-Different-Option.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Show files that are the same in both folders </span>
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Show-Identical-Option.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Recursive </span>Displays files recursively. In other words, if you have files contained within folders, selecting this button will ensure that you see all of the files, not just the folders.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Click-OK.flsnp" /> <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Differences-Editor-Opens.flsnp" /></p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Single-Sourcing/Differences-Editor-Customize.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

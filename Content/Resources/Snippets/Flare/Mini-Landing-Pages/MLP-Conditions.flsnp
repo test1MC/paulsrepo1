@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareConditionTagsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">Conditions </span>
+                    <MadCap:snippetText src="../../Shared/Co-D2H-Fl/Conditions/Condition-Tag-Summary.flsnp" /> <a href="../../../../Flare/Conditions/About-Condition-Tags.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Conditions/More/Adding-Condition-Tag-Sets.htm">Adding Condition Tag Set Files</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Conditions/Creating-Condition-Tags.htm">Creating Condition Tags</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Condition Tags to Content</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Conditions/Associating-Condition-Tags-with-Targets.htm">Associating Condition Tags with Targets</MadCap:xref>
+                    </li>
+                </ol>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Conditions.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

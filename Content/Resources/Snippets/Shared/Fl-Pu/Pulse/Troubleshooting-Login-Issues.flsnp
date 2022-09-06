@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="241" MadCap:lastWidth="1085">
+    <body>
+        <p>Below are resolutions to issues that users might encounter when attempting to log in to Pulse.</p>
+        <p class="Subheading">if you have not been given access to pulse</p>
+        <p>If you attempt to log in to Pulse and see the "You have not been given access to Pulse" message, your account has likely been disabled by a Pulse administrator. You should contact the administrator for assistance.</p>
+        <p class="Subheading">if you have an invalid user name or password</p>
+        <p>If you attempt to log in to Pulse and see the "Invalid User Name or Password" message, you may have entered your email address or password incorrectly. Enter the correct email address and password and try again. </p>
+    </body>
+</html>

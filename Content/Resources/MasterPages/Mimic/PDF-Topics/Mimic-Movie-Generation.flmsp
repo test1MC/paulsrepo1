@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="156" MadCap:lastWidth="1331">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div>
+            <div class="topic-layout">
+                <div>
+                    <div class="side-menu">
+                        <MadCap:breadcrumbsProxy />
+                        <div class="search-menu">
+                            <MadCap:searchBarProxy data-mc-skin="/Project/Skins/Shared/Topic-Search-Bar.flskn" />
+                            <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" data-mc-skin="/Project/Skins/Shared/Side-Menu.flskn" />
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="top-bar">
+                        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" data-mc-skin="/Project/Skins/Shared/Topic-Tool-Bar.flskn" />
+                        <div class="pdf-download"><a href="https://docs.madcapsoftware.com/MimicV8/MimicMovieGenerationGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+                        </div>
+                    </div>
+                    <MadCap:bodyProxy />
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

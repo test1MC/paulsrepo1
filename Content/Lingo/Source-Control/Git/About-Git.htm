@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" style="mc-master-page: url('../../../Resources/MasterPages/Shared/Fl-Li/Source-Control-Git.flmsp');">
+    <head>
+        <link href="../../../Resources/TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterProjects" />
+            <MadCap:keyword term="Git;Source control:Git" />
+            <MadCap:keyword term="Source control;Multi-authoring" />About Git</h1>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Summary2.flsnp" />
+        </p>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Git-Summary2.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Git-Summary.flsnp" />
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+        <h2 MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" class="NoPageBreakBefore">Common Source Control Terms </h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>common source control terms</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Git-Common-Terms.flsnp" />
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Git-Common-Terms-List.flsnp" />
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Note-Common-Terms.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+        <h2 MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" class="NoPageBreakBefore">Source Control Icons</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>source control icons</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are descriptions for the primary icons that you may see next to files when using Git. </p>
+                <table class="TableStyle-Simple" style="mc-table-style: url('../../../Resources/TableStyles/Shared/Simple.css');margin-left: 0;margin-right: auto;" cellspacing="0">
+                    <col style="width: 22px;" class="TableStyle-Simple-Column-Column1" />
+                    <col class="TableStyle-Simple-Column-Column1" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyE-Column1-Row1">
+                                <p class="TableTextEmphasis">
+                                    <img src="../../../Resources/Images/Shared/Fl-Li/SourceControlCheckedOut.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Simple-BodyD-Column1-Row1">
+                                <p class="TableTextEmphasis"><span class="SetOffFirstLevel">Modified</span>
+                                </p>
+                                <p class="TableText">
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Git-Modified-Icon.flsnp" /> </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Simple-Body-Row1" MadCap:conditions="">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1" MadCap:conditions="">
+                                <p class="TableTextEmphasis">
+                                    <img src="../../../Resources/Images/Shared/Fl-Li/SourceControlNewFile.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1" MadCap:conditions="">
+                                <p class="TableTextEmphasis"><span class="SetOffFirstLevel">New File</span>
+                                </p>
+                                <p class="TableText">This indicates that you have a file that only exists in your local copy of the project. This might occur if you import a Lingo project from source control and have not yet checked in your files to the server, or if you update a project and new files are added from the source project.  To resolve this, simply right-click on the file(s) and select <span class="Emphasis">Source Control &gt; Project &gt; Push</span>. </p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+        <h2 MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git">General Workflow (Multi-User Team)</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>general workflow (multi-User
+				team)</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are the basic steps for using <MadCap:variable name="Other.Product" />'s source control integration for a multi-user team.                     </p>
+                <ol>
+                    <li><span class="SetOffFirstLevel">Set Up Git </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Set-Up-Git.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Basic-Workflow2.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Basic-Workflow3.flsnp" />
+                                </p>
+                                <p>OR</p>
+                            </li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:bind;Projects:source control" />Bind Existing Project </span>
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Bind-Project-Git.flsnp" /> See <MadCap:xref href="Binding-Project-Source-Control-git.htm">Binding a Project to Git</MadCap:xref>.</li>
+                        </ul>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Note-Bind-Project.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:importing projects" />Import Project </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Import-Project.flsnp" /> See <MadCap:xref href="Importing-Project-from-Source-Control-git.htm">Importing a Project from Git</MadCap:xref>. </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:pull;Pull" />Pull Files </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Pull.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:modify;Modify:source control" />Modify Files </span> <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Modify-Files-Git.flsnp" /></li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:commit" />Commit Files </span>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Commit-Summary-Git.flsnp" /> See <MadCap:xref href="Committing-Source-Control-Files-git.htm">Committing Source Control Files—Git</MadCap:xref>.</p>
+                    </li>
+                </ol>
+                <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+                <ol MadCap:continue="true">
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:branch;Branch:create" />Create Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Branches-Summary.flsnp" /> See <MadCap:xref href="Creating-Branches.htm">Creating Branches</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:branch;Branch:switch" />Switch Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Selecting-Branches-Intro.flsnp" /> See <MadCap:xref href="Selecting-Branches.htm">Switching Branches—Git</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:branch;Branch:publish" />Publish Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Publishing-Branches-Intro.flsnp" /> See <MadCap:xref href="Publishing-Branches.htm">Publishing Branches</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:branch;Branch:delete" />Delete Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Deleting-Branches-Intro.flsnp" /> See <MadCap:xref href="Deleting-Branches.htm">Deleting Branches</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:push;Push" />Push Files </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Push.flsnp" />
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:synchronize;Synchronize" />Synchronize </span>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Synchronize.flsnp" /> See <MadCap:xref href="Synchronizing-Files.htm">Synchronizing Source Control Files—Git</MadCap:xref> and <MadCap:xref href="Merging-Source-Control-Files-git.htm">Merging Source Control Files</MadCap:xref>.</p>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:merging;Merging:source control" />Merging </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Merge-Summary-Git.flsnp" /> See <MadCap:xref href="Merging-Source-Control-Files-git.htm">Merging Source Control Files</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:merging" /><MadCap:keyword term="Merging:source control" /><MadCap:keyword term="Branch:merge" />Merging Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Merging-Branches-Git.flsnp" /> See <MadCap:xref href="Merging-Branches.htm">Merging Branches—Git</MadCap:xref>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+        <h2 MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git">General Workflow (Single User)</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>general workflow (Single
+					
+						User
+				)</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are the basic steps for using <MadCap:variable name="Other.Product" />'s Git integration for a single user.</p>
+                <ol>
+                    <li><span class="SetOffFirstLevel">Set Up Git </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Set-Up-Git.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Basic-Workflow2.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Basic-Workflow3.flsnp" />
+                                </p>
+                                <p>OR</p>
+                            </li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:bind;Projects:source control" />Bind Existing Project </span>
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Bind-Project-Git.flsnp" /> </li>
+                        </ul>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:pull;Pull" />Pull Files </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Pull.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:modify" />Modify Files </span> <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Modify-Files-Git.flsnp" /></li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:commit;Commit:source control" />Commit Files </span>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Commit-Summary-Git.flsnp" /> See <MadCap:xref href="Committing-Source-Control-Files-git.htm">Committing Source Control Files</MadCap:xref>.</p>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:branch;Branch:create" />Create Branches </span> <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Branches-Summary.flsnp" /> See <MadCap:xref href="Creating-Branches.htm">Creating Branches</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:branch;Branch:switch" />Switch Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Selecting-Branches-Intro.flsnp" /> See <MadCap:xref href="Selecting-Branches.htm">Switching Branches—Git</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:branch;Branch:publish" />Publish Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Publishing-Branches-Intro.flsnp" /> See <MadCap:xref href="Publishing-Branches.htm">Publishing Branches</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:branch;Branch:delete" />Delete Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Deleting-Branches-Intro.flsnp" /> See <MadCap:xref href="Deleting-Branches.htm">Deleting Branches</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:push;Push" />Push Files </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Push.flsnp" />
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:synchronize;Synchronize" />Synchronize </span>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Synchronize.flsnp" />
+                        </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:merging" /><MadCap:keyword term="Merging:source control" /><MadCap:keyword term="Branch:merge" />Merging Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Merging-Branches-Git.flsnp" /> See <MadCap:xref href="Merging-Branches.htm">Merging Branches—Git</MadCap:xref>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+        <h2 MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git">Additional Source Control Tasks and Features</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>additional source control tasks and features</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are some additional tasks and features related to source control:<![CDATA[                    ]]></p>
+                <ul>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:status updates" />Automatic Status Checks </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-Auto-Status-Checks.flsnp" /> See <MadCap:xref href="Enabling-Source-Control-Status-Checks-git.htm">Enabling Source Control Status Checks—Git</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:differences;Differences:source control" />Differences </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/View-Differences.flsnp" /> See <MadCap:xref href="Viewing-Differences-Source-Control-Files-git.htm">Viewing Differences in Source Control Files—Git</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:get latest version;Projects:source control" />Disable Prompt for Get Latest </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disabling-Get-Latest-Prompt-Intro.flsnp" /> See <MadCap:xref href="Disabling-Get-Latest-Prompt-git.htm">Disabling the Get Latest Prompt for Source Control—Git</MadCap:xref>.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:history;History:source control" />History </span>You can view the history of a particular source control file. See <MadCap:xref href="Viewing-History-Source-Control-Files-git.htm">Viewing the History of Source Control Files—Git</MadCap:xref>.</p>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Source-Control-History-Options-List-Git.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet15]exclude[Snippets.Snippet14]" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Revert" /><MadCap:keyword term="Branch:revert" /><MadCap:keyword term="Source control:revert" />Reverting Branches </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Reverting-Commits-Git.flsnp" /> See <MadCap:xref href="Reverting-Branches.htm">Reverting Branches—Git</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:unbind;Projects:source control;Unbinding:source control" />Unbind </span>You can unbind a project from source control. See <MadCap:xref href="Unbinding-Project-from-Source-Control-git.htm">Unbinding a Project from Git</MadCap:xref>. </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Source control:network settings;Network settings:modify" />View and Modify Network Settings </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Network-Settings-Intro.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="Modifying-Network-Settings-git.htm">Modifying Network Settings—Git</MadCap:xref>.</MadCap:conditionalText>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Note-Removing-Git-Files.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

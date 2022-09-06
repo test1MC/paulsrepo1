@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>It is recommended that you create a separate TOC and target for Zendesk before you publish your content. You should also confirm that your destination file has been configured for Zendesk before publishing. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

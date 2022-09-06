@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you want a text hyperlink to display in green when a user hovers over it. Therefore, in your stylesheet you expand the <span class="Emphasis">a</span> style and modify the <span class="Emphasis">hover</span> pseudo class, changing the font color to green.</p>
+            <p>
+                <img src="../../../Images/Flare/pseudo_class1.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

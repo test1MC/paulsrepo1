@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>The options you see on this tab depend on whether your project is already bound to source control.</p>
+        <p>Not all options are applicable to each of <MadCap:variable name="Other.Product" />'s integrated source control providers. If you select an option that is not applicable to the provider you are using, this option is ignored. For example, Git does not use lock functionality, so if you select this option it will be ignored.</p>
+        <p>Additionally, terminology varies for each source control provider. You may see slightly different dialogs or prompts depending on which source control provider you are using.</p>
+        <table style="caption-side: top;margin-left: 0;margin-right: auto;width: 100%;mc-table-style: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');" cellspacing="0" class="TableStyle-Basic-Alternate-Rows">
+            <col style="width: 25%;" class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Button/Section</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Automatically check file out from source control when saving file changes</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Select this check box to automatically check the file out from source control when you save changes to it. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../../Flare/Source-Control/Linked-Topics/Checking-Out.htm">Checking Out Source Control Files</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Lock files when automatically checking out</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">You can select this check box if you are using Microsoft Team Foundation Server, Apache Subversion, or Perforce and want files that are automatically checked out to be locked as well. Locking files means that other users cannot check those same files in when you have them checked out. You might use this feature to prevent conflicting changes from occurring and having to merge files as a result. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../../Flare/Source-Control/Linked-Topics/Checking-Out.htm">Checking Out Source Control Files</MadCap:xref>.</MadCap:conditionalText></p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../Source-Control/SVN-Check-Out-Lock.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Enable background status checks</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Select this check box if you are using source control integration in <MadCap:variable name="Other.Product" /> and you want the application to check for frequent status changes automatically. You can specify the number of minutes and seconds when you want <MadCap:variable name="Other.Product" /> to ping the source control repository and get status changes for files that have been checked out, checked in, moved, deleted, etc. The upside of this feature is that you can ensure that the source control status information is always up to date. The downside is that you may experience slower performance due to this constant communication over the network. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../../Flare/Source-Control/Linked-Topics/Enabling-Status-Checks.htm">Enabling Source Control Status Checks</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Lingo">See <MadCap:xref href="../../../../../Lingo/Source-Control/Linked-Topics/Enabling-Status-Checks.htm">Enabling Source Control Status Checks</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Do not prompt to get latest when opening source control bound projects</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">When you open a project that is bound to source control, a message automatically asks if you want to get the latest version of files. Select this check box if  you want to disable this prompt. Therefore, in the future when you open the project you will no longer see the message, and the project will open without replacing any local files with the latest ones from source control. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../../Flare/Source-Control/Linked-Topics/Disabling-Get-Latest.htm">Disabling the Get Latest Prompt</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Lingo">See <MadCap:xref href="../../../../../Lingo/Source-Control/Linked-Topics/Disabling-Get-Latest.htm">Disabling the Get Latest Prompt</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Prompt to check in files when closing source control bound projects</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Select this if you want to automatically be reminded to check in files when you close a project that is bound to source control.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Enforce TFS comment policy</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">By default, <MadCap:variable name="Other.Product" /> ignores all Microsoft Team Foundation Server check-in policies. However, if your source control administrator requires a comment when you check in a file, you can select this option to force <MadCap:variable name="Other.Product" /> to abide by this policy.</p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Selecting this option only enforces the TFS&#160;comment policy. It will not check for other policies.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Bind Detection</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../Source-Control/Bind-Detection-Definition.flsnp" />
+                        </p>
+                        <p MadCap:conditions="Products.Flare">
+                            <MadCap:snippetText src="../Source-Control/Bind-Detection-Alternative.flsnp" />
+                        </p>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../Source-Control/Bind-Detection-Providers.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:dropDown>
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Tip</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../Source-Control/Tip-Detecting-Bindings.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="Products.Flare">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">MadCap Central Transfer Protocol</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <p>If you plan to bind a Flare project to a MadCap Central license, you can choose between a couple of transfer protocol options when performing the binding. This includes binding new projects or importing existing projects from Central. It does not affect existing projects that are already bound. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../../Flare/Central/Selecting-Transfer-Protocol.htm">Selecting a MadCap Central Transfer Protocol</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

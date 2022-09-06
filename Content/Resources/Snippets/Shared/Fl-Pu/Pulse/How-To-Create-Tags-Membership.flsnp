@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="457" MadCap:lastWidth="1007">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>How you create tags depends on your group membership:</p>
+        <table class="TableStyle-Basic-Alternate-Rows" cellspacing="0" style="mc-table-style-original: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');mc-table-style: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Group</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Pulse Dashboard</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Embedded Discussion Forms</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Administrators</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">Use the <span class="Emphasis">Tags &gt; Create&#160;Tag</span> menu command. </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <ul>
+                            <li>
+                                <p>Click the <span class="Emphasis">Tag</span> link at the bottom of a post.</p>
+                                <p>OR</p>
+                            </li>
+                            <li>Click the <span class="Emphasis">Edit</span> link in the Tags section.</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Employees</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">Use the <span class="Emphasis">Tags &gt; Create&#160;Tag</span> menu command. </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <ul>
+                            <li>
+                                <p>Click the <span class="Emphasis">Tag</span> link at the bottom of a post.</p>
+                                <p>OR</p>
+                            </li>
+                            <li>Click the <span class="Emphasis">Edit</span> link in the Tags section.</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasis">Customers</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <p class="TableText">Click the <span class="Emphasis">Tag</span> link at the bottom of a post.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

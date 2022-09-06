@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>There are three sections to installing Elasticsearch on a remote server. These are steps usually completed by a network adminstrator.</p>
+        <ol>
+            <li>Installing prerequisites on the remote server. </li>
+            <li>Installing the Elasticsearch service. </li>
+            <li>Configuring the Elasticsearch web application. </li>
+        </ol>
+    </body>
+</html>

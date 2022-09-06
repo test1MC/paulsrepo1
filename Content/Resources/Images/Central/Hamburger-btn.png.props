@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay Profile="\\fs1\Source\Documentation\My Profiles\96dpi.capro" ProfileHash="6e9bcc7a91c96da406106c9cbd68d9cccc9adb90" ScreenRectangle="2198,276,18,17">
+        <OriginalImage Folder="C:\Shared\Content\Resources\Images" ExportFormat="png" medium_print_EnableFormat="false" medium_print_ColorDepth="32" medium_print_DPI="96" FileName="" BackgroundColor="transparent" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" medium_print_EnableGrayScaleFormat="False" Border="solid" BorderWidth="1" BorderColor="#000000" JPEGQuality="80" Type="Image" ShapeTimeSpan="10000" AutoAdjust="true" ComputedWidth="20" ComputedHeight="19" Format="tiff">SUkqALAAAACABp/tx/gCDQeEQmFQuGQ2HQ+DQKCRCKRWLRWJQWEO96gAAxeQRV/g4FwYBwqMgB8t4AAVNMUASeQzOGv0ilcAPsUAaEymaT+gQifUGiTOh0WkRiBxqk02Hyl5swAAgxqMAASnRcGAB+HQ9AB8DaS0Kl1mzQuj2ez2m1Vm2W2myl8tgAAc2JeWvG4Q+uouwDaeWSJwh5x0Avy9w6R2OZYKmYm42XIU6AgQAP4ABAABAAAAAAAAAAABBAABAAAAEgAAAAEBBAABAAAAEQAAAAIBAwAEAAAAdgEAAAMBAwABAAAABQAAAAYBAwABAAAAAgAAABEBBAABAAAACAAAABUBAwABAAAABAAAABYBBAABAAAAEQAAABcBBAABAAAAqAAAABoBBQABAAAAfgEAABsBBQABAAAAhgEAABwBAwABAAAAAQAAACgBAwABAAAAAgAAAD0BAwABAAAAAgAAAFIBAwABAAAAAgAAAAAAAAAIAAgACAAIAAB3AQDoAwAAAHcBAOgDAAA=</OriginalImage>
+        <Shapes />
+        <Variables />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

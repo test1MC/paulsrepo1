@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p MadCap:conditions="Flare-Guides.Flare-Targets-Guide">When creating print output, you can <MadCap:snippetText src="../Print-Output/Determine-Heading-Levels-Summary.flsnp" /></p>
+        <MadCap:snippetBlock src="../Quick-Steps/QS-Use-TOC-Depth-Steps.flsnp" />
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+        <MadCap:dropDown class="SecondLevel">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <MadCap:snippetBlock src="../Print-Output/Example-Print-TOC-Heading1.flsnp" />
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Targets-Guide" />
+                    <p>If you do not use the depth feature, the print TOC will look like this in the output:</p>
+                    <p>
+                        <img src="../../../Images/Flare/online_toc_structure_example2.png" class="MaxWidth80Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tables-of-Contents-Guide" />
+                    <p>But if you turn this feature on, the result will instead look like this in the output:</p>
+                    <p>
+                        <img src="../../../Images/Flare/online_toc_structure_example3.png" class="MaxWidth80Percent" />
+                    </p>
+                    <p>
+                        <MadCap:snippetText src="../Print-Output/Example-Print-TOC-Heading2.flsnp" /> If you want the unlinked books to be included in the output, you can create headings for them<MadCap:conditionalText MadCap:conditions="General.Print-Only"> (see the online Help for steps)</MadCap:conditionalText>.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+        <MadCap:dropDown class="SecondLevel">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Tables-of-Contents-Guide,Flare-Guides.Flare-Targets-Guide" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                    <MadCap:snippetText src="../Print-Output/Create-Headings-Unlinked-Books-Summary.flsnp" /> See <MadCap:xref href="../../../../Flare/Output/Printed-Output/Creating-Headings-Unlinked-Books-Generated-TOC.htm">Creating Headings for Unlinked Books in a Generated TOC</MadCap:xref>.</p>
+                <MadCap:snippetBlock src="../Targets/TOC-Heading-Levels-Tracked-Changes.flsnp" MadCap:conditions="General.Future" />
+                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Targets-Guide,Flare-Guides.Flare-Tables-of-Contents-Guide" />
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">What happens if you are using classes of heading styles and then select the "Use TOC depth for heading levels option"? For example, let's say you have classes of your h1 and h2 heading styles. Suppose you created h1.Special (with a blue font), and h2.Special (with a red font). Meanwhile the primary h1 and h2 styles both use a black font. In your topics, you've applied your heading style classes to some heading content. And in your outline TOC, you organized the structure like this:</p>
+                    <p>
+                        <img src="../../../Images/Flare/online_toc_structure_example1.png" class="MaxWidth40Percent" />
+                    </p>
+                    <p>Because you selected the option to use TOC depth for heading levels, some of the level-1 headings will become level-2 headings or even level-3 headings in the output. If you have headings where you used h1.Special but their level in the output was not affected (i.e., they remain as level-1 headings), they will keep the properties from the style class. In other words, they will stay blue. But if the structure of the outline TOC causes them to become level-2 headings in the output, they will take on the properties of the h2.Special tag—because the class has the same name ("Special") as its h1 counterpart. Therefore, those headings will have a red font. However, let's say that your level-2 class was named something different (e.g., h2.Red). In that case, h1.Special headings that are pushed to become level-2 headings will instead use properties from the main h2 style. In other words, they will have a black font—not blue like h1.Special and not red like h2.Red.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Tables-of-Contents-Guide" />
+    </body>
+</html>

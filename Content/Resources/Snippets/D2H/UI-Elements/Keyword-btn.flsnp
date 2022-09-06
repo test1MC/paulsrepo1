@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Designates a hotspot as an index keyword. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../D2H/Indexes/Creating-Index-Keywords-in-Source-Document.htm" MadCap:conditions="General.Online-Only" MadCap:excludeAction="unbind">Creating Index Keywords in a Source Document</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide,D2H-Guides.D2H-Whats-New-Guide"> See the online Help or the <span class="EmphasisItalic">Making It Look Good Guide</span>.</MadCap:conditionalText></p>
+    </body>
+</html>

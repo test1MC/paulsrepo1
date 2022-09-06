@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlarePrintOutputCheatSheet.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/CheatSheet_Icon.png" title="Cheat Sheet" class="micro-content-only-inline" /></a><a href="https://docs.madcapsoftware.com/flare2019/FlarePrintedOutputGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only-inline" /></a>
+            </div>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <p class="micro-content-only"><span class="micro-content-only-inline"><b>TOC Depth </b></span>Use the TOC depth setting to automatically change heading levels based on structure of outline TOC (e.g., a topic with an h1 might change to an h3 in output if it is on third level of outline TOC). Not only will those headings be reflected in the generated TOC in the output, but the corresponding headings will be converted in the main body too (e.g., if a heading becomes an h2 in the TOC, it will become an h2 in the text as well).</p>
+                    <div class="micro-content-only">
+                        <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot><span class="micro-dropdown-head"><MadCap:keyword term="Print-based output:tables of contents;Tables of contents:printed output;Styles:TOC headings;Tables of contents:styles;Heading levels;Headings;Tables of contents:heading levels;Tables of contents:depth" />How to Use the TOC Depth for Heading Levels</span>
+                                </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../Print-Output/TOC-Depth-Steps.flsnp" />
+                                <p class="topic-only">
+                                    <img src="../../../Images/Flare/QS-Use-TOC-Depth.gif" />
+                                </p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </div>
+                    <div class="topic-only">
+                        <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot><span class="micro-dropdown-head"><MadCap:keyword term="Print-based output:tables of contents;Tables of contents:printed output;Styles:TOC headings;Tables of contents:styles;Heading levels;Headings;Tables of contents:heading levels;Tables of contents:depth" />How to Use the TOC Depth for Heading Levels</span>
+                                </MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../Print-Output/TOC-Depth-Steps.flsnp" />
+                                <p class="topic-only">
+                                    <img src="../../../Images/Flare/QS-Use-TOC-Depth.gif" />
+                                </p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </div>
+                    <p class="micro-content-only"><a href="../../../../Flare/Output/Printed-Output/Determining-Heading-Levels-Print-TOC.htm#TOC">More Details…</a>
+                    </p>
+                </div>
+                <div class="micro-content-only">
+                    <p class="center" style="text-align: center;">
+                        <img src="../../../Images/Flare/QS-Use-TOC-Depth.gif" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

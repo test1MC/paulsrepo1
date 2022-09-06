@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareConditionTagsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-4-8">
+            <div>
+                <p><span class="Emphasis">Snippet Conditions </span>These are <MadCap:snippetText src="../../Shared/Co-Fl/Snippets/Snippet-Conditions-Definition.flsnp" /> <a href="../../../../Flare/Snippets/Using-Snippet-Conditions.htm">More Details…</a></p>
+            </div>
+            <div>
+                <div class="video-wrap">
+                    <p class="center" style="text-align: center;">
+                        <img src="../../../Images/Flare/MLP-Snippet-Conditions.gif" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

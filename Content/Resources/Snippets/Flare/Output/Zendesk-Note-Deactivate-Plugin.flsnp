@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">A message displays below the Type field indicating the status of your MadCap Connect plug-in for Zendesk license key. You can click the <span class="Emphasis">Deactivate</span> button to disconnect your license key for this plug-in.</p>
+        </div>
+    </body>
+</html>

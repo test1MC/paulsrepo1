@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');width: 100%;margin-left: 0;margin-right: auto;caption-side: top;" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1" MadCap:conditions="General.Print-Only">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1" colspan="2">
+                        <p class="TableTextHead">Capture</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr valign="top" MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">CTRL+SHIFT+A</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Active window</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">CTRL+SHIFT+C</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Active window without frame</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">CTRL+SHIFT+F</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Full screen</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">CTRL+SHIFT+R</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Region</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">CTRL+SHIFT+W</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Window</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">F11</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Last capture</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasis">SHIFT+F11</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <p class="TableText">Restore last capture region</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

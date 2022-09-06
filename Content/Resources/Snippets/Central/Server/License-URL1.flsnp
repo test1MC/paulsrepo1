@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>By default, each license has a <MadCap:keyword term="Vanity URL;URL" />vanity URL. The URL begins with your license (e.g., company) name, which is the subdomain. This is followed by a period, then “mcoutput.com,” which is Central’s root domain. When these are combined, you have the license vanity URL (e.g., https://fictionsoft.mcoutput.com). After you generate a target and set it to “Live,” a number is auto-generated to represent the target and this is added to the  URL, along with the entry file for the output (e.g., https://fictionsoft.mcoutput.com/64951/Default.htm). Users can see your output by using that final URL.</p>
+    </body>
+</html>

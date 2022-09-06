@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html MadCap:ignoredWords="s" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../Resources/MasterPages/Flare/PDF-Topics/Flare-Targets.flmsp');">
+    <head><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterOutput" />
+            <MadCap:keyword term="Publishing:destinations;Destinations:targets;Targets:destinations;Publishing:targets;Destinations:elasticsearch;Elasticsearch:destinations" />
+            <MadCap:concept term="FilterFeatures" />Associating Publishing Destinations with Targets</h1>
+        <p>After you create a publishing destination, you need to associate it with a target that you plan to build. You can associate the same publishing destination with as many targets as you want.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to associate a publishing destination with a target</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Steps-General/Open-Project-Organizer.flsnp" />
+                    </li>
+                    <li>Double-click the <span class="Emphasis">Targets</span> folder. The existing targets are shown. </li>
+                    <li>Double-click the target that you want to associate with the destination. The target opens in its own page in the Target Editor.</li>
+                    <li>Click the <span class="Emphasis">Publishing</span> tab. All publishing destinations that have been added to the project are displayed. If a destination contains a check mark next to it, that means it is associated with the target. If it does not contain a check mark, it is not yet associated with the target.</li>
+                    <li>Click the check box in the <span class="Emphasis">Publish </span>column next to any destinations that you want to associate with the target. A check mark appears next to any destinations that you select. </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+                    <li>
+                        <p>If you are associating an Elasticsearch destination with a target, click the drop-down arrow in the <span class="Emphasis">Elasticsearch Destination</span> column. Select your Elasticsearch destination from the drop-down list. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../Search/Search-Engines/Elasticsearch/Elasticsearch.htm">About Elasticsearch</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/target-editor-associating-elasticsearch.png" class="MaxWidth100Percent" />
+                        </p>
+                        <div class="note">
+                            <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Destinations/Publishing-Tab-Elasticsearch-Destination.flsnp" />
+                        </div>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Now you are ready to build and publish this target to the destination(s) that you have associated with the target. See <MadCap:xref href="About-Building-Output.htm">About Building and Publishing Output</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareTablesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">Table </span>
+                    <snippetText src="../../Shared/Co-Fl/Tables/Table-Summary1.flsnp" />&#160;<a href="../../../../Flare/Tables/About-Tables.htm">More Details…</a></p>
+                <p class="Bold">Common Tasks</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Styles/Creating-Table-Stylesheets.htm">Creating Table Stylesheets</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Tables/Inserting-Tables.htm">Inserting Tables</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Styles/Applying-Table-Stylesheets-to-Tables.htm">Applying Table Stylesheets to Tables</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Tables/Editing-Tables.htm">Editing Tables</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Proxies/Creating-List-Tables.htm">Creating a List of Tables</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Table-Example.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

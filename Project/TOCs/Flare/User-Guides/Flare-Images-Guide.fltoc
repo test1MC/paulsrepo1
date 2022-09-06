@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Titles/Title.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page-Green.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Titles/Title.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageNumberReset="reset"
+    PageNumber="1"
+    PageType="normal"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOCs/TOC-Green.flpgl"
+    PageType="first"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+  <TocEntry
+    Title="CH 1"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/Print-Only-Topics/Flare/Images/Images-Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="About Images"
+      Link="/Content/Flare/Images/About-Images.htm"
+      PageNumberReset="continue"
+      PageNumber="1"
+      StartSection="false"
+      StartPageLayout="false"
+      PageNumberFormat="decimal"
+      ChapterNumberReset="reset"
+      ChapterNumber="1"
+      ChapterNumberFormat="decimal"
+      VolumeNumberReset="same"
+      SectionNumberReset="continue"
+      BreakType="none"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 2"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Adding and Inserting Pictures"
+    Link="/Content/Flare/Images/Adding-Images-to-Projects.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="none">
+    <TocEntry
+      Title="Inserting Images into Topics"
+      Link="/Content/Flare/Images/Inserting-Images.htm"
+      MarkAsNew="False"></TocEntry>
+    <TocEntry
+      Title="Adding Screen Capture Files to Projects"
+      Link="/Content/Flare/Images/Adding-Screen-Capture-Files.htm" />
+    <TocEntry
+      Title="Inserting Screen Capture Images"
+      Link="/Content/Flare/Images/Inserting-Screen-Captures.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Editing Images"
+    Link="/Content/Print-Only-Topics/Flare/Images/Editing-Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="Editing Pictures"
+      Link="/Content/Flare/Images/Editing-Images/Editing-Images.htm"
+      StartPageLayout="false"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Adding Backgrounds to Pictures"
+      Link="/Content/Flare/Images/Editing-Images/Adding-Backgrounds-to-Images.htm" />
+    <TocEntry
+      Title="Adding Borders to Pictures"
+      Link="/Content/Flare/Images/Editing-Images/Adding-Borders-to-Images.htm" />
+    <TocEntry
+      Title="Moving Pictures in Topics"
+      Link="/Content/Flare/Images/Editing-Images/Moving-Images-in-Content-Files.htm" />
+    <TocEntry
+      Title="Using Absolute Positioning on Elements"
+      Link="/Content/Flare/Positioning-Elements/Using-Absolute-Positioning-Elements.htm" />
+    <TocEntry
+      Title="Using Floats for Positioning Elements"
+      Link="/Content/Flare/Positioning-Elements/Using-Floats-Positioning-Elements.htm" />
+    <TocEntry
+      Title="Resizing Pictures"
+      Link="/Content/Flare/Images/Editing-Images/Resizing-Images.htm" />
+    <TocEntry
+      Title="Matching Image Resizing Behavior of Previous Versions"
+      Link="/Content/Flare/Images/Editing-Images/Matching-Image-Resizing-Behavior-of-Previous-Versions.htm" />
+    <TocEntry
+      Title="Adding Margins to Pictures"
+      Link="/Content/Flare/Images/Editing-Images/Adding-Margins-to-Images.htm" />
+    <TocEntry
+      Title="Adding Padding to Pictures"
+      Link="/Content/Flare/Images/Editing-Images/Adding-Padding-to-Images.htm" />
+    <TocEntry
+      Title="Auto-sizing Capture Image Objects to Fit Text"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Autosizing-Capture-Image-Objects-to-Fit-Text.htm" />
+    <TocEntry
+      Title="Showing Images as Thumbnails in Output"
+      Link="/Content/Flare/Images/Editing-Images/Showing-Images-as-Thumbnails-in-Output.htm" />
+    <TocEntry
+      Title="Showing Images as Thumbnails While Editing"
+      Link="/Content/Flare/Images/Editing-Images/Showing-Images-as-Thumbnails-While-Editing.htm" />
+    <TocEntry
+      Title="Previewing Thumbnails"
+      Link="/Content/Flare/Images/Editing-Images/Previewing-Thumbnails.htm" />
+    <TocEntry
+      Title="Showing and Hiding Web Images in the XML Editor"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Showing-Hiding-Web-Images-in-XML-Editor.htm" />
+    <TocEntry
+      Title="Watermarks"
+      Link="/Content/Flare/Images/Editing-Images/Creating-Watermarks.htm"
+      BreakType="pageLayout"
+      PageType="right"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Additional Image Tasks"
+    Link="/Content/Print-Only-Topics/Flare/Images/Additional-Image-Tasks.htm"
+    StartPageLayout="false"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    BreakType="none">
+    <TocEntry
+      Title="Selecting a Picture for the About Box"
+      Link="/Content/Flare/Skins/More/Selecting-Image-About-Box.htm"
+      BreakType="none"
+      StartSection="false" />
+    <TocEntry
+      Title="Using Empty Alt Text for Images"
+      Link="/Content/Flare/Accessibility/Applying-Empty-Alt-Text.htm" />
+    <TocEntry
+      Title="Deleting Pictures from Topics"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Deleting-Images-from-Content-Files.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Deleting Image Files from the Project"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Deleting-Image-Files.htm"
+      MarkAsNew="False" />
+    <TocEntry
+      Title="Inserting Image Hyperlinks into Topics"
+      Link="/Content/Flare/Nav-Links/Image-Hyperlinks/Inserting-Image-Hyperlinks.htm" />
+    <TocEntry
+      Title="Creating Image Maps on Pictures"
+      Link="/Content/Flare/Nav-Links/Image-Hyperlinks/Creating-Image-Maps.htm" />
+    <TocEntry
+      Title="Adding Images to Page Layout Frames"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Adding-Images-to-Page-Layout-Frames.htm" />
+    <TocEntry
+      Title="Patching Stylesheets and Image Links for HTML Help"
+      Link="/Content/Flare/Targets/More/Patching-Stylesheets-Image-Links-HTML-Help.htm" />
+    <TocEntry
+      Title="Creating a List of Pictures"
+      Link="/Content/Flare/Proxies/Creating-List-Images.htm" />
+    <TocEntry
+      Title="Launching MadCap Capture"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Launching-MadCap-Capture.htm" />
+    <TocEntry
+      Title="Embedding Images in Microsoft Word Output"
+      Link="/Content/Flare/Targets/More/Embedding-Images-Word-Output.htm" />
+    <TocEntry
+      Title="Opening Images"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Opening-Images.htm" />
+    <TocEntry
+      Title="Pasting Pictures from Other Programs"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Pasting-Images-from-Other-Programs.htm" />
+    <TocEntry
+      Title="Pinning Images"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Pinning-Images.htm" />
+    <TocEntry
+      Title="Using Image Groups"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Using-Image-Groups.htm" />
+    <TocEntry
+      Title="Regenerating Images"
+      Link="/Content/Flare/Images/Additional-Image-Tasks/Regenerating-Captured-Images.htm" />
+    <TocEntry
+      Title="Removing Images from Headings in a Generated TOC"
+      Link="/Content/Flare/Output/Printed-Output/Removing-Images-Headings-Generated-TOC.htm" />
+    <TocEntry
+      Title="Creating Single-Source Images"
+      Link="/Content/Flare/Images/Creating-Single-Source-Images.htm" />
+    <TocEntry
+      Title="Generating Web-Safe Images"
+      Link="/Content/Flare/Targets/More/Generating-Web-Safe-Images.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Appendix"
+    Link="/Content/Print-Only-Topics/Shared/Appendix.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled"
+    ComputeToc="false"
+    PageType="first"
+    BreakType="none"></TocEntry>
+</CatapultToc>

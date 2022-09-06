@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="375" MadCap:lastWidth="1148">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Which Permission is Required for This Activity?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Ce-Fl/Users/For-Activity-Must-Following-Permissions.flsnp" />
+                <p>
+                    <img src="../../../Images/Shared/Ce-Fl/upload_new_projects.png" alt="" title="" />
+                </p>
+                <p>
+                    <img src="../../../Images/Shared/Ce-Fl/import_pull.png" alt="" title="" />
+                </p>
+                <p>
+                    <img src="../../../Images/Shared/Ce-Fl/push.png" alt="" title="" />
+                </p>
+                <MadCap:snippetBlock src="../../Shared/Ce-Fl/Users/For-More-Info-Set-Permissions.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

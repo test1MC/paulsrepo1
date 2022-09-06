@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>The ul style controls the look of the entire bulleted list, whereas the li style controls the look of individual items in a list. Because we want to change the amount of space between list items, we will adjust the li style. Start by right-clicking any of the <span class="Emphasis">li</span> tag bars, and select <span class="Emphasis">Style Class</span>, then <span class="Emphasis">Edit Style Class</span>.</p>
+    </body>
+</html>

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set.">
+    <MicroContent>
+        <MicroContentPhrase>update project</MicroContentPhrase>
+        <MicroContentPhrase>update</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Quick-Steps/QS-Update-Project.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>import</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Quick-Steps/QS-Import.flsnp" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>bundle</MicroContentPhrase>
+        <MicroContentPhrase>create bundle</MicroContentPhrase>
+        <MicroContentPhrase>merge bundle</MicroContentPhrase>
+        <MicroContentPhrase>prepare bundle</MicroContentPhrase>
+        <MicroContentPhrase>project package</MicroContentPhrase>
+        <MicroContentPhrase>package</MicroContentPhrase>
+        <MicroContentPhrase>zip</MicroContentPhrase>
+        <MicroContentPhrase>liprjzip</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Quick-Steps/QS-Bundle.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>tmx</MicroContentPhrase>
+        <MicroContentPhrase>translation memory exchange</MicroContentPhrase>
+        <MicroContentPhrase>export tmx</MicroContentPhrase>
+        <MicroContentPhrase>export translation memory</MicroContentPhrase>
+        <MicroContentPhrase>import tmx</MicroContentPhrase>
+        <MicroContentPhrase>import translation memory</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Quick-Steps/QS-TMX.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>export</MicroContentPhrase>
+        <MicroContentPhrase>export project</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Quick-Steps/QS-Export.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>tbx</MicroContentPhrase>
+        <MicroContentPhrase>export tbx</MicroContentPhrase>
+        <MicroContentPhrase>export termbase</MicroContentPhrase>
+        <MicroContentPhrase>import tbx</MicroContentPhrase>
+        <MicroContentPhrase>import termbase</MicroContentPhrase>
+        <MicroContentPhrase>termbase exchange</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Quick-Steps/QS-TBX.flsnp" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>command line</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Quick-Steps/QS-Command-Line.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>join segments</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:head>
+                    <xhtml:link xhtml:href="../../TableStyles/Shared/Simple.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                </xhtml:head>
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Quick-Steps/QS-Join-Segments.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>review</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Quick-Steps/QS-Review.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

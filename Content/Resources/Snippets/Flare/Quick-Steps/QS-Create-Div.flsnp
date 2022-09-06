@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div>
+            <div class="Tiles-8-4-Microcontent">
+                <div class="micro-content-dropdown">
+                    <p class="micro-content-only">
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Div-Definition.flsnp" />
+                    </p>
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Create a Tag Group</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <ol>
+                                <li>In the XML Editor, select one or more blocks of content.</li>
+                                <li>In the <span class="Emphasis">Home</span> ribbon click <img src="../../../Images/Shared/Co-Fl/group_items_btn.png" class="ReduceButtonSize" />. </li>
+                                <li>
+                                    <p><span class="micro-content-only">Select <b>div</b> and click <b>OK</b>.</span><span class="topic-only">Select a tag from the list, then click <b>OK</b>.</span>
+                                    </p>
+                                    <ul class="topic-only">
+                                        <li>
+                                            <p>
+                                                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Create-Tag-Group-Blockquote.flsnp" />
+                                            </p>
+                                            <MadCap:dropDown class="SecondLevel">
+                                                <MadCap:dropDownHead class="OnlineOnly">
+                                                    <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+                                                </MadCap:dropDownHead>
+                                                <MadCap:dropDownBody>
+                                                    <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Example-Create-Tag-Group-Blockquote.flsnp" />
+                                                </MadCap:dropDownBody>
+                                            </MadCap:dropDown>
+                                        </li>
+                                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+                                        <li>
+                                            <p>
+                                                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Create-Tag-Group-Div.flsnp" />
+                                            </p>
+                                            <MadCap:dropDown class="SecondLevel">
+                                                <MadCap:dropDownHead class="OnlineOnly">
+                                                    <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+                                                </MadCap:dropDownHead>
+                                                <MadCap:dropDownBody>
+                                                    <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Example-Create-Tag-Group-Div.flsnp" />
+                                                </MadCap:dropDownBody>
+                                            </MadCap:dropDown>
+                                        </li>
+                                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+                                        <li>
+                                            <p>
+                                                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Create-Tag-Group-Fieldset.flsnp" />
+                                            </p>
+                                            <MadCap:dropDown class="SecondLevel">
+                                                <MadCap:dropDownHead class="OnlineOnly">
+                                                    <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+                                                </MadCap:dropDownHead>
+                                                <MadCap:dropDownBody>
+                                                    <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Example-Create-Tag-Group-Fieldset.flsnp" />
+                                                </MadCap:dropDownBody>
+                                            </MadCap:dropDown>
+                                        </li>
+                                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+                                        <li>
+                                            <p>
+                                                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Create-Tag-Group-Form.flsnp" />
+                                            </p>
+                                            <MadCap:dropDown class="SecondLevel">
+                                                <MadCap:dropDownHead class="OnlineOnly">
+                                                    <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+                                                </MadCap:dropDownHead>
+                                                <MadCap:dropDownBody>
+                                                    <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Example-Create-Tag-Group-Form.flsnp" />
+                                                </MadCap:dropDownBody>
+                                            </MadCap:dropDown>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>(Optional) You can <a href="../../../../Flare/Styles/Creating-Selectors.htm">create a div style class</a> and <a href="../../../../Flare/Styles/Applying-Styles-to-Content.htm">apply it to the div you created to change its look</a>.</li>
+                            </ol>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                    <p class="micro-content-only"><a href="../../../../Flare/Styles/More/Creating-Tag-Groups.htm">More Details…</a>
+                    </p>
+                </div>
+                <div class="micro-content-only">
+                    <p class="center">
+                        <img src="../../../Images/Shared/Co-Fl/div_example.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

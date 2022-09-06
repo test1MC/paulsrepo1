@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Analysis/Used-Condition-Tags-Summary.flsnp" />
+        </p>
+        <p>For more information about condition tags and how they are used in projects, see <MadCap:xref href="../../../../Flare/Conditions/About-Condition-Tags.htm" MadCap:conditions="General.Online-Only">About Conditions</MadCap:xref><MadCap:conditionalText MadCap:conditions="General.Print-Only">the <span class="EmphasisItalic">Flare Condition Tags Guide</span> or the Flare online Help</MadCap:conditionalText>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view used condition tags</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a project.</li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../UI-Elements/Select-Analysis-Ribbon.flsnp" />In the <span class="Emphasis">Dynamic Reports</span> section, select <span class="Emphasis">Used Items &gt; Used Condition Tags</span>.</p>
+                        <p MadCap:conditions="General.Online-Only">The Used Condition Tags window pane opens, listing all of the condition tags used throughout the project.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Drag-Divider-See-More.flsnp" />
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">Condition Tag </span>
+                                <MadCap:snippetText src="../Analysis/Condition-Tag-Column.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">File </span>
+                                <MadCap:snippetText src="../UI-Elements/File-Description.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Title </span>
+                                <MadCap:snippetText src="../UI-Elements/Title-Option.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Folder </span>
+                                <MadCap:snippetText src="../UI-Elements/Folder-Option.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Tag </span>
+                                <MadCap:snippetText src="../UI-Elements/Tag-Description.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Exclude Action </span>
+                                <MadCap:snippetText src="../Analysis/Exclude-Action-Description.flsnp" />
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Fl-Li/UI-Elements/Page-Nav-Buttons.flsnp" />
+                        </p>
+                    </li>
+                    <li class="PageBreakBefore">
+                        <p>You can open any file in the list to view or modify it. <MadCap:snippetText src="../UI-Elements/Double-Click-Right-Click-Open.flsnp" /></p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to rename condition tags</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <p>In the window pane, select all of the condition tags that you want to rename. <MadCap:snippetText src="../UI-Elements/If-Select-All-Some-Rows.flsnp" /></p>
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">All condition tags that you select will be renamed to the same condition tag that you provide in the following steps.</p>
+                    </li>
+                    <li>In the local toolbar, click the <span class="Emphasis">Rename</span> button. The Rename Condition tag(s) dialog opens.</li>
+                    <li>In the <span class="Emphasis">New condition tag name</span> field, enter a new name.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" />
+                    </li>
+                    <li>
+                        <p>A message lets you know how many files were changed. <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" /> All of the selected condition tags are renamed.</p>
+                        <MadCap:snippetBlock src="../Analysis/Note-Can-Use-Backups-Window.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.Online-Only">note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Reports/Note-Can-Include-Info-Reports.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

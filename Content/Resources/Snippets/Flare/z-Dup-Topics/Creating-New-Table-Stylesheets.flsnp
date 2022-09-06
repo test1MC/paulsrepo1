@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>You can add a stylesheet to be used specifically for tables. The traditional location to store a table stylesheet in the Content Explorer is in the Resources\TableStyles folder. However, you can store it anywhere in the Content Explorer that you like.              <MadCap:conditionalText MadCap:conditions="General.Online-Only">For more information, see <MadCap:xref href="../../../../Flare/Styles/About-Table-Stylesheets.htm">About Table Stylesheets</MadCap:xref>.</MadCap:conditionalText></p>
+        <div class="video" MadCap:conditions="General.Server-Only">
+            <p class="buttonT32-play"><a href="https://www.youtube.com/watch?v=0zmcRrMZ2R8" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+            </p>
+            <p class="more-videos"><a href="https://www.madcapsoftware.com/videos/flare/#Styles" target="_blank">View More Videos in This Series</a>
+            </p>
+        </div>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to create a new table stylesheet</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        </p>
+                        <ul type="1" class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">(Recommended) Right-Click</span> In the Content Explorer, right-click on a folder and from the context menu select <span class="Emphasis">New &gt; Table Style</span>.</p>
+                                <MadCap:snippetBlock src="../Files/Tip-Add-New-Content-File.flsnp" />
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span>
+                                    <MadCap:snippetText src="../UI-Elements/Select-Project-Ribbon.flsnp" /> In the <span class="Emphasis">Content</span> section select <span class="Emphasis">New &gt; Table Style</span>. </p>
+                            </li>
+                        </ul>
+                        <p>The Add File dialog opens.</p>
+                    </li>
+                    <li>In the <span class="Emphasis">File Type</span> field at the top, make sure <span class="Emphasis">Table Style</span> is selected.</li>
+                    <li>
+                        <MadCap:snippetText src="../Templates/In-Source-Area-Template1.flsnp" />
+                        <MadCap:snippetBlock src="../Templates/Template-Options1.flsnp" />
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide,Flare-Guides.Flare-Tables-Guide" />
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../Steps-General/Select-Subfolder-Content-Explorer1.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../Files/Note-Add-Folder-Non-Topic-Files.flsnp" />
+                        <MadCap:snippetBlock src="../Files/Table-Traditional-Default-Folders-Non-Topic-Files.flsnp" />
+                    </li>
+                    <li>In the <span class="Emphasis">File Name</span> field, type a new name for the stylesheet.</li>
+                    <li>(Optional) <MadCap:snippetText src="../Conditions/Select-Relevant-Condition-Tags.flsnp" />&#160;<MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Conditions to Content</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>(Optional) <MadCap:snippetText src="../File-Tags/Select-Relevant-File-Tags.flsnp" />&#160;<MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/File-Tagging/Associating-Tags-with-Files.htm">Associating Tags with Files</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>Click <span class="Emphasis">Add</span>. The table stylesheet is added to the Content Explorer and opens in its own page in the Table Style Editor.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide,Flare-Guides.Flare-Tables-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also create a new table stylesheet while inserting a table into a topic. In the Insert Table dialog, simply click face of the <span class="Emphasis">Create New Table Style</span> button <img src="../../../Images/Shared/Co-Fl/create_new_table_style_sheet_file_btn.png" class="ReduceButtonSize" /> (not the down arrow) and then complete the options in the Select Table Style Template dialog. After you finish inserting the table, the new stylesheet is added to your project.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>After you create a new table stylesheet, you can edit it. See <MadCap:xref href="../../../../Flare/Styles/Editing-Table-Stylesheets.htm">Editing Table Stylesheets</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

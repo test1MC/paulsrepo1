@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>Following are multimedia features supported in each output type:</p>
+        <table class="TableStyle-Basic-Alternate-Rows" style="mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');width: 100%;margin-left: 0;margin-right: auto;" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 115px;" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1" MadCap:conditions="Flare-Guides.Flare-Targets-Guide,General.Online-Only">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" MadCap:conditions="">&#160;</th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" MadCap:conditions="">
+                        <p class="TableTextHead">ONLINE</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" colspan="2">
+                        <p class="TableTextHead">PRINT</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" colspan="3">
+                        <p class="TableTextHead">OTHER</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1" colspan="3">
+                        <p class="TableTextHead">LEGACY</p>
+                    </th>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">&#160;</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/html5_light.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/pdf.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/word.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/clean_xhtml.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/eclipse.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/epub_1.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/ms_html_help.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/web_help.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/web_help_plus.png" class="TableIcons" />
+                        </p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Multimedia/3D-Models/3D-Models.htm" MadCap:conditions="General.Online-Only" MadCap:excludeAction="unbind">3D Models (U3D)</a>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-2.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-3.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" colspan="10">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Multimedia/Audio/Audio.htm" MadCap:conditions="General.Online-Only" MadCap:excludeAction="unbind">Audio</a>/<a href="../../../../Flare/Multimedia/Movies/Movies.htm" MadCap:conditions="General.Online-Only" MadCap:excludeAction="unbind">Video</a></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">ASF</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">ASX</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">AU</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">AVI<sup>4</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">M4V<sup>4</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">MID</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">MIDI</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize">
+                            </img>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">MP3</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">MP4<sup>4</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">MPA</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">MPE</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">MPEG</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">MPG</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">OGG<sup>4</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">OGV<sup>4</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">OPUS</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-5.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-5.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-5.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">SWF</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">WAV</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">WEBM<sup>4</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">WMA</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">WMV</p>
+                        <p class="TableTextEmphasisSmallIndent" MadCap:conditions="Flare-Guides.Flare-DNH-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-HTML-Help-Guide,Flare-Guides.Flare-Targets-Guide">&#160;</p>
+                        <p class="TableTextEmphasisSmallIndent" MadCap:conditions="Flare-Guides.Flare-DNH-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-HTML-Help-Guide">&#160;</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" colspan="10">
+                        <p class="TableTextEmphasisSmallNoIndent"><a href="../../../../Flare/Multimedia/Movies/Inserting-Mimic-Movie-Links-Topics.htm" MadCap:conditions="General.Online-Only" MadCap:excludeAction="unbind">MadCap Mimic Movie Links</a>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">Flash (SWF) Format</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">HTML5 Format (Depending on Browser)<sup>4</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">Mimic Movie Format</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">Silverlight Format</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallIndent">Vimeo Embedded Videos</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-6.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallIndent">YouTube Embedded Videos</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-6.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr class="TableStyle-Basic-Alternate-Rows-Foot-Footer1">
+                    <td class="TableStyle-Basic-Alternate-Rows-FootD-Regular-Footer1" colspan="10">
+                        <p class="TableTextFootnote"><sup style="font-weight: bold;">1</sup>EPUB support for each element or file type depends on if a particular reader supports it.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">2</sup>PDF support for 3D Models requires Adobe Reader 7.0+.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">3</sup>For this output, the 3D Model opens in a separate window.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">4</sup>To view HTML5 movie output, end users must have a newer browser that supports these types of videos.</p>
+                        <p class="TableTextFootnote"><sup style="font-weight: bold;">5</sup>This file format does not work in Internet Explorer.</p>
+                        <p class="TableTextFootnote"><sup style="font-weight: bold;">6</sup>If you generate <MadCap:variable name="Outputs.HTMLHelp" />, YouTube videos are rendered smaller than in other outputs and Vimeo Advanced settings are not supported. However, you can make it work by adding the default meta tag to your target: &lt;meta http-equiv="X-UA-Compatible" content="IE=Edge" /&gt;. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Targets/More/Adding-Custom-Meta-Tags.htm">Adding Custom Meta Tags</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>

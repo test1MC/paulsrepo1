@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html style="mc-master-page: url('..\..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Plugin-API.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterFeatures" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Context Menu Example</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Banners/Information-Developers.flsnp" MadCap:conditions="General.Online-Only" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <p>Following is an example of how to add and properly remove a context menu item for a given instance of IDocument. See <MadCap:xref href="../Interfaces/IDocument.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">IDocument Interface</MadCap:xref>.</p>
+        <MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p xml:space="preserve" class="Code"><span class="CodeGreen">public void </span>   AddContextMenuItem(<span class="CodePurple">IDocument </span>doc)</p>
+                    <p xml:space="preserve" class="Code">{
+            </p>
+                    <p xml:space="preserve" class="CodeIndented"><span class="CodeGreen">if </span>(doc !=    <span class="CodeGreen">null</span>)</p>
+                    <p xml:space="preserve" class="CodeIndented">{
+            </p>
+                    <p xml:space="preserve" class="CodeIndented2"><span class="CodeBlue2">List</span>&lt;System.Windows.Forms.<span class="CodeBlue2">ToolStripItem</span>&gt; cms = doc.GetUserPendingContextMenuItems();
+            </p>
+                    <p xml:space="preserve" class="CodeIndented2">cms.Add(<span class="CodeGreen">new </span>System.Windows.Forms.<span class="CodeBlue2">ToolStripMenuItem</span>(<span class="CodeOrange">"Editor Plugin Item"</span>));
+            </p>
+                    <p xml:space="preserve" class="CodeIndented">}
+            </p>
+                    <p xml:space="preserve" class="Code">}
+            </p>
+                    <p xml:space="preserve" class="Code"><span class="CodeGreen">public void    </span>RemoveContextMenuItem(<span class="CodePurple">IDocument </span>doc)</p>
+                    <p xml:space="preserve" class="Code">{
+            </p>
+                    <p xml:space="preserve" class="CodeIndented"><span class="CodeGreen">if </span>(doc !=    <span class="CodeGreen">null</span>)</p>
+                    <p xml:space="preserve" class="CodeIndented">{
+            </p>
+                    <p class="CodeIndented2" MadCap:conditions="General.Online-Only"><span class="CodeBlue2">List</span>&lt;System.Windows.Forms.<span class="CodeBlue2">ToolStripItem</span>&gt; cms = mCurrentDocument.GetUserPendingContextMenuItems();</p>
+                    <p class="CodeIndented2" MadCap:conditions="General.Print-Only"><span class="CodeBlue2">List</span>&lt;System.Windows.Forms.<span class="CodeBlue2">ToolStripItem</span>&gt; cms = </p>
+                    <p class="CodeIndented2" MadCap:conditions="General.Print-Only">mCurrentDocument.GetUserPendingContextMenuItems();</p>
+                    <p class="CodeIndented2">		cms.Clear();</p>
+                    <p xml:space="preserve" class="CodeIndented">}
+            </p>
+                    <p xml:space="preserve" class="Code">}
+            </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you have multiple documents with custom context menu items, you need to manually clear their context “toolstripitem” lists.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

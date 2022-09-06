@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../Resources/MasterPages/Central/PDF-Topics/Central-Users-Teams.flmsp');">
+    <head>
+        <script src="../../Resources/Scripts/lity/vendor/jquery.js">
+        </script>
+        <script src="../../Resources/Scripts/lity/dist/lity.js">
+        </script>
+        <link href="../../Resources/Scripts/lity/dist/lity.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Users:inviting" />Inviting Users</h1>
+        <p>
+            <MadCap:snippetText src="../../Resources/Snippets/Central/Users/Adding-Users.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Users/Adding-Users2.flsnp" />
+        <div class="video" MadCap:conditions="General.Server-Only">
+            <p class="buttonT32-play"><a href="https://youtu.be/63HMxECrN_I" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+            </p>
+            <p class="more-videos"><a href="https://www.madcapsoftware.com/videos/central/#UsersTeams" target="_blank">View More Videos in This Series</a>
+            </p>
+        </div>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Central/Banners/User-Admin-Perm.flsnp" />
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Users-and-Teams-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Invite a Single User</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>On the left side of the interface, click <b>Users</b>.</li>
+                    <li>In the toolbar click <img src="../../Resources/Images/Central/Create-Team-User-btn.png" alt="" title="" class="ReduceButtonSize" />.</li>
+                    <li>On the <b>User</b> tab, complete the <b>First Name</b>, <b>Last Name</b>, and <b>Email</b> fields.</li>
+                    <li>From the <span class="Emphasis">User Seat Type</span> field, select the kind of user you want to invite:<MadCap:snippetBlock src="../../Resources/Snippets/Central/Users/Author-SME-List-Descriptions.flsnp" /></li>
+                    <li>
+                        <p>If you selected the Author seat type, click the <span class="Emphasis">Permissions</span> tab, and choose the permissions that you want to give the new user. For details, see <MadCap:xref href="Setting-Permissions.htm">Setting User Permissions</MadCap:xref>.</p>
+                    </li>
+                    <li>Click <span class="Emphasis">Send Invitation</span>. If the invitation is successful, an email is sent to the user. The user must click the link in the email to activate the account. Until users activate the account, they are listed as "Invited" in the system. </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Users-and-Teams-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Invite Multiple Users in Bulk<a name="BulkInvite"></a></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>To use the bulk invitation process, you first need to create or have access to a comma-separated value (CSV) file containing the information for the users you want to add. The CSV file should have three columns, with the following in the top cells of each column:</p>
+                <ul>
+                    <li>Email</li>
+                    <li>FirstName</li>
+                    <li>LastName</li>
+                </ul>
+                <p>If you do not yet have such a file, you can download a template from Central, as described in the following steps.</p>
+                <ol>
+                    <li>On the left side of the interface, click <b>Users</b>.</li>
+                    <li>In the toolbar click <img src="../../Resources/Images/Central/Create-Team-User-btn.png" alt="" title="" class="ReduceButtonSize" />.</li>
+                    <li>From the <span class="Emphasis">User Seat Type</span> field, select the kind of user you want to invite:<MadCap:snippetBlock src="../../Resources/Snippets/Central/Users/Author-SME-List-Descriptions.flsnp" /></li>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Users-and-Teams-Guide" />
+                    <li>
+                        <p>(Optional) If you do not yet have a CSV file, you can click <b>Download Template</b>.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/Bulk-Invite-Template2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Users-and-Teams-Guide" />
+                        <p>This template speeds the process because the necessary column headings are already provided.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/Bulk-Invite-Template1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>After you complete the cells with each user’s email and name, save the CSV file.</p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Users-and-Teams-Guide" />
+                    <li>
+                        <p>Click <span class="Emphasis">Bulk Invite</span>.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/Bulk-Invite-Template3.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Find and select the CSV file. Then click <span class="Emphasis">Open</span>.</li>
+                    <li>
+                        <p>If you selected the Author seat type, click the <span class="Emphasis">Permissions</span> tab at the top, and choose the permissions that you want to give the new users. For details, see <MadCap:xref href="Setting-Permissions.htm">Setting User Permissions</MadCap:xref>.</p>
+                        <p>All of the users in the CSV file will receive the same permissions that you choose. However, you can always edit the permissions for a particular user later.</p>
+                    </li>
+                    <li>Click <span class="Emphasis">Upload File</span>. The dialog indicates the new users that will be invited. Also, it will show if any of the selected users are already on the license, as well as any invalid emails that are found in the CSV file.</li>
+                    <li>Click <span class="Emphasis">Accept &amp; Send Invitations</span>. If the invitations are successful, an email is sent to each user. The user must click the link in the email to activate the account. Until users activate the account, they are listed as "Invited" in the system.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If no user seats are remaining, you will be informed. You must purchase more user seats before adding new ones. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../Server/Purchasing-Seats-Space.htm">Purchasing User Seats and Storage Space</MadCap:xref>.</MadCap:conditionalText></p>
+                    <p>Alternatively, you can deactivate an existing user to free up a user seat. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="Deactivating-Users.htm">Deactivating Users</MadCap:xref>.</MadCap:conditionalText></p>
+                    <p MadCap:conditions="Central-Guides.Central-Users-and-Teams-Guide">For more information, see the online Help.</p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can change the user's permissions any time. In addition, you can set permissions globally for all projects or separately for individual projects. See <MadCap:xref href="Setting-Permissions.htm">Setting User Permissions</MadCap:xref>.</p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You cannot set permissions for SMEs.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

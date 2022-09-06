@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Under the topic body proxy, you will see some variables, including one for your company’s email address. Let’s say you want the email address to be plain text (instead of a variable). So begin by right-clicking the first variable with the email address, and from the context menu select <span class="Emphasis">Convert to text</span>.</p>
+    </body>
+</html>

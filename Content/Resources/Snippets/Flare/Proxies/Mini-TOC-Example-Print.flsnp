@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p MadCap:conditions="" class="exampleHeadTextEmpty">Example—Print-based Output</p>
+            <p>This is what a topic with a Mini-TOC proxy might look like in a project.</p>
+            <p>
+                <img src="../../../Images/Flare/mini_toc_print_example1.png" class="MaxWidth70Percent" />
+            </p>
+            <p>This is what a topic with a Mini-TOC proxy might look like in the output.</p>
+            <p>
+                <img src="../../../Images/Flare/mini_toc_print_example2.png" class="MaxWidth70Percent" />
+            </p>
+        </div>
+    </body>
+</html>

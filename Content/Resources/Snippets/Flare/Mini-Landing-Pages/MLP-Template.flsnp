@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareTemplatesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Template </span>A <MadCap:snippetText src="../Templates/Template-Definition.flsnp" /> <a href="../../../../Flare/Templates/About-Templates.htm">More Details…</a></p>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <p class="Bold">Basic Steps</p>
+                                <ol>
+                                    <li><a href="../../../../Flare/Templates/Creating-Template-Folders.htm">Create template folders</a>.</li>
+                                    <li><a href="../../../../Flare/Templates/Creating-Templates.htm">Create templates</a>.</li>
+                                    <li><a href="../../../../Flare/Templates/Managing-Templates.htm">Manage templates</a>.</li>
+                                    <li>Select a template when creating a new file (e.g., <a href="../../../../Flare/Topics/Creating-Topics.htm">topic</a>).</li>
+                                </ol>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <p class="Bold">Flare's Factory Project Templates</p>
+                                <ul>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Templates/About-Templates.htm#OnlineTemplates">Online Templates</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Templates/About-Templates.htm#OnlinePrintTemplates">Online and Print Templates</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Templates/About-Templates.htm#PrintTemplates">Print Templates</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Templates/About-Templates.htm#TutorialTemplate">Tutorial Template</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p><a href="../../../../Flare/Project-Architecture/External-Architecture/Templates.htm#WhatMadCapDocTeamDoes">What the MadCap Doc Team Does</a>
+                </p>
+            </div>
+            <div>
+                <div class="video" MadCap:conditions="General.Server-Only">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=N1jPzJXmb7M" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                </div>
+                <p class="center" MadCap:conditions="Products.Flare-Local-Only" style="text-align: center;">
+                    <img src="../../../Images/Flare/pa-templates1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

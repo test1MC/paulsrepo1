@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>You can even tell Flare not to use any skin at all for HTML5 output. In this situation, you would rely on proxies or links inserted directly into your content, or you would have no links or navigation at all. <MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-HTML5-Guide">See <MadCap:xref href="../../../../Flare/Output/HTML5-Output/HTML5-Skinless-Output.htm">HTML5 Skinless Output</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/Flare/Skinless-Output1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

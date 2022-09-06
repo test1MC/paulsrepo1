@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>Use the Related Topics window pane to review and edit your related topics. You can view related topics three ways: by the hierarchy (TOC) structure, by keyword (index) entry, or by group.</p>
+        <p>Clicking on a topic, group, or keyword in the upper half of the Related Topics window view will display related topics in the lower half.<MadCap:conditionalText MadCap:conditions="General.Online-Only,Snippets.Snippet1"> See <MadCap:xref href="../../../../../D2H/Nav-Links/Managing-Related-Topics.htm">Managing Related Topics</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Online-Only,Snippets.Snippet2"> See <MadCap:xref href="../../../../../D2H/Legacy-HTML5/Nav-Links/Managing-Related-Topics.htm">Managing Related Topics</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide"> See the online Help or the <span class="EmphasisItalic">Documents, Templates, and Content Guide</span>.</MadCap:conditionalText></p>
+        <p MadCap:conditions="Snippets.Snippet2">
+            <img src="../../../../Images/D2H/related_topics_window.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p MadCap:conditions="Snippets.Snippet1">
+            <img src="../../../../Images/D2H/Related-Topics-Project-Panel-Word.png" class="MaxWidth100Percent" style="mc-thumbnail: popup;" />
+        </p>
+        <MadCap:snippetBlock src="../../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>buttons in Toolbar</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');" cellspacing="0" class="TableStyle-Basic-Alternate-Rows">
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+                    <thead>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                                <p class="TableTextHead">Button</p>
+                            </th>
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                                <p class="TableTextHead">Description</p>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../../../Images/D2H/expand_all_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Expand the list.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../../../Images/D2H/collapse_all_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Collapse the list.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="Snippets.Snippet1">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../../../Images/D2H/filter-btn-Project-Panel.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Filter the contents by entering a search string in the line below when you click this button.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../../../Images/D2H/topics_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Display topics in a hierarchy (TOC) structure, as well as their related topics.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../../../Images/D2H/groups_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Display groups, as well as their related topics.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">
+                                    <img src="../../../../Images/D2H/index_keyword_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Display index keywords, as well as their related topics.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                                <p>
+                                    <img src="../../../../Images/D2H/disable_subtopic_relations_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                                <p class="TableText">Disable subtopic relations.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Right-Click</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>You can right-click on a topic in the Hierarchy to do the following:</p>
+                <ul>
+                    <li>
+                        <p>Change the sort to <span class="Emphasis">By Document</span> or <span class="Emphasis">Alphabetical</span></p>
+                    </li>
+                    <li>
+                        <p><span class="Emphasis">Disable Subtopic Relations</span>
+                        </p>
+                    </li>
+                    <li><span class="Emphasis">Expand All</span> topics</li>
+                    <li><span class="Emphasis">Collapse All</span> topics</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

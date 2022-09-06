@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html style="mc-master-page: url('..\..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Plugin-API.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterFeatures" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Search and Change Text Style Example</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Banners/Information-Developers.flsnp" MadCap:conditions="General.Online-Only" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <p>Following is a basic example where IEditorContext is used to search for a input string and change the style of it throughout the document. See <MadCap:xref href="../Interfaces/IEditorContext.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">IEditorContext Interface</MadCap:xref>.</p>
+        <MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p>In this example, assume your class instance of IEditorContext is named “mEditorContext.”</p>
+                    <p xml:space="preserve" class="CodeIndented"><span class="CodeGreen">private void </span>SearchAndChangeStyle(<span class="CodeGreen">string </span>searchString)
+            </p>
+                    <p xml:space="preserve" class="CodeIndented">{
+            </p>
+                    <p xml:space="preserve" class="CodeIndented2"><span class="CodePurple">IDocument </span>currentDocument = mEditorContext.GetActive<MadCap:conditionalText MadCap:conditions="General.Print-Only"> </MadCap:conditionalText>Document();
+            </p>
+                    <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">if </span>(currentDocument !=    <span class="CodeGreen">null</span>)</p>
+                    <p xml:space="preserve" class="CodeIndented2">{
+            </p>
+                    <p xml:space="preserve" class="CodeIndented3"><span class="CodeGreen">string </span>text = currentDocument.GetDocumentText();
+            </p>
+                    <p xml:space="preserve" class="CodeIndented3"><span class="CodeGreen">int </span>occurences = <span class="CodeBlue2">Regex</span>.Matches(text, searchString).Count;
+            </p>
+                    <p xml:space="preserve" class="CodeIndented3"><span class="CodeGreen">for </span>(<span class="CodeGreen">int </span>i =    <span class="CodeBlue3">0</span>; i &lt; occurences; i++)</p>
+                    <p xml:space="preserve" class="CodeIndented3">{
+            </p>
+                    <p xml:space="preserve" class="CodeIndented4">			currentDocument.Select(searchString);
+            </p>
+                    <p xml:space="preserve" class="CodeIndented4">			currentDocument.Selection.ChangeBackColor(<span class="CodeBlue2">Color</span>.Yellow);
+            </p>
+                    <p xml:space="preserve" class="CodeIndented4">			currentDocument.Selection.ChangeForeColor(<span class="CodeBlue2">Color</span>.Red);
+            </p>
+                    <p xml:space="preserve" class="CodeIndented4">			currentDocument.Selection.ChangeFontFamily(<span class="CodeOrange">"Comic Sans MS"</span>);
+            </p>
+                    <p xml:space="preserve" class="CodeIndented3">}
+            </p>
+                    <p xml:space="preserve" class="CodeIndented2">}
+            </p>
+                    <p xml:space="preserve" class="CodeIndented">}
+            </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

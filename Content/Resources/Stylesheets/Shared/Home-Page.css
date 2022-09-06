@@ -1,0 +1,61 @@
+﻿/*<meta conditions="Products.All-Products" />*/
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+/* CSS Variables */
+
+:root
+{
+	--Black: #000000;
+	--Capture: #20b2e7;
+	--Central2: #00657c;
+	--Dark-Gray: #242729;
+	--D2H: #6fbfa7;
+	--Flare: #bed420;
+	--Medium-Gray: #7d858a;
+	--Light-Gray: #d0d3d5;
+	--Light-Gray2: #fafafa;
+	--Lingo: #f48520;
+	--MadCap1: #058a95;
+	--MadCap2: #25bcc3;
+	--Note: #fdc80b;
+	--Pulse: #063ca6;
+	--Red: #cb1313;
+	--Warning: #ff6b31;
+	--White: #ffffff;
+}
+
+.tab-bar .nav-search .search-bar
+{
+	display: none;
+}
+
+nav.title-bar	/*Left to right Gradient on header*/
+{
+	background: #242729;
+	/* Side Nav Update*/
+}
+
+a:link
+{
+	color: var(--MadCap1);
+	font-family: 'Roboto Light';
+	text-decoration: none;
+}
+
+a:link:hover
+{
+	color: var(--MadCap2);
+}
+
+._Skins_Align_Align_Side_Navigation .body-container,
+._Skins_Capture_Capture_Side_Navigation .body-container,
+._Skins_Central_Central_Side_Navigation .body-container,
+._Skins_Contributor_Contributor_Side_Navigation .body-container,
+._Skins_D2H_D2H_Side_Navigation .body-container,
+._Skins_Flare_Flare_Side_Navigation .body-container,
+._Skins_Lingo_Lingo_Side_Navigation .body-container,
+._Skins_Mimic_Mimic_Side_Navigation .body-container
+{
+	padding: 0;
+}

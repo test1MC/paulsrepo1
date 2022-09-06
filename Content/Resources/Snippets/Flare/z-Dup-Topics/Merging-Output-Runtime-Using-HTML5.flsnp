@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:snippetBlock src="../WHP/Automatic-Runtime-Merging.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet10] exclude[Snippets.Snippet11 or Snippets.Snippet9] " />
+        <MadCap:snippetBlock src="../WHP/Scenario-Link.flsnp" MadCap:conditions="General.Online-Only" MadCap:conditionTagExpression="include[Snippets.Snippet10] exclude[Snippets.Snippet9] " />
+        <p MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Project-Creation-Guide">The following information is necessary only for server-based output. If you do not require server-based HTML5 output, see <MadCap:xref href="../../../../Flare/TOCs/More/Merging-Flare-Projects-Using-Targets.htm">Merging Flare Projects Using Targets</MadCap:xref> instead.</p>
+        <p MadCap:conditions="Flare-Guides.Flare-HTML5-Guide">The following information is necessary only for server-based output. If you do not require server-based HTML5 output, see the instructions to merge Flare projects using targets instead. For more, see the online Help.</p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-HTML5-Guide" />
+        <h2 MadCap:conditions="Flare-Guides.Flare-HTML5-Guide">Tasks Associated with Merging Server-based <MadCap:variable name="Outputs.HTML5" /> Output</h2>
+        <p MadCap:conditions="Flare-Guides.Flare-HTML5-Guide">Following are basic tasks involved with merging server-based <MadCap:variable name="Outputs.HTML5" /> output at runtime.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to merge Server-based HTML5 output at runtime</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li><span class="SetOffFirstLevel">Enable </span><span class="SetOffFirstLevel"><MadCap:variable name="Outputs.HTML5" /> Server-based</span><span class="SetOffFirstLevel"> Output </span>
+                        <MadCap:snippetText src="../WHP/Enabling-WHP-Output.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet10] exclude[Snippets.Snippet9] " />
+                        <MadCap:conditionalText MadCap:conditions="General.Online-Only,Snippets.Snippet10">See <MadCap:xref href="../../../../Flare/Output/HTML5-Output/Enabling-HTML5-Server-Output.htm" target="" title="" alt="">Enabling HTML5 Server-based Output</MadCap:xref>.</MadCap:conditionalText>
+                        <MadCap:snippetText src="../../Shared/All/For-More-Info/See-Online-Help.flsnp" MadCap:conditions="Flare-Guides.Flare-Project-Creation-Guide" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Determine Master Output </span>
+                        <MadCap:snippetText src="../Output/Determine-Master-Output.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">(Optional) Specify TOC and/or Browse Sequence Locations for Automerge</span>
+                        <MadCap:snippetText src="../Output/Specify-TOC-Browse-Seq-Locations-Automerge.flsnp" /> See <MadCap:xref href="../../../../Flare/Output/HTML5-Output/AutoMerge/Specifying-Auto-Merge-Location-TOC-HTML5.htm" target="" title="" alt="">Specifying the Automerge Location in a TOC</MadCap:xref> and <MadCap:xref href="../../../../Flare/Output/HTML5-Output/AutoMerge/Specifying-Auto-Merge-Location-Browse-Sequence-HTML5.htm" target="" title="" alt="">Specifying the Automerge Location in a Browse Sequence</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">(Optional) Specify Order of Merged Outputs </span>
+                        <MadCap:snippetText src="../WHP/Specify-Order-Auto-Merge-Summary.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet10] exclude[Snippets.Snippet9] " /> See <MadCap:xref href="../../../../Flare/Output/HTML5-Output/AutoMerge/Specifying-Order-Auto-Merged-Outputs-HTML5.htm">Specifying the Order of Automerged HTML5 Outputs</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">Generate Outputs </span>Build the output for each of the targets to be included in the automerge. You must use <MadCap:variable name="Outputs.HTML5" /> for all of the targets.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Output/About-Building-Output.htm">Building Output</MadCap:xref>.</MadCap:conditionalText></li>
+                </ol>
+                <ol MadCap:continue="true">
+                    <li>
+                        <p><span class="SetOffFirstLevel">Publish Output to Server </span>
+                            <MadCap:snippetText src="../Output/Publish-Output-Server1.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../Output/Publish-Output-Server2.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet10] exclude[Snippets.Snippet9] " />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you are testing <MadCap:variable name="Outputs.HTML5" /> server-based output on your local machine, you need view the output at least one time. <MadCap:snippetText src="../HTML5/MC-Preview-Folder-HTML5.flsnp" /> When testing the automerge feature on your computer, you need to place the secondary ("child") outputs in the AutoMerge subfolder at this location (as opposed to the output folder that was generated where your Flare project is located). </p>
+                <MadCap:snippetBlock src="../Output/Note-Wait-WHP-Indexing.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet10] exclude[Snippets.Snippet9] " />
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                    <MadCap:snippetText src="../WHP/WHP-Not-Vista.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet10] exclude[Snippets.Snippet9] " />
+                </p>
+                <MadCap:snippetBlock src="../Search/Note-Top-Nav-Skin-No-Merging.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Project-Creation-Guide" />
+    </body>
+</html>

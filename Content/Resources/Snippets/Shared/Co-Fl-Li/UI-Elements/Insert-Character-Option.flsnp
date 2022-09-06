@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="TableText">Opens a submenu that lets you insert special characters or symbols into the editor. <MadCap:conditionalText MadCap:conditions="Products.Flare-Online-Only">See <MadCap:xref href="../../../../../Flare/Characters-and-Symbols/Inserting-Special-Characters-and-Symbols.htm">Inserting Special Characters and Symbols</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor-Online-Only">See <MadCap:xref href="../../../../../Contributor/Characters-and-Symbols/Inserting-Special-Characters-and-Symbols.htm">Inserting Characters and Symbols</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Lingo-Online-Only">See <MadCap:xref href="../../../../../Lingo/Characters-and-Symbols/Inserting-Special-Characters-and-Symbols.htm">Inserting Characters and Symbols</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Options</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="Character-Options-List.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

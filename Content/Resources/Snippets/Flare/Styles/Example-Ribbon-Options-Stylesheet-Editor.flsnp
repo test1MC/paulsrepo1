@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="1019" MadCap:lastWidth="1215">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let’s say you want to make the <span class="Emphasis">h1</span> style green in your stylesheet. After selecting the style in the Stylesheet Editor, you could find and set the <span class="Emphasis">color</span> property to green.</p>
+            <p>
+                <img src="../../../Images/Flare/ribbon-options-stylesheet-editor2.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Flare/ribbon-options-stylesheet-editor3.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Flare/ribbon-options-stylesheet-editor4.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Styles-Guide,Flare-Guides.Flare-Touring-Workspace-Guide" />
+            <p>However, you could use the color option in the Home ribbon to do the same thing, only faster.</p>
+            <p>
+                <img src="../../../Images/Flare/ribbon-options-stylesheet-editor5.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Flare/ribbon-options-stylesheet-editor6.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Flare/ribbon-options-stylesheet-editor7.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

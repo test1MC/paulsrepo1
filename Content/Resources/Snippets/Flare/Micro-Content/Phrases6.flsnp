@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');margin-left: 0;margin-right: auto;caption-side: top;" cellspacing="0" class="TableStyle-Basic-Alternate-Rows">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <tbody>
+                <tr MadCap:conditions="General.Future" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">CTRL+SHIFT+N</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Creates a new phrase</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">ENTER/SPACE</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Performs the action reached via the Tab key</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">LEFT/RIGHT</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Collapses/expands the phrase row</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">SHIFT+TAB</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Cycles backward through the buttons in a phrase row</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">TAB</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">Cycles forward through the buttons in a phrase row</p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis" MadCap:conditions="">UP/DOWN</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText" MadCap:conditions="">Moves up and down from one phrase row to another</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

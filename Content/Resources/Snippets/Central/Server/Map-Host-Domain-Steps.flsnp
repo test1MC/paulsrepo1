@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>After obtaining a domain and subdomain that you want to use, create a CNAME (a type of alias) on the registrar’s website. Point the CNAME to the MadCap Central API (madcloudapi.azurewebsites.net). You might need to involve an individual in your company, such as a system administrator, to set this up. For details on creating a CNAME, please refer to the registrar’s website documentation.</li>
+            <li>At the top of Central, click your user name, then click <span class="Emphasis">Settings</span>.</li>
+            <li>In the dialog, select the <span class="Emphasis">License</span> tab.</li>
+            <li>On the left, click <span class="Emphasis">URL</span>.</li>
+            <li>Select <span class="Emphasis">Host Mapped Domain</span>.</li>
+            <li>In the field to the right of that option, type the host domain you want to use.</li>
+            <li>
+                <p>(Optional) Click <span class="Emphasis">Validate</span> to ensure you have entered a legitimate domain. A message lets you know whether the domain is valid.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">After you have mapped to a host domain, the “Validate” button changes to “Remove Mapping,” which you can click if you need to delete the mapping in the future.</p>
+                </div>
+            </li>
+            <li>Choose an SSL certificate:<ul><li><span class="Emphasis">Use MadCap Generated SSL Certificate </span>You might decide to select the MadCap secure certificate if your company’s IT&#160;resources are limited or you are not concerned about using your own certificate. </li><li><span class="Emphasis">Provide Your Own SSL Certificate (.pfx) </span>Select this option if your IT department prefers to use its own certificate, instead of MadCap’s. After obtaining the Personal Information Exchange (.pfx) file from your IT&#160;department, click <span class="Emphasis">Upload</span> to find and select it. Then enter your password in the field below.</li></ul><div class="note"><p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">It is recommended that you generate only one certificate in a 24-hour time period.</p></div><div class="note"><p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Central uses Let's Encrypt to generate SSL certificates. Therefore, you might receive email notifications from Let's Encrypt in the future. If you receive an email about the certificate expiration, please note that Central will renew the certificate automatically for you. You can navigate to the Settings dialog in Central (License &gt; URL tab) to ensure that the certificate is still current.</p></div></li>
+            <li>
+                <p>Click <span class="Emphasis">Save</span>. After the process finishes successfully, you will see details of the certificate at the bottom of the dialog. If the current date is within one week of the expiration for the certificate, you will see a “Regenerate Certificate” button, which you can click to update the certificate.</p>
+            </li>
+            <li>Click <span class="Emphasis">Cancel</span> to close the dialog.</li>
+            <li>Now that the process is completed, you can click on a build that has been set to “Live.” The row expands and shows the new URL.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Central/Projects/Builds/Setting-Builds-to-Live-Keep.htm">Setting Builds to Live or Keep</MadCap:xref>.</MadCap:conditionalText></li>
+        </ol>
+    </body>
+</html>

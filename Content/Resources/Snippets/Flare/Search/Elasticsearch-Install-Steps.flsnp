@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>Navigate to the <span class="Emphasis">Elasticsearch</span> folder at the location where you have Flare installed (e.g., C:\Program Files\MadCap Software\MadCap Flare <MadCap:variable name="Other.VersionNumber" />\Flare.app\Resources\Elasticsearch).</li>
+            <li>Copy this <span class="Emphasis">Elasticsearch</span> folder from your local machine to the remote server. This folder can be copied anywhere on the remote server.</li>
+            <li>Right-click on the <span class="Emphasis">Elasticsearch</span> folder on the remote server, and select <span class="Emphasis">Properties</span>. </li>
+            <li>In the <span class="Emphasis">Groups or user names</span> section, select the <span class="Emphasis">Everyone</span> account. If this account is not listed, create this account.</li>
+            <li>In the <span class="Emphasis">Permissions</span> section, under the <span class="Emphasis">Allow</span> category, enable the <span class="Emphasis">Read</span> and <span class="Emphasis">Write</span> permissions.</li>
+            <li>Click <span class="Emphasis">OK</span>.</li>
+            <li>Open the elasticsearch.yml file in a text editor from  the Elasticsearch\config directory you just copied over to the remote server.</li>
+            <li>
+                <p>Under the <span class="Emphasis">Network</span> section, find the string “http.port: 9200” and  remove the # character from it.</p>
+                <p>
+                    <img src="../../../Images/Flare/elasticsearch-yml-file-enable-port-number.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Save your changes in this file.</li>
+            <li>Open a command prompt window and navigate to the location of the copied Elasticsearch\bin directory.</li>
+            <li>Type <span class="TypedEntry">elasticsearch-service.bat install</span> and press <span class="Emphasis">Enter</span>.</li>
+            <li>Type <span class="TypedEntry">elasticsearch-service.bat start</span> and press <span class="Emphasis">Enter</span>. Elasticsearch is now running on your remote server. </li>
+            <li>Copy the <span class="Emphasis">Web.ContentServices</span> folder from your local machine where you have Flare installed (e.g., C:\Program Files\MadCap Software\MadCap Flare <MadCap:variable name="Other.VersionNumber" />\Flare.app\Resources\WebHelp2\ContentServices\Web.ContentServices).</li>
+            <li>
+                <p>Place this copy of the <span class="Emphasis">Web.ContentServices</span> folder in the following location on the remote server: C:/inetpub/wwwroot.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The C:/inetpub/wwwroot/Web.ContentServices folder will be referenced to configure the remaining steps in this section.</p>
+                </div>
+            </li>
+            <li>Right-click the <span class="Emphasis">Web.ContentServices</span> folder on the remote server, and select <span class="Emphasis">Properties</span>.</li>
+            <li>
+                <p>In the <span class="Emphasis">Groups or user names section</span>, select the <span class="Emphasis">Everyone</span> account. If this account is not listed, create this account.</p>
+            </li>
+            <li> In the <span class="Emphasis">Permissions</span> section, under the <span class="Emphasis">Allow</span> category, enable the <span class="Emphasis">Read</span> and <span class="Emphasis">Write</span> permissions.</li>
+            <li>Click <span class="Emphasis">OK</span>.</li>
+            <li>Within the <span class="Emphasis">Web.ContentServices</span> folder on the remote server, create a folder titled “logs.”</li>
+            <li>Within the <span class="Emphasis">Web.ContentServices</span> folder, open the <span class="Emphasis">appsettings.json</span> file.</li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Search-Guide" />
+            <li>
+                <p>Under <span class="Emphasis">ConnectionStrings</span>, update the path to be used for the <span class="Emphasis">DefaultConnection</span> The default string is  "C:\\inetpub\\wwwroot\\Web.ContentServices\\Indices.db."</p>
+                <p>
+                    <img src="../../../Images/Flare/elasticsearch-appsettings-defaultconnection.png" class="MaxWidth90Percent" />
+                </p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The Indices.db file is actually not created until the Content Services application is started in IIS and users start searching on the Elasticsearch output. In this step, you are simply specifying the location of where you want this file to reside on your remote server.</p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Elasticsearch uses port 9200 by default. If you wish to change the port number, you can specify the port number in the DefaultConnection string (e.g., http://localhost: 9601). However, the port number must also match the http.port field in the elasticsearch.yml file.</p>
+                </div>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Search-Guide" />
+            <li>
+                <p>Under <span class="Emphasis">ContentServicesStartupConfigSettings</span>, update the path to be used for the <span class="Emphasis">DataRootDir</span>. The default string is  "C:\\inetpub\\wwwroot\\Web.ContentServices".</p>
+                <p>
+                    <img src="../../../Images/Flare/elasticsearch-appsettings-datarootdir.png" class="MaxWidth90Percent" />
+                </p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Ensure that the paths you provide for DefaultConnection and DataRootDir in the appsettings.json file have read/write permissions for the user account logging into the web server.</p>
+                </div>
+            </li>
+        </ol>
+        <div class="warning">
+            <p class="warningInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #ff6b31;&quot; class=&quot;mcFormatColor&quot;&gt;Warning: &lt;/span&gt;&lt;/b&gt;">If you decide to place the <span class="Emphasis">Web.ContentServices</span> folder in a different location from the C:\inetpub\wwwroot location indicated in step 14, ensure that the configuration settings in the appsettings.json file match the location on your remote server where you placed the <span class="Emphasis">Web.ContentServices</span> folder.</p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Users-Teams-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p MadCap:conditions="Snippets.Snippet1" class="Microcontent-Heading"><span class="Emphasis">How to Set Permissions</span>
+                </p>
+                <ol>
+                    <li>On the left side of Central, select <span class="Emphasis">Users</span>.</li>
+                    <li>In the grid, click a user’s name.</li>
+                    <li>On the left side of the dialog, click <span class="Emphasis">Permissions</span>.</li>
+                    <li>From the <span class="Emphasis">Level</span> field, select either <span class="Emphasis">Global Permissions</span> (if you want the permissions to apply to all projects), or choose the name of a specific project.</li>
+                    <li>Select any of the check boxes to give the user the appropriate permissions in the system.</li>
+                    <li>Click <span class="Emphasis">Save</span>.</li>
+                </ol>
+                <p MadCap:conditions="Snippets.Snippet1" class="Micro-Content"><a href="../../../../Central/Users/Setting-Permissions.htm">More Details…</a>
+                </p>
+            </div>
+            <div>
+                <div class="video">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://youtu.be/63HMxECrN_I" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                    <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/central/#UsersTeams" target="_blank">View More Videos in This Series</a>
+                    </p>
+                </div>
+                <p style="text-align: center;" MadCap:conditions="General.Future">
+                    <img src="../../../Images/Central/QS-Permissions.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

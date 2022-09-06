@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>You can include or exclude a specific browse sequence entry (book, topic, external link) from a target.</p>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../Steps-General/Open-Project-Organizer.flsnp" />
+            </li>
+            <li>Expand the <span class="Emphasis">Advanced</span> folder. </li>
+            <li>Double-click the browse sequence that you want to open. The Browse Sequence Editor opens to the right.</li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following.flsnp" />
+                </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>drag and drop</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../Conditions/Drag-Drop-Conditions-TOC-Browse-Seq.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>properties dialog</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../Conditions/Apply-Conditions-TOC-Browse-Seq.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Condition-Tags-Guide" />
+                <p>The square next to the browse sequence entry in the Browse Sequence Editor now takes on the color of the condition tag. If you applied more than one condition tag to the browse sequence entry, each color is shown in the square.</p>
+                <p>If you cannot see the squares next to the browse sequence entries, click <img src="../../../Images/Shared/Ca-Co-Fl-Li-Mi/hide_show_conditional_indicators_btn.png" class="ReduceButtonSize" /> in the local toolbar to show the condition indicators. </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

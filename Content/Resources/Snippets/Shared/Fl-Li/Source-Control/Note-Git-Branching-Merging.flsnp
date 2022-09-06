@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For more information on how Git branching and merging works, the Git website provides in-depth workflows and additional details:</p>
+            <p MadCap:autonum=""><a href="https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging" target="_blank">https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging</a>.</p>
+        </div>
+    </body>
+</html>

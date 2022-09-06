@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table class="TableStyle-Basic-Alternate-Rows" style="mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" MadCap:conditions="" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" colspan="2">
+                        <p class="TableTextHead">Template</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Characteristics</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" colspan="2">
+                        <p class="TableTextEmphasis">Knowledge Base</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Flare/Knowledge-Base.png" class="MaxWidth90Percent" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <ul>
+                            <li>Contains starter topics and other files designed for an <span class="Emphasis">online knowledge base</span> in HTML5 format. If you intend to use Flare to generate an online knowledge base, this project demonstrates one approach you may consider.</li>
+                            <li>
+                                <MadCap:snippetText src="Includes-Responsive-Output.flsnp" />
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" colspan="2">
+                        <p class="TableTextEmphasis">Side Navigation</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Flare/Side-Navigation.png" class="MaxWidth90Percent" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <ul>
+                            <li>Contains starter topics and other files intended for online HTML5 output that looks like a <span class="Emphasis">modern website with navigation on the side (left or right)</span>.</li>
+                            <li>
+                                <MadCap:snippetText src="Offers-Frameless-Alternative.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="Includes-Responsive-Output.flsnp" />
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" colspan="2">
+                        <p class="TableTextEmphasis">Top Navigation</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Flare/Top-Navigation.png" class="MaxWidth90Percent" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <ul>
+                            <li>Contains starter topics and other files intended for online HTML5 output that looks like a <span class="Emphasis">modern website with navigation on the top</span>.</li>
+                            <li>
+                                <MadCap:snippetText src="Offers-Frameless-Alternative.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="Includes-Responsive-Output.flsnp" />
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows" colspan="2">
+                        <p class="TableTextEmphasis">Tripane </p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Flare/Tripane.png" class="MaxWidth90Percent" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <ul>
+                            <li>Contains starter topics and other files intended for online HTML5 output in a traditional <span class="Emphasis">tripane format (navigation pane, toolbar pane, content pane)</span>.</li>
+                            <li>
+                                <MadCap:snippetText src="Includes-Responsive-Output.flsnp" />
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

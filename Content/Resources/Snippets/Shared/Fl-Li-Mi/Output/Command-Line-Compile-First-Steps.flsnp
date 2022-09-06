@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ol>
+            <li>Open Notepad (to create and save a batch file) or open your command prompt (to run a command immediately).</li>
+            <li>
+                <p>Type the path to the <MadCap:conditionalText MadCap:conditions="Products.Flare">Flare</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Mimic">Mimic</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Lingo">Lingo</MadCap:conditionalText>.app folder where you installed <MadCap:variable name="Other.Product" />, and press <span class="Emphasis">Enter</span>.</p>
+                <p class="Code" MadCap:conditions="Products.Flare">cd\Program Files\<MadCap:variable name="Other.CompanyName" />\MadCap Flare <MadCap:variable name="Other.VersionNumber" />\Flare.app</p>
+                <p class="Code" MadCap:conditions="Products.Mimic">cd\Program Files\<MadCap:variable name="Other.CompanyName" />\MadCap Mimic <MadCap:variable name="Other.VersionNumber" />\Mimic.app</p>
+                <p class="Code" MadCap:conditions="Products.Lingo">cd\Program Files\<MadCap:variable name="Other.CompanyName" />\MadCap Lingo <MadCap:variable name="Other.VersionNumber" />\Lingo.app</p>
+            </li>
+        </ol>
+    </body>
+</html>

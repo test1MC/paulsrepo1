@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>You can view miscellaneous errors that may occur regarding the database in the Analyzer folder of your project. These happen when your project contains data not compatible with the  database. If a file is listed in this pane, it will not be included in any analysis or suggestions. If your project contains database errors, please contact <MadCap:variable name="Other.CompanyName" />'s technical support team for help.</p>
+    </body>
+</html>

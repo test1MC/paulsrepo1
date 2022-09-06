@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="3364" MadCap:lastWidth="1266">
+    <body>
+        <MadCap:snippetBlock src="../Banners/PulseAdminEmployeeCustomer.flsnp">
+        </MadCap:snippetBlock>
+        <p>The Messages app gives you the ability to read, send, and hide conversations with other Pulse users. You must access the Messages app from the Pulse dashboard. Messages are not accessible from the Flare output.</p>
+        <MadCap:snippetBlock src="../../All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Pulse-Guides.Pulse-Server-Admin-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Sending a New Message</h2>
+        <p MadCap:conditions="General.Print-Only">Use the following steps to send a new message.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to send a new message</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Pulse/PulseDashLoginAnyGroup.flsnp" />
+                    </li>
+                    <li>
+                        <p>In the dashboard, choose one of these options:</p>
+                        <MadCap:snippetBlock src="../Pulse/PulseOpenMessagesPage.flsnp" />
+                    </li>
+                    <li>In the Messages page, click <span class="Emphasis">New Message</span>. </li>
+                    <li>
+                        <p>In the New Message dialog, do the following:</p>
+                        <MadCap:snippetBlock src="../Pulse/PulseNewMessageDialog.flsnp" />
+                    </li>
+                    <li>Click <span class="Emphasis">Send</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Pulse-Guide,Pulse-Guides.Pulse-User-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Viewing Messages</h2>
+        <p MadCap:conditions="General.Print-Only">Use the following steps to view your messages.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view your messages</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Pulse/PulseDashLoginAnyGroup.flsnp" />
+                    </li>
+                    <li>
+                        <p>In the dashboard, choose one of these options:</p>
+                        <MadCap:snippetBlock src="../Pulse/PulseOpenMessagesPage.flsnp" />
+                    </li>
+                    <li>In the Messages page, your most recent messages and conversations appear in the list. </li>
+                    <li>Click a message to open the conversation thread. </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">Loading Earlier Messages</h2>
+        <p MadCap:conditions="General.Print-Only">Use the following steps to load earlier messages.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to load earlier messages</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Pulse/PulseDashLoginAnyGroup.flsnp" />
+                    </li>
+                    <li>
+                        <p>In the dashboard, choose one of these options:</p>
+                        <MadCap:snippetBlock src="../Pulse/PulseOpenMessagesPage.flsnp" />
+                    </li>
+                    <li>In the Messages page, your most recent messages and conversations appear in the list. </li>
+                    <li>Click a message to open the conversation thread. </li>
+                    <li>Click the <span class="Emphasis">Load&#160;earlier messages</span> link.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Pulse-Guide,Pulse-Guides.Pulse-User-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Replying to Messages</h2>
+        <p MadCap:conditions="General.Print-Only">Use the following steps to reply to a message.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to reply to a message</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Pulse/ReplyToMessage.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">Downloading Message Attachments</h2>
+        <p MadCap:conditions="General.Print-Only">Use the following steps to download a message attachment.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to download a message attachment</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Pulse/PulseDashLoginAnyGroup.flsnp" />
+                    </li>
+                    <li>
+                        <p>In the Pulse dashboard choose one of these options:</p>
+                        <MadCap:snippetBlock src="../Pulse/PulseOpenMessagesPage.flsnp" />
+                    </li>
+                    <li>In the Messages page, your most recent messages and conversations appear in the list. </li>
+                    <li>Click a message to open the conversation thread. </li>
+                    <li>Click the desired attachment to download it to your computer. </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you do not know how to access the Pulse dashboard, see the Pulse Server Administrator for the Site&#160;URL. <MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Pulse-Guide,Products.Flare-Online-Only">See <MadCap:xref href="../../../../../Flare/Pulse-Features/Install/Pulse-Server-Configuration.htm">Pulse Server Configuration</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Pulse-Online-Only,Pulse-Guides.Pulse-User-Guide">See <MadCap:xref href="../../../../../Pulse/Install/Pulse-Server-Configuration.htm">Pulse Server Configuration</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Pulse-Guides.Pulse-User-Guide" />
+    </body>
+</html>

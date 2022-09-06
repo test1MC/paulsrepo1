@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <ol>
+            <li>In Zendesk, go to <span class="Emphasis">Settings &gt; Guide settings</span>.</li>
+            <li>Select <span class="Emphasis">Spam filter</span>.</li>
+            <li>Select <span class="Emphasis">Display unsafe content</span>. This is necessary if you wish to publish multimedia files to Zendesk.</li>
+            <li>Click the <span class="Emphasis">Update</span> button in the upper-right corner.</li>
+            <li>Open your target, which should use either the Clean XHTML or a skinless HTML5 format.</li>
+            <li>Set the TOC you are using for Zendesk as the master TOC in the Target Editor. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/TOCs/Associating-Master-TOC-with-Target.htm">Associating a Master TOC with a Target</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>Click the <span class="Emphasis">Publishing</span> tab, and select the destination file you created for Zendesk. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/Associating-Publishing-Destinations-Targets.htm">Associating Publishing Destinations with Targets</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>Click the <span class="Emphasis">Advanced</span> tab, and select <span class="Emphasis">Exclude content not linked directory or indirectly from the target</span>. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Targets/More/Excluding-Content-not-Linked-Directly-or-Indirectly-from-Targets.htm">Excluding Content not Linked Directly or Indirectly from Targets</MadCap:xref>.</MadCap:conditionalText></li>
+            <li>
+                <MadCap:snippetBlock src="../../Shared/All/Steps-General/Save-File.flsnp" />
+            </li>
+            <li>
+                <p>Click <span class="Emphasis">Publish</span>. If you have not built the updated target, you will be prompted to build before publishing.</p>
+            </li>
+            <li>When the publish is completed,  review your content in the Zendesk Help Center.</li>
+        </ol>
+        <MadCap:snippetBlock src="Zendesk-Note-Activate-Destination-File.flsnp" />
+        <div class="note">
+            <MadCap:snippetBlock src="../Search/Zendesk-Note-One-Section-Per-Article.flsnp" />
+        </div>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide" />
+        <MadCap:snippetBlock src="Zendesk-Note-Empty-Sections.flsnp" />
+        <MadCap:snippetBlock src="Zendesk-Translation-Messages-Publish.flsnp" />
+    </body>
+</html>

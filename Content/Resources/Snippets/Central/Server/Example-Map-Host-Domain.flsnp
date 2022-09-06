@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let’s say your company’s name is FictionSoft, and your website is fictionsoft.net. You have a Central license, with Flare output hosted on it. Your published output on Central uses this vanity URL:</p>
+            <p class="Indented">fictionsoft.mcoutput.com</p>
+            <p>For example, you might have published some HTML5 output on Central, with the following being the full URL to one of your online outputs:</p>
+            <p class="Indented">https://fictionsoft.mcoutput.com/myproject-online-version1/Default.htm</p>
+            <p>(In this example, we also set a vanity URL on the build so that we would see “myproject-online-version1” instead of some random auto-generated number.)</p>
+            <p>Suppose that, instead of using mcoutput.com, you decide to use your company’s own URL, with the word “help” as a subdomain. In other words, you want to use <span class="Emphasis">help.fictionsoft.net</span> instead of <span class="Emphasis">fictionsoft.mcoutput.com</span>.</p>
+            <p>Therefore, you ask your IT department to go on to your DNS provider and create a CNAME, which points to <span class="Emphasis">madcloudapi.azurewebsites.net</span>.</p>
+            <p>
+                <img src="../../../Images/Central/host-mapping1.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Server-Mgmt-Purchasing-Guide" />
+            <p>After this, you log in to Central open the Settings dialog and select the <b>License</b> tab. Then, you select <span class="Emphasis">URL</span> and enter <span class="TypedEntry">help.fictionsoft.net</span> as the mapped host domain.</p>
+            <p>
+                <img src="../../../Images/Central/host-mapping2.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <p>After you validate the domain and click <span class="Emphasis">Save</span>, the new URL for that same project's online output becomes this:</p>
+            <p class="Indented">https://help.fictionsoft.net/myproject-online-version1/Default.htm</p>
+        </div>
+    </body>
+</html>

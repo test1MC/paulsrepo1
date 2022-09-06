@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p><MadCap:variable name="Other.Product" /> supports integration with Microsoft SharePoint (software that allows organizations to collaborate, share files, and publish information to the Web). After connecting to a SharePoint server, you can access and edit the SharePoint files from <MadCap:variable name="Other.Product" />. <MadCap:conditionalText MadCap:conditions="Products.Flare">You can even copy SharePoint files to your project with mappings that let you keep them synchronized with the source files. In addition, you can publish <MadCap:variable name="Other.Product" /> output to a SharePoint server. Finally, you can use the SharePoint server to store any kind of template files supported in <MadCap:variable name="Other.Product" /> so that they can be used by any <MadCap:variable name="Other.Product" /> users in your company.</MadCap:conditionalText></p>
+    </body>
+</html>

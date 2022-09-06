@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');margin-left: 0;margin-right: auto;" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 20%;" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 80%;" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Field Name</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-MidTableHeader" MadCap:pattern="10">
+                    <td colspan="2" class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-MidTableHeader">
+                        <p class="TableTextHead"><span class="Emphasis">Search Results</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis">Results Per Page</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="Search-Results-per-Page.flsnp" /> You can set between 1-100 search results per page.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis">Fragments Per Result</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="Fragments-Per-Limit.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis">Fragment Character Limit</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This sets the character limit of the fragment phrase used in the search.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis">Include stop- words in search</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="Include-Stop-Words-Summary.flsnp" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Including-Stop-Words.htm">Including Stop Words in Search</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText"><span class="Emphasis">Partial word searching</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="Partial-Word-Searching.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Enabling-Partial-Word-Search.htm">Enabling Partial-word Search</MadCap:xref>.</MadCap:conditionalText></p>
+                        <div class="note">
+                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Enabling this setting could increase the build time and the size of the search index for your target.</p>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-MidTableHeader" MadCap:pattern="10">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-MidTableHeader" colspan="2">
+                        <p class="TableTextHead">Advanced Search Options</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis">Include Importance (recommended)</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="Importance-Adjust.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Targets/More/Setting-Search-Result-Importance.htm">Setting Search Result Importance</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Include micro content results</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="Include-Micro-Content-Results-Check-Box.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Micro-Content/About-Micro-Content.htm">About Micro Content</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis"><a name="Fuzzy"></a>Include fuzzy matches</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="Level-Fuzziness.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-MidTableHeader" MadCap:pattern="10">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-MidTableHeader" colspan="2">
+                        <p class="TableTextHead">Auto-complete Results</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis">Enabled</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This option enables the other options in this area. If this box is not checked, all of the other options in this area are disabled.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis">Number of results</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">This field sets the limit of personal searches that display in the drop-down while entering the search string. This can be set from a value of 1-25. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis">Include project content</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This displays the topic title, the path of where the topic resides in your project, and the file name based on the search criteria. These results are displayed with a topic icon.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis"><span class="Emphasis">Include search history</span>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">This includes a mix of personal and global searches in the output.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Global search threshold</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This threshold determines the minimum number of times a term must be searched from unique IP&#160;addresses before it becomes a global search term. This threshold can be set from a value of 0-10000. </p>
+                        <ul>
+                            <li>Assuming that this field is set to a value of 50, if the term "autocompletion" is searched from 49 unique IP addresses on your HTML5 output, "autocompletion"&#160;does not become a global search term until that term is searched from a 50th unique IP&#160;address.</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-MidTableHeader" MadCap:pattern="10">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-MidTableHeader" colspan="2">
+                        <p class="TableTextHead">Sitemap</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Generate Sitemap</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="Elasticsearch-Generate-Sitemap.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Web URL</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="Elasticsearch-Web-URL.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-MidTableHeader" MadCap:pattern="10">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-MidTableHeader" colspan="2">
+                        <p class="TableTextHead">Administrator Tools</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Target GUID</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Provides the key used to identify and link a target to the corresponding Elasticsearch index.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Generate GUID</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Generates the key to be used by the target for the Elasticsearch index.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasis">Launch Content Services</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <p class="TableText">Opens the target in the content services portal. You can manage your targets, and search indexes in the portal. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="#ContentSvcsPortal">Content Services Portal</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

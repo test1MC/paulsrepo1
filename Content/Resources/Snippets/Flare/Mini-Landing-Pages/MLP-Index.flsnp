@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareIndexingGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <p><span class="Emphasis">Index </span>
+            <MadCap:snippetText src="../Indexes/Index-Summary.flsnp" />&#160;&#160;<a href="../../../../Flare/Indexes/About-Indexes.htm">More Details…</a></p>
+        <div class="Tiles-4-4-4">
+            <div>
+                <p class="Bold">Methods</p>
+                <ul>
+                    <li><span class="Emphasis">Method 1: </span>
+                        <MadCap:xref href="../../../../Flare/Indexes/Adding-Index-Keywords.htm">Adding Index Keywords</MadCap:xref> and <MadCap:xref href="../../../../Flare/Indexes/Assigning-Topics-to-Index-Keywords.htm">Assigning Topics to Index Keywords</MadCap:xref></li>
+                    <li><span class="Emphasis">Method 2: </span>
+                        <MadCap:xref href="../../../../Flare/Indexes/Inserting-Index-Keywords.htm">Inserting Index Keywords</MadCap:xref>
+                    </li>
+                    <li><span class="Emphasis">Method 3: </span>
+                        <MadCap:xref href="../../../../Flare/Indexes/Creating-Auto-Indexes.htm">Creating Auto-Indexes</MadCap:xref>
+                    </li>
+                </ul>
+                <p class="Bold">Other Tasks</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Indexes/Creating-Index-Links.htm">Creating Index Links</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Indexes/Enabling-Indexes-in-Skins.htm">Enabling Indexes in Skins</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Skins/Associating-Skins-with-Targets.htm">Associating Skins with Targets</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/Printed-Output/Creating-Index-Manually-Print.htm">Creating a Topic for a Print Index</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/Printed-Output/Determining-Look-Print-Index.htm">Determining the Look of Your Print Index</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="Subheading" style="text-align: center;">Example—Online Output</p>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Index1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+            <div>
+                <p class="Subheading" style="text-align: center;">Example—Print Output</p>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Index2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

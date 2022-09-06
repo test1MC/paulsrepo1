@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Analysis/Undefined-Submenu.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Options</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Undefined Glossary Term Links </span>
+                        <MadCap:snippetText src="Open-Undefined-Glossary-Term-Links-Window-Option.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Undefined Variables </span>
+                        <MadCap:snippetText src="Open-Undefined-Variables-Window-Option.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Undefined Condition Tags </span>
+                        <MadCap:snippetText src="Open-Undefined-Condition-Tags-Window-Option.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Undefined File Tags </span>
+                        <MadCap:snippetText src="Open-Undefined-File-Tags-Window-Option.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Undefined Styles </span>
+                        <MadCap:snippetText src="Open-Undefined-Styles-Window-Option.flsnp" />
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

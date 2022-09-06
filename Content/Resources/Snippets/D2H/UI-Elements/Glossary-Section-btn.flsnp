@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="70" MadCap:lastWidth="1140">
+    <body>
+        <p class="TableText">Adds terms to your glossary from any Word source document.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../D2H/Glossaries/Adding-Terms-to-Glossary.htm">Adding Terms to the Glossary</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide,D2H-Guides.D2H-Whats-New-Guide"> See the online Help or the <span class="EmphasisItalic">Documents, Templates, and Content Guide</span>.</MadCap:conditionalText></p>
+    </body>
+</html>

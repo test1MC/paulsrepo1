@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example—Using The TOC to Define Sections Only</p>
+            <p>Let's say we want to publish a project containing system requirements to Zendesk. The topics for system requirements comprise only a portion of our project, so we want to use the option to define the section for the system requirements in Zendesk.</p>
+            <p>So, under the <b>Support</b> category we create the <b>System Requirements</b> section.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-sections-only-created.png" class="MaxWidth100Percent" />
+            </p>
+            <p>In the guide settings, we activate the help center if it has not been activated already.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-activate-help-center.png" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide" />
+            <p>Next, we enable the spam filter. </p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-spam-filter.png" class="MaxWidth100Percent" />
+            </p>
+            <p>We select the option to display unsafe content if we are publishing multimedia.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-display-unsafe-content.png" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide" />
+            <p>Next, in Flare we configure the destination file to define our Sections. We still have to select both the default category and the default section, even though we are only structuring by sections. The sections will be created under the default category defined in the destination file.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-publish-sections-only.png" class="MaxWidth100Percent" />
+            </p>
+            <p>We review our TOC prior to publishing. In this case, we have all of our topics on the top level.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-TOC-Top-Level-Topics.png" class="MaxWidth100Percent" /> </p>
+            <p>Then we publish our output. When we view the output in Zendesk, notice that new sections have been created based on the topics in the TOC.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-published-section-only-top-level-topics-TOC.png" class="MaxWidth100Percent" />
+            </p>
+            <p>If we structure our TOC  to have one top-level book with the other topics  under this book, then the published output is structured differently in Zendesk.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-TOC-Top-Level-Book.png" class="MaxWidth100Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-published-section-only-top-level-book-TOC.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

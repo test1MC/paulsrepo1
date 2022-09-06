@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1115">
+    <body>
+        <p class="TableText">Receive a notification if a project checklist is edited (i.e., name, type, rows, columns; not status of items). This notification is sent to members of the project, except the person who edited the checklist.</p>
+    </body>
+</html>

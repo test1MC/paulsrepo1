@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example
+            </p>
+            <p>You use expanding text throughout your Flare project. You do not want your expanding headers to appear in your printed outputs, so you create a style class in your stylesheet named “OnlineOnly” that has a condition called “ScreenOnly” condition tag applied to it. After this, you set this style class on your expanding headers.</p>
+            <p>
+                <img src="../../../Images/Lingo/condition_tag_stylesheet_lingo1.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Lingo/condition_tag_stylesheet_lingo2.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Whats-New-Guide,Lingo-Guides.Lingo-Translation-Guide" />
+            <p>Later, you need to send one of your printed outputs for translation. When you create a Lingo project, you can exclude the “ScreenOnly” condition tag from the project. </p>
+            <p>
+                <img src="../../../Images/Lingo/condition_tag_stylesheet_lingo3.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Whats-New-Guide,Lingo-Guides.Lingo-Translation-Guide" />
+            <p>This way, the expanding headers in your online outputs are not included in the content you send to your translator.</p>
+            <p>
+                <img src="../../../Images/Lingo/condition_tag_stylesheet_lingo4.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+        </div>
+    </body>
+</html>

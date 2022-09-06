@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>Then there is the Top Navigation skin. This lets you generate a flexible, frameless output like a modern website, with the main navigation items at the top of the screen. <MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-HTML5-Guide">See <MadCap:xref href="../../../../Flare/Output/HTML5-Output/HTML5-Top-Navigation-Output.htm">HTML5 Top Navigation Output</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/Flare/topnav_output1.png" alt="" title="" class="MaxWidth80Percent" />
+        </p>
+    </body>
+</html>

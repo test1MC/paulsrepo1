@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:keyword term="Tasks:calendar;Calendar:tasks" />The Calendar view displays tasks in a calendar format for the day, week, and month, with task cards listed to the left. Tasks in all milestones—including the Backlog and Archive—are included. However, only tasks that contain dates are displayed in the Calendar view.</p>
+        <p>Small, color-coded circles represent tasks and their priority levels. Hovering over a circle lets you see the name of a task, and clicking the circle opens the task so you can edit it.</p>
+        <p>
+            <img src="../../../Images/Central/Calendar-Grid2.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <p>Since the Calendar view can get cluttered if you have a lot of users and many colored circles representing tasks for all them, this is a good place to use a filter. For example, you can switch between All Tasks (showing tasks for all users) and My Tasks (showing only tasks assigned to you). This and other filters work in any of the Task page views, but can be especially useful in the Calendar view. <MadCap:conditionalText MadCap:conditions="General.Online-Only,Central-Guides.Central-Tasks-Guide">See <MadCap:xref href="../../../../Central/Tasks/Filtering-Tasks.htm">Filtering Tasks</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Getting-Started-Guide,Central-Guides.Central-Tasks-Guide" />
+        <p>To use the "All Tasks/My Tasks" filter, click the upper-left corner of the interface, which by default, should initially say <b>All Tasks</b>.</p>
+        <p>
+            <img src="../../../Images/Central/All-Tasks-My-Tasks1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Getting-Started-Guide,Central-Guides.Central-Tasks-Guide" />
+        <p>Then, in the flyout menu, you can select <b>My Tasks</b>.</p>
+        <p>
+            <img src="../../../Images/Central/All-Tasks-My-Tasks2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

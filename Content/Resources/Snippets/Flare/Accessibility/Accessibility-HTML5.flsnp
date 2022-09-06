@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>If you are generating a web-based output (<MadCap:snippetText src="../Output/All-Web-Outputs-HTML5-Clean-XHTML.flsnp" />), the runtime and navigation are Section 508 compliant. This helps to ensure your output's adherence to item 1194.22 of the Section 508 specification. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/HTML5-Output/About-HTML5-Output.htm">About HTML5 Output</MadCap:xref>, <MadCap:xref href="../../../../Flare/Output/Clean-XHTML/About-Clean-XHTML-Output.htm">About Clean XHTML Output</MadCap:xref>, <MadCap:xref href="../../../../Flare/Output/WebHelp-Output/About-WebHelp-Output.htm">About WebHelp Output</MadCap:xref>, and <MadCap:xref href="../../../../Flare/Output/WebHelp-Plus-Output/About-WebHelp-Plus-Output.htm">About WebHelp Plus Output</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="...;alternative...;C;CSS;etc.)?;Examples...;F;F1;F10;F12;F2;F3;F4;F6;F7;F8;F9;FAQs;J;K;P;Stylesheets;this.&quot;;W;Y;Z" class="" style="mc-master-page: url('../../Resources/MasterPages/Flare/PDF-Topics/Flare-Templates.flmsp');">
+    <head>
+        <link href="../../Resources/TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+        <script src="../../Resources/Scripts/lity/vendor/jquery.js">
+        </script>
+        <script src="../../Resources/Scripts/lity/dist/lity.js">
+        </script>
+        <link href="../../Resources/Scripts/lity/dist/lity.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.Online-Only">
+            <MadCap:keyword term="Templates" />
+            <MadCap:concept term="FilterFeatures" />About Templates</h1>
+        <h1 MadCap:conditions="Flare-Guides.Flare-Templates-Guide">
+            <MadCap:keyword term="Templates" />Introduction</h1>
+        <p>
+            <MadCap:snippetText src="../../Resources/Snippets/Flare/Templates/Templates-Summary.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Templates/Templates-Summary2.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Example</h2>
+        <p MadCap:conditions="General.Print-Only">The following example shows one way that you might make use of templates.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p>Let's say that you want to add a new target to a project. You already know that you want your target to share most of the same settings as other targets that you've created in the past, with a few minor exceptions. So when you add the target, you can base it on a target template that already contains all of the settings that are shared by your many targets. That way, you do not have to specify all of those settings manually in your new target. After the target is inserted into the project, you can adjust the new target as necessary.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+        <h2 MadCap:conditions="General.Print-Only" class="NoPageBreakBefore">Steps for Using Templates</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>steps for using templates</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are the main steps for using templates.</p>
+                <ol>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Templates:creating" />Create Template Folders</span> The first step in using custom templates is to create a template folder, by selecting a folder that already exists. The template folder is simply the place where you will store your template files. You can have as many template folders as you need in order to hold all of your template files. In addition to selecting a folder on your local drive, you can also select a folder on a network, even on a SharePoint server (if you have previously connected to one<MadCap:conditionalText MadCap:conditions="General.Online-Only">—see <MadCap:xref href="../Sharepoint/Connecting-to-Sharepoint-Server.htm">Connecting to a SharePoint Server</MadCap:xref></MadCap:conditionalText>). When you save a file (e.g., topic, page layout) as a new template and select a template folder, the appropriate template subfolder is added to that folder (e.g., topic templates are stored in a subfolder called "Content"; page layout templates are stored in a subfolder called "PageLayouts"). As a result, those files become accessible as templates when you create new features in <MadCap:variable name="Other.Product" />. Selecting a folder on a network is a great way to share template files with other <MadCap:variable name="Other.Product" /> users. See <MadCap:xref href="Creating-Template-Folders.htm">Creating Template Folders</MadCap:xref>.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Create Templates</span> After creating a template folder, you can add one or more template files to it. See <MadCap:xref href="Creating-Templates.htm">Creating Templates</MadCap:xref>.</p>
+                        <p>What if the file being used as a template has links to other files (e.g., stylesheet, images)? <MadCap:variable name="Other.Product" /> does not remove those links. Therefore, you need to make sure those ancillary files are also imported into the project. Depending on the type of file (e.g., an image), you might need to make sure it is placed in the same location(s) relative to the file in question.</p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Select Templates</span> Whenever you create new projects or add new elements (e.g., topics, page layouts, targets) to a project, you select the factory or custom template that you want to use.</li>
+                </ol>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p>Let's say you are working with a team of 10 other writers, and you want to create a topic called "Welcome" that all authors should use in their projects. The template topic will contain some standard text and headings. In addition, the topic links to a stylesheet, which automatically gives the topic the appropriate look and feel. The idea is the authors will create a "Welcome" topic in each of their projects, adding more content to that topic as needed; all "Welcome" topics should be consistent and look the same in all projects.</p>
+                    <p>To accomplish this, you first open a <MadCap:variable name="Other.Product" /> project and create the topic. It might look something like this:</p>
+                    <p>
+                        <img src="../../Resources/Images/Flare/template_example1.png" class="MaxWidth60Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+                    <p>Now you need to make sure that you have a template folder ready to hold the new template file. Therefore, you select the <span class="Emphasis">Tools</span> ribbon. In the <span class="Emphasis">Templates</span> section you click <span class="Emphasis">Manage Templates</span>. This opens the Template Manager.</p>
+                    <p>
+                        <img src="../../Resources/Images/Flare/template_example2.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+                    <p>In the dialog that opens, you find and select the folder where you want to store the template file.</p>
+                    <p MadCap:conditions="">
+                        <img src="../../Resources/Images/Flare/template_example3.png" class="MaxWidth75Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+                    <p>After closing the Template Manager, you make sure your new topic is still open. Then you select <span class="Emphasis">File &gt; Save &gt; Save As Template</span>. In the dialog that opens, you select the new template folder and click <span class="Emphasis">OK</span>.</p>
+                    <p>
+                        <img src="../../Resources/Images/Flare/template_example5.png" class="MaxWidth75Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+                    <p>Now let's say that Karen, one of the other authors, wants to create a "Welcome" topic for a new project she is working on. In her Flare project, she selects <span class="Emphasis">Project &gt; New &gt; Topic</span>. In the dialog that opens, she selects the template file you created, chooses a location (in the following example, the root folder), and provides a name for the new file. Then she clicks <span class="Emphasis">Add</span>.</p>
+                    <p>
+                        <img src="../../Resources/Images/Flare/template_example6.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+                    <p>The new topic is added to the Karen's project. In order for her topic to look just like your topic, she needs to add the same stylesheet file to her project. This can be done by simply importing that file<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../Styles/More/Importing-Stylesheets.htm">Importing Stylesheets</MadCap:xref> and <MadCap:xref href="../Images/Adding-Images-to-Projects.htm">Adding Images to Projects</MadCap:xref>)</MadCap:conditionalText> or maybe through Global Project Linking<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../Global-Project-Linking/GPL-Importing-Files.htm">Global Project Linking—Importing Files from Other Projects</MadCap:xref>)</MadCap:conditionalText>.</p>
+                    <p>Once Karen brings the stylesheet file into her project, she can associate it at the project, target, or topic level. Let's say she sets it at the project level (in the Project Properties dialog, which is opened by selecting Project &gt; Project Properties). After doing this, her topic will look just like yours, and she can begin adding content to it.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">
+            <MadCap:keyword term="Templates:managing" />Managing Templates</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Templates:managing" />managing templates</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>In addition to the main steps for using templates, you can manage templates in the Template Manager dialog. This dialog can be opened from the <span class="Emphasis">Tools</span> ribbon or menu, by clicking the <span class="Emphasis">Manage Templates</span> button <img src="../../Resources/Images/Flare/manage_templates_btn.png" class="ReduceButtonSize" /> that can be found in a variety of template-related dialogs (such as the Save As Template dialog). The Template Manager lets you do the following.</p>
+                <ul>
+                    <li>Add template files</li>
+                    <li>Create template folders</li>
+                    <li>Open templates to edit them</li>
+                    <li>Delete templates</li>
+                    <li>Edit template descriptions. </li>
+                </ul>
+                <p>See <MadCap:xref href="Managing-Templates.htm">Managing Templates</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+        <h2 MadCap:conditions="General.Print-Only" class="NoPageBreakBefore">
+            <MadCap:keyword term="Contributions:templates;Templates:contributions;Contributions:email" />Contribution Templates</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Contributions:templates;Templates:contributions;Contributions:email" />contribution templates</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Authors, developers, or other individuals in your company can use MadCap Contributor to create new documents and files, which can be incorporated into your <MadCap:variable name="Other.Product" /> project. These documents can also be exported to PDF output.</p>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Flare/Reviews-Contributions/Contribution-Template-Summary.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../Reviews-Contributions/About-Reviews-Contributions.htm">About  Reviews and Contributions</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Templates-Guide">For more information, see the online Help and the <span class="EmphasisItalic">Reviews and Contributions Guide</span>.</MadCap:conditionalText></p>
+                <p>Following are basic tasks that you may perform when using contribution templates.</p>
+                <ul style="list-style-type: square;">
+                    <li MadCap:conditions="General.Online-Only">
+                        <MadCap:xref href="../Reviews-Contributions/Contributions/Creating-Sending-Contribution-Templates.htm" target="" title="" alt="">Creating and Sending Contribution Templates</MadCap:xref>
+                    </li>
+                    <li MadCap:conditions="Flare-Guides.Flare-Templates-Guide">
+                        <MadCap:xref href="../Reviews-Contributions/Contributions/Creating-Sending-Contribution-Templates.htm#CreatingSendingContributionTemplates2" target="" title="" alt="">Creating and Sending Contribution Templates</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../Reviews-Contributions/Contributions/Sending-Contribution-Templates.htm" target="" title="" alt="">Sending Contribution Templates</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../Reviews-Contributions/Contributions/Viewing-Contribution-Templates.htm" target="" title="" alt="">Viewing Contribution Templates</MadCap:xref>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+        <h2 MadCap:conditions="General.Print-Only" class="NoPageBreakBefore">
+            <MadCap:keyword term="Exporting:projects;Projects:exporting" />Exporting Projects to Templates</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Exporting:projects;Projects:exporting" />exporting projects to templates</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When exporting a project, you can select an option that saves those files to your templates folder (e.g., Documents\My Templates\Projects). By being placed in this location, the project files become available as a template selection when you create a new project.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../Exporting/Exporting-Projects.htm">Exporting Projects</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Templates-Guide">For more information, see the online Help and the <span class="EmphasisItalic">Project Creation Guide</span>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Flare's Factory Project Templates<a name="FlareFactoryProjectTemplates"></a></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>You can choose from Flare's many factory project templates when creating a new project. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../Projects/Creating-Project.htm">Creating a New Project</MadCap:xref>.</MadCap:conditionalText></p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Projects/Flare-Factory-Templates1.flsnp" />
+                <div class="video" MadCap:conditions="General.Server-Only">
+                    <p class="buttonT32-play"><a href="https://www.youtube.com/watch?v=N1jPzJXmb7M" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                </div>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Online Templates<a name="OnlineTemplates"></a></MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Projects/Online-Templates-Table.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Online and Print Templates<a name="OnlinePrintTemplates"></a></MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Projects/Online-Print-Templates-Table.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Print Templates<a name="PrintTemplates"></a></MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Projects/Print-Templates-Table.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Tutorial Template<a name="TutorialTemplate"></a></MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Projects/Tutorials-Templates-Table.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Templates-Guide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Downloading Additional Project Templates</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>If you want to use one of the many other templates available from the MadCap Software website (including older ones that once were available in this wizard), you can click a new link to browse the templates and download them.</p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/templates2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>After downloading a project template, you can unzip it and save it to a location on your computer. Then, next to <span class="Emphasis">New from existing</span>, click <img src="../../Resources/Images/Shared/All/browse_ellipses.png" class="ReduceButtonSize" /> and select that project’s main .flprj file.</p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/templates3.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

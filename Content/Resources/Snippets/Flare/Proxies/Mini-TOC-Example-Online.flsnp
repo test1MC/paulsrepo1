@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty" MadCap:conditions="">example—online output</p>
+            <p>Here is an example of a master page where a Mini-TOC proxy has been inserted. A Body proxy and Breadcrumbs proxy have also been inserted.</p>
+            <p MadCap:conditions="">
+                <img src="../../../Images/Flare/mini_toc_example1.png" class="MaxWidth60Percent" />
+            </p>
+            <p MadCap:conditions="">Here is how a mini-TOC might look in the output for a Help system:</p>
+            <p MadCap:conditions="">
+                <img src="../../../Images/Flare/mini_toc_example.png" class="MaxWidth60Percent" />
+            </p>
+        </div>
+    </body>
+</html>

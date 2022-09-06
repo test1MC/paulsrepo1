@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="231" MadCap:lastWidth="805">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');margin-left: 0;margin-right: auto;caption-side: top;width: 100%;" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextRight">
+                            <img src="../../../Images/Flare/transparent_field.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="../Color/Color-Field-Option-Background.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextRight">
+                            <img src="../../../Images/Shared/Fl-Mi/more_colors_btn.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="../Color/More-Colors-Button-Description.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextRight">
+                            <img src="../../../Images/Shared/Ca-Co-Fl-Li-Mi/pick_screen_color_btn.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <MadCap:snippetBlock src="../../Shared/Ca-Co-Fl-Li-Mi/Color/Pick-Screen-Color-Button-Description.flsnp" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

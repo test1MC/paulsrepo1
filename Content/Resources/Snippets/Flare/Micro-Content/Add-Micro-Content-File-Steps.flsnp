@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>(Optional) Create a subfolder to store a micro content file.<ol style="list-style-type: lower-alpha;"><li>Select <span class="Emphasis">View &gt; Content Explorer</span>.</li><li>In the Content Explorer, select the <span class="Emphasis">Resources</span> folder.</li><li>In the local toolbar, click <img src="../../../Images/Flare/new_folder_btn.png" class="ReduceButtonSize" />. A folder with the temporary name "NewFolder" is added.</li><li>Type a new name for the folder (we recommend using <span class="Emphasis">MicroContent</span> as the name) and press <span class="Emphasis">Enter</span>.</li></ol></li>
+            <li>
+                <p>Right-click on your <span class="Emphasis">Resources &gt; MicroContent</span> folder (or whatever you have named it) and from the context menu select <span class="Emphasis">New &gt; Micro Content</span>. The Add File dialog opens.</p>
+            </li>
+            <li>In the <span class="Emphasis">File Name</span> field, type a new name for the micro content file.</li>
+            <li>
+                <p>Click <span class="Emphasis">Add</span>. The micro content file is added to the Content Explorer. The Micro Content Editor opens to the right, displaying micro content phrases on the left and an area to the right for the response. There is one phrase/response already added, which you can remove or rename/replace.</p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content9.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+        </ol>
+    </body>
+</html>

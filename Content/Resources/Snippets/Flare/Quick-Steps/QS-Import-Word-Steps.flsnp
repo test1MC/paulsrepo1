@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareImportGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <div class="Tiles-8-4-Microcontent">
+                <div class="micro-content-dropdown">
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Import Word Documents</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <ol>
+                                <li>
+                                    <p>Select <span class="Emphasis">Project &gt; Import &gt; Import MS Word Documents</span>. Choose either <span class="Emphasis">Import into a new project</span> (and complete the fields below) or <span class="Emphasis">Import into this project</span>. Click <b>Next</b>.</p>
+                                    <div class="topic-only">
+                                        <ul>
+                                            <li><span class="Emphasis">Project name</span> Type a name for the new <MadCap:variable name="Other.Product" /> project that will be created after you perform the import.</li>
+                                            <li><span class="Emphasis">Project folder</span> Accept the default location for the new project or click <img src="../../../Images/Shared/All/browse_ellipses.png" class="ReduceButtonSize" /> to find and select a folder.</li>
+                                            <li>
+                                                <p><span class="Emphasis">Output Type</span> Select the primary target for your project.</p>
+                                                <MadCap:dropDown MadCap:conditions="General.Online-Only" class="SecondLevel">
+                                                    <MadCap:dropDownHead>
+                                                        <MadCap:dropDownHotspot>more about the primary target</MadCap:dropDownHotspot>
+                                                    </MadCap:dropDownHead>
+                                                    <MadCap:dropDownBody>
+                                                        <MadCap:snippetBlock src="../Targets/Primary-Target-Step-Explanation.flsnp" />
+                                                    </MadCap:dropDownBody>
+                                                </MadCap:dropDown>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p>Click <img src="../../../Images/Shared/Fl-Li/plus_btn.png" class="ReduceButtonSize" alt="" /> to add files to be imported. <span class="micro-content-only-inline">If you want to edit the imported files in Flare going forward, deselect <b>Link Generated Files to Source Files</b>. Leave it enabled if you want to continue editing in Word and re-import as needed. </span> Click <b>Next</b>.</p>
+                                    <p class="topic-only">
+                                        <MadCap:snippetText src="../../Shared/All/Steps-General/Hold-Shift-Ctrl-Keys.flsnp" />
+                                    </p>
+                                    <div class="topic-only">
+                                        <MadCap:dropDown class="SecondLevel">
+                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                <MadCap:dropDownHotspot>options</MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <MadCap:snippetBlock src="../Importing/Import-Add-Files-Button-Options2.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet11] " />
+                                            </MadCap:dropDownBody>
+                                        </MadCap:dropDown>
+                                    </div>
+                                    <div class="topic-only">
+                                        <MadCap:dropDown class="SecondLevel">
+                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <MadCap:snippetBlock src="../Importing/Note-DOCX.flsnp" />
+                                            </MadCap:dropDownBody>
+                                        </MadCap:dropDown>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p>Double-click Word styles that you want to use as the basis for new topics in Flare (usually heading styles), moving them to the right side of the page. Click <b>Next</b>.</p>
+                                    <div class="topic-only">
+                                        <MadCap:dropDown class="SecondLevel">
+                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <MadCap:snippetBlock src="../Importing/Example-Import-New-Topic-Styles.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2 or Snippets.Snippet3 or Snippets.Snippet4 or Snippets.Snippet5 or Snippets.Snippet6 or Snippets.Snippet7 or Snippets.Snippet8] " />
+                                            </MadCap:dropDownBody>
+                                        </MadCap:dropDown>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p>(Optional) Choose various other import options, then click <b>Next</b>.</p>
+                                    <div class="topic-only">
+                                        <MadCap:dropDown class="SecondLevel">
+                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                <MadCap:dropDownHotspot>options</MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <ul type="1" class="FirstLevel">
+                                                    <li><span class="SetOffFirstLevel">Add "Topic Continued" links when appropriate </span>Select this option to place a "Topic Continued" link at the bottom of pages when a long topic has been split into multiple ones.</li>
+                                                    <li><span class="SetOffFirstLevel">Add "Topic Continued From" links when appropriate </span>Select this option to place a "Topic Continued From" link at the top of continued pages when a long topic has been split into multiple ones.</li>
+                                                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Cross-references:formats" />Cross-Reference Format </span>Use this field to specify the format for the "Topic Continued" and "Topic Continued From" links. <MadCap:variable name="Other.Product" /> provides a cross-reference format for you—(continued in {title}) or (continued from {title}). With this cross-reference format, the link contains the words "continued in" or "continued from" within parentheses, followed by the text of the first paragraph in the connected topic. If you do not want the link to use that particular text, you have a couple of options. First, in <MadCap:variable name="Other.Product" />, you could manually enter a heading in each topic that is connected to another topic included in the split. That text will be used in the link instead (after you update the cross-references in <MadCap:variable name="Other.Product" />). Another option is to modify the format by clicking the <span class="Emphasis">Edit</span> button. <MadCap:conditionalText MadCap:conditions="Products.Flare-Online-Only">For more information see <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/About-Cross-References.htm">About Cross-References</MadCap:xref>.</MadCap:conditionalText><ul type="1" class="SecondLevel"><li><span class="SetOffSecondLevel">Edit </span>If you want to modify the cross-reference format provided, click this button, which opens the Cross-Reference Format dialog. <MadCap:conditionalText MadCap:conditions="Products.Flare-Online-Only">See <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Editing-Cross-Reference-Style-Formats.htm" MadCap:conditions="General.Online-Only">Editing Cross-Reference Style Formats</MadCap:xref>.</MadCap:conditionalText></li></ul></li>
+                                                    <li><span class="SetOffFirstLevel">Split Long Topics </span>  Select this option if you have long sections in your source documents and want to make sure that they are converted to multiple topics (rather than one very long topic).<ul type="1" class="SecondLevel"><li><span class="SetOffSecondLevel">Threshold </span>Enter the maximum number of characters to be converted to a topic before a new topic is created. <MadCap:variable name="Other.Product" /> will break the topic at the nearest paragraph to the threshold value. That way, a new topic will not start in the middle of a sentence or word, but at the beginning of a paragraph.</li></ul></li>
+                                                    <li><span class="SetOffFirstLevel">Avoid Creating 'Empty' Topics </span>Select this option if you want to ensure that new topics are not created when large sections are found in the Word documents without any content.<ul type="1" class="SecondLevel"><li><span class="SetOffSecondLevel">Threshold </span>Enter the maximum number of empty character spaces allowed in a topic. If this number is exceeded, <MadCap:variable name="Other.Product" /> will not create a new topic from that empty space.</li></ul></li>
+                                                </ul>
+                                                <ul type="1" class="FirstLevel">
+                                                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Import-Guide,Flare-Guides.Flare-Project-Creation-Guide,Flare-Guides.Flare-Topics-Guide" />
+                                                    <li>
+                                                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Easy Sync;Auto-reimport;Importing:auto-reimporting;Auto-Sync" />Auto-reimport before 'Generate Output' </span>
+                                                            <MadCap:snippetText src="../Importing/Auto-Reimport-Option.flsnp" />
+                                                        </p>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">Approximate Filename Length </span>Enter the maximum number of characters to use for naming new topic files that are automatically created after splitting a long topic. The default is 24.</li>
+                                                    <li><span class="SetOffFirstLevel">Convert all tables to "Auto-Fit to Contents" </span>Select this option if you want to automatically set tables to "Auto-Fit to Contents" when they are imported into <MadCap:variable name="Other.Product" />. This simply ensures that column widths are not specified on the imported tables.</li>
+                                                    <li>
+                                                        <p><span class="SetOffFirstLevel">Set first row of each table as a header row </span>Select this option if you want Flare to convert the first row of every table into a header row. This makes styling tables more efficient. If you do not select this option, only tables that already have header rows in the Word document will become header rows in Flare. Tables without header rows will be imported just as they are.</p>
+                                                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Import-Guide,Flare-Guides.Flare-Project-Creation-Guide,Flare-Guides.Flare-Topics-Guide" />
+                                                        <MadCap:dropDown class="ThirdLevel">
+                                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+                                                            </MadCap:dropDownHead>
+                                                            <MadCap:dropDownBody>
+                                                                <MadCap:snippetBlock src="../Word/Example-Set-First-Table-Row-Header.flsnp" />
+                                                            </MadCap:dropDownBody>
+                                                        </MadCap:dropDown>
+                                                    </li>
+                                                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Topics-Guide,Flare-Guides.Flare-Project-Creation-Guide,Flare-Guides.Flare-Import-Guide" />
+                                                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Microsoft Word:page layouts;Microsoft Word:section breaks;Microsoft Word:importing;Importing:Word documents;Importing:page layouts;Page layouts:Word;Page layouts:importing" />Create a Page Layout for each section header/footer </span>Select this option if you want Flare to create new page layouts when you import Word documents that have section breaks, along with headers or footers. For each new section in the Word document that has a different header or footer than the previous section, Flare creates a unique page layout. After the import is finished, you can open and edit the page layouts if necessary<MadCap:conditionalText MadCap:conditions="Products.Flare-Online-Only"> (see <MadCap:xref href="../../../../Flare/Page-Layouts/About-Page-Layouts.htm">About Page Layouts</MadCap:xref> and <MadCap:xref href="../../../../Flare/Page-Layouts/Editing-Pages.htm">Editing Pages and Frames</MadCap:xref>)</MadCap:conditionalText>. You can then create chapter breaks for your print-based output and assign these page layouts to the different topics in the output<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm">Specifying Chapter and Page Layout Breaks</MadCap:xref>)</MadCap:conditionalText>.</li>
+                                                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Topics:title;Title:topic" />Automatically set topic title </span> If this option is enabled, the properties setting for the topic title automatically uses the first heading in the topic. Therefore, if you change the heading text in the future, the topic title changes automatically as well. If this option is disabled, the properties setting for the topic title explicitly uses the first topic heading text found during the import, and it remains so unless you manually change it later. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Topics/Changing-Topic-Titles.htm">Changing Topic Titles</MadCap:xref>.</MadCap:conditionalText></li>
+                                                    <li>
+                                                        <p><span class="SetOffFirstLevel">Convert equations to MathML </span>
+                                                            <MadCap:snippetText src="../Importing/Convert-MathML-Word.flsnp" />
+                                                        </p>
+                                                        <MadCap:dropDown class="ThirdLevel">
+                                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                                                            </MadCap:dropDownHead>
+                                                            <MadCap:dropDownBody>
+                                                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">To use this feature, the equation must have been created in Microsoft Word 2007 or newer.  Also, open the Options dialog (<span class="Emphasis">File &gt; Options</span>), select the <span class="Emphasis">General</span> tab, and make sure that <span class="Emphasis">Import/Export Word Files without MS Office</span> is <span class="EmphasisItalic">disabled</span>.</p>
+                                                            </MadCap:dropDownBody>
+                                                        </MadCap:dropDown>
+                                                    </li>
+                                                </ul>
+                                            </MadCap:dropDownBody>
+                                        </MadCap:dropDown>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p>Specify whether to use an existing stylesheet and/or preserve the Word formatting, then click <b>Next</b>.</p>
+                                    <div class="topic-only">
+                                        <MadCap:dropDown class="SecondLevel">
+                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                <MadCap:dropDownHotspot>options</MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <ul type="1" class="FirstLevel">
+                                                    <li><span class="SetOffFirstLevel">Stylesheet </span>If you already have a <MadCap:keyword term="Cascading stylesheets" /><MadCap:keyword term="CSS file" />CSS file that you want to associate with the imported files, click the <span class="Emphasis">Stylesheet</span> button. Then navigate to the stylesheet and select it.</li>
+                                                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Project-Creation-Guide" />
+                                                    <li><span class="SetOffFirstLevel">Preserve MS Word Styles </span>This retains any style formatting from your Word documents so that you can continue to use that look and feel in Flare. For example, if you use a style called "Heading 1" in your source documents and that style is blue, it remains blue after you finish the import to Flare and the new style is created. Also, selecting this option affects which mapping styles are available as you continue to make your import selections. If you select this option, you can map the Word styles to new Flare styles that keep the name of the Word style (e.g., <span class="EmphasisItalic">Heading 1</span> becomes <span class="EmphasisItalic">h1.Heading 1</span> in Flare).</li>
+                                                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:preserve" />Don't Preserve MS Word Styles </span>This does not keep the style formatting used in the Word documents. For example, if you use a style called "Heading 1" in your source documents and that style is blue, that color (and any other settings for that style) are not kept after you finish the import to Flare. You will still have styles associated with your content, but it will not look like it did in the source documents. Also, selecting this option affects which mapping styles are available as you continue to make your import selections. If you select this option, you can map the Word styles to new Flare styles that either keep the name of the Word style (e.g., <span class="EmphasisItalic">Heading 1</span> becomes <span class="EmphasisItalic">h1.Heading 1</span> in Flare) or do not (e.g., <span class="EmphasisItalic">Heading 1</span> becomes <span class="EmphasisItalic">h1</span> in Flare).</li>
+                                                    <li>
+                                                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Styles:converting inline formatting" />Convert inline formatting to CSS styles </span>This creates new styles based on any local formatting that exists in the Word documents. </p>
+                                                        <MadCap:dropDown class="ThirdLevel">
+                                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                                <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+                                                            </MadCap:dropDownHead>
+                                                            <MadCap:dropDownBody>
+                                                                <div class="example">
+                                                                    <p class="exampleHeadTextEmpty">example</p>
+                                                                    <p>If you have applied bold and italic formatting to some text (without using a style), <MadCap:variable name="Other.Product">[%=Other.Product%]</MadCap:variable> will create a new style based on that formatting.</p>
+                                                                </div>
+                                                            </MadCap:dropDownBody>
+                                                        </MadCap:dropDown>
+                                                        <MadCap:dropDown class="ThirdLevel">
+                                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                                <MadCap:dropDownHotspot>tip</MadCap:dropDownHotspot>
+                                                            </MadCap:dropDownHead>
+                                                            <MadCap:dropDownBody>
+                                                                <div class="tip">
+                                                                    <p class="tipInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Tip: &lt;/span&gt;&lt;/b&gt;">To avoid having several character styles in Flare that you do not want, it is a good idea to clean up your source documents as much as possible before importing.</p>
+                                                                </div>
+                                                            </MadCap:dropDownBody>
+                                                        </MadCap:dropDown>
+                                                    </li>
+                                                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Transition-from-FM-Guide" />
+                                                </ul>
+                                            </MadCap:dropDownBody>
+                                        </MadCap:dropDown>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p>(Optional) Specify how paragraph and character styles from the Word documents should be mapped to styles in Flare. Select the Word style on the left, then the Flare style on the right, and click <b>Map</b>. This affects how the styles will be named in Flare (as shown under Flare Style in the left column). Click <b>Next</b> after finishing each page.</p>
+                                    <div class="topic-only">
+                                        <MadCap:dropDown class="SecondLevel">
+                                            <MadCap:dropDownHead class="OnlineOnly">
+                                                <MadCap:dropDownHotspot>examples</MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <MadCap:snippetBlock src="../Importing/Example-Map-Styles.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2 or Snippets.Snippet3 or Snippets.Snippet4 or Snippets.Snippet5 or Snippets.Snippet6 or Snippets.Snippet7 or Snippets.Snippet8] " />
+                                            </MadCap:dropDownBody>
+                                        </MadCap:dropDown>
+                                    </div>
+                                </li>
+                                <li>Click <b>Finish</b> and <b>Accept</b>.</li>
+                            </ol>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                    <p class="micro-content-only"><a href="../../../../Flare/Importing/Importing-Word-Files.htm">More Details…</a>
+                    </p>
+                    <p class="micro-content-only"><a href="../../../../Flare/Project-Architecture/External-Architecture/Importing-External-Files.htm#WhatMadCapDocTeamDoes">What the MadCap Doc Team Does</a>
+                    </p>
+                    <p class="micro-content-only"><a href="../../../../Flare/Output/Word-Output/About-Word-Output.htm">Word Output</a>
+                    </p>
+                </div>
+                <div class="micro-content-only">
+                    <div class="video" MadCap:conditions="General.Server-Only">
+                        <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=PaBoKk0Qyso" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                        </p>
+                    </div>
+                    <p class="center" MadCap:conditions="Products.Flare-Local-Only" style="text-align: center;">
+                        <img src="../../../Images/Flare/pa-import-external-files1.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

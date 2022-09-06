@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="Tiles-6-6">
+            <div>
+                <p class="Micro-Content"><span class="Emphasis">Vanity URL </span>This is the URL that lets the general public view your output. You can configure it in different ways—at the license, target, or build level. You can even map to your company’s own domain.</p>
+            </div>
+            <div>
+                <div class="video">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=V1Pznb05pPA" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO (URL Options)</a>
+                    </p>
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=S2FP-IHsJ0g" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO (Setting Builds to Live or Keep)</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="Tiles-6-6" MadCap:conditions="General.Future">
+            <div>
+                <p class="Micro-Content" style="text-align: center;">
+                    <MadCap:xref href="../../../../Central/Server/Changing-Vanity-URL.htm">Changing the License Vanity URL</MadCap:xref>
+                </p>
+                <p style="text-align: center;">
+                    <img src="../../../Images/Central/Vanity-URL5.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+            <div>
+                <p class="Micro-Content" style="text-align: center;">
+                    <MadCap:xref href="../../../../Central/Projects/Builds/Setting-Target-and-Build-Vanity-URLs.htm">Setting Target and Build Vanity URLs</MadCap:xref>
+                </p>
+                <p style="text-align: center;">
+                    <img src="../../../Images/Central/Vanity-Build-URL-Example3.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

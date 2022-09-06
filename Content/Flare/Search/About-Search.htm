@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" style="mc-master-page: url('../../Resources/MasterPages/Flare/PDF-Topics/Flare-Search.flmsp');">
+    <head>
+        <link href="../../Resources/TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <meta name="description" content="Learn about the search capabilities for the different MadCap&#160;Flare output types. See what features are supported by the client-side search engine and learn more about the options for delivering a server-side search engine. " />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.Online-Only">
+            <MadCap:concept term="FilterFeatures" />
+            <MadCap:keyword term="Search" />About Search</h1>
+        <h1 MadCap:conditions="Flare-Guides.Flare-Search-Guide">
+            <MadCap:keyword term="Search" />Introduction</h1>
+        <h1 class="Invisible" MadCap:conditions="General.Online-Only">
+            <MadCap:keyword term="Search" />About Search</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Banners/Feature-Supported/Eclipse-HTML-Help-HTML5-WebHelp-WH-Plus.flsnp" />
+        <p>
+            <MadCap:snippetText src="../../Resources/Snippets/Flare/Search/Search-Summary.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Search-Guide" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Search-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Client or Server Output</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Client or Server Output</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The search features and capabilities that are available in your published Flare output depend on the output type. In addition, you can perform search queries using different search methods and syntax when you publish client- or server-based output:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Client-based Output </span>With the web-based output types, search operations are supported by a Flare search database. This database&#160;consists of an array of JavaScript and XML&#160;files that are built and published with the Flare output in the Data folder. With <MadCap:variable name="Outputs.HTMLHelp" />, the Microsoft Compiled HTML&#160;(CHM) Help file format  also offers a built-in search engine.</li>
+                    <li><span class="SetOffFirstLevel">Server-based Output </span>Search features can be enabled/disabled in Flare and search operations are supported by server-based tools.&#160;For example, the server-based <MadCap:variable name="Outputs.WebHelp" /> and <MadCap:variable name="Outputs.HTML5" /> output types can be enabled in Flare, and then published to an Internet Information&#160;Services (IIS) server. For these outputs, search operations are supported by the Microsoft Indexing Service or Windows Search. </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">HTML5 Search Engines</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>HTML5 Search Engines</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Flare/Search/Set-Up-Search-Engine1.flsnp" /> See <MadCap:xref href="Search-Engines/Setting-Up-Search-Engine.htm">Setting Up a Search Engine</MadCap:xref> and <MadCap:xref href="../z/About-Micro-Content.htm">About Micro Content</MadCap:xref>.</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">MadCap Search </span>This is Flare's built-in search engine. When the target is created, it is set to use MadCap search as the search engine. The search rankings utilize heading styles, index keywords, and glossary terms.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="Search-Engines/MadCap-Search/About-Madcap-Search.htm">About MadCap Search</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="Emphasis"><a name="Elasticsearch"></a>Elasticsearch</span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Search/Elasticsearch.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="Search-Engines/Setting-Up-Search-Engine.htm">Setting Up a Search Engine</MadCap:xref> and <MadCap:xref href="Search-Engines/Elasticsearch/Elasticsearch.htm">About Elasticsearch</MadCap:xref>.</MadCap:conditionalText>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Google Search </span>This is a good option if you prefer the search results returned by Google. <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="Search-Engines/Setting-Up-Search-Engine.htm">Setting Up a Search Engine</MadCap:xref> and <MadCap:xref href="Search-Engines/Google-Search/About-Google-Search.htm">About Google Search</MadCap:xref>.</MadCap:conditionalText></p>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Search/Google-Search12.flsnp" />
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">Search in Eclipse Help</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Search in Eclipse Help</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Flare/Eclipse-Help/Eclipse-Help-Search-Not-Supported.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only" class="NoPageBreakBefore">Searching the Outputs</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>searching the outputs</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Depending on the output type, the user interface for your published output offers different search features and functionality. See <MadCap:xref href="Searching-Outputs/Searching-Outputs.htm">Searching the Outputs</MadCap:xref>.</p>
+                <p>When compiling your online&#160;output, the build process generates a search database with your target's output files. When an end user searches for information, the search process looks through this database to retrieve a list of topics containing matching criteria.</p>
+                <p>Depending on the output type you are searching, end users can perform a variety of simple text and phrase searches. Some output types also support the use of boolean operators, the asterisk (*) wildcard character, and other syntax. See <MadCap:xref href="Searching-Outputs/Search-Methods-Syntax1.htm">Search Methods and Syntax</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">Required Steps for Setting Up Search</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Required steps for setting up search</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The following steps are required for search, although the second step is for HTML5 targets only.</p>
+                <ol>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Search:skins;Skins:search" />Enable Search in the Skin </span>Open the skin being used to generate the output type and enable the search feature. See <MadCap:xref href="Enabling-Search-Skins.htm">Enabling Search in Skins</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">Set Up Search Engine </span>If you are generating an HTML5 target, you need to select one of the search engines and choose the corresponding options. See <MadCap:xref href="Search-Engines/Setting-Up-Search-Engine.htm">Setting Up a Search Engine</MadCap:xref>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">Optional Tasks for Setting Up Search</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Optional Tasks for setting up search</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>In addition to the required steps, you can do any of the following related to the search in your output.</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Micro content;Search;HTML5:micro content" />Include Micro Content Featured Snippets </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Micro-Content/Micro-Content-Summary.flsnp" />  If you intend to use micro content in your HTML5 output search results, you need to make sure it is enabled in the target. See <MadCap:xref href="../z/About-Micro-Content.htm">About Micro Content</MadCap:xref>, <MadCap:xref href="../z/Creating-Micro-Content.htm">Creating Micro Content</MadCap:xref>, and <MadCap:xref href="../z/Enabling-Micro-Content-Search-Results.htm">Enabling Micro Content in Search Results</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Search:configuring database" />Configure the Search Database </span>In a Flare target, you have a variety of options that you can enable or disable to define how the search database performs.  See <MadCap:xref href="Configuring-Search-Database/Configuring-Search-Database.htm">Configuring the Search Database</MadCap:xref>.</li>
+                    <li><span class="Emphasis"><MadCap:keyword term="Search:optimization" />Optimize Search </span>You have a variety of options when it comes to improving topic and page ranking for search results. We have a collected a variety of tips and best practices for optimizing results when using the Flare engine. You'll also find tips for optimizing content for search engine providers.&#160;See <MadCap:xref href="Optimizing-Search/Optimizing-Search.htm">Optimizing Search</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Search:search filters" /><MadCap:keyword term="Concepts:search filters" />Use Search Filter Sets </span>Your target output can include a search filter set. A filter set works with the concepts feature. Each set includes filters that you define to limit the scope of the end user's search query to only the topics that are associated with the selected filter. See <MadCap:xref href="Search-Filter-Sets/About-Search-Filter-Sets.htm">About Search Filter Sets</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel">Customize Search Highlighting </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Search/Search-Highlighting-Summary.flsnp" />
+                        <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="Search-Highlighting/About-Search-Highlighting.htm">Search&#160;Highlighting</MadCap:xref>, <MadCap:xref href="Search-Highlighting/Customizing-Highlight-Color-for-Search-Hits.htm">Customizing the Highlight Color for Search Hits</MadCap:xref>, and <MadCap:xref href="../Skins/HTML5-Skin-Styles/Search-Results-HTML5-Skins.htm">Search Results in HTML5 Skins</MadCap:xref>.</MadCap:conditionalText>
+                        <MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Search-Guide">See <MadCap:xref href="Search-Highlighting/About-Search-Highlighting.htm">Search&#160;Highlighting</MadCap:xref> and <MadCap:xref href="Search-Highlighting/Customizing-Highlight-Color-for-Search-Hits.htm">Customizing the Highlight Color for Search Hits</MadCap:xref>.</MadCap:conditionalText>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Set Up the Server-based Features  </span>Server-based outputs give you the ability to include non-XHTML files in search.</p>
+                        <ul>
+                            <li><span class="SetOffSecondLevel">HTML5 </span>See <MadCap:xref href="../Output/HTML5-Output/Enabling-HTML5-Server-Output.htm">Enabling HTML5 Server-based Output</MadCap:xref> and <MadCap:xref href="../Output/HTML5-Output/Search/Including-Non-XHTML-Files-Search-HTML5.htm">Including Non-XHTML Files in HTML5 Search</MadCap:xref>.</li>
+                            <li><span class="SetOffSecondLevel">WebHelp Plus </span>See <MadCap:xref href="../Output/WebHelp-Plus-Output/Enabling-WebHelp-Plus-Output.htm">Enabling WebHelp Plus Output</MadCap:xref> and <MadCap:xref href="../Output/WebHelp-Plus-Output/Search/Including-Non-XHTML-Files-Search.htm">Including Non-XHTML Files in WebHelp Plus Search</MadCap:xref>.</li>
+                        </ul>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Create Synonyms for Search </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Search/Search-Synonyms-Summary.flsnp" /> See <MadCap:xref href="Synonyms/About-Synonyms.htm">Synonyms</MadCap:xref> and <MadCap:xref href="Synonyms/Creating-Synonyms-to-Enhance-Search-Results.htm">Creating Synonyms to Enhance Search Results</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Search:topics;Topics:search" />Include or Exclude Topics in Search </span>You can include or exclude a topic when full-text search is generated. If you disable this feature, the topic will be excluded from the search, but it will still be included in the generated output. See <MadCap:xref href="../Topics/Including-Excluding-Topics-in-Search.htm">Including or Excluding Topics in Search</MadCap:xref>.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">End User Search Features Table</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>end user search features Table</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The table below summarizes the key search features and capabilities for each output type. With HTML5 and <MadCap:variable name="Outputs.WebHelp" /> outputs, you can distribute either client- or server-based outputs. This is why the table below lists them twice—under client- and server-based output.</p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Search/Search-Comparison-Table1.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">Content Developer Search Options Table</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>content developer search options Table</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>This table summarizes the key search features and capabilities that are available to you, the content developer, for each output type. With HTML5 and <MadCap:variable name="Outputs.WebHelp" /> outputs, you can distribute either client- or server-based outputs. This is why the table below lists them twice—under client- and server-based output.</p>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Search/Search-Comparison-Table2.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

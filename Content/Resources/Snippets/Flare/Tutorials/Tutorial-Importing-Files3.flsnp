@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p><span class="SetOffFirstLevel">Question 1 </span><span class="EmphasisItalic">Should we transfer all of the files from <span class="Emphasis">Legacy to Temp</span>, or should we transfer the necessary files from <span class="Emphasis">Temp into Legacy</span>?</span> In this tutorial, both projects are relatively small. But in an actual situation, your legacy project is likely to be much larger than the temporary one. And because importing fewer files is always easier than importing many of them, we are going to transfer the few necessary files from the Temp project into the Legacy project.</p>
+    </body>
+</html>

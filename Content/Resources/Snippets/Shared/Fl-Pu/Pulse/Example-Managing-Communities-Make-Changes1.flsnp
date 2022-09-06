@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say you've generated a target called "FlareOutput" and you've uploaded the output so that users access it here:&#160;help.mycompany.com/FlareOutput/Default.htm. In that case, enter http://help.mycompany.com/FlareOutput in the Published Url field. </p>
+        </div>
+    </body>
+</html>

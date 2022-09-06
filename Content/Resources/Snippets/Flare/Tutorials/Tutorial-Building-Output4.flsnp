@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>The Builds window pane opens at the bottom of the Flare interface, and the target begins to generate.</p>
+        <p>When the build finishes successfully, the Build Progress cell turns dark green.</p>
+    </body>
+</html>

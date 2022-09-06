@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareHTML5Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4" MadCap:conditions="Products.Flare-Server-Only">
+            <div>
+                <p><span class="Emphasis">Tripane </span>A type of HTML5 output that lets you generate output in a traditional format with three distinct frames (a navigation pane on the left, a toolbar and search on the top, and the main body pane). <a href="../../../../Flare/Output/HTML5-Output/HTML5-Tripane-Output.htm">More Details…</a></p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/HTML5-Output/HTML5-Tripane-Output.htm#TripaneSkins">Tripane Skins</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/HTML5-Output/HTML5-Tripane-Output.htm#HowSetTripane">How to Set Tripane Output</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/HTML5-Output/HTML5-Tripane-Output.htm#SettingResponsiveOptions">Setting Responsive Options</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <div class="video" MadCap:conditions="General.Server-Only">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=fIcvJxYK0ZA" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="Tiles-8-4" MadCap:conditions="Products.Flare-Local-Only">
+            <div>
+                <p><span class="Emphasis">Tripane </span>A type of HTML5 output that lets you generate output in a traditional format with three distinct frames (a navigation pane on the left, a toolbar and search on the top, and the main body pane). <a href="../../../../Flare/Output/HTML5-Output/HTML5-Tripane-Output.htm">More Details…</a></p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/HTML5-Output/HTML5-Tripane-Output.htm#TripaneSkins">Tripane Skins</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/HTML5-Output/HTML5-Tripane-Output.htm#HowSetTripane">How to Set Tripane Output</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/HTML5-Output/HTML5-Tripane-Output.htm#SettingResponsiveOptions">Setting Responsive Options</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/Tripane.png" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

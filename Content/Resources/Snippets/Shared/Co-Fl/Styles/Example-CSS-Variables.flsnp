@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>You have three fonts that you use throughout your stylesheet: Roboto Light, Roboto Medium, and Roboto Dark. Instead of setting these specific fonts in all those places, you decide to create three CSS variables for each of these: LightFont, MediumFont, DarkFont.</p>
+            <p>To start, you add these three CSS variables on the :root HTML element.</p>
+            <p>
+                <img src="../../../../Images/Shared/Co-Fl/CSS-Variables-Example1.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <p>Next, you insert each of these CSS variables, where appropriate, on properties throughout the stylesheet.</p>
+            <p>
+                <img src="../../../../Images/Shared/Co-Fl/CSS-Variables-Example2.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <p>
+                <img src="../../../../Images/Shared/Co-Fl/CSS-Variables-Example3.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>
+                <img src="../../../../Images/Shared/Co-Fl/CSS-Variables-Example4.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>A year later, your company decides to change the font families from Roboto to Segoe UI. Therefore, you open the stylesheet, navigate to <span class="Emphasis">(Variables) &gt; :root</span> and change the values for the three CSS variables.</p>
+            <p>
+                <img src="../../../../Images/Shared/Co-Fl/CSS-Variables-Example5.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>You don’t need to do anything else. You will see that all of the styles pointing to these CSS variables are updated automatically when you generate the output.</p>
+        </div>
+    </body>
+</html>

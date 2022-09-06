@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="478" MadCap:lastWidth="1089">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="../Topics/Viewing-Files-Sent-Review.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/About-Reviews-Contributions.htm">About  Reviews and Contributions</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view files sent for review</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/UI-Elements/Select-Review-Ribbon.flsnp" /> In the <span class="Emphasis">Packages</span> section select <span class="Emphasis">File Reviews</span>.<p>The File Reviews window pane opens.</p></li>
+                    <li>Click in the drop-down field at the top of the window pane, select <span class="Emphasis">Sent Files</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>From the File Reviews window pane, you can select a file in the list and click one of the buttons in the local toolbar to take action on it. The options that you can use depend on whether you are using the Central review process or review packages. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Interface/UI-Elements/File-Reviews-Window-Pane.htm">File Reviews Window Pane</MadCap:xref>.</MadCap:conditionalText></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

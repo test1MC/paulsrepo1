@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Filters/Filters-Intro.flsnp" />
+        </p>
+        <p>Once you create a filter, you can save it to reuse it later, and you can apply it to all other files of the same type in the project.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Important</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Filters/Warning-File-Type-Filters.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Examples</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Examples</p>
+                    <p>This shows how to access a file type filter:</p>
+                    <p>
+                        <img src="../../../Images/Lingo/filters_customize_filter1_lingo.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+                    <p>This shows how to access a folder filter:</p>
+                    <p>
+                        <img src="../../../Images/Lingo/filters_customize_filter2_folders_lingo.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead MadCap:conditions="General.Online-Only">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Filters/Create-New-Filter-Tools-File-Filters.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Create a Filter for Folders</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When you create a Lingo project, you can create a project from a folder. You can filter the file types in the folder so only some files are included in the translation project. You can also create additional filters for any files that may be in the folder so only certain parts of the file are imported for translation. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Lingo/Projects/Creating-Lingo-Projects.htm">Creating New Projects</MadCap:xref>.</MadCap:conditionalText></p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>Notes</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/Al-Li/Translating/Translating-Project-Files.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2] " />
+                        <MadCap:snippetBlock src="../Translating/Translating-D2H-Files.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Filters/Create-Project-Step-Filters.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet2] exclude[Snippets.Snippet1 or Snippets.Snippet3] " />
+                    </li>
+                    <li>If you want to create file type filters for the files within the folder, from the <span class="Emphasis">Filter</span> drop-down select <span class="Emphasis">Customize Folder</span>. The File Types Filters dialog opens. </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Translate</span> column, select the file types you want to import. You can click the <span class="Emphasis">Select All</span> check box to add all the file types at once.</p>
+                        <p>
+                            <img src="../../../Images/Lingo/file_types_filters1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>From the <span class="Emphasis">Filter</span> drop-down, select the filter you want to use for each translatable file type. </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You cannot select a filter for file types that cannot be translated, such as image files.</p>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+                    <li>
+                        <p>If you want to create a new filter, from the <span class="Emphasis">Filter</span> drop-down, select <span class="Emphasis">Create New</span>. </p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../Filters/Unsupported-Files-Folders.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Create a Filter for Word Documents<a name="How_to_Create_a_Filter_for_Word_Documents"></a></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetBlock src="../Filters/File-Type-Filter-Word.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Create a Filter for Excel Documents</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Filters/File-Type-Filter-Excel.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Create a Filter for Text Files<a name="How_to_Create_a_Filter_for_text_Files"></a></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <ol>
+                        <li>
+                            <MadCap:snippetText src="../Filters/Create-Project-Step-Filters.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet3] exclude[Snippets.Snippet1 or Snippets.Snippet2] " />
+                        </li>
+                        <li>From the <span class="Emphasis">Filter</span> drop-down,  select<span class="Emphasis"> Create New</span>.</li>
+                        <li>
+                            <MadCap:snippetText src="../Filters/Enter-Name-Filter.flsnp" />
+                        </li>
+                        <li>(Optional) <MadCap:snippetText src="../Filters/Existing-Filter.flsnp" /><MadCap:snippetBlock src="../Filters/Filter-Options.flsnp" /></li>
+                        <li>
+                            <p>
+                                <MadCap:snippetText src="../Filters/Note-Segment.flsnp" />
+                            </p>
+                            <MadCap:dropDown class="SecondLevel">
+                                <MadCap:dropDownHead class="OnlineOnly">
+                                    <MadCap:dropDownHotspot>Important</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <MadCap:snippetBlock src="../Filters/Updating-Legacy-Text-Filters.flsnp" />
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                        </li>
+                        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+                        <li>
+                            <p>
+                                <MadCap:snippetText src="../Filters/First-Logical-Grouping.flsnp" />
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                <MadCap:snippetText src="../Filters/Single-Line-Reg-Ex.flsnp" /> </p>
+                            <MadCap:dropDown class="SecondLevel">
+                                <MadCap:dropDownHead class="OnlineOnly">
+                                    <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <div class="example">
+                                        <p class="exampleHeadTextEmpty" MadCap:conditions="">Example</p>
+                                        <p MadCap:conditions="">Let's say you have a text file that looks like this:</p>
+                                        <p MadCap:conditions="">
+                                            <img src="../../../Images/Lingo/filters_text1.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <p>You want to include everything on the left side of the text file (between the quotation marks) as a note in your translatable file, and everything on the right side of the text file (after the equal sign) as the segment for translation.</p>
+                                        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Getting-Started-Guide,Lingo-Guides.Lingo-Translation-Guide" />
+                                        <p>To accomplish this, you would create a filter using regular expressions that look like this:</p>
+                                        <p>
+                                            <img src="../../../Images/Lingo/filters_text2.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                        <p>Because the notes are on the left side of the file, you are sure to select the <span class="Emphasis">Use logical grouping as note</span> box.</p>
+                                        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide,Lingo-Guides.Lingo-Getting-Started-Guide" />
+                                        <p>When you create the project, it will look like this:</p>
+                                        <p>
+                                            <img src="../../../Images/Lingo/filters_text3.png" alt="" title="" class="MaxWidth100Percent" />
+                                        </p>
+                                    </div>
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                        </li>
+                        <li>Click <span class="Emphasis">OK</span>.</li>
+                    </ol>
+                    <MadCap:dropDown class="SecondLevel" MadCap:conditions="General.Online-Only">
+                        <MadCap:dropDownHead class="OnlineOnly">
+                            <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For more information about regular expressions, see <MadCap:xref href="../../../../Lingo/Find-Replace/Using-Find-Replace.htm">Using the Find and Replace in Files Feature</MadCap:xref>.</p>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Create a Filter for XML Documents<a name="How_to_Create_a_Filter_for_XML_Documents"></a></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetBlock src="../Filters/File-Type-Filter-XML.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Create a Filter for JSON Files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Filters/File-Type-Filter-JSON.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Create a Filter for Unrecognized File Types<a name="How_to_Create_a_Filter_for_text_Files"></a></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p> If you add a file type that Lingo does not recognize, you will see a warning image next to the file filter drop-down. To resolve this, you can add a text file type filter to the file. This will treat the file type as a text file and allow you to translate the file.</p>
+                <p>If you do not add a file type filter to the file, it will be discarded when you create the Lingo project.</p>
+                <p>
+                    <MadCap:snippetBlock src="../Filters/Unsupported-File-Types.flsnp" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../Filters/Unrecognized-File-Type.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Edit and Update a File Filter</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Filters/Update-File-Filters-Steps.flsnp" />
+                <div class="warning">
+                    <p class="warningInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Warning: &lt;/span&gt;&lt;/b&gt;">Changing a filter that is already in use may cause corruption when exporting translations.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

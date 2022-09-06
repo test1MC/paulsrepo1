@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:dropDown class="SecondLevel" MadCap:conditions="Snippets.Snippet14">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>float</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Formatting/Formatting-Position-Tab-Float-Field.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="../Formatting/Formatting-Position-Tab-Float-Options.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="Snippets.Snippet15">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>float</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Formatting/Formatting-Position-Tab-Float-Field.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="../Formatting/Formatting-Position-Tab-Float-Options.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Images-Guide" />
+        <MadCap:dropDown class="SecondLevel" MadCap:conditions="Snippets.Snippet14">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>clear </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Formatting/Formatting-Position-Tab-Clear-Field.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="../Formatting/Formatting-Position-Tab-Clear-Options.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide,Snippets.Snippet15" />
+        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="Snippets.Snippet15">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>clear </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Formatting/Formatting-Position-Tab-Clear-Field.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="../Formatting/Formatting-Position-Tab-Clear-Options.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="SecondLevel" MadCap:conditions="Snippets.Snippet14">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>vertical alignment</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Use this field to adjust where the item is positioned vertically.</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Baseline </span>The baseline of the element will be aligned with the baseline of the parent box. </li>
+                    <li><span class="SetOffFirstLevel">Text Top </span>The top of the element will be aligned with the top of the parent element's font.</li>
+                    <li><span class="SetOffFirstLevel">Text Bottom </span>The bottom of the element will be aligned with the bottom of the line box.</li>
+                    <li><span class="SetOffFirstLevel">Top </span>The top of the element will be aligned with the top of the line box.</li>
+                    <li><span class="SetOffFirstLevel">Middle </span>The vertical midpoint of the element will be aligned with the baseline of the parent box, plus half the x-height of the parent.</li>
+                    <li><span class="SetOffFirstLevel">Bottom </span>The bottom of the element will be aligned with the bottom of the line box.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="ThirdLevel" MadCap:conditions="Snippets.Snippet15">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>vertical alignment</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Use this field to adjust where the item is positioned vertically.</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Baseline </span>The baseline of the element will be aligned with the baseline of the parent box. </li>
+                    <li><span class="SetOffFirstLevel">Text Top </span>The top of the element will be aligned with the top of the parent element's font.</li>
+                    <li><span class="SetOffFirstLevel">Text Bottom </span>The bottom of the element will be aligned with the bottom of the line box.</li>
+                    <li><span class="SetOffFirstLevel">Top </span>The top of the element will be aligned with the top of the line box.</li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Images-Guide,Snippets.Snippet15,Flare-Guides.Flare-Printed-Output-Guide" />
+                    <li><span class="SetOffFirstLevel">Middle </span>The vertical midpoint of the element will be aligned with the baseline of the parent box, plus half the x-height of the parent.</li>
+                    <li><span class="SetOffFirstLevel">Bottom </span>The bottom of the element will be aligned with the bottom of the line box.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

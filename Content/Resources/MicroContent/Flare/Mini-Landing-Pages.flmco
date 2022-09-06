@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet
+  Comment="Default micro content set for chat bots.">
+  <MicroContent>
+    <MicroContentPhrase>csh</MicroContentPhrase>
+    <MicroContentPhrase>context-sensitive help</MicroContentPhrase>
+    <MicroContentPhrase>header file</MicroContentPhrase>
+    <MicroContentPhrase>map ID</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-CSH.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>git</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Git.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>glossary</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Glossary.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>images</MicroContentPhrase>
+    <MicroContentPhrase>pictures</MicroContentPhrase>
+    <MicroContentPhrase>graphics</MicroContentPhrase>
+    <MicroContentPhrase>resizing images</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Images.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>index</MicroContentPhrase>
+    <MicroContentPhrase>keyword</MicroContentPhrase>
+    <MicroContentPhrase>index keyword</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Index.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>search</MicroContentPhrase>
+    <MicroContentPhrase>search results</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Search.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>source control</MicroContentPhrase>
+    <MicroContentPhrase>version control</MicroContentPhrase>
+    <MicroContentPhrase>bind to source control</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Source-Control.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>table</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Table.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>toggler</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Toggler.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>variables</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Variable.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>elasticsearch</MicroContentPhrase>
+    <MicroContentPhrase>elastic search</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Elasticsearch.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>sharepoint</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-SharePoint.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>global project linking</MicroContentPhrase>
+    <MicroContentPhrase>global project</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-GPL.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>page layout</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Page-Layouts.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>salesforce</MicroContentPhrase>
+    <MicroContentPhrase>salesforce connect</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Salesforce.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>conditions</MicroContentPhrase>
+    <MicroContentPhrase>condition tags</MicroContentPhrase>
+    <MicroContentPhrase>conditional text</MicroContentPhrase>
+    <MicroContentPhrase>conditional</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Conditions.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>file tags</MicroContentPhrase>
+    <MicroContentPhrase>file tagging</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-File-Tags.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>import</MicroContentPhrase>
+    <MicroContentPhrase>importing</MicroContentPhrase>
+    <MicroContentPhrase>import project</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Importing.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>skin</MicroContentPhrase>
+    <MicroContentPhrase>skin editor</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Skin.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>master page</MicroContentPhrase>
+    <MicroContentPhrase>masterpage</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Master-Page.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>toc proxy</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-TOC-Proxy.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>tfs</MicroContentPhrase>
+    <MicroContentPhrase>team foundation server</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-TFS.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>templates</MicroContentPhrase>
+    <MicroContentPhrase>topic template</MicroContentPhrase>
+    <MicroContentPhrase>project template</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Template.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>autonumber</MicroContentPhrase>
+    <MicroContentPhrase>autonumbering</MicroContentPhrase>
+    <MicroContentPhrase>auto numbering</MicroContentPhrase>
+    <MicroContentPhrase>auto-number</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Autonumber.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>concepts</MicroContentPhrase>
+    <MicroContentPhrase>concept link</MicroContentPhrase>
+    <MicroContentPhrase>see also</MicroContentPhrase>
+    <MicroContentPhrase>see also links</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Concepts.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>publish</MicroContentPhrase>
+    <MicroContentPhrase>publishing</MicroContentPhrase>
+    <MicroContentPhrase>destination</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Publish.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>cross-reference</MicroContentPhrase>
+    <MicroContentPhrase>cross reference</MicroContentPhrase>
+    <MicroContentPhrase>xref</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Cross-References.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>alias file</MicroContentPhrase>
+    <MicroContentPhrase>alias</MicroContentPhrase>
+    <MicroContentPhrase>identifiers</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Alias-File.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>analysis</MicroContentPhrase>
+    <MicroContentPhrase>analytics</MicroContentPhrase>
+    <MicroContentPhrase>feedback</MicroContentPhrase>
+    <MicroContentPhrase>google analytics</MicroContentPhrase>
+    <MicroContentPhrase>pulse</MicroContentPhrase>
+    <MicroContentPhrase>analyzer</MicroContentPhrase>
+    <MicroContentPhrase>reports</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Analysis-Reporting-Feedback.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>drop-down</MicroContentPhrase>
+    <MicroContentPhrase>dropdown</MicroContentPhrase>
+    <MicroContentPhrase>drop-down text</MicroContentPhrase>
+    <MicroContentPhrase>drop down</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Drop-Down.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>expanding text</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Expanding-Text.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>Central</MicroContentPhrase>
+    <MicroContentPhrase>MadCap Central</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Central.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>title page</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Title-Page.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>tripane</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Tripane.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>skinless</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Skinless.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>pdf</MicroContentPhrase>
+    <MicroContentPhrase>pdf target</MicroContentPhrase>
+    <MicroContentPhrase>pdf output</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-PDF.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>word output</MicroContentPhrase>
+    <MicroContentPhrase>word target</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Word.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>responsive web design</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Responsive-Web-Design.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>responsive content</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Responsive-Content.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>responsive skins</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Responsive-Skins.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>master project</MicroContentPhrase>
+    <MicroContentPhrase>parent project</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Master-Project.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>merging projects</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Merging-Projects.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>span</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Span.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>snippet conditions</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Snippet-Conditions.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>hyperllinks</MicroContentPhrase>
+    <MicroContentPhrase>text hyperlinks</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Hyperlinks.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>popups</MicroContentPhrase>
+    <MicroContentPhrase>text popups</MicroContentPhrase>
+    <MicroContentPhrase>topic popups</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Popups.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>lists</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Lists.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>topic toolbar</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Topic-Toolbars.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>troubleshooting</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Troubleshooting.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>unbind</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Unbind.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>style inspector</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Style-Inspector.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>proxies</MicroContentPhrase>
+    <MicroContentPhrase>proxy</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Proxies.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>related topics</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Related-Topics.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>relationship table</MicroContentPhrase>
+    <MicroContentPhrase>relationship links</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Relationship-Tables.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>mini-toc</MicroContentPhrase>
+    <MicroContentPhrase>mini-toc proxy</MicroContentPhrase>
+    <MicroContentPhrase>minitoc</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Mini-TOC.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>multimedia</MicroContentPhrase>
+    <MicroContentPhrase>movies</MicroContentPhrase>
+    <MicroContentPhrase>videos</MicroContentPhrase>
+    <MicroContentPhrase>audio</MicroContentPhrase>
+    <MicroContentPhrase>3D models</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Multimedia.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>micro content</MicroContentPhrase>
+    <MicroContentPhrase>featured snippets</MicroContentPhrase>
+    <MicroContentPhrase>chatbots</MicroContentPhrase>
+    <MicroContentPhrase>chat bots</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Micro-Content.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>html5</MicroContentPhrase>
+    <MicroContentPhrase>htmlt5 output</MicroContentPhrase>
+    <MicroContentPhrase>html5 target</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-HTML5.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>css variables</MicroContentPhrase>
+    <MicroContentPhrase>style variables</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-CSS-Variables.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>reviews</MicroContentPhrase>
+    <MicroContentPhrase>topic review</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Shared/Ce-Fl/Mini-Landing-Pages/MLP-Reviews.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>target</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Target.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>zendesk</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Flare/Mini-Landing-Pages/MLP-Zendesk.flsnp" />
+  </MicroContent>
+</MicroContentSet>

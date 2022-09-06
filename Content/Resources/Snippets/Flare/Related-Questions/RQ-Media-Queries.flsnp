@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareStylesCheatSheet.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/CheatSheet_Icon.png" title="Cheat Sheet" /></a> <a href="https://docs.madcapsoftware.com/flare2019/FlareStylesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a></div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Media Query </span>
+                    <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Media-Queries1.flsnp" />&#160;<a href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">More Details…</a></p>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What kinds of media queries are available in Flare?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Styles/Tablet-Mobile-Media-Queries1.flsnp" />&#160;<MadCap:snippetText src="../Styles/Tablet-Mobile-Media-Queries2.flsnp" /> <a href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm#TabletMobileMediaQueries">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">Where do you work with media queries?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Styles/CSS-Multiple-Medium-View.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " /> Not only are mediums and media queries accessible from the Stylesheet Editor, you can also use them in the Table Style Editor when working with table stylesheets. <a href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm#MultipleMediumView">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the most common media query tasks in Flare?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Mediums/Creating-Media-Queries.htm">Creating Media Queries</MadCap:xref>
+                                </li>
+                                <li><a href="../../../../Flare/Styles/Mediums/Selecting-Mediums-Media-Queries.htm">Selecting Media Queries</a>
+                                </li>
+                                <li><a href="../../../../Flare/Styles/Mediums/Renaming-Mediums-and-Modifying-Media-Queries.htm">Modifying Media Queries</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What does the MadCap Doc Team do with media queries?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>For all of our stylesheets, we use the factory “tablet” and “mobile” media queries to change the look of some styles when content is displayed on smaller devices. <a href="../../../../Flare/Project-Architecture/Internal-Architecture/Stylesheets.htm#WhatMadCapDocTeamDoes">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </div>
+            <div>
+                <div class="video" MadCap:conditions="General.Server-Only">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=7iHnsgm31RA" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                    <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/flare/#Styles" target="_blank">View More Videos in This Series</a>
+                    </p>
+                </div>
+                <p MadCap:conditions="Products.Flare-Local-Only" style="text-align: center;">
+                    <img src="../../../Images/Flare/tablet_mobile_media_queries.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

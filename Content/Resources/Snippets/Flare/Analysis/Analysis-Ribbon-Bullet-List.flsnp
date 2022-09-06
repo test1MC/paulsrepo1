@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p MadCap:conditions="General.Print-Only">There are seven buttons on this ribbon, with drop-down options on most of the buttons for additional analysis  on your project.</p>
+        <ul MadCap:conditions="General.Print-Only">
+            <li><span class="Emphasis">Summary</span> Opens the Analysis window pane, which is&#160;<MadCap:snippetText src="../UI-Elements/Project-Analysis-Window-Summary.flsnp" /> See <MadCap:xref href="../../../../Print-Only-Topics/Flare/Analysis/Analysis-Summary-Pane.htm">Analysis Summary Pane</MadCap:xref>.</li>
+            <li><span class="Emphasis">Links </span>
+                <MadCap:snippetText src="Links-Submenu.flsnp" /> See <MadCap:xref href="../../../../Flare/Analysis/About-Links-Analysis.htm">Viewing Links in Analysis</MadCap:xref>.</li>
+            <li><span class="Emphasis">Suggestions </span>
+                <MadCap:snippetText src="Suggestions-Submenu.flsnp" /> See <MadCap:xref href="../../../../Flare/Analysis/About-Suggestions.htm">Viewing Suggestions</MadCap:xref>.</li>
+            <li><span class="Emphasis">Undefined Items </span>
+                <MadCap:snippetText src="Undefined-Submenu.flsnp" /> See <MadCap:xref href="../../../../Flare/Analysis/About-Undefined-Items.htm">Viewing Undefined Items</MadCap:xref>.</li>
+            <li><span class="Emphasis">Used Items </span>
+                <MadCap:snippetText src="Used-Items-Submenu.flsnp" /> See <MadCap:xref href="../../../../Flare/Analysis/About-Used-Items.htm">Viewing Used Items</MadCap:xref>.</li>
+            <li><span class="Emphasis">More Reports </span>
+                <MadCap:snippetText src="More-Reports-Submenu.flsnp" /> See <MadCap:xref href="../../../../Flare/Analysis/About-More-Reports-Analysis-Ribbon.htm">Viewing More Analysis Scans</MadCap:xref>.</li>
+            <li><span class="Emphasis">File Issues </span>
+                <MadCap:snippetText src="../UI-Elements/File-Issues-Summary.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

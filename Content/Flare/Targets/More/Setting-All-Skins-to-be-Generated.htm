@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" style="mc-master-page: url('../../../Resources/MasterPages/Flare/PDF-Topics/Flare-Targets.flmsp');">
+    <head><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterFeatures" />
+            <MadCap:concept term="FilterDesign" />
+            <MadCap:keyword term="Skins:generating;Skins:context-sensitive Help;Context-sensitive Help:skins;Skins:targets" />Setting All Skins to be Generated</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Banners/Feature-Supported/HTML5-WebHelp-WH-Plus.flsnp" />
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Flare/Skins/Generate-All-Skins.flsnp" />
+        </p>
+        <p>One reason to enable this option is if you need the ability to make context-sensitive Help (CSH) calls to different skins. In this case, each of those skins must be generated so that they are available in the output for the CSH calls. If you are not using multiple skins for CSH calls, you might want to disable this option. If you disable it, the size of the entire output will be minimized because unnecessary skins will be excluded.</p>
+        <p>Another reason to enable this option is to use runtime skins for HTML5 outputs, where end users are able to choose the skin to display the output.<MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Skins-Guide"> See <MadCap:xref href="../../Skins/More/Enabling-Runtime-Skins.htm">Enabling Runtime Skins</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Skins-Guide,Flare-Guides.Flare-Targets-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to set all skins to be generated</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a target used for online output.</li>
+                    <li>
+                        <p>On the <span class="Emphasis">Advanced</span> tab of the Target Editor, select <span class="Emphasis">Generate all skins</span> so that it has a check mark.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/target-editor-advanced-generate-all-skins.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

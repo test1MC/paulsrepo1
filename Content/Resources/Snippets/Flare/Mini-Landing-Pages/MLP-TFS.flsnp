@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="[%=PDF-URLs.SourceControlTFS%]" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">TFS </span>Stands for Microsoft “Team Foundation Server.” It is a source control tool that integrates with Flare. You can use the Flare interface to perform various source control tasks for a project that is bound to TFS. <a href="../../../../Flare/Source-Control/TFS/About-Microsoft-Team-Foundation-Server.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>Setting Up TFS (done outside of Flare)</li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Source-Control/TFS/Binding-Project-to-Source-Control-tfs.htm">Binding a Project to Microsoft Team Foundation Server</MadCap:xref>
+                    </li>
+                    <li>(Other Team Members) <MadCap:xref href="../../../../Flare/Source-Control/TFS/Importing-Project-from-Source-Control-tfs.htm">Importing a Project from Microsoft Team Foundation Server</MadCap:xref></li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Source-Control/TFS/Getting-Latest-Version-Source-Control-Files-tfs.htm" target="" title="" alt="">Getting the Latest Version of Source Control Files</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Source-Control/TFS/Checking-Out-Source-Control-Files-tfs.htm">Checking Out Source Control Files</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Source-Control/TFS/Checking-In-Source-Control-Files-tfs.htm">Checking In Source Control Files</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Source-Control/TFS/Merging-Source-Control-Files-tfs.htm">Merging Source Control Files</MadCap:xref>
+                    </li>
+                </ol>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Shared/Fl-Li/source_control_bind_tfs_example.png" alt="" title="" style="width: 385px;height: 165px;" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

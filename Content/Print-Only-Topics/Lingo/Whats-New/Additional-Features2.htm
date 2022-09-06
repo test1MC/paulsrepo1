@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="FrameMaker" />Adobe FrameMaker 2019 Support</h1>
+        <p>If you are translating Adobe FrameMaker files, Lingo now supports  FrameMaker 2019. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../Lingo/Projects/Creating-Lingo-Projects.htm">Creating New Projects</MadCap:xref>.</MadCap:conditionalText></p>
+        <h1 class="NoPageBreakBefore">
+            <MadCap:keyword term="Interface" />Interface Themes Updated</h1>
+        <p>The black, classic, and silver interface themes have been redesigned. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../Lingo/Interface/Selecting-Interface-Color-Theme.htm">Selecting an Interface Color Theme</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Resources/Images/Lingo/theme_black_lingo.png" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Resources/Images/Lingo/theme_classic_lingo.png" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Resources/Images/Lingo/theme_silver_lingo.png" class="MaxWidth100Percent" />
+        </p>
+        <h1>
+            <MadCap:keyword term="Language support:selecting language" />Language Drop-Down in File List Window Pane</h1>
+        <p>If you have a multilingual project, you can select a language in the File List window pane (View &gt; File List), in addition to the Project Properties dialog (File &gt; Project Properties).</p>
+        <p>
+            <img src="../../../Resources/Images/Lingo/file-list-select-lanaguage-drop-down.png" class="MaxWidth100Percent" />
+        </p>
+        <h1>
+            <MadCap:keyword term="Language support" />Norwegian Bokmål and Nynorsk Language Support</h1>
+        <p>Lingo now supports  Norwegian Bokmål and Nynorsk languages. These languages can be selected when you start a new Lingo project, or in the Project Properties dialog. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../Lingo/Projects/Creating-Lingo-Projects.htm">Creating New Projects</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Resources/Images/Lingo/language-norwegian-bokmal.png" class="MaxWidth100Percent" />
+        </p>
+        <h1>
+            <MadCap:keyword term="Source control;Multi-authoring" />Source Control Enhancements</h1>
+        <p>If you are integrating your Lingo project with Git source control, you can now merge branches and revert commits you have made in branches.</p>
+        <h2>Merging Branches in Git</h2>
+        <p>In previous versions of Lingo you could merge individual files bound in Git. Now you can merge Git branches as well.</p>
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Merge Branches in Git</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <p>Do one of the following, depending on the part of the user interface you are using:</p>
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">Source Control &gt; Merge</span>.</p>
+                                <p>
+                                    <img src="../../../Resources/Images/Lingo/merge-branches2.png" alt="" title="" class="MaxWidth70Percent" />
+                                </p>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Right-Click</span> If you have the File List window pane open, right-click any file and select <span class="Emphasis">Source Control &gt; Project &gt;&#160;Merge</span>.</p>
+                                <p>
+                                    <img src="../../../Resources/Images/Lingo/merge-branches3.png" alt="" title="" class="MaxWidth90Percent" />
+                                </p>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Source Control Explorer</span> Click the <span class="Emphasis">Merge Branch</span> button.</p>
+                                <p>
+                                    <img src="../../../Resources/Images/Lingo/merge-branches1.png" alt="" title="" class="MaxWidth50Percent" />
+                                </p>
+                            </li>
+                        </ul>
+                        <p>The Select branch to merge dialog opens.</p>
+                    </li>
+                    <li>
+                        <p>From the drop-down, select the Git branch you wish to merge into the active branch.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Lingo/merge-branches4.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Whats-New-Guide,Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+                    <li>Click <span class="Emphasis">OK</span>.</li>
+                    <li>When the merge operation is completed, a dialog displays, indicating the merge was a success. Click <span class="Emphasis">OK</span> to close the dialog.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p>Let's say you have two feature branches that are bound in Git source control.</p>
+                    <p>In the first feature branch (develop-feature1), you make changes to a file called “Getting-Started” and commit those changes. These changes are specific to the first feature being developed.</p>
+                    <p>In the second feature branch (e.g., develop-feature2), you make changes to the same "Getting-Started"&#160;file and commit those changes. These changes are specific to the second feature being developed, and are being made in a separate part of the topic from the develop-feature1 changes.</p>
+                    <p>After you complete and commit your changes on the second feature branch, you decide you want to merge your changes from the first feature branch to the second feature branch. </p>
+                    <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+                    <p>In the Source Control Explorer, you select the <span class="Emphasis">develop-feature2</span> branch. Then, you click the <span class="Emphasis">Merge Branch</span> button. From the drop-down, you select <span class="Emphasis">develop-feature1</span>.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Lingo/merge-branches5.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                    <p>You click <span class="Emphasis">OK</span> to merge. Since the changes took place in different sections of the "Getting-Started" file, the merging of the first feature branch into the second feature branch is successful.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Note-Git-Branching-Merging.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Whats-New-Guide" />
+        <h2>Reverting Commits in Git</h2>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Reverting-Commits-Git.flsnp" />
+        <p>An advantage of reverting a prior commit on your branch is that it will back out any unwanted changes. If other writers are making changes on the same branch, any reverted commits will be picked up by the other writers when they pull from that branch. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../Lingo/Source-Control/Git/Pulling-Files-from-Remote.htm">Pulling Files from a Remote Repository—Git</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>But one disadvantage of reverting commits in your branch is that it will remove part of your branch history. The revert removes the part of your branch history that contained the commits that were undone.</p>
+        <MadCap:dropDown class="FourthLevel">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Revert Commits in a Git Branch</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Select <b>View &gt; Source Control Explorer</b>, and select your branch containing changes that you want to revert.</li>
+                    <li>
+                        <p>In the <span class="Emphasis">Source Control</span> ribbon, click <span class="Emphasis">Branch History</span>. The dialog that opens lets you view and revert specific commits within your branch.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Lingo/revert-branches1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Whats-New-Guide" />
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Commit-History-Dialog-Columns.flsnp" />
+                    </li>
+                    <li>Select the row that contains the commit you want to back out.</li>
+                    <li>Click <span class="Emphasis">Revert</span>.The Accept reverted modifications dialog opens.</li>
+                    <li>Click <span class="Emphasis">Accept</span>.</li>
+                    <li>A confirmation message confirms the revert was successful. Click <span class="Emphasis">OK</span>&#160;to close this dialog.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h1>
+            <MadCap:keyword term="Start Page" />Start Page Redesigned</h1>
+        <p>The Start Page in Lingo has been redesigned, making it even easier to use. If you do not see it, select <span class="Emphasis">View &gt; Start Page</span>.</p>
+        <p>
+            <img src="../../../Resources/Images/Lingo/start_page_new_lingo.png" class="MaxWidth100Percent" />
+        </p>
+        <h1>Support for New File Types</h1>
+        <p>Lingo now supports JSON, micro content, and SVG files. </p>
+        <h2>
+            <MadCap:keyword term="JSON file" />JSON File Support</h2>
+        <p>Lingo now provides support for translating JSON files. This lets you choose the parts of the JSON file that are filtered for translation. In the File Filters dialog,  click in the <span class="Emphasis">File type</span> field and select <span class="Emphasis">JSON Files</span>.</p>
+        <p>
+            <img src="../../../Resources/Images/Lingo/file-filters-json.png" class="MaxWidth100Percent" />
+        </p>
+        <p>A file filter for JSON is created based on the attributes in the existing JSON file. If you update a project and there are new attributes associated with the JSON file, you will need to manually add it to the file filter. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../Lingo/Filters/File-Type-Filters.htm">File Type Filters</MadCap:xref>.</MadCap:conditionalText></p>
+        <h2>
+            <MadCap:keyword term="Micro content" />Micro Content File Support</h2>
+        <p>Micro content files can now be translated in Lingo. You can translate phrases and responses contained in the micro content file. For more information on micro content, see the Flare online Help.</p>
+        <p>
+            <img src="../../../Resources/Images/Lingo/micro-content-multiple-segments.png" class="MaxWidth100Percent" />
+        </p>
+        <h2>
+            <MadCap:keyword term="SVG file" />SVG File Type Support</h2>
+        <p>Lingo now supports translation of text within SVG files.  When you translate the SVG file, the text within each &lt;text&gt; tag displays as a segment.</p>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Say that you want to translate a project that contains multiple SVG files. One of these SVG files contain three lines of text. There are also three separate &lt;text&gt; tags within the XML version of this file.</p>
+            <p>
+                <img src="../../../Resources/Images/Lingo/SVG-example.png" alt="" title="" />
+            </p>
+            <p>When this file is brought into Lingo, those lines in the SVG file are represented as three separate segments.</p>
+            <p>
+                <img src="../../../Resources/Images/Lingo/svg-translation-segments.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

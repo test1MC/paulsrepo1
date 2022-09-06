@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>You can create and use both mediums and media queries in a stylesheet. These features can be an efficient alternative to using multiple stylesheets in your project. The two concepts are very similar; in fact, you will see them side by side in different places in Flare's user interface. However, mediums and media queries are not the same.</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Medium </span>
+                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Medium-Type-Summary.flsnp" />
+            </li>
+            <li><span class="SetOffFirstLevel">Media Query </span>
+                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Media-Queries1.flsnp" />
+            </li>
+        </ul>
+    </body>
+</html>

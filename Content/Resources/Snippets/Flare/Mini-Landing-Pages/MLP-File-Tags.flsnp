@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">File Tag </span>A tag that can be applied to files for many different purposes, such as assigning authors or milestones to topics.   <a href="../../../../Flare/File-Tagging/About-File-Tagging.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/File-Tagging/Adding-File-Tag-Sets.htm">Adding File Tag Sets</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/File-Tagging/Creating-File-Tags.htm">Creating File Tags</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/File-Tagging/Associating-Tags-with-Files.htm">Associating Tags with Files</MadCap:xref>
+                    </li>
+                </ol>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/file_tag_set_example1.png" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

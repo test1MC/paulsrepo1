@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareVariablesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Variable </span>A <MadCap:snippetText src="../Variables/Variable-Definition.flsnp" /> <a href="../../../../Flare/Variables/About-Variables.htm">More Details…</a></p>
+                <p class="Bold">Common Tasks</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Variables/Adding-Variable-Sets-to-Projects.htm">Adding Variable Sets to Projects</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Variables/Creating-New-Variables.htm">Creating New Variables</MadCap:xref> and <MadCap:xref href="../../../../Flare/Variables/Creating-Date-Time-Variables.htm">Creating Custom Date/Time Variables</MadCap:xref></li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Variables/Inserting-Variables.htm">Inserting Variables</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Variables/Editing-Variables.htm">Editing Variables</MadCap:xref> and <MadCap:xref href="../../../../Flare/Variables/Editing-Date-Time-Variables.htm">Editing Date/Time Variables</MadCap:xref></li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Variables/Overriding-Variable-Definitions.htm">Overriding Variable Definitions in Targets</MadCap:xref>
+                    </li>
+                </ul>
+                <p><a href="../../../../Flare/Project-Architecture/Internal-Architecture/Variables.htm#WhatMadCapDocTeamDoes">What the MadCap Doc Team Does</a>
+                </p>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Variable1.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Variable2.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

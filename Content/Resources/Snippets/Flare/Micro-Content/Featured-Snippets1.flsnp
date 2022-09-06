@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>If you have used Google—and who hasn’t?—you have definitely seen objects that are known as “Google Search Engine Results Page (SERP) features” that display on the page with regular search results. There are all kinds of SERP features that you come across from time to time. One of these is called a “featured snippet,” which provides an answer to a query, such as “How to change a tire.”</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <p>Micro content that is created in a Flare project can result in custom featured snippets in your output’s search results. This is the easiest, most immediate way to use micro content from Flare.</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content4.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <p>As with most of the SERP&#160;features that you see in Google, the featured snippets in Flare output appear <span class="EmphasisItalic">above</span> regular search results, thus making them especially valuable. In other words, you can always ensure that this targeted information is seen before anything else, rather than buried among the rest of the results.</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content5.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>Although these are referred to as “featured snippets,” don’t confuse them with the regular snippets in a Flare project. As you will see, micro content can be created with the help of regular snippets, but that is purely optional.</p>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">To create featured snippets for your search results, you need to be using either Elasticsearch or MadCap Search as your search engine<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../../../../Flare/Search/Search-Engines/Setting-Up-Search-Engine.htm">Setting Up a Search Engine</MadCap:xref>)</MadCap:conditionalText>. Also, this feature is supported only with HTML5 skins (Side Navigation, Top Navigation, Tripane), as well as skinless outputs.</p>
+        </div>
+    </body>
+</html>

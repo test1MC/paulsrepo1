@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="162" MadCap:lastWidth="1205">
+    <body>
+        <ul>
+            <li><span class="Emphasis">Author </span>This is an individual who works in Flare projects, creating and editing content. When necessary, this person can send topics and snippets that need to be reviewed by others. Along with the reviewers, the author can open and edit files in the lightweight editor in Central.</li>
+            <li><span class="Emphasis"><MadCap:keyword term="Subject matter expert" />Subject Matter Expert </span>This is an individual whose purpose in Central is to review topics and/or snippets sent by an author. Therefore, a SME only sees the parts of the Central user interface that are necessary for reviews.</li>
+        </ul>
+    </body>
+</html>

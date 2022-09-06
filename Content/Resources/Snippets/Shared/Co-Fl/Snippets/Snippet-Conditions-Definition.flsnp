@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>condition tags that you can apply to content within snippets. They are especially useful when the majority of the snippet content is identical everywhere the snippet is used, but there are some small differences in some places. This lets you use one snippet for many purposes, rather than having to create multiple snippets to account for the small exceptions. Whereas regular conditions are included or excluded at the target level, snippet conditions are included or excluded at the snippet or topic level.</p>
+    </body>
+</html>

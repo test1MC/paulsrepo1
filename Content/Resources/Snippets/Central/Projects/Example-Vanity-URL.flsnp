@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let’s say you have a license called “FictionSoft.” Your default license vanity URL would therefore be fictionsoft.mcoutput.com.</p>
+            <p>
+                <img src="../../../Images/Central/vanity-url1.png" alt="" title="" class="MaxWidth90Percent" />
+            </p>
+            <p>Maybe you have a project called “My Big Project,” and you generate an HTML5 target named “HTML5 - Top Navigation.” You then set the build for that target to “Live.” In that case, the entry point for the published HTML5 output might be something like this:</p>
+            <p>https://fictionsoft.mcoutput.com/65211/Default.htm</p>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Projects-and-Builds-Guide" />
+            <p>In place of the name of the target (HTML5 - Top Navigation), the auto-generated number 65211 is used. And because this is an HTML5 target, the main entry point for the output is a file called “Default.htm.”</p>
+            <p>
+                <img src="../../../Images/Central/vanity-url2.png" alt="" title="" class="MaxWidth100Percent" /> </p>
+            <p>In the toolbar of the Targets pane, you click <img src="../../../Images/Central/view-btn4.png" alt="" title="" class="ReduceButtonSize" />, and from the menu you select <b>View Latest Live Build</b>.</p>
+            <p>
+                <img src="../../../Images/Central/vanity-url3.png" alt="" title="" class="MaxWidth80Percent" /> </p>
+            <p>Alternatively, you could click the check box to the left of the live build and select <img src="../../../Images/Central/view-btn4.png" alt="" title="" class="ReduceButtonSize" /> in the builds toolbar.</p>
+            <p>
+                <img src="../../../Images/Central/vanity-url4.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <p>This opens your output using the live URL.</p>
+        </div>
+    </body>
+</html>

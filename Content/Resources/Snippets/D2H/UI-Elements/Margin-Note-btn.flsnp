@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1140">
+    <body>
+        <p class="TableText">Inserts a note or image in the left margin of a printed target. The margin note can be displayed as a popup in online outputs if desired.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../D2H/Margin-Notes/Creating-Margin-Notes.htm">Creating Margin Notes</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide,D2H-Guides.D2H-Whats-New-Guide"> See the online Help or the <span class="EmphasisItalic">Documents, Templates, and Content Guide</span>.</MadCap:conditionalText></p>
+    </body>
+</html>

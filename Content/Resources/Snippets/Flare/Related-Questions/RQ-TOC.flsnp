@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareTablesOfContentsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">TOC </span>Stands for “table of contents,” a common way for end users to find specific information in online and print output. <a href="../../../../Flare/TOCs/About-TOCs.htm">More Details…</a></p>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">How do you work with a TOC file?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Welcome/Most-Important-TOCs1.flsnp" />&#160;</p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is the difference between online and print TOCs?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Welcome/Most-Important-TOCs2.flsnp" />
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">How many TOC files should you have in a project?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>You can include as many TOC files in your project as you want. Each TOC might be used for a different target, or you can use a single TOC file for multiple targets, especially if you use conditions on the TOC entries. You also have the option of linking TOCs together so that they appear seamless in the final output that your end users see.</p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is a master TOC?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../TOCs/TOC-Associate-Master-Project-Target-Summary.flsnp" />
+                            </p>
+                            <ul>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/TOCs/Associating-Master-TOC-with-Project.htm">Associating a Master TOC with a Project</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/TOCs/Associating-Master-TOC-with-Target.htm">Associating a Master TOC with a Target</MadCap:xref>
+                                </li>
+                            </ul>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">Can you connect TOC files to one another?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>You can merge your project with others, connecting a TOC in one project with those in another project. This can be done in a few different ways, depending on your output types. <a href="../../../../Flare/TOCs/Merging-Projects.htm">More Details…</a></p>
+                            <p>You can also link multiple TOCs together. From the perspective of the end user, it will be seamless in the final output, appearing as just one TOC. <a href="../../../../Flare/TOCs/More/Linking-TOC-Entries.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the basic steps for creating a TOC in online output?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ol>
+                                <li><a href="../../../../Flare/TOCs/More/Adding-TOC.htm">Add a TOC file</a> and within it <a href="../../../../Flare/TOCs/Creating-TOC-Manually.htm">create entries</a> that link to topics or other files.</li>
+                                <li><a href="../../../../Flare/TOCs/Enabling-TOCs-Skins.htm">Enable the TOC in a skin</a>.</li>
+                                <li><a href="../../../../Flare/TOCs/Associating-Master-TOC-with-Target.htm">Associate a master TOC with a target</a> or <a href="../../../../Flare/TOCs/Associating-Master-TOC-with-Project.htm">with the project</a>.</li>
+                            </ol>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the basic steps for creating a TOC in print output?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <MadCap:snippetBlock src="../Mini-Landing-Pages/TOC-Print-Steps.flsnp" />
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">How can I automatically generate a TOC in print output?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ol>
+                                <li>Open a print-based target.</li>
+                                <li>On the <span class="Emphasis">Advanced</span> tab of the Target Editor, select <span class="Emphasis">Generate TOC Proxy</span>.</li>
+                                <li>
+                                    <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                                </li>
+                            </ol>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What other things might I need to do with a TOC for print output?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <MadCap:snippetBlock src="../Mini-Landing-Pages/Other-Tasks-Print-Output.flsnp" />
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What does the MadCap Doc Team do with styles?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>For each product being documented in our main “Shared” project, we create one TOC file that is used for online output. That TOC is used for both our local and server HTML5 output.</li>
+                                <li>We create a separate TOC file for each PDF that we produce.</li>
+                                <li>We typically do not link our TOC files together.</li>
+                            </ul>
+                            <p><a href="../../../../Flare/Project-Architecture/Internal-Architecture/Tables-Contents.htm#WhatMadCapDocTeamDoes">More Details…</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </div>
+            <div>
+                <p style="text-align: center;">
+                    <img src="../../../Images/Flare/tocs1.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

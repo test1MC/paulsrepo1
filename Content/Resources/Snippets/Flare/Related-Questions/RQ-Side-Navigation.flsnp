@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent">
+            <a href="https://docs.madcapsoftware.com/flare2019/FlareHTML5Guide.pdf" target="_blank">
+                <img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" />
+            </a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p>
+                    <span class="Emphasis">Side Navigation </span>A type of HTML5 output that can be designed to look like a modern website, where the main navigation is positioned at the left or right. It lets you use a flexible, frameless output while continuing to have a more traditional configuration that looks like the Tripane format. <a href="../../../../Flare/Output/HTML5-Output/HTML5-Side-Navigation-Output.htm">More Details…</a></p>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot>
+                            <span class="micro-dropdown-head">What is a Side Navigation skin?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../HTML5/HTML5-Skin-Type-Summary.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2] " />&#160;<a href="../../../../Flare/Output/HTML5-Output/HTML5-Side-Navigation-Output.htm#SideNavigationSkin">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot>
+                            <span class="micro-dropdown-head">What is the best way to create Side Navigation output?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../HTML5/Options-Creating-HTML5-Output.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2 or Snippets.Snippet3] " />
+                                <MadCap:snippetText src="../HTML5/Options-Creating-HTML5-Output2.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2] " />
+                            </p>
+                            <ul>
+                                <li>Create a new project using a Flare Side Navigation template (easiest)</li>
+                                <li>Convert an existing project by yourself</li>
+                                <li>Convert an existing project by incorporating pieces from a Flare template (recommended for conversions)</li>
+                            </ul>
+                            <p>
+                                <a href="../../../../Flare/Output/HTML5-Output/HTML5-Side-Navigation-Output.htm#OptionsCreatingSideNav">More Details…</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot>
+                            <span class="micro-dropdown-head">What are the basic steps to produce Side Navigation output?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ol>
+                                <li>Select <span class="Emphasis">Project &gt; New &gt; Add Skin</span> and choose the <b>HTML 5 - Side Navigation</b> skin. After it opens, edit it as necessary.</li>
+                                <li>In your HTML5 target, select the <b>Skin</b> tab, and in the <b>Skin</b> field select your new Side Navigation skin.</li>
+                                <li>Create a Home page topic. Then in your HTML5 target, select the <b>General</b> tab, and select that topic in the <b>Startup Topic</b> field.</li>
+                                <li>Add topics to a TOC file (the Side Navigation output will use this to create the main side menu in the output).</li>
+                            </ol>
+                            <p>
+                                <a href="../../../../Flare/Output/HTML5-Output/HTML5-Side-Navigation-Output.htm#HowToProduceSideNav">More Details with Full Steps…</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot>
+                            <span class="micro-dropdown-head">How can I "test drive" this feature?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>Work through the Side Navigation Tutorial. This tutorial is based on Flare's Side Navigation project template, which you can select when creating a new project. In this tutorial, we demonstrate how to convert your existing project to create Side Navigation output. <a href="../../../../Flare/Tutorials/Side-Navigation-Tutorial/Side-Navigation-Tutorial.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/side-nav1.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

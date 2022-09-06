@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="caption-side: top;margin-left: 0;margin-right: auto;width: 100%;mc-table-style: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');" cellspacing="0" class="TableStyle-Basic-Alternate-Rows">
+            <col style="width: 20%;" class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Button/Section</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Words</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Displays the number of words in the open file. If you highlight words in the file, this area shows you how many words are selected out of the total count. If a file contains snippets, the words from those snippets are not included in this word count, because those are separate files.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Ca-Co-Fl/smaller_font_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Reduces the scale of the font by 10% each time you click the button.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Ca-Co-Fl/reset_font_100_percent_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Resets the scale of the font to 100%.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Ca-Co-Fl/larger_font_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Increases the scale of the font by 10% each time you click the button.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Ca-Co-Fl/font_percentage_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Lets you select a specific percentage to scale the font.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Ca-Co-Fl-Li-Mi/hide_show_conditional_indicators_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="../../Ca-Co-Fl-Mi/XML-Editor/Hide-Show-Conditional-Indicators-Description.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Co-Fl/toggle_show_blocks_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="Tag-Block-Bars-Description.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="Products.Flare-Online-Only"> See <MadCap:xref href="../../../../../Flare/Structure-Bars/About-Structure-Bars.htm">About Structure Bars</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Co-Fl/toggle_show_spans_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="Span-Bars-Description.flsnp" />
+                        <p class="TableText" MadCap:conditions="Products.Flare-Online-Only">See <MadCap:xref href="../../../../../Flare/Structure-Bars/About-Structure-Bars.htm">About Structure Bars</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Co-Fl/horizontal_ruler_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="Horizontal-Ruler-Description.flsnp" class="TableText" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../../Images/Shared/Co-Fl/vertical_ruler_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <MadCap:snippetBlock src="Vertical-Ruler-Description.flsnp" class="TableText" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

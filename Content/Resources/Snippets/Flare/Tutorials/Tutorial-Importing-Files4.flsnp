@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p><span class="SetOffFirstLevel">Question 2 </span><span class="EmphasisItalic">How should we transfer the files into the Legacy project?</span> One option is to simply open the project folders in Windows and manually copy the files from one project to the other. Another option is to use Flare's interface to import different types of files separately. A third option is to use Global Project Linking to create an import file in the Legacy project and import only the files we want all at once. There isn't really a wrong answer, and regardless of the method, we will likely have to do a little bit of cleanup in the Legacy project. Therefore, we are going with the third option—Global Project Linking—which seems like the easiest, most streamlined way to do it.</p>
+    </body>
+</html>

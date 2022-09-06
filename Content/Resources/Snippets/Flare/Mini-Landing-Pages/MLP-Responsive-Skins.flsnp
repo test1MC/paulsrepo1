@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareHTML5Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">Responsive Skins </span>
+                    <MadCap:snippetText src="../Responsive-Design/Responsive-Design-Summary3.flsnp" />&#160;<a href="../../../../Flare/Responsive-Web-Design/Responsive-Skins.htm">More Details…</a></p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Responsive-Skins.htm#ResponsiveSkinsMediums">Responsive Skins and Mediums</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Responsive-Skins.htm#HowEnableResponsiveTripaneSkins">How to Enable Responsive Tripane Skins</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Responsive-Skins.htm#DeviceWidthMediaQueries">Device Width Media Queries</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Responsive-Skins.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Analysis/Used-Items-Submenu.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Options</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Used Condition Tags </span>Opens the Used Condition Tags window pane. <MadCap:snippetText src="../Analysis/Used-Condition-Tags-Summary.flsnp" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Conditions/Viewing-Renaming-Used-Condition-Tags.htm">Viewing and Renaming Used Condition Tags</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Used File Tags </span>Opens the Used File Tags window pane. <MadCap:snippetText src="../Analysis/Used-File-Tags-Summary.flsnp" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/File-Tagging/Viewing-Renaming-Used-File-Tags.htm">Viewing and Renaming Used File Tags</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Used Language Tags </span>Opens the Used Language Tags window pane. <MadCap:snippetText src="../Analysis/Used-Language-Tags-Summary.flsnp" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Analysis/Viewing-Used-Language-Tags.htm">Viewing Used Language Tags</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Used Variables </span>Opens the Used Variables window pane. <MadCap:snippetText src="../Analysis/Used-Variables-Summary.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Variables/Viewing-Renaming-Used-Variables.htm">Viewing and Renaming Used Variables</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Used Index Keywords </span>Opens the Used Index Keywords window pane. <MadCap:snippetText src="../Analysis/Used-Index-Keywords-Summary.flsnp" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Indexes/Viewing-Renaming-Used-Index-Keywords.htm">Viewing and Renaming Used Index Keywords</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Used Concepts </span>Opens the Used Concepts window pane. <MadCap:snippetText src="../Analysis/Used-Concept-Keywords-Summary.flsnp" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Concepts/Viewing-and-Renaming-Concepts.htm">Viewing and Renaming Used Concepts</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Used Bookmarks </span><![CDATA[  ]]><MadCap:snippetText src="../Analysis/Viewing-Used-Bookmarks-Summary.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Nav-Links/Bookmarks/Viewing-Used-Bookmarks.htm">Viewing Used Bookmark Links</MadCap:xref>.</MadCap:conditionalText></li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

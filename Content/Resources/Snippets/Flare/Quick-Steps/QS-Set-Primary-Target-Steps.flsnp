@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareTargetsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <p class="micro-content-only"><span class="micro-content-only-inline"><b>Primary Target </b></span>Although you can use more than one target for your project, you might use one target most of the time. By selecting a primary target, you will be able to use shortcut buttons to build, view, and publish its output more quickly.</p>
+                    <p class="topic-only">Also, when you open topics in the XML Editor, they will be displayed by default with the styles and other specifications associated with the primary target. However, you can use the Layout and Medium drop-downs in the local toolbar of the XML Editor to view topics with other settings.</p>
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Set a Primary Target</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <ol>
+                                <li>In the Project Organizer, double-click the <span class="Emphasis">Targets</span> folder.</li>
+                                <li>Right-click on the target that you want to make the primary target.</li>
+                                <li>In the context menu, select <span class="Emphasis">Make Primary</span>. <span class="topic-only">The new primary target has a green arrow next to it with "(Primary)" added after the name of that target. </span></li>
+                            </ol>
+                            <p class="topic-only">
+                                <img src="../../../Images/Flare/QS-Primary-Target.gif" />
+                            </p>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                    <p class="micro-content-only"><a href="../../../../Flare/Targets/Setting-Primary-Target.htm">More Details…</a>
+                    </p>
+                </div>
+                <div class="micro-content-only">
+                    <p class="center" style="text-align: center;">
+                        <img src="../../../Images/Flare/QS-Primary-Target.gif" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

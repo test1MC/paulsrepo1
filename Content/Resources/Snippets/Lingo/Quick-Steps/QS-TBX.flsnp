@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/lingo11/LingoTermbaseGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <p class="micro-content-only">
+                <MadCap:snippetText src="../Termbase/TBX-Summary.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2] " />&#160;<span class="micro-content-only-inline"><a href="../../../../Lingo/Termbase/About-Termbase.htm">More Details…</a></span></p>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <MadCap:snippetBlock src="../Termbase/Import-TBX-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </div>
+                <div class="micro-content-dropdown">
+                    <MadCap:snippetBlock src="../Termbase/Export-TBX-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

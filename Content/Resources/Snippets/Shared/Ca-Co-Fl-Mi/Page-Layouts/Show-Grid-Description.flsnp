@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p MadCap:conditions="Products.Contributor,Products.Flare">You can easily show or hide the grid in your page layout.</p>
+        <p MadCap:conditions="Products.Mimic">You can easily show or hide the grid in your frame.</p>
+        <p MadCap:conditions="Products.Capture">You can easily show or hide the grid on your image.</p>
+    </body>
+</html>

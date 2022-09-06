@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p MadCap:conditions="">One of the features of cascading stylesheets (CSS) that makes it much more powerful than other style systems is inheritance. This is the idea that elements in your document can inherit the style settings from other elements. This occurs when one style element is added within another, therefore creating a parent-child relationship. The child inherits style settings that the parent has, unless you override those settings on the child. This can be a very powerful feature because it lets you set properties on a parent element once rather than setting the same thing on all of its children.</p>
+    </body>
+</html>

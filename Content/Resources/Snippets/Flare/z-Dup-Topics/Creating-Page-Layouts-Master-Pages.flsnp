@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>For print-based output, there are two ways to set the configuration (e.g., page size, margins, headers, footers) for pages in the output: page layouts and master pages. <MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide">Page layouts are newer and are recommended over master pages. One reason for this is that page layouts are easier to use. Another reason is that page layouts can be used with either <MadCap:variable name="Outputs.PDF" /> or <MadCap:variable name="Outputs.Word" />), whereas master pages can be used only for <MadCap:variable name="Outputs.Word" /> targets.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+        <ul MadCap:conditions="General.Online-Only">
+            <li><a href="../../../../Flare/Page-Layouts/About-Page-Layouts.htm">Page Layouts (Recommended)</a>
+            </li>
+            <li><a href="../../../../Flare/Master-Pages/About-Master-Pages.htm">Master Pages</a>
+            </li>
+        </ul>
+    </body>
+</html>

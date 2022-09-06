@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Projects-Builds-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p MadCap:conditions="Snippets.Snippet1" class="Microcontent-Heading"><span class="Emphasis">How to View Commits</span>
+                </p>
+                <ol>
+                    <li>On the left side of Central, select <span class="Emphasis">Projects</span>.</li>
+                    <li>In the grid, click the name of a project.</li>
+                    <li>At the top of the interface, click <b>Commits</b>.</li>
+                    <li>To see highlighted changes in files (comparing the current version of files with the previous version), click <b>View Commit</b>.</li>
+                    <li>Use <img src="../../../Images/Central/Commits-Unified-View-btn.png" class="ReduceButtonSize" /> or <img src="../../../Images/Central/Commits-Side-by-Side-View-btn.png" class="ReduceButtonSize" /> to adjust how the current and previous versions of a file are displayed on the page (unified or side-by-side).</li>
+                </ol>
+                <p MadCap:conditions="Snippets.Snippet1" class="Micro-Content"><a href="../../../../Central/Projects/Viewing-Project-Files-Commits.htm">More Details…</a>
+                </p>
+            </div>
+            <div>
+                <p style="text-align: center;">
+                    <img src="../../../Images/Central/projects18.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

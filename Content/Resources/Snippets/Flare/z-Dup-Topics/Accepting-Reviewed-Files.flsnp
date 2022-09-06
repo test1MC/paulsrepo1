@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="../Topics/Accepting-Reviewed-Files.flsnp" />
+            <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Reviews-Contributions/About-Reviews-Contributions.htm">About  Reviews and Contributions</MadCap:xref>.</MadCap:conditionalText>
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to accept reviewed files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/UI-Elements/Select-Review-Ribbon.flsnp" /> In the <span class="Emphasis">Packages</span> section select <span class="Emphasis">File Reviews</span>. The File Reviews window pane opens.</li>
+                    <li>
+                        <p>Click in the drop-down field at the top of the window pane, select <span class="Emphasis">Inbox</span>. All reviewed files that you have brought into your project, but have not yet been accepted, are listed in the pane.</p>
+                        <p>In the case of Central review files, the status should be “Closed.” If it is not, close out the review process for the files before continuing.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Central/Closing-Review-Files.htm">Closing Central Review Files</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p>Also, regardless of the process you use (Central or review packages), make sure you have accepted or rejected the changes as necessary in the files. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Central/Accepting-Rejecting-Tracked-Changes-Central.htm">Accepting or Rejecting Tracked Changes (Central Reviews)</MadCap:xref> and <MadCap:xref href="../../../../Flare/Reviews-Contributions/Track-Changes/Accepting-Rejecting-Tracked-Changes.htm">Accepting or Rejecting Tracked Changes (Review Packages)</MadCap:xref>.</MadCap:conditionalText></p>
+                    </li>
+                    <li>In the grid, select the file(s) that you want to accept. <MadCap:snippetText src="../../Shared/All/Steps-General/Hold-Shift-Ctrl-Keys.flsnp" /></li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-MadCap-Central-Integration-Guide,Snippets.Snippet1" />
+                    <li>
+                        <p>In the local toolbar, click <img src="../../../Images/Shared/Ce-Fl/accept_topic_btn.png" class="ReduceButtonSize" />. </p>
+                        <p MadCap:conditions="Snippets.Snippet1">
+                            <img src="../../../Images/Shared/Ce-Fl/Reviewing-Files-Accept-File.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>A message opens (if there are unresolved changes), indicating that the unresolved changes will be accepted if the file is accepted. However, if a conflict exists (e.g., the original file in your project changed since the time you sent it out for review), a dialog opens to let you know of the issue. You can then take the appropriate action; you can merge the changes from the files, keep the edits from the reviewer (undoing your changes), or keep your edits (discarding those from the reviewer). <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Reviews-Contributions/Reviews/Merging-Reviewed-Files.htm">Merging Reviewed Files</MadCap:xref>.</MadCap:conditionalText></p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-MadCap-Central-Integration-Guide,Snippets.Snippet1" />
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" /> The reviewed file replaces the source file in the project. </p>
+                        <p>Also, the file is removed from the File Reviews window pane.</p>
+                        <p MadCap:conditions="Snippets.Snippet1">
+                            <img src="../../../Images/Shared/Ce-Fl/Reviewing-Files-Accept-File2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

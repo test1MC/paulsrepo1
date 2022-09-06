@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Widgets-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p class="Micro-Content"><span class="Emphasis">Dashboards and Widgets </span>
+                    <MadCap:snippetText src="../Widgets/Widgets-Summary.flsnp" />&#160;<MadCap:snippetText src="../Widgets/Widgets-Summary2.flsnp" /> <a href="../../../../Central/Widgets/About-Dashboards-Widgets.htm">More Details…</a></p>
+                <p class="Bold">Activities</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Central/Widgets/Adding-Widgets-to-Dashboard.htm">Adding Widgets to a Dashboard</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Central/Widgets/Duplicating-Widgets.htm">Duplicating Widgets</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Central/Widgets/Filtering-Widgets.htm">Filtering Widgets</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Central/Widgets/Removing-Widgets.htm">Removing Widgets</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <div class="video" MadCap:conditions="General.Future">
+                    <p class="buttonT32-play"><a href="https://www.youtube.com/watch?v=Fk7PENy8J04" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                </div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Central/projects12.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Users/Users1.flsnp" />
+            <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Central/Users/About-Users.htm">About Users</MadCap:xref> and <MadCap:xref href="../../../../Central/Users/Inviting-Users.htm">Inviting Users</MadCap:xref>.</MadCap:conditionalText>
+        </p>
+        <p>
+            <img src="../../../Images/Central/Add-Users1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Getting-Started-Guide" />
+        <p>You can add two kinds of users—Authors and Subject Matter Experts.</p>
+        <MadCap:snippetBlock src="../Users/Author-SME-List-Descriptions.flsnp" />
+        <p>
+            <img src="../../../Images/Central/Add-Users5.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:snippetBlock src="../Users/Note-Author-as-SME.flsnp" />
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Getting-Started-Guide" />
+        <p>You can invite users one at a time or in bulk by pointing to a CSV file containing each person’s email, first name, then last name. If you do not yet have a CSV file, you can download a template from Central and complete it with your users’ details.</p>
+        <p>
+            <img src="../../../Images/Central/Add-Users2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/Central/Add-Users3.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Getting-Started-Guide" />
+        <p>
+            <MadCap:snippetText src="../Users/Users2.flsnp">
+            </MadCap:snippetText>
+            <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Central/Users/Setting-Permissions.htm">Setting User Permissions</MadCap:xref>.</MadCap:conditionalText>
+        </p>
+        <p>
+            <img src="../../../Images/Central/Add-Users4.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Getting-Started-Guide" />
+        <p>When a new user is invited, that person receives an email. The individual must click a link to complete the invitation to Central. This allows the user to confirm or edit his or her name, and set up a password. After the user submits the information, the account is activated.</p>
+        <p>
+            <img src="../../../Images/Central/Confirm-Account.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Getting-Started-Guide" />
+        <p>From the Users page, you can see all other users in the system, view their profiles, and contact them. Users with a crown icon have “User Administration” permission.</p>
+        <p>
+            <img src="../../../Images/Central/Users-Page3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Getting-Started-Guide" />
+        <p>If you click your avatar or name at the top of the interface, you can select <b>My Profile</b> to view and modify your profile.</p>
+        <p>
+            <img src="../../../Images/Central/settings1.png" alt="" title="" class="MaxWidth85Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/Central/settings2.png" alt="" title="" class="MaxWidth85Percent" />
+        </p>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The notifications feature—which can be seen after you click <b>Edit</b> in the Profile dialog—is available for Author user types only, not for SMEs.</p>
+        </div>
+    </body>
+</html>

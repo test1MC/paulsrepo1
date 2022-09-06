@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareSnippetsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Create a Snippet from Existing Content</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <ol>
+                                <li>In the XML Editor select the content you want to turn into a snippet.</li>
+                                <li>In the <span class="Emphasis">Home</span> ribbon, select <span class="Emphasis">Create Snippet</span>.</li>
+                                <li>
+                                    <p>Give the snippet a name and choose a folder location to store it.</p>
+                                    <p class="topic-only">
+                                        <MadCap:snippetText src="../Snippets/Create-Snippet-Comment.flsnp" />
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>If you want the snippet to replace the highlighted content, select <span class="Emphasis">Replace Source Content with the New Snippet</span>.</p>
+                                    <p class="topic-only">Why would you leave this box unchecked? Let's say you want to create two snippets and they are going to be very similar. You might create the first snippet, make a few changes to the text within the dialog, and leave this box unchecked. That snippet is created but not inserted into the topic. Then you can create the second snippet with this box checked. <MadCap:variable name="Other.Product" /> will both create the snippet and insert it into the topic, replacing the highlighted text.</p>
+                                </li>
+                                <li>Click <span class="Emphasis">Create</span>. <span class="topic-only">In the XML Editor, the snippet is surrounded by brackets (if markers are turned on).</span></li>
+                                <li>
+                                    <p>
+                                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                                    </p>
+                                    <p class="topic-only" MadCap:conditions="General.Online-Only">
+                                        <img src="../../../Images/Flare/QS-Create-Snippet.gif" />
+                                    </p>
+                                </li>
+                            </ol>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                    <p class="micro-content-only"><a href="../../../../Flare/Snippets/Creating-New-Snippets-from-Content.htm">More Details…</a>
+                    </p>
+                </div>
+                <div class="micro-content-only">
+                    <p class="center" style="text-align: center;">
+                        <img src="../../../Images/Flare/QS-Create-Snippet.gif" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

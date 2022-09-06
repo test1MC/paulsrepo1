@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <p class="micro-content-only">
+                <MadCap:snippetText src="../Projects/Command-Line-Summary.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2] " />&#160;<span class="micro-content-only-inline"><a href="../../../../Lingo/Projects/Managing-Projects-Command-Prompt.htm">More Details…</a></span></p>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <MadCap:snippetBlock src="../Projects/Command-Line-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </div>
+                <div class="micro-content-dropdown">
+                    <MadCap:snippetBlock src="../Projects/Example-Export-Project-Command-Line.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

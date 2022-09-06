@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="45" MadCap:lastWidth="1140">
+    <body>
+        <p class="TableText">Applies a Doc-To-Help style on the selected text. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../D2H/Styles/About-D2HML-DocToHelp-Markup-Language.htm">About Doc-To-Help Markup Language</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide,D2H-Guides.D2H-Whats-New-Guide"> See the online Help or the <span class="EmphasisItalic">Making It Look Good Guide</span>.</MadCap:conditionalText></p>
+    </body>
+</html>

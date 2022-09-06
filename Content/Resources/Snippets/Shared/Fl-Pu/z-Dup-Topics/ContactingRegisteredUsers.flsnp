@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="3219" MadCap:lastWidth="1349">
+    <body>
+        <MadCap:snippetBlock src="../Banners/PulseAdminEmployee.flsnp" />
+        <p>Using the Pulse dashboard, members of the Administrators and Employees group can contact other registered users using the chat and messaging features. </p>
+        <h2 MadCap:conditions="General.Print-Only">Using a Pulse Chat</h2>
+        <p MadCap:conditions="General.Print-Only">Pulse offers members of the Administrators and Employees group a chat feature where you can initiate a conversation with any registered user. You can also send chat messages using the same method available to members of the Customers group. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../../Flare/Pulse-Features/Messaging/Sending-Chat-Messages.htm">Sending Chat Messages</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Pulse">See <MadCap:xref href="../../../../../Pulse/Messaging/Sending-Chat-Messages.htm">Sending Chat Messages</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to use pulse chat</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="General.Online-Only">Pulse offers members of the Administrators and Employees group a chat feature where you can initiate a conversation with any registered user. You can also send chat messages using the same method available to members of the Customers group. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../../Flare/Pulse-Features/Messaging/Sending-Chat-Messages.htm">Sending Chat Messages</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Pulse">See <MadCap:xref href="../../../../../Pulse/Messaging/Sending-Chat-Messages.htm">Sending Chat Messages</MadCap:xref>.</MadCap:conditionalText></p>
+                <MadCap:snippetBlock src="../Pulse/SendChatMessage.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Pulse-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Sending a Message</h2>
+        <p MadCap:conditions="General.Print-Only">Registered users can create and send messages to other registered users.<MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Pulse-Guide"> To learn about more of the messaging features, see <MadCap:xref href="../../../../../Flare/Pulse-Features/Dashboards/Pulse/Using-Pulse-Menu.htm">Using the Pulse Menu</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Pulse-Guides.Pulse-Server-Admin-Guide"> To learn about more of the messaging features, see <MadCap:xref href="../../../../../Pulse/Dashboard/Pulse/Using-Pulse-Menu.htm">Using the Pulse Menu</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to send a message</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="General.Online-Only">Registered users can create and send messages to other registered users. <MadCap:conditionalText MadCap:conditions="Products.Flare-Online-Only">To learn about more of the messaging features, see <MadCap:xref href="../../../../../Flare/Pulse-Features/Dashboards/Pulse/Using-Pulse-Menu.htm">Using the Pulse Menu</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Pulse-Online-Only">To learn about more of the messaging features, see <MadCap:xref href="../../../../../Pulse/Dashboard/Pulse/Using-Pulse-Menu.htm">Using the Pulse Menu</MadCap:xref>.</MadCap:conditionalText></p>
+                <MadCap:snippetBlock src="../Pulse/SendNewMessage.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Pulse-Guide,Pulse-Guides.Pulse-User-Guide,Pulse-Guides.Pulse-Server-Admin-Guide">
+        </MadCap:snippetBlock>
+        <h2 MadCap:conditions="General.Print-Only">Replying to a Message</h2>
+        <p MadCap:conditions="General.Print-Only">Use the following steps to reply to a message.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to reply to a message</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Pulse/ReplyToMessage.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Pulse-Guide,Pulse-Guides.Pulse-User-Guide,Pulse-Guides.Pulse-Server-Admin-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Contacting Users by Email</h2>
+        <p MadCap:conditions="General.Print-Only">If your computer is set up with a local email client, such as Microsoft Outlook, you can launch it from Pulse. This lets you send an email from your regular email account using the "mailto" command (e.g., mailto:name@example.com). </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to contact users by email</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="General.Online-Only">If your computer is set up with a local email client, such as Microsoft Outlook, you can launch it from Pulse. This lets you send an email from your regular email account using the "mailto" command (e.g., mailto:name@example.com). </p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Pulse/PulseDashLoginAdminEmployee.flsnp" />
+                    </li>
+                    <li>Select <span class="Emphasis">People &gt; Find People</span>. </li>
+                    <li>In the Find People page, click the desired user. </li>
+                    <li>
+                        <p>Click the email link.</p>
+                        <p>
+                            <img src="../../../../Images/Shared/Fl-Pu/pulse_people_mailto.png" class="MaxWidth90Percent" />
+                        </p>
+                        <p>If your computer is properly configured, this opens your email client. If you do not know how to configure an email client on your computer, please see your IT&#160;or Email Administrator. </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Pulse-Guide" />
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>(Optional) If you have other stylesheets and you want to associate them locally with topics, select <span class="Emphasis">Allow local stylesheets</span>. <span class="topic-only"><MadCap:conditionalText MadCap:conditions="General.Online-Only"> For more about this option and how master and local stylesheets work in the same project, see <MadCap:xref href="../../../../Flare/Styles/About-Regular-Stylesheets.htm#LocalMasterStylesheetsOnline">Local and Master Stylesheets</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Styles-Guide"> For more about this option and how master and local stylesheets work in the same project, see <MadCap:xref href="../../../../Flare/Styles/About-Regular-Stylesheets.htm#LocalMasterStylesheetsPrint">Local and Master Stylesheets</MadCap:xref>.</MadCap:conditionalText></span></p>
+    </body>
+</html>

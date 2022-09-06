@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature-Supported/All-Online-EPUB.flsnp" MadCap:conditions="General.Online-Only" />
+        <p>
+            <MadCap:snippetText src="../Images/Edit-Image-Hyperlinks.flsnp" />
+        </p>
+        <p MadCap:conditions="Flare-Guides.Flare-Navigation-Links-Guide">
+            <MadCap:snippetText src="../Nav-Links/Edit-Image-Hyperlink-Destination-Properties.flsnp" /> </p>
+        <MadCap:snippetBlock src="../Nav-Links/Example-Edit-Image-Hyperlink-Destination-Properties.flsnp" MadCap:conditions="Flare-Guides.Flare-Navigation-Links-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to edit the destination and properties of an image hyperlink</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Nav-Links/Edit-Image-Hyperlink-Destination-Properties.flsnp" MadCap:conditions="General.Online-Only" />
+                <MadCap:dropDown class="SecondLevel" MadCap:conditions="General.Online-Only">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot MadCap:conditions="General.Online-Only">Example</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../Nav-Links/Example-Edit-Image-Hyperlink-Destination-Properties.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:snippetBlock src="../Nav-Links/Edit-Image-Hyperlink-Destination-Properties-Steps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Navigation-Links-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to remove the hyperlink from the image</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Nav-Links/Remove-Hyperlink-Image.flsnp" />
+                <MadCap:snippetBlock src="../Nav-Links/Remove-Hyperlink-Image-Steps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.Online-Only">warning</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="warning">
+                    <p class="warningInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #ff6b31;&quot; class=&quot;mcFormatColor&quot;&gt;Warning: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../Nav-Links/Avoid-Linking-Snippets1.flsnp" />&#160;<MadCap:snippetText src="../Nav-Links/Avoid-Linking-Snippets2.flsnp" /></p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also create an image map on top of a picture. This lets you insert multiple hyperlinks for specific sections of the image, as opposed to creating one hyperlink for the entire image. See <MadCap:xref href="../../../../Flare/Nav-Links/Image-Hyperlinks/Creating-Image-Maps.htm" target="" title="" alt="">Creating Image Maps on Images</MadCap:xref>.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

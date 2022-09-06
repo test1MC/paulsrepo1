@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="217" MadCap:lastWidth="1159">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1" MadCap:conditions="General.Print-Only">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1" colspan="2" MadCap:conditions="">
+                        <p class="TableTextHead">Lists</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Create Paragraph Item in List</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">CTRL+;<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (semicolon)</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Indent List Item</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">TAB</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasis">Outdent List Item</p>
+                        <p class="TableTextEmphasis">Remove List Tag and Convert to Paragraph</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <p class="TableText">SHIFT+TAB</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

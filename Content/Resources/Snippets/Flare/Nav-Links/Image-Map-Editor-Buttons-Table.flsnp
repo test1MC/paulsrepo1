@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="caption-side: top;margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" cellspacing="0" class="TableStyle-Basic-Alternate-Rows">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">&#160;</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Edit</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Use this menu to select basic editing options (such as undo, redo, cut, copy, and paste). You can also open the properties for an object or apply conditions to it.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Co-Fl/fade_out_image_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Click this button to toggle between seeing a clear image of the picture and a faded image.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Co-Fl/show_shapes_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Click this button to hide the shapes that you draw over areas of the image.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Co-Fl/fill_shapes_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Click this button to fill the shapes that you draw over areas of the image.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Ca-Co-Fl-Li/run_properties2_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Click this button to open the Area Properties dialog, which lets you find and select a destination file to link to a shape that you've drawn. You must select a shape before this button is enabled. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Co-Fl/delete_point_btn2.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Click this button to delete a selected point in the editor. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Ca-Co-Fl-Mi/select_mode_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Click this button to enable "Select" mode so that you can click on shapes that you have drawn in the editor.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Co-Fl/new_polygon_mode_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Click this button to draw a polygon shape over an area of the image. You can then select the shape and link it to a destination file. </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Co-Fl/new_rectangle_mode_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Click this button to draw a rectangle shape over an area of the image. You can then select the shape and link it to a destination file.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Co-Fl/new_circle_mode_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Click this button to draw a circle shape over an area of the image. You can then select the shape and link it to a destination file.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Ca-Co-Fl-Mi/float_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Click this button to bring a shape up one layer (if it is overlapped by one or more other shapes). </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Ca-Co-Fl-Mi/float_to_top_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Click this button to bring a shape up to the top layer (if it is overlapped by one or more other shapes).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Ca-Co-Fl-Mi/sink_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Click this button to move a shape down one layer (if it is overlapped by one or more other shapes).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">
+                            <img src="../../../Images/Shared/Ca-Co-Fl-Mi/sink_to_bottom_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Click this button to move a shape down to the bottom layer (if it is overlapped by one or more other shapes).</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Co-Fl/conditions_btn2.png" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/UI-Elements/Conditions-Summary.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Link</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Displays the path to the linked destination file for the selected object. This field is automatically populated after you click <img src="../../../Images/Shared/Ca-Co-Fl-Li/run_properties2_btn.png" class="ReduceButtonSize" /> to find and select a destination file.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Screen Tip</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Displays the screen tip (or "alt" text) for the selected object. An alt tag provides a textual equivalent for the image. This code allows the page to be usable by persons with graphics turned off or who are blind and using a screen reader. This field is automatically populated after you click <img src="../../../Images/Shared/Ca-Co-Fl-Li/run_properties2_btn.png" class="ReduceButtonSize" /> and enter the screen tip text.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Tab Index</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <p class="TableText">Displays the tab index value that you entered in the Area Properties dialog for the selected object. The tab index is a value to specify the order in which users can tab through links on an image. So when a user presses the Tab key the first time, the link with an index value of 1 will be selected first, the link with a value of 2 will be selected next, and so on. If you want to skip a link, enter -1 in that field. This feature is supported only in web outputs—<MadCap:snippetText src="../Output/All-Web-Outputs-HTML5-Clean-XHTML.flsnp" />.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>The Markup Suggestions window pane lets you see a list of files where the XHTML markup (code) can be improved (e.g., empty tags, CDATA tags, empty attributes, excessive spaces). When the analysis tool finds markup issues, there are a couple of ways that you can "clean them up." First, you can click the Apply button in the local toolbar to automatically apply the suggestions to the selected files. Alternatively, you can double-click a row to open that file and work on the issues manually. You may be able to fix some issues for a specific file in the XML Editor. Other issues may require you to open the behind-the-scenes code in the Internal Text Editor.</p>
+    </body>
+</html>

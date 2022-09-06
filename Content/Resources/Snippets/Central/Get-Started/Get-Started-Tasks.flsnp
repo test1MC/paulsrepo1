@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Tasks/Tasks1.flsnp" />
+            <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Central/Tasks/About-Tasks.htm">About Tasks</MadCap:xref>, <MadCap:xref href="../../../../Central/Tasks/Creating-Tasks.htm">Creating and Assigning Tasks</MadCap:xref>, and <MadCap:xref href="../../../../Central/Tasks/Editing-Tasks.htm">Editing Tasks</MadCap:xref>.</MadCap:conditionalText>
+        </p>
+        <p>
+            <img src="../../../Images/Central/tasks8.png" alt="" title="" class="MaxWidth100Percent">
+            </img>
+        </p>
+        <p>
+            <img src="../../../Images/Central/tasks9.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Getting-Started-Guide" />
+        <p>Tabs at the top of the page let you see tasks in multiple views.</p>
+        <p>
+            <img src="../../../Images/Central/tasks2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

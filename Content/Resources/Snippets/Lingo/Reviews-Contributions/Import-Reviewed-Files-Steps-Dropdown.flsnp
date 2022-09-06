@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Import Reviewed Files</span>
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="Importing-Reviewed-Files-Steps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

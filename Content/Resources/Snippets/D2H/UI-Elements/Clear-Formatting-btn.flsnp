@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Removes custom formatting created in the selected text. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See<MadCap:xref href="../../../../D2H/Styles/Clearing-D2HML-Styles.htm"> Clearing Doc-To-Help Markup Language Styles</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide,D2H-Guides.D2H-Whats-New-Guide"> See the online Help or the <span class="EmphasisItalic">Making It Look Good Guide</span>.</MadCap:conditionalText></p>
+    </body>
+</html>

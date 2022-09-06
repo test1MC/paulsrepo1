@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="1"
+  SkinType="Component"
+  Comment="HTML5 skin"
+  Anchors="Width,Height"
+  Width="800"
+  Height="600"
+  Top="0"
+  Left="0"
+  Bottom="0"
+  Right="0"
+  Tabs="TOC,Index,Community"
+  DefaultTab="TOC"
+  UseBrowserDefaultSize="True"
+  UseDefaultBrowserSetup="True"
+  EnableResponsiveOutput="True"
+  ComponentType="SearchBar"
+  conditions="Products.Align,Products.Lingo">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Search Bar">
+        <Properties>
+          <Property
+            Name="Width">735px</Property>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+          <Property
+            Name="BorderTop">solid 2px #ffffff</Property>
+          <Property
+            Name="BorderRight">solid 2px #ffffff</Property>
+          <Property
+            Name="BorderBottom">solid 2px #ffffff</Property>
+          <Property
+            Name="MarginTop">50px</Property>
+          <Property
+            Name="MarginBottom">50px</Property>
+          <Property
+            Name="Height">45px</Property>
+          <Property
+            Name="BorderLeft">solid 4px #ffffff</Property>
+        </Properties>
+      </Style>
+      <Medium
+        Name="Mobile">
+        <Style
+          Name="Search Bar">
+          <Properties>
+            <Property
+              Name="Width">90%</Property>
+          </Properties>
+        </Style>
+      </Medium>
+      <Style
+        Name="Search Submit Button">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('SearchIcon_Home_White.png')</Property>
+          <Property
+            Name="Width">44px</Property>
+          <Property
+            Name="BackgroundColor">#25bcc3</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Filter">
+        <Properties>
+          <Property
+            Name="BorderTop">solid 0px #ffffff</Property>
+          <Property
+            Name="BorderRight">solid 0px #000000</Property>
+          <Property
+            Name="BorderBottom">solid 0px #ffffff</Property>
+          <Property
+            Name="BorderLeft">solid 0px #000000</Property>
+          <Property
+            Name="BackgroundImage">url('FilterIcon_Home_Gray.png')</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Input">
+        <Properties>
+          <Property
+            Name="FontFamily">'Roboto Light'</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Submit Button (hover)">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#f48520</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Filter (selected)">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('FilterIcon_Home_Teal.png')</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Auto-complete">
+        <Properties>
+          <Property
+            Name="BorderTop">solid 1px #ececec</Property>
+          <Property
+            Name="BorderRight">solid 1px #ececec</Property>
+          <Property
+            Name="BorderBottom">solid 1px #ececec</Property>
+          <Property
+            Name="BorderLeft">solid 1px #ececec</Property>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Auto-complete Item (selected)">
+        <Properties>
+          <Property
+            Name="BorderTopLeftRadius">0px</Property>
+          <Property
+            Name="BorderTopRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomRightRadius">0px</Property>
+          <Property
+            Name="BorderBottomLeftRadius">0px</Property>
+        </Properties>
+      </Style>
+    </Styles>
+    <Resources>
+      <Resource
+        Name="SearchIcon.png">H4sIAAAAAAAEAAHKAjX9iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJfSURBVEhLtZRNaBNREMcjVcSDWFGo0IOCrai4+2YTih8XQfDgQVTEWvAkCoJ6r+BZ0LuXIr30JKGeBBH37XspFkWI7ntvkwpFKOjBg6DVFlGMjfOWeRHjZhMM/mBY+M+8mbezM1voRFgtbZG14Lo0cJdrdvOxKe0l17/TbBbWycSfEAaanSwywT0pj66nI70zVS1tENqru0RhDGv4XA0NfOIKvgjjNZyPWy1mw3S0O/bm2IbEJYi0t4jtGSF3yvz8kc2RhodCwc80Tnuf5RIbJHc+QvlnXXKh4QHJmcikeNkV4Rruk5yPS47teEdSLtiyKXemUodRkrOp2t5TME/8kyTnwuPRYRFTqxRcIjmbOeUfs4GR9hsk9YRQ7E1aQMM0SdlEho2ngTF8J6knRMy0PScNmyUpm3DB32MD7Vg+Nd5WknMplwsDdnzTNzdwm+TOpG9gTbMZknLhcfGMO1MxcJzkzrQWDNvEa7Cf5EzCF2Pb8PZLNj403odnbw9tIldnuDk45G4UvoIV3NTMW0VJcbfrPRX4gWN6gtz5CMMutA7i9+DKr0QKbuASnhcJXMVNn8WR/OZifpvfwA99mtLkM1eHUxG26e8kXQx3QqpggtLkYycJbzsZKvb+z0TeMr7RncgUx7Mugdu9hiN/kdJ0J/11V0vbo3qwU9bGdpTL5wbIVagsBIe58b62F0kLaXaNwvqjovwAE662F0hNB5MU1h9PXgb7cCBWsopgu25RWH/I12wXTtJydpEetrwXnpsDQ+7X0W4U0j8yZoNhzD7+twKWR4sjG3kCrSLcsCu/ADBvE2o7YwJCAAAAAElFTkSuQmCCMQHnr8oCAAA=</Resource>
+      <Resource
+        Name="Search-white.png">H4sIAAAAAAAEAAEwAs/9iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAB90lEQVRIie2Wv2sUQRiGn1EJWiiHihZJ/I2FRk6xEMQikkZQUtnZKCIWFjYW4h9gr42IXdqAgoHUaQwSEA6D2EQEuYtGsRBFUDGPxc1yi5fczl42lb7Nxy7fO8+8O7s7A/+Vk7pHvaPOqJ/t6J06rd5Qd1cJrKkP1Z8W64d6X91WhhFWgNaBKWA43noPTAJzQAsYAPYBY8A4sDn2vQXOhxBe95O0rn6JST6ol9UNPfp3qY9y6T+ph8tCa3HtVOfVoRLeS7lleakOlAE/iMYldbjY0eW/lkt+K9U0lJvxlbLQ3DhTcYymujHFcDsaFnutacI4x3Opx3r1ZpBzsU6GEJb7BYcQGsCreHk2BXw01rl+oTnNxjqSAt4Za6sCcDPWWgo406YKwEnvSNaUJd1bAfhArEsp4OyFGK0AfDrWRmGnejN+At/U7f0S1VO5z+lYimFQ/RUN99YAno5jzBZ3d0zZz/63Ot4H9HoubVM9lGrcobai8bt6sQT0qt17dyn4STvbouqEur9H/4j6xNW1Knylg8AJ4DHtzR5gGXgGPAcWo+cgcAaoJ+RpAaMhhIXCTnWrelf92iNNpob6pqCnK3lX4r8msAW4QPuYcwTIzlUfgRfA0/gkBoGZ+CTWnryMbO/pC2WT/zvwysGp8HUBp8DXDVwAn/8DeaUVLbLWtN0AAAAASUVORK5CYIJlb4/wMAIAAA==</Resource>
+      <Resource
+        Name="Search-white_1.png">H4sIAAAAAAAEAAFBAr79iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAACCElEQVRIie2WvWsUQRyGnzklaKEcfhZJ/MZCI6dYCGIRSSMoqexsFBELCxsL8Q+w10YknW1AwUDqNAYJBA+DiBAJyF00ioUogop5LG6OWy6524/cdf6amV3ed555d3Z3BjqUuk+9p86oX23VB3VavaXu7eTPXWpZfaz+Nr1+qQ/V7Xk5oQ1aAaaA4XjrIzAJzAF1YAA4AIwB48CWqFsCLoYQ3hZJWlG/xSSf1KtqqYt+jzqRSP9FPZoXWo5rp7qgDuXwXkksy2t1IA/4UTSuqMPpjjX+G4nkd7KahhIzvpYXmhhnKo5RUzdlMdyNhuVua5phnJOJ1GNp+hJwIfYnQwirRcEhhCrwJl6ezwI+HvtzRaGJmo3tSBbwrtiv9wBci205C7hZm3sAzvyOlGgl3d8D8KHYrmQBN1+I0R6Az8a2mqpUb8dP4Ie6oyhRPZP4nE5kMQyqf6LhwQbA03GM2XR1y9T82f9VxwtAbybS1tQjWY071Xo0/lQv54Bed+3enQt+2ta2qPpEPdhFP6I+s3N1hbcfBE4BT2ls9gCrwAvgJbAc9YeBc0AlQ546MBpCWExVqtvU++r3LmmaVVXfp2jWTR7Wg8cJbAUu0TjmHAOa56rPwDzwPD6JQWAmPomNJ89TNvb0xSLJ/8P7DV/qOTgjfL4v4BT4grq7b+AO8P5D2+Dv1FdJ6D+R+kafHW6fRgAAAABJRU5ErkJgglTABWZBAgAA</Resource>
+      <Resource
+        Name="SearchIcon_Home_White.png">H4sIAAAAAAAEAAFTAqz9iVBORw0KGgoAAAANSUhEUgAAABkAAAAaCAYAAABCfffNAAACGklEQVRIia3WTYhOURzH8c/zjIaUpJCR14U0oyTERt4TNTR5mYWFl5JkQ0nZcDuriWJpx8LC22jMpKaQsUETSSHKZkghosZuhpnH4typ6c547vNMz29zzz397vnec/7n/P+nUCqVZDQJu7EPGzAr7f+E+7iJxyPmEEL2+zEqZt7X4DVuYW/a9xyvMANH0YOHmJc7+jiQXXiCRrRjNWZjLVZiJnagF1vxAssqgRTS5VqFpxjGIdwu9w0CzuIzVoQQfuXNpIirmIzDOQAo4RwuYT4u5PgVSqVSC+7ijhjsSlWPd1iExSGEz/8zFrEnbZ+vAgCD4mzq0FLOWMR6fMPLKiHQnT7X5UEa0CeudbX6iD9ibMpCCvg7AcCIhtMxykK+Y+EEAQ3irvySB3mGBWiaAGR7+uzNg3Sm7VNVAoo4mba78oztYuAPYksVkNNYjo4Qwoc8yCCOiMFrF7d0ns6gDf04kWceSZA9OC5m2ke4iLnj+JvEzNCW/tRvDORBCpl60owrYvYtiSm+T9xBS7Ek9b3Be7TiLTaHEH5UCoFp4vK1iml+5AwMpLO8IRauIVzGsTzQeJDRmoI56YBfjT20hQxoYwjhZ7WQSlSHa9gvVtFtIYT+0YZs+a1aIYQhHMB1sXw/SJJkek0hlYBqAsmAOlJQd5IkU6lBTLJXoiRJ6sWztFO8OjXXbCajoIPideoeNqGz5pAMqAuN/wDWkZo6xa+34wAAAABJRU5ErkJggvWmbx1TAgAA</Resource>
+      <Resource
+        Name="FilterIcon_Home_Gray.png">H4sIAAAAAAAEAAH9AQL+iVBORw0KGgoAAAANSUhEUgAAAB0AAAAbCAYAAACAyoQSAAABxElEQVRIie3VvUodURSG4cfRNFYHQ0w9GGHQSQotDMTSC/ACtLCKRQh4B7mBQMAUgkUIaRRSp7OIeCABhYhTjIVMsLFJkUAMiAgpzj4wDOfPMRYBv2bvvb611ssMa88Mvd/6KOgxvuAdXuit5ZC3UuTZh16JcZK+xQqeFnl2BFHJn8Ao5vsAYRbDYe2n+dB3oh2Iuufenu6gd1BoYDrsp+Mkbdw2dBbHWAjnBRzHSTrI1akFjbCN8Up8HNtxkg7c6zrQJ0oXvKKJ4P9z6L0b+rWg33DWxTsL/rWh98M6qvVdrepS60N/XomfY7nIs8tqQZykw6Ffub8II9jAZohNIsdMB/AOptAM5yamijzb6QCcCX0mQ2gzTtKNOElHRvAKzys1j/AJCX5WvFPs4xn2izw77QBshPqHpfBQ4PyIsNrhiYSCxS5ePy1WgGWtRhjrUfygJrRX3Vik9aq66WtNaK+6/QhruOhgbmG3DrHIs91QX9UF1iKtCZzD52D8wkss1QGWtBT6/A7nPcwVedZs39NDvAn771jH1U2IRZ5dFXm2jpMQel3k2SH/0f/0DloLeoI/WlPWTwdag3YwQO5e6NseKH8B3TpmWf2CYeEAAAAASUVORK5CYIJLrgNp/QEAAA==</Resource>
+      <Resource
+        Name="SearchIcon__Inside_White.png">H4sIAAAAAAAEAAGPAXD+iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAABVklEQVQ4jaXSvUvVURgH8I8vUAgiKPQnxCUImqRRJ6FBImqppcKlxkC6g9C9Y2OuEkZvQy9LiVA5lLlI0BLo5hDpIElRg0vxOJxzMeScuuQXDr9z4OFzzo/n6YkIOT24gCmcxiC+4i3uYEUh7XYb9ObzEBbxEJ9xBWO4gSN4j1n0lTDoz9gTHMcprB2oeYAJPMMubpagXlzEOM4UkE5e4SqmcbIGTeEe1mvPznmKj9JvF6FRvP4H0smbXF+EjuJHl9B3DNSgTTS6hBr4UoMWcdn+KNQyjHNYqEG3cQIzf0H6cBffpHEoQhtSa29hDscO1DSwjLPShO/WIHgsDd04trCKl/hkfyzm8+snS1D/H/ulfPuY1OIRvMvrQ67Zlib8PF7UIPiVwaXSrWjm73OpQY9qUDdp4ifu53PCIuJ/VzMifkfEpVardSiog0VEXDssJCKuR8TOHh+C41sO11I3AAAAAElFTkSuQmCCxDg2to8BAAA=</Resource>
+      <Resource
+        Name="FilterIcon_Inside_Gray.png">H4sIAAAAAAAEAAFGAbn+iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAABDUlEQVQ4jb3SL0tDcRTG8c8uFg2yJAsLGxYRg2FJi9EVX4LBImgxLO8tmGxDmMlgsq4Y1Gww2K6IRYt/gga5zrBzYc7pmIgP/Djn/J5zvnDgFNqHR7CBdaz4rBlco4L7Ae8EB+nV5X4SH9Mo+qopTEYcVDHmJEPMsfUvkNWBODZkE3t4j7j5G0g9/PzVfwM5RRZ5FvW3kBq2MItGn7eLpt46zahzNaJ/qzq3UCu0D49uUEYhGpZxHnkFKap6RwdLOIu8i9sEpT5AFsCfVO5bs4BSglYQM9yhMwLSib4s5loT2MYb1rCIpxGQB8zjAsfYSYKWxvAoQK68N02vLrt/evbPeBziv+A14qAeY84HxupB1iQHJBEAAAAASUVORK5CYIL2srhfRgEAAA==</Resource>
+      <Resource
+        Name="FilterIcon_Home_Teal.png">H4sIAAAAAAAEAAH7AQT+iVBORw0KGgoAAAANSUhEUgAAAB0AAAAbCAYAAACAyoQSAAABwklEQVRIie3Vv2oUURTH8c9OYpNqiRg7myQgBC1MEcHpNg+QTnCSIo2mCELewBcQhKSysZAV8wJWmcJkAgobMVgFDEiaNBYKRgghaDF3YRj2XyamEPbX3HvP75zzZYZzZ2rTWzuC7uADXmFVby2FvOUkS1/3SmzGjQ0s436SpV8gKviTGEPcBwizGAlrP8Wh72Q7EHXPvToNoUMo1DET9jPNuFG/augsDjAfzvM4aMaNQa5OJWiETUyU4hPYbMaNgXtdBHpX4YKXNBn8fw69dkm/EvQzjrt4x8G/MPR6WMfk39WyzuQf+pNS/ARLSZaelQuacWMk9Cv2V5ve2hnFBh6jFuJf8RCfOsBv4Q0eYBePkiw96gC8Jx+8qRD6g5dYHcUzPCnVTOEdbuNHyTtCK0BbXYD1UH+zEK4FzvcIKx2eRihY6OL100IJWNRKhPEexTcqQnvVjUfyV9VNHytCe9W1IqzhtIP5FttViEmWbof6sk6xFskncA7vg/ETT7FYBVjQYujzK5wzzCVZutu+p/t4EfbfsI7zyxCTLD1PsnQdhyH0PMnSff6j/+kQWgl6iN/yKeunPfmg7Q2Qm4W+7YHyF1qzZZR7tHQIAAAAAElFTkSuQmCChoDX4vsBAAA=</Resource>
+    </Resources>
+  </Stylesheet>
+  <Strings>
+    <Stylesheet
+      lang="en-us">
+      <Stylesheet>
+        <Styles>
+          <Style
+            Name="Search Bar">
+            <Properties>
+              <Property
+                Name="Width">735px</Property>
+              <Property
+                Name="BorderTopLeftRadius">0px</Property>
+              <Property
+                Name="BorderTopRightRadius">0px</Property>
+              <Property
+                Name="BorderBottomRightRadius">0px</Property>
+              <Property
+                Name="BorderBottomLeftRadius">0px</Property>
+              <Property
+                Name="BorderLeft">solid 4px #ffffff</Property>
+              <Property
+                Name="BorderTop">solid 2px #ffffff</Property>
+              <Property
+                Name="BorderRight">solid 2px #ffffff</Property>
+              <Property
+                Name="BorderBottom">solid 2px #ffffff</Property>
+              <Property
+                Name="MarginTop">50px</Property>
+              <Property
+                Name="MarginBottom">50px</Property>
+              <Property
+                Name="Height">45px</Property>
+            </Properties>
+          </Style>
+          <Medium
+            Name="Mobile">
+            <Style
+              Name="Search Bar">
+              <Properties>
+                <Property
+                  Name="Width">100%</Property>
+              </Properties>
+            </Style>
+          </Medium>
+          <Style
+            Name="Search Submit Button">
+            <Properties>
+              <Property
+                Name="BackgroundColor">#25bcc3</Property>
+              <Property
+                Name="Width">44px</Property>
+              <Property
+                Name="BackgroundImage">url('SearchIcon_Home_White.png')</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Search Filter">
+            <Properties>
+              <Property
+                Name="BackgroundImage">url('FilterIcon_Home_Gray.png')</Property>
+              <Property
+                Name="BorderTop">solid 0px #ffffff</Property>
+              <Property
+                Name="BorderRight">solid 0px #000000</Property>
+              <Property
+                Name="BorderBottom">solid 0px #ffffff</Property>
+              <Property
+                Name="BorderLeft">solid 0px #000000</Property>
+            </Properties>
+          </Style>
+          <Style
+            Name="Search Input">
+            <Properties>
+              <Property
+                Name="Placeholder">Search for topics, tips, and more...</Property>
+            </Properties>
+          </Style>
+        </Styles>
+        <Resources>
+          <Resource
+            Name="SearchIcon.png">H4sIAAAAAAAEAAHKAjX9iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAYAAAARIY8tAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJfSURBVEhLtZRNaBNREMcjVcSDWFGo0IOCrai4+2YTih8XQfDgQVTEWvAkCoJ6r+BZ0LuXIr30JKGeBBH37XspFkWI7ntvkwpFKOjBg6DVFlGMjfOWeRHjZhMM/mBY+M+8mbezM1voRFgtbZG14Lo0cJdrdvOxKe0l17/TbBbWycSfEAaanSwywT0pj66nI70zVS1tENqru0RhDGv4XA0NfOIKvgjjNZyPWy1mw3S0O/bm2IbEJYi0t4jtGSF3yvz8kc2RhodCwc80Tnuf5RIbJHc+QvlnXXKh4QHJmcikeNkV4Rruk5yPS47teEdSLtiyKXemUodRkrOp2t5TME/8kyTnwuPRYRFTqxRcIjmbOeUfs4GR9hsk9YRQ7E1aQMM0SdlEho2ngTF8J6knRMy0PScNmyUpm3DB32MD7Vg+Nd5WknMplwsDdnzTNzdwm+TOpG9gTbMZknLhcfGMO1MxcJzkzrQWDNvEa7Cf5EzCF2Pb8PZLNj403odnbw9tIldnuDk45G4UvoIV3NTMW0VJcbfrPRX4gWN6gtz5CMMutA7i9+DKr0QKbuASnhcJXMVNn8WR/OZifpvfwA99mtLkM1eHUxG26e8kXQx3QqpggtLkYycJbzsZKvb+z0TeMr7RncgUx7Mugdu9hiN/kdJ0J/11V0vbo3qwU9bGdpTL5wbIVagsBIe58b62F0kLaXaNwvqjovwAE662F0hNB5MU1h9PXgb7cCBWsopgu25RWH/I12wXTtJydpEetrwXnpsDQ+7X0W4U0j8yZoNhzD7+twKWR4sjG3kCrSLcsCu/ADBvE2o7YwJCAAAAAElFTkSuQmCCMQHnr8oCAAA=</Resource>
+          <Resource
+            Name="Search-white.png">H4sIAAAAAAAEAAEwAs/9iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAB90lEQVRIie2Wv2sUQRiGn1EJWiiHihZJ/I2FRk6xEMQikkZQUtnZKCIWFjYW4h9gr42IXdqAgoHUaQwSEA6D2EQEuYtGsRBFUDGPxc1yi5fczl42lb7Nxy7fO8+8O7s7A/+Vk7pHvaPOqJ/t6J06rd5Qd1cJrKkP1Z8W64d6X91WhhFWgNaBKWA43noPTAJzQAsYAPYBY8A4sDn2vQXOhxBe95O0rn6JST6ol9UNPfp3qY9y6T+ph8tCa3HtVOfVoRLeS7lleakOlAE/iMYldbjY0eW/lkt+K9U0lJvxlbLQ3DhTcYymujHFcDsaFnutacI4x3Opx3r1ZpBzsU6GEJb7BYcQGsCreHk2BXw01rl+oTnNxjqSAt4Za6sCcDPWWgo406YKwEnvSNaUJd1bAfhArEsp4OyFGK0AfDrWRmGnejN+At/U7f0S1VO5z+lYimFQ/RUN99YAno5jzBZ3d0zZz/63Ot4H9HoubVM9lGrcobai8bt6sQT0qt17dyn4STvbouqEur9H/4j6xNW1Knylg8AJ4DHtzR5gGXgGPAcWo+cgcAaoJ+RpAaMhhIXCTnWrelf92iNNpob6pqCnK3lX4r8msAW4QPuYcwTIzlUfgRfA0/gkBoGZ+CTWnryMbO/pC2WT/zvwysGp8HUBp8DXDVwAn/8DeaUVLbLWtN0AAAAASUVORK5CYIJlb4/wMAIAAA==</Resource>
+          <Resource
+            Name="Search-white_1.png">H4sIAAAAAAAEAAFBAr79iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAACCElEQVRIie2WvWsUQRyGnzklaKEcfhZJ/MZCI6dYCGIRSSMoqexsFBELCxsL8Q+w10YknW1AwUDqNAYJBA+DiBAJyF00ioUogop5LG6OWy6524/cdf6amV3ed555d3Z3BjqUuk+9p86oX23VB3VavaXu7eTPXWpZfaz+Nr1+qQ/V7Xk5oQ1aAaaA4XjrIzAJzAF1YAA4AIwB48CWqFsCLoYQ3hZJWlG/xSSf1KtqqYt+jzqRSP9FPZoXWo5rp7qgDuXwXkksy2t1IA/4UTSuqMPpjjX+G4nkd7KahhIzvpYXmhhnKo5RUzdlMdyNhuVua5phnJOJ1GNp+hJwIfYnQwirRcEhhCrwJl6ezwI+HvtzRaGJmo3tSBbwrtiv9wBci205C7hZm3sAzvyOlGgl3d8D8KHYrmQBN1+I0R6Az8a2mqpUb8dP4Ie6oyhRPZP4nE5kMQyqf6LhwQbA03GM2XR1y9T82f9VxwtAbybS1tQjWY071Xo0/lQv54Bed+3enQt+2ta2qPpEPdhFP6I+s3N1hbcfBE4BT2ls9gCrwAvgJbAc9YeBc0AlQ546MBpCWExVqtvU++r3LmmaVVXfp2jWTR7Wg8cJbAUu0TjmHAOa56rPwDzwPD6JQWAmPomNJ89TNvb0xSLJ/8P7DV/qOTgjfL4v4BT4grq7b+AO8P5D2+Dv1FdJ6D+R+kafHW6fRgAAAABJRU5ErkJgglTABWZBAgAA</Resource>
+          <Resource
+            Name="SearchIcon_Home_White.png">H4sIAAAAAAAEAAFTAqz9iVBORw0KGgoAAAANSUhEUgAAABkAAAAaCAYAAABCfffNAAACGklEQVRIia3WTYhOURzH8c/zjIaUpJCR14U0oyTERt4TNTR5mYWFl5JkQ0nZcDuriWJpx8LC22jMpKaQsUETSSHKZkghosZuhpnH4typ6c547vNMz29zzz397vnec/7n/P+nUCqVZDQJu7EPGzAr7f+E+7iJxyPmEEL2+zEqZt7X4DVuYW/a9xyvMANH0YOHmJc7+jiQXXiCRrRjNWZjLVZiJnagF1vxAssqgRTS5VqFpxjGIdwu9w0CzuIzVoQQfuXNpIirmIzDOQAo4RwuYT4u5PgVSqVSC+7ijhjsSlWPd1iExSGEz/8zFrEnbZ+vAgCD4mzq0FLOWMR6fMPLKiHQnT7X5UEa0CeudbX6iD9ibMpCCvg7AcCIhtMxykK+Y+EEAQ3irvySB3mGBWiaAGR7+uzNg3Sm7VNVAoo4mba78oztYuAPYksVkNNYjo4Qwoc8yCCOiMFrF7d0ns6gDf04kWceSZA9OC5m2ke4iLnj+JvEzNCW/tRvDORBCpl60owrYvYtiSm+T9xBS7Ek9b3Be7TiLTaHEH5UCoFp4vK1iml+5AwMpLO8IRauIVzGsTzQeJDRmoI56YBfjT20hQxoYwjhZ7WQSlSHa9gvVtFtIYT+0YZs+a1aIYQhHMB1sXw/SJJkek0hlYBqAsmAOlJQd5IkU6lBTLJXoiRJ6sWztFO8OjXXbCajoIPideoeNqGz5pAMqAuN/wDWkZo6xa+34wAAAABJRU5ErkJggvWmbx1TAgAA</Resource>
+          <Resource
+            Name="FilterIcon_Home_Gray.png">H4sIAAAAAAAEAAH9AQL+iVBORw0KGgoAAAANSUhEUgAAAB0AAAAbCAYAAACAyoQSAAABxElEQVRIie3VvUodURSG4cfRNFYHQ0w9GGHQSQotDMTSC/ACtLCKRQh4B7mBQMAUgkUIaRRSp7OIeCABhYhTjIVMsLFJkUAMiAgpzj4wDOfPMRYBv2bvvb611ssMa88Mvd/6KOgxvuAdXuit5ZC3UuTZh16JcZK+xQqeFnl2BFHJn8Ao5vsAYRbDYe2n+dB3oh2Iuufenu6gd1BoYDrsp+Mkbdw2dBbHWAjnBRzHSTrI1akFjbCN8Up8HNtxkg7c6zrQJ0oXvKKJ4P9z6L0b+rWg33DWxTsL/rWh98M6qvVdrepS60N/XomfY7nIs8tqQZykw6Ffub8II9jAZohNIsdMB/AOptAM5yamijzb6QCcCX0mQ2gzTtKNOElHRvAKzys1j/AJCX5WvFPs4xn2izw77QBshPqHpfBQ4PyIsNrhiYSCxS5ePy1WgGWtRhjrUfygJrRX3Vik9aq66WtNaK+6/QhruOhgbmG3DrHIs91QX9UF1iKtCZzD52D8wkss1QGWtBT6/A7nPcwVedZs39NDvAn771jH1U2IRZ5dFXm2jpMQel3k2SH/0f/0DloLeoI/WlPWTwdag3YwQO5e6NseKH8B3TpmWf2CYeEAAAAASUVORK5CYIJLrgNp/QEAAA==</Resource>
+        </Resources>
+      </Stylesheet>
+    </Stylesheet>
+  </Strings>
+</CatapultSkin>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../../Resources/MasterPages/Central/PDF-Topics/Central-Projects-Builds.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Log file;Build log" />Opening the Build Log</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Central/Projects/Opening-Build-Log.flsnp" />
+        <p>In Flare, the output files and build log are retained for only the most recent build for a target; when you rebuild, the previous output files and build log are replaced with the new ones. But in Central, the output files and build log are retained for each build.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to open a Build Log</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Open-Project.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Open-Build-Management.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Navigate-Target.flsnp" />
+                    </li>
+                    <li>In the grid, click the check box to the left of the build with the log you want to view. </li>
+                    <li>In the toolbar, click <img src="../../../Resources/Images/Central/open-build-log-messages-btn.png" alt="" title="" class="ReduceButtonSize" />. The Build Log dialog opens.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Projects-and-Builds-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Viewing and Downloading the Log File</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The log file contains the following sections, which can be accessed by clicking them on the left:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Messages </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Ce-Fl/Targets/Build-Progress-Messages-Tab.flsnp" />
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Warnings </span>
+                            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Ce-Fl/Targets/Build-Progress-Warnings-Tab.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet2]exclude[Snippets.Snippet1]" />
+                        </p>
+                        <div class="warning">
+                            <p class="importantInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Important: &lt;/span&gt;&lt;/b&gt;">Use caution when ignoring compiler warnings. Only ignore warnings that you are certain you do not need to receive.</p>
+                        </div>
+                        <div class="note">
+                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">When you generate a target from Flare, you have the option of ignoring warnings globally (using the Options dialog) or only for a specific target (using the Target Editor). However, when generating a target from Central, you must set the warnings to ignore in the Target Editor; Central will not use any global settings from the Options dialog in Flare.</p>
+                        </div>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Errors </span>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/Ce-Fl/Targets/Build-Progress-Errors-Tab.flsnp" />
+                    </li>
+                </ul>
+                <p>If you want a local copy of the log, click <b>Download Log</b>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

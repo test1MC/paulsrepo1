@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li><a href="../../../../Flare/TOCs/More/Adding-TOC.htm">Add a TOC file</a> (which serves as an outline in print-based output) and within it <a href="../../../../Flare/TOCs/Creating-TOC-Manually.htm">create entries</a> that link to topics.</li>
+            <li><a href="../../../../Flare/Topics/Creating-Topics.htm">Create a new topic</a>.</li>
+            <li>At the top of the topic, enter a title (e.g., “Contents”) and remove unnecessary text after the topic title. It is probably best not to use an h1 through h6 style for the heading since it will then show up in the generated TOC.</li>
+            <li>From the <span class="Emphasis">Insert</span> ribbon, select <span class="Emphasis">Proxy &gt; Insert TOC Proxy</span>.</li>
+            <li>Click <span class="Emphasis">OK</span> and save.</li>
+            <li><a href="../../../../Flare/Output/Printed-Output/Adding-Print-Topics-Outline-TOC.htm">In the "outline" TOC file, add an entry near the top that links to the new topic containing the TOC proxy</a>.</li>
+        </ol>
+    </body>
+</html>

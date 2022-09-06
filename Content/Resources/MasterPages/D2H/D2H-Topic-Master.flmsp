@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div class="TopicContent">
+            <MadCap:breadcrumbsProxy />
+            <MadCap:bodyProxy />
+            <p class="Footer-D2H"><a href="https://help.madcapsoftware.com/d2h6/index.htm" target="_blank"><img src="../../Images/D2H/view_web_help_banner_d2h.png" class="Hyperlinked" /></a>
+            </p>
+        </div>
+    </body>
+</html>

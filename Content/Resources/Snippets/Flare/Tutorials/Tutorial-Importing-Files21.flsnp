@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>This is a table stylesheet. In our Legacy project we have a table stylesheet with the same name, but we want to use this newer look. Therefore, we will import the file and it will replace our older table stylesheet. In your actual project, it’s possible you might want to keep your old stylesheet instead.</p>
+    </body>
+</html>

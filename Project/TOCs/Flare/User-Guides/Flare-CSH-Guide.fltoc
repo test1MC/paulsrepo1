@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Titles/Title.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page-Green.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Titles/Title.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright/Copyright.flpgl"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOCs/TOC-Green.flpgl"
+    PageType="first"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+  <TocEntry
+    Title="CH 1"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="About CSH"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartSection="false"
+    Link="/Content/Print-Only-Topics/Flare/CSH/About-CSH.htm"
+    StartPageLayout="false"
+    BreakType="none">
+    <TocEntry
+      Title="About CSH2"
+      Link="/Content/Print-Only-Topics/Flare/CSH/About-CSH2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="none"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 2"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Header Files"
+    Link="/Content/Flare/CSH/About-Header-Files.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="(multiple)"
+    StartPageLayout="false"
+    StartSection="false"
+    BreakType="none">
+    <TocEntry
+      Title="Adding Header Files"
+      Link="/Content/Flare/CSH/Adding-Header-Files.htm"
+      PageNumber="(multiple)"
+      StartSection="false" />
+    <TocEntry
+      Title="Importing Header Files"
+      Link="/Content/Flare/CSH/More-Header-Files/Importing-Header-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening Header Files"
+      Link="/Content/Flare/CSH/More-Header-Files/Opening-Header-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Providing a Developer with a Header File"
+      Link="/Content/Flare/CSH/Providing-Developer-with-Header-File.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Alias Files"
+    Link="/Content/Flare/CSH/About-Alias-Files.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    BreakType="none">
+    <TocEntry
+      Title="Adding Alias Files"
+      Link="/Content/Flare/CSH/Adding-Alias-Files.htm"
+      PageNumber="(multiple)"
+      StartSection="false" />
+    <TocEntry
+      Title="Setting Identifier Options"
+      Link="/Content/Flare/CSH/Setting-Identifier-Options.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Creating and Assigning Identifiers"
+      Link="/Content/Flare/CSH/Creating-Assigning-Identifiers.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Moving Identifiers to Different Headers"
+      Link="/Content/Flare/CSH/Moving-Identifiers-to-Different-Headers.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Importing Alias Files"
+      Link="/Content/Flare/CSH/More-Alias-Files/Importing-Alias-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Opening Alias Files"
+      Link="/Content/Flare/CSH/More-Alias-Files/Opening-Alias-Files.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Associating an Alias File with a Target"
+      Link="/Content/Flare/CSH/Associating-Alias-File-with-Target.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 4"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Additional Tasks for Context-Sensitive Help"
+    Link="/Content/Flare/CSH/Testing-CSH.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    BreakType="none">
+    <TocEntry
+      Title="Creating Topic Alias Markers in FrameMaker for Context-Sensitive Help"
+      Link="/Content/Flare/Importing/More-FrameMaker/Creating-Topic-Alias-Markers-for-CSH.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="CSH Calls for HTML Help"
+      Link="/Content/Flare/CSH/HTML-Help-CSH-Calls/CSH-Calls-HTML-Help.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="CSH Calls for HTML Help - Developers"
+        Link="/Content/Flare/CSH/HTML-Help-CSH-Calls/CSH-Calls-HTML-Help-Developers.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+    <TocEntry
+      Title="CSH Calls for HTML5 (WebHelp 2.0)"
+      Link="/Content/Flare/CSH/HTML5-CSH-Calls/CSH-Calls-HTML5.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="CSH Calls for HTML5 (WebHelp 2.0)—Developers"
+        Link="/Content/Flare/CSH/HTML5-CSH-Calls/CSH-Calls-HTML5-Developers.htm"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="Excluding JavaScript for CSH Calls"
+        Link="/Content/Flare/CSH/HTML5-CSH-Calls/Excluding-Javascript-CSH-Calls-HTML5.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="CSH Calls for WebHelp and WebHelp Plus"
+      Link="/Content/Flare/CSH/WebHelp-CSH-Calls/CSH-Calls-WH-WHP.htm"
+      PageNumber="(multiple)">
+      <TocEntry
+        Title="CSH Calls for WebHelp and WebHelp Plus—Developers"
+        Link="/Content/Flare/CSH/WebHelp-CSH-Calls/CSH-Calls-WH-WHP-Developers.htm"
+        PageNumber="(multiple)" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Appendix"
+    Link="/Content/Print-Only-Topics/Shared/Appendix.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled"
+    ComputeToc="false"
+    PageType="first"
+    BreakType="none" />
+</CatapultToc>

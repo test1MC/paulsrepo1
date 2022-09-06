@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature-Supported/All-Online-PDF-EPUB.flsnp" MadCap:conditions="General.Online-Only" />
+        <p>
+            <MadCap:snippetText src="../../Shared/Co-Fl/Positioning/Floats-Summary1.flsnp" /> See <MadCap:xref href="../../../../Flare/Positioning-Elements/Using-Absolute-Positioning-Elements.htm">Using Absolute Positioning on Elements</MadCap:xref>.</p>
+        <MadCap:snippetBlock src="../../Shared/Co-Fl/Positioning/Floats-Summary2.flsnp" />
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.Online-Only">examples</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Positioning/Floats-Example-Image.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Positioning/Floats-Example-Text-Box.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Styles-Guide,Flare-Guides.Flare-Images-Guide,Flare-Guides.Flare-Printed-Output-Guide">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to position Elements using a style</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <MadCap:snippetBlock src="../Styles/Edit-Style1.flsnp" />
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Select-Medium1.flsnp" />
+                        </p>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Select-Medium2.flsnp" />
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Remembers-Last-Medium.flsnp" />
+                        </p>
+                        <p MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Shared/Co-Fl/medium_example1.png" class="MaxWidth80Percent">
+                            </img>
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Edit-Styles2.flsnp" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>if using simplified view</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Styles-Advanced-Button-Shown.flsnp" />
+                                    </li>
+                                    <li>(Optional) In the upper-left corner of the editor, you can click in the <span class="Emphasis">Show Styles</span> field  and select a kind of style to decrease the number of them that are shown below (e.g., Show Image Styles, Show Paragraph Styles).</li>
+                                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Styles-Guide,Flare-Guides.Flare-Images-Guide" />
+                                    <li>
+                                        <p>From the area below, select the appropriate style.  If you want to use a class of the style, select it instead.</p>
+                                        <p>For images, select the <span class="Emphasis">img</span> style or a class below it.</p>
+                                        <p>For paragraphs, select the <span class="Emphasis">p</span> style or a class below it.</p>
+                                        <p>For text boxes, select the <span class="Emphasis">div</span> style or a class below it.</p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Local-Toolbar-Click-Properties-Style.flsnp" />
+                                    </li>
+                                    <li>Select the <span class="Emphasis">Position</span> tab.</li>
+                                    <li>In the <span class="Emphasis">Position</span> section, you can select a <span class="Emphasis">Float</span> and a <span class="Emphasis">Clear</span> setting. You can also set the <span class="Emphasis">Vertical Alignment</span> of the element.</li>
+                                    <MadCap:dropDown class="ThirdLevel">
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>float</MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>
+                                                <MadCap:snippetText src="../../Shared/Co-Fl/Formatting/Formatting-Position-Tab-Float-Field.flsnp" />
+                                            </p>
+                                            <MadCap:snippetBlock src="../../Shared/Co-Fl/Formatting/Formatting-Position-Tab-Float-Options.flsnp" />
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide,Flare-Guides.Flare-Images-Guide" />
+                                    <MadCap:dropDown class="ThirdLevel">
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>clear </MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>
+                                                <MadCap:snippetText src="../../Shared/Co-Fl/Formatting/Formatting-Position-Tab-Clear-Field.flsnp" />
+                                            </p>
+                                            <MadCap:snippetBlock src="../../Shared/Co-Fl/Formatting/Formatting-Position-Tab-Clear-Options.flsnp" />
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                    <MadCap:dropDown class="ThirdLevel">
+                                        <MadCap:dropDownHead>
+                                            <MadCap:dropDownHotspot>vertical alignment</MadCap:dropDownHotspot>
+                                        </MadCap:dropDownHead>
+                                        <MadCap:dropDownBody>
+                                            <p>Use this field to adjust where the item is positioned vertically.</p>
+                                            <ul>
+                                                <li><span class="SetOffFirstLevel">Baseline </span>The baseline of the element will be aligned with the baseline of the parent box. </li>
+                                                <li><span class="SetOffFirstLevel">Text Top </span>The top of the element will be aligned with the top of the parent element's font.</li>
+                                                <li><span class="SetOffFirstLevel">Text Bottom </span>The bottom of the element will be aligned with the bottom of the line box.</li>
+                                                <li><span class="SetOffFirstLevel">Top </span>The top of the element will be aligned with the top of the line box.</li>
+                                                <li><span class="SetOffFirstLevel">Middle </span>The vertical midpoint of the element will be aligned with the baseline of the parent box, plus half the x-height of the parent.</li>
+                                                <li><span class="SetOffFirstLevel">Bottom </span>The bottom of the element will be aligned with the bottom of the line box.</li>
+                                            </ul>
+                                        </MadCap:dropDownBody>
+                                    </MadCap:dropDown>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Steps-General/Properties-Dialog-Click-OK.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide,Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Images-Guide" />
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead>
+                                <MadCap:dropDownHotspot>if using advanced view</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <ol class="LowerAlpha">
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Styles-Simplified-Button-Shown.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Filter-All-Styles1.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>From the left side of the editor, select the appropriate style.  If you want to use a class of the style, select it instead.</p>
+                                        <p>For images, select the <span class="Emphasis">img</span> style or a class below it.</p>
+                                        <p>For paragraphs, select the <span class="Emphasis">p</span> style or a class below it.</p>
+                                        <p>For text boxes, select the <span class="Emphasis">div</span> style or a class below it.</p>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Select-Show-All-Properties1.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Styles-Toggle-Group-Alphabetical.flsnp" />
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Locate-Select-Property1.flsnp" />
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Change-Properties1.flsnp" /> </p>
+                                        <p>Here are common properties you might change.</p>
+                                        <MadCap:dropDown class="ThirdLevel">
+                                            <MadCap:dropDownHead>
+                                                <MadCap:dropDownHotspot>Vertical Alignment</MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <ol class="LowerAlpha">
+                                                    <li>If you are using the grouped view, expand the <span class="Emphasis">Block</span> or <span class="Emphasis">Cell</span> group.</li>
+                                                    <li>Locate the <span class="Emphasis">vertical-align</span> property.</li>
+                                                    <li>
+                                                        <p>To the right of the property, click <img src="../../../Images/Shared/Co-Fl/Browse-btn.png" alt="" title="" class="ReduceButtonSize" />, and select the alignment type.</p>
+                                                        <ul>
+                                                            <li><span class="SetOffFirstLevel">baseline </span>The baseline of the element will be aligned with the baseline of the parent box. </li>
+                                                            <li><span class="SetOffFirstLevel">text-top </span>The top of the element will be aligned with the top of the parent element's font.</li>
+                                                            <li><span class="SetOffFirstLevel">text-bottom </span>The bottom of the element will be aligned with the bottom of the line box.</li>
+                                                            <li><span class="SetOffFirstLevel">top </span>The top of the element will be aligned with the top of the line box.</li>
+                                                            <li><span class="SetOffFirstLevel">middle </span>The vertical midpoint of the element will be aligned with the baseline of the parent box, plus half the x-height of the parent.</li>
+                                                            <li><span class="SetOffFirstLevel">bottom </span>The bottom of the element will be aligned with the bottom of the line box.</li>
+                                                            <li><span class="SetOffFirstLevel">sub </span>Aligns the element as if it were subscript</li>
+                                                            <li><span class="SetOffFirstLevel">super </span>Aligns the element as if it were superscript</li>
+                                                        </ul>
+                                                    </li>
+                                                    <li>Click <span class="Emphasis">OK</span>.</li>
+                                                </ol>
+                                            </MadCap:dropDownBody>
+                                        </MadCap:dropDown>
+                                        <MadCap:dropDown class="ThirdLevel">
+                                            <MadCap:dropDownHead>
+                                                <MadCap:dropDownHotspot>Clear</MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <ol class="LowerAlpha">
+                                                    <li>If you are using the grouped view, expand the <span class="Emphasis">Box</span> group.</li>
+                                                    <li>Locate the <span class="Emphasis">clear</span> property.</li>
+                                                    <li>
+                                                        <p>To the right of the property, click <img src="../../../Images/Shared/Co-Fl/Browse-btn.png" alt="" title="" class="ReduceButtonSize" />, and select a clear type for the element.</p>
+                                                        <ul class="FirstLevel">
+                                                            <li><span class="SetOffFirstLevel">none </span>Does not apply the clear property to the element.</li>
+                                                            <li><span class="SetOffFirstLevel">left </span>The element is placed below the bottom outer edge of a previous element that is floating left.</li>
+                                                            <li><span class="SetOffFirstLevel">right </span>The element is placed below the bottom outer edge of a previous element that is floating right.</li>
+                                                            <li><span class="SetOffFirstLevel">both </span>The element is placed below the previous one, whether floating left or right.</li>
+                                                        </ul>
+                                                    </li>
+                                                </ol>
+                                            </MadCap:dropDownBody>
+                                        </MadCap:dropDown>
+                                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Images-Guide" />
+                                        <MadCap:dropDown class="ThirdLevel">
+                                            <MadCap:dropDownHead>
+                                                <MadCap:dropDownHotspot>Float</MadCap:dropDownHotspot>
+                                            </MadCap:dropDownHead>
+                                            <MadCap:dropDownBody>
+                                                <ol class="LowerAlpha">
+                                                    <li>If you are using the grouped view, expand the <span class="Emphasis">Unclassified</span> group.</li>
+                                                    <li>Locate the <span class="Emphasis">mc-float</span> property.</li>
+                                                    <li>
+                                                        <p>To the right of the property, click <img src="../../../Images/Shared/Co-Fl/Browse-btn.png" alt="" title="" class="ReduceButtonSize" />, and select a vertcal positioning type for the element.</p>
+                                                        <ul class="FirstLevel">
+                                                            <li><span class="SetOffFirstLevel">none </span>Does not place the element in a specific location.</li>
+                                                            <li><span class="SetOffFirstLevel">left </span>Positions the element on the left side of the page frame, allowing you to type text to the right of the element.</li>
+                                                            <li><span class="SetOffFirstLevel">right </span>Positions the element on the right side of the page frame, allowing you to type text to the left of the element.</li>
+                                                            <li><span class="SetOffFirstLevel">center </span>Positions the element in the center of the column on the page.</li>
+                                                            <li><span class="SetOffFirstLevel">outside-left </span>Positions the element beyond the left margin of the topic text.</li>
+                                                            <li><span class="SetOffFirstLevel">outside-right </span>Positions the element beyond the right margin of the topic text.</li>
+                                                            <li><span class="SetOffFirstLevel">outside-frame </span>Positions the element outside of the page frame.</li>
+                                                            <li><span class="SetOffFirstLevel">outside-frame-top </span>Positions the element outside of the page frame, as well as aligning it with the top of the frame.</li>
+                                                            <li><span class="SetOffFirstLevel">frame-left </span>Positions the element to the left of the page frame.</li>
+                                                            <li><span class="SetOffFirstLevel">frame-right </span>Positions the element to the right of the page frame.</li>
+                                                            <li><span class="SetOffFirstLevel">frame-center </span>Positions the element both vertically and horizontally in the middle of the page frame.</li>
+                                                        </ul>
+                                                    </li>
+                                                </ol>
+                                            </MadCap:dropDownBody>
+                                        </MadCap:dropDown>
+                                    </li>
+                                    <li>
+                                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                                    </li>
+                                </ol>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Images-Guide" />
+        <MadCap:dropDown MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Images-Guide,Flare-Guides.Flare-QR-Codes-Guide">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to position Elements Using Local Formatting</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl-Li/Topics/Open-Content-File.flsnp" />
+                    </li>
+                    <li>
+                        <p>Right-click on the element, and from the menu, select the option to edit its properties.</p>
+                        <p>For images, select <span class="Emphasis">Image Properties</span>.</p>
+                        <p>For QR codes select <span class="Emphasis">Edit QR Code</span>.</p>
+                        <p>For text boxes, select <span class="Emphasis">Text Box</span>.</p>
+                    </li>
+                    <li>In the Properties dialog, select the <span class="Emphasis">Size &amp; Position</span> or <span class="Emphasis">Position</span> tab.</li>
+                    <li>In the <span class="Emphasis">Position</span> section, you can select a <span class="Emphasis">Float</span> and a <span class="Emphasis">Clear</span> setting. You can also set the <span class="Emphasis">Vertical Alignment</span> of the object.<MadCap:snippetBlock src="../../Shared/Co-Fl/Positioning/Position-Options-Lists.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet14] exclude[Snippets.Snippet15] " /></li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Positioning/Note-Adjust-Space-Object-Flowing-Text.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Note-More-Info-Floats-W3C.flsnp" MadCap:conditions="General.Online-Only" />
+                <p class="note" MadCap:conditions="General.Online-Only" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For examples of the different ways you can configure headings, including creating side headings, see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Heading-Examples.htm">Heading Examples</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Styles-Guide" />
+    </body>
+</html>

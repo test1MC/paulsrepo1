@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p><span class="SetOffFirstLevel">New from existing </span>
+            <MadCap:expanding>
+                <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                <MadCap:expandingBody> <MadCap:snippetText src="New-Existing-Content.flsnp" /></MadCap:expandingBody>
+            </MadCap:expanding>
+        </p>
+    </body>
+    <head>
+    </head>
+</html>

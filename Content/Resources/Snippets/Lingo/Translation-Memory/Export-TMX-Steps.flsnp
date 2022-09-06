@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Export a Translation Memory</span>
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Select <span class="Emphasis">Resources &gt; Export to TMX</span>.</li>
+                    <li>Next to the <span class="Emphasis">TMX File</span> field, click <img src="../../../Images/Shared/All/browse_ellipses.png" class="ReduceButtonSize" />.</li>
+                    <li>Navigate to the folder where you want to export the file. Also in the <span class="Emphasis">File name</span> field, enter a name for the new TMX file. Then click <span class="Emphasis">Save</span>.</li>
+                    <li>In the <span class="Emphasis">Languages to export</span> field, select the language(s) to include in the exported TMX file. </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Source language</span> field, select the language(s) to be available as the source in the exported TMX file. <span class="topic-only">You can select an individual language or you can select "Any," which allows tools to use translations in any direction in the TMX file.</span></p>
+                        <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+                        <div class="topic-only">
+                            <MadCap:dropDown class="SecondLevel">
+                                <MadCap:dropDownHead class="OnlineOnly">
+                                    <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+                                </MadCap:dropDownHead>
+                                <MadCap:dropDownBody>
+                                    <MadCap:snippetBlock src="../../Shared/Al-Li/Translation-Memory/Example-Export-TMX.flsnp" />
+                                </MadCap:dropDownBody>
+                            </MadCap:dropDown>
+                        </div>
+                    </li>
+                    <li>Click <span class="Emphasis">Start Export</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

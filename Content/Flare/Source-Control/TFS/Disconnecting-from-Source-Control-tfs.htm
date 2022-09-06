@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" style="mc-master-page: url('../../../Resources/MasterPages/Shared/Fl-Li/Source-Control-TFS.flmsp');">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterProjects" />
+            <MadCap:keyword term="Source control:disconnect" />
+            <MadCap:concept term="FilterFeatures" />Disconnecting from Source Control<MadCap:conditionalText MadCap:conditions="General.Online-Only">—Team Foundation Server</MadCap:conditionalText></h1>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnecting-Intro.flsnp" />
+        </p>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnecting-Benefits.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Disconnect from TFS</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When you want to work offline, you can disconnect from source control.</p>
+                <ol>
+                    <li>
+                        <p>Check out the files you will need to work on while disconnected. See <MadCap:xref href="Checking-Out-Source-Control-Files-tfs.htm">Checking Out Source Control Files—Team Foundation Server</MadCap:xref>.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/UI-Elements/Select-Source-Control-Ribbon.flsnp" /> In the <span class="Emphasis">Project</span> section select <span class="Emphasis">Disconnect</span>.</p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Right-Click </span>If you have the Content Explorer, Project Organizer, Pending Changes window pane, or File List open, right-click on any file and select <span class="Emphasis">Source Control &gt; Project &gt; Disconnect</span>.</li>
+                        </ul>
+                    </li>
+                    <li>A confirmation dialog appears. Click <span class="Emphasis">Yes</span>. You will be disconnected from source control.</li>
+                </ol>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnecting-Disabling-Network.flsnp" />
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnect-Save-Error.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Source-Control-Guide-TFS" />
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnecting-Changing-Files.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Reconnect to TFS</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When you are finished working offline, you can reconnect to source control.</p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/UI-Elements/Select-Source-Control-Ribbon.flsnp" /> In the <span class="Emphasis">Project</span> section select <span class="Emphasis">Reconnect</span>.</p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Right-Click </span>If you have the Content Explorer, Project Organizer, Pending Changes window pane, or File List open, right-click on any file and select <span class="Emphasis">Source Control &gt; Project &gt; Reconnect</span>.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>Check in the files you previously checked out. See <MadCap:xref href="Checking-In-Source-Control-Files-tfs.htm">Checking In Source Control Files</MadCap:xref>.</p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Network-Connection-Status-Icon.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

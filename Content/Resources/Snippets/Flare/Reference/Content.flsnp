@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">This holds all content files (e.g., topics, images, stylesheets, snippets) in your project. These files are stored in the Content Explorer in <MadCap:variable name="Other.Product" />. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Interface/UI-Elements/Content-Explorer.htm">Content Explorer</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareStylesCheatSheet.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/CheatSheet_Icon.png" title="Cheat Sheet" /></a> <a href="https://docs.madcapsoftware.com/flare2019/FlareStylesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a></div>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">CSS Variables </span>A variable in a stylesheet that lets you place the value for a style in one place and reuse it throughout a stylesheet. As with other kinds of single-sourcing, this can help with speed, ease of use, and consistency.  <a href="../../../../Flare/Styles/CSS-Variables/About-CSS-Variables.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Styles/CSS-Variables/Creating-CSS-Variables.htm">Creating CSS Variables</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Styles/CSS-Variables/Inserting-CSS-Variables.htm">Inserting CSS Variables</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Styles/CSS-Variables/Editing-CSS-Variables.htm">Editing CSS Variables</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Styles/CSS-Variables/Resolving-CSS-Variables.htm">Resolving CSS Variables for Internet Explorer</MadCap:xref>
+                    </li>
+                </ol>
+            </div>
+            <div>
+                <p style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-CSS-Variables.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <MadCap:changeData>
+            <MadCap:AddChange MadCap:userName="jcheverie" MadCap:initials="JC" MadCap:id="1" MadCap:timestamp="2019-03-12T10:36:07.9036810-07:00" />
+        </MadCap:changeData>
+    </head>
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The MadCap Connect plug-in to Zendesk must be activated through your destination file before you publish. Otherwise, your attempts to publish to Zendesk will fail.<MadCap:change MadCap:changes="1"> </MadCap:change><MadCap:conditionalText MadCap:changes="1" MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm" MadCap:changes="1">Creating Publishing Destinations</MadCap:xref>.</MadCap:conditionalText></p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareGlobalProjectLinkingGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Global Project Linking </span>A feature that lets you import content and project files contained in another Flare project, thus allowing you to maintain the information in one location but reuse it in any other project. <a href="../../../../Flare/Global-Project-Linking/About-Global-Project-Linking.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Global-Project-Linking/Adding-Project-Import-Files.htm" target="" title="" alt="">Adding Project Import Files</MadCap:xref>
+                    </li>
+                    <li><a href="../../../../Flare/Global-Project-Linking/GPL-Importing-Files.htm">Importing Files from Other Projects</a>
+                    </li>
+                    <li><a href="../../../../Flare/Global-Project-Linking/Reimporting-Files-from-Other-Projects.htm">Re-importing Files from Other Projects</a>
+                    </li>
+                </ol>
+                <p>
+                    <MadCap:xref href="../../../../Flare/Global-Project-Linking/Rules-Global-Project-Linking.htm">Rules for Global Project Linking</MadCap:xref>
+                </p>
+                <p><a href="../../../../Flare/Project-Architecture/External-Architecture/Flare-Project-Structures.htm#WhatMadCapDocTeamDoes">What the MadCap Doc Team Does</a>
+                </p>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/pa-multiple-projects-gpl1.png" alt="" title="" style="width: 326px; height: 305px;" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

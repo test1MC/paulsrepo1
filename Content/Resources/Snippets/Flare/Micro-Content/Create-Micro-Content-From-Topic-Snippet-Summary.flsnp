@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>These steps are different than linking to a topic or snippet from a micro content file. In that case, the response would consist of the entire topic or snippet, or the content from the bookmark to the bottom of the file, if you decide to use a bookmark. In this case, the response consists only of the specific content in the topic or snippet that you select.</p>
+    </body>
+</html>

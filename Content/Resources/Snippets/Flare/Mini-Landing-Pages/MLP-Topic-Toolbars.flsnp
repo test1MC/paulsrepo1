@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareNavigationLinksGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Topic Toolbars </span>A topic toolbar displays buttons in a custom toolbar within the topic content, based on the insertion of a Topic Toolbar proxy. The buttons in a toolbar help end users navigate through the output and perform other functions. <a href="../../../../Flare/Nav-Links/Toolbars/About-Topic-Toolbars.htm">More Details…</a> </p>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <p class="Bold">Basic Steps</p>
+                                <ol>
+                                    <li>(Optional) <a href="../../../../Flare/Skins/Adding-Skins-to-Project.htm">Add a skin or skin component</a>, depending on your output type:<ul><li><MadCap:xref href="../../../../Flare/Skins/HTML5-Skin-Styles/Topic-Toolbars-HTML5-Skins.htm">Topic Toolbars in HTML5 Skin Components</MadCap:xref></li><li><MadCap:xref href="../../../../Flare/Skins/More/Topic-Toolbars-WebHelp-Output.htm">Topic Toolbars in WebHelp Outputs</MadCap:xref></li></ul></li>
+                                    <li>(Optional)&#160;<a href="../../../../Flare/Proxies/Using-Styles-Determine-Look-Topic-Toolbars.htm">Use styles to determine the look of topic toolbars</a>.</li>
+                                    <li><a href="../../../../Flare/Proxies/Inserting-Editing-Topic-Toolbar.htm">Insert and edit a Topic Toolbar proxy</a>.</li>
+                                </ol>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <p class="Bold">More Information</p>
+                                <ul>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Nav-Links/Toolbars/About-Topic-Toolbars.htm#TopicToolbarButtonsSupported">Topic Toolbar Buttons Supported</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Nav-Links/Toolbars/About-Topic-Toolbars.htm#Examples">Examples</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Nav-Links/Toolbars/About-Web-Toolbars.htm">About Web Toolbars</MadCap:xref> (toolbars added within the skin framework for some output formats)</li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Topic-Toolbar.png" alt="" title="" style="width: 372px;height: 304px;" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

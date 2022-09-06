@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/Co-Fl/Steps-General/Design-Summary.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Styles;Styles:stylesheets" />Styles</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Styles-Summary-Short.flsnp" /> See <MadCap:xref href="../../../../Flare/Styles/About-Styles-Stylesheets.htm">About Styles and Stylesheets</MadCap:xref>.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Local-Formatting/Local-Formatting-Summary1.flsnp" /> Styles are almost always recommended over local formatting. See <MadCap:xref href="../../../../Flare/Local-Formatting/Local-Formatting.htm">Local Formatting</MadCap:xref>.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Master pages" />Master Pages</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Master-Pages/Master-Page-Summary.flsnp" /> See <MadCap:xref href="../../../../Flare/Master-Pages/About-Master-Pages.htm">About Master Pages</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Page layouts" />Page Layouts</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Shared/Co-Fl/Page-Layouts/Page-Layout-Definition.flsnp" />&#160;See <MadCap:xref href="../../../../Flare/Page-Layouts/About-Page-Layouts.htm">About Page Layouts</MadCap:xref>.</p>
+                <p>
+                    <MadCap:snippetText src="../../Shared/Co-Fl/Page-Layouts/Page-Layouts-Vs-Master-Pages.flsnp" MadCap:conditions="Products.Flare" /> </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Skins" />Skins</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Skins/Skin-Summary.flsnp" /> See <MadCap:xref href="../../../../Flare/Skins/About-Skins.htm">About Skins</MadCap:xref>.</p>
+                <p>
+                    <MadCap:snippetText src="../Skins/Skin-Summary2.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="../Skins/About-Skins-List.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Common Ways to Format Content</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are some of the primary ways to format content in a project:</p>
+                <ul>
+                    <li>
+                        <MadCap:keyword term="Autonumbers" /><span class="SetOffFirstLevel">Autonumbers </span>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Summary.flsnp" /> Autonumbers are most commonly used for print-based output, but you can use them for online output as well. See <MadCap:xref href="../../../../Flare/Autonumbers/About-Autonumbers.htm">About Autonumbers</MadCap:xref>.</li>
+                    <li>
+                        <MadCap:keyword term="Color" /><span class="SetOffFirstLevel">Color </span>You can apply color to text, as well as set the background color on many elements. See <MadCap:xref href="../../../../Flare/Color/About-Color.htm">About Color</MadCap:xref>.</li>
+                    <li>
+                        <MadCap:keyword term="Fonts" /><span class="SetOffFirstLevel">Fonts </span><MadCap:variable name="Other.Product" /> supports both TrueType and OpenType fonts. You can perform multiple tasks, such as applying fonts to content, creating font sets, and pinning fonts. See <MadCap:xref href="../../../../Flare/Fonts/About-Fonts.htm">About Fonts</MadCap:xref>.</li>
+                    <li>
+                        <MadCap:keyword term="Horizontal rules" /><span class="SetOffFirstLevel">Horizontal Rules </span>
+                        <snippetText src="../../Shared/Co-Fl/Horizontal-Rules/Rulers-Summary.flsnp" /> See <MadCap:xref href="../../../../Flare/Horizontal-Rules/About-Horizontal-Rules.htm">About Horizontal Rules</MadCap:xref>.</li>
+                    <li>
+                        <MadCap:keyword term="Lists" /><span class="SetOffFirstLevel">Lists </span><MadCap:variable name="Other.Product" /> lets you work with numbered and bulleted lists in a variety of ways. This includes creating simple, multi-level, and custom format lists. See <MadCap:xref href="../../../../Flare/Lists/About-Lists.htm">About Lists</MadCap:xref>.</li>
+                    <li>
+                        <MadCap:keyword term="Paragraphs:formatting;Formatting:paragraphs" /><span class="SetOffFirstLevel">Paragraph Formatting </span>You can affect the look and behavior of paragraphs in various ways. These settings can be applied locally or to the style used for the paragraph. Modifying the style is typically preferable to changing the settings locally for a single paragraph. See <MadCap:xref href="../../../../Flare/Paragraphs/About-Paragraph-Formatting.htm">About Paragraph Formatting</MadCap:xref>.</li>
+                    <li>
+                        <MadCap:keyword term="Element positioning;Positioning:elements" /><span class="SetOffFirstLevel">Positioning Elements </span>You can adjust the positioning of content by using absolute positioning or floats. See <MadCap:xref href="../../../../Flare/Positioning-Elements/About-Positioning-Elements.htm">About Positioning Elements</MadCap:xref>.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>After you design your content and output, you can then move on to the other basic steps.</p>
+                <ol>
+                    <li><a href="../../../../Flare/Targets/Develop-Targets.htm">Develop Targets</a>
+                    </li>
+                    <li><a href="../../../../Flare/Output/About-Building-Output.htm">Build and Publish Output</a>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

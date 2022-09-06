@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="547" MadCap:lastWidth="1139">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>buttons in Toolbar</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <table style="margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');width: 100%;" cellspacing="0" class="TableStyle-Basic-Alternate-Rows">
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+                    <thead>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                                <p class="TableTextHead">Button</p>
+                            </th>
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                                <p class="TableTextHead">Description</p>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/expand_all_btn.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p>Expand the list.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p>
+                                    <img src="../../../Images/D2H/collapse_all_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p>Collapse the list.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="Snippets.Snippet1">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/filter-btn-Project-Panel.png" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Filter the contents by entering a search string in the line below when you click this button.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p>
+                                    <img src="../../../Images/D2H/create_new_doc_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Create a new document.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../D2H/Legacy-HTML5/Source-Documents/Adding-Document-to-Project.htm">Adding, Renaming, and Removing Documents</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide"> See the online Help or the <span class="EmphasisItalic">Documents, Templates, and Content Guide</span>.</MadCap:conditionalText></p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p>
+                                    <img src="../../../Images/D2H/add_existing_document_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Add an existing document.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../D2H/Legacy-HTML5/Source-Documents/Adding-Document-to-Project.htm">Adding, Renaming, and Removing Documents</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide"> See the online Help or the <span class="EmphasisItalic">Documents, Templates, and Content Guide</span>.</MadCap:conditionalText></p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p>
+                                    <img src="../../../Images/D2H/ContentConvertHTML5.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Convert documents to HTML5.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../D2H/Legacy-HTML5/Source-Documents/Converting-Documents-to-HTML5.htm">Converting Documents to HTML5</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide"> See the online Help or the <span class="EmphasisItalic">Documents, Templates, and Content Guide</span>.</MadCap:conditionalText></p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p>
+                                    <img src="../../../Images/D2H/rename_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Rename a document.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p>
+                                    <img src="../../../Images/D2H/remove_btn.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Remove a document from the project.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                                <p>
+                                    <img src="../../../Images/D2H/arrows_btns.png" alt="" title="" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                                <p class="TableText">Rearrange your documents.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

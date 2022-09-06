@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Salesforce<span class="Registered-Trademark">®</span>Publishing </span>With a publishing destination, you can copy Clean XHTML output files to Salesforce<span class="Registered-Trademark">®</span>. You can also use <a href="../../../../Flare/Language-Support/About-Language-Support.htm#MultilingualSalesforce">multilingual support</a> to publish in different languages to Salesforce<span class="Registered-Trademark">®</span>. <a href="../../../../Flare/Output/Salesforce/About-Salesforce.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>In Salesforce<span class="Registered-Trademark">®</span>, turn on Knowledge and create an article type that includes a rich text field.</li>
+                    <li>When installing Flare, choose <span class="Emphasis">Custom</span>, click <span class="Emphasis">Next</span>, and select <span class="Emphasis">MadCap Connect for Salesforce<span class="Registered-Trademark">®</span></span>.</li>
+                    <li><a href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Create a publishing destination</a>, and complete the <span class="Emphasis">MadCap Connect for Salesforce<span class="Registered-Trademark">®</span></span> fields.</li>
+                    <li>(Recommended) <a href="../../../../Flare/Output/Clean-XHTML/Converting-Stylesheet-Styles-to-Inline.htm">Convert styles to inline in Clean XHTML target</a>.</li>
+                    <li><a href="../../../../Flare/Output/Associating-Publishing-Destinations-Targets.htm">Associate the destination with the target</a> and <a href="../../../../Flare/Output/Building-Single-Target.htm">build/publish</a>.</li>
+                </ol>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/salesforce2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Salesforce2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

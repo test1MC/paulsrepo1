@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set.">
+    <MicroContent>
+        <MicroContentPhrase>upload project</MicroContentPhrase>
+        <MicroContentPhrase>bind project</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-Upload-Project.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>set permissions</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-Set-Permissions.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>purchase seats or storage</MicroContentPhrase>
+        <MicroContentPhrase>seats</MicroContentPhrase>
+        <MicroContentPhrase>storage space</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-Purchase-Seats-Storage.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>archive</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-Archive.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>backlog</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-Backlog.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>viewing commits</MicroContentPhrase>
+        <MicroContentPhrase>commits</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-View-Commits.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>viewing files</MicroContentPhrase>
+        <MicroContentPhrase>files</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-View-Files.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>setting builds to keep</MicroContentPhrase>
+        <MicroContentPhrase>keep</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-Setting-Builds-Keep.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>setting builds to live</MicroContentPhrase>
+        <MicroContentPhrase>live</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-Setting-Builds-Live.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>setting notifications</MicroContentPhrase>
+        <MicroContentPhrase>notifications</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-Setting-Notifications.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>using a private url</MicroContentPhrase>
+        <MicroContentPhrase>private url</MicroContentPhrase>
+        <MicroContentPhrase>privacy url</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Central/Quick-Steps/QS-Private-URL.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>security options</MicroContentPhrase>
+        <MicroContentPhrase>login attempts</MicroContentPhrase>
+        <MicroContentPhrase>logout idle</MicroContentPhrase>
+        <MicroContentPhrase>require password change</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Central/Quick-Steps/QS-Security-Options.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

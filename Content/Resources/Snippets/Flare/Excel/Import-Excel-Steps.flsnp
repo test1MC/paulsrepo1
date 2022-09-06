@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <ol>
+            <li>
+                <p>Do the following, depending on how you are importing your files:</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Import into a New Project</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ol style="list-style-type: lower-alpha;">
+                            <li>Select <span class="Emphasis">Project &gt; Import &gt; MS Excel Workbooks</span>.<p>The Import Microsoft Excel Wizard opens.</p></li>
+                            <li>
+                                <MadCap:snippetText src="../Importing/Import-Into-New-Project.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../Importing/Import-Project-Name.flsnp" />
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../Importing/Import-Project-Folder.flsnp" />
+                            </li>
+                            <li>
+                                <p>
+                                    <MadCap:snippetText src="../Importing/Import-Primary-Target.flsnp" />
+                                </p>
+                                <MadCap:dropDown MadCap:conditions="General.Online-Only" class="ThirdLevel">
+                                    <MadCap:dropDownHead>
+                                        <MadCap:dropDownHotspot>more about the primary target</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <MadCap:snippetBlock src="../Targets/Primary-Target-Step-Explanation.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Import Into an Existing Project (Wizard)</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ol style="list-style-type: lower-alpha;">
+                            <li>
+                                <p>Select <span class="Emphasis">Project &gt; Import &gt; MS Excel Workbooks</span>.</p>
+                                <p>The Import Microsoft Word Wizard opens.</p>
+                            </li>
+                            <li>
+                                <MadCap:snippetText src="../Importing/Import-Into-This-Project.flsnp" />
+                            </li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Project-Creation-Guide,Flare-Guides.Flare-Topics-Guide" />
+                <MadCap:dropDown class="SecondLevel" MadCap:conditions="General.Online-Only">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Import Into an Existing Project (Import Editor)</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following.flsnp" />
+                        </p>
+                        <p class="Subheading">if you do not yet have an Excel import file</p>
+                        <ol class="LowerAlpha" style="list-style-type: lower-alpha;">
+                            <li>Complete the steps for adding an import file. <MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Import-Guide">See <MadCap:xref href="../../../../Flare/Importing/More-Excel/Adding-Excel-Import-File.htm">Adding an Excel Import File</MadCap:xref>.</MadCap:conditionalText></li>
+                            <li>Open the file in the Excel Import Editor.</li>
+                        </ol>
+                        <p class="Subheading">if you already have an Excel import file</p>
+                        <ol type="1" class="LowerAlpha" style="list-style-type: lower-alpha;">
+                            <li>In the Project Organizer, expand the <span class="Emphasis">Imports</span> subfolder. </li>
+                            <li>Double-click the appropriate import file. The file opens in the Excel Import Editor to the right. </li>
+                        </ol>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p>Do one of the following, depending on the part of the interface you are using:</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Wizard </span>
+                            <MadCap:snippetText src="../UI-Elements/Click-Next.flsnp" />
+                        </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Import Editor </span>
+                        <MadCap:snippetText src="../Importing/Select-Source-Files-Tab.flsnp" />
+                    </li>
+                </ul>
+            </li>
+            <li>Click <img src="../../../Images/Shared/Fl-Li/plus_btn.png" class="ReduceButtonSize" alt="" />.</li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Topics-Guide,Flare-Guides.Flare-Project-Creation-Guide" />
+            <li>
+                <p>
+                    <MadCap:snippetText src="../Importing/Select-Files-Import.flsnp" />
+                </p>
+                <p>You can select <MadCap:keyword term="XLS file" />XLS, <MadCap:keyword term="XLSX file" />XLSX, or <MadCap:keyword term="CSV file" />CSV files.</p>
+            </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="../Importing/Import-Can-Use-Following-Options.flsnp" />
+                </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>options</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../Importing/Import-Add-Files-Button-Options2.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet11]" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Import-Guide" />
+            <li>
+                <p>Do one of the following, depending on the part of the interface you are using:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Wizard </span>
+                        <MadCap:snippetText src="../UI-Elements/Click-Next.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Import Editor </span>
+                        <MadCap:snippetText src="../Importing/Select-Options-Tab.flsnp" />
+                    </li>
+                </ul>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Project-Creation-Guide,Flare-Guides.Flare-Topics-Guide" />
+            <li>
+                <p>
+                    <MadCap:snippetText src="../Importing/Import-Can-Use-Following-Options.flsnp" />
+                </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>options</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ul type="1" class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Import Worksheets as </span> Select the type of Flare file where you want your spreadsheets to be imported.</p>
+                                <ul type="1" class="SecondLevel">
+                                    <li><span class="SetOffSecondLevel">Topics </span>Flare will convert your content and place worksheets into topics. Title text on a worksheet tab will become a heading in the Flare topic.</li>
+                                    <li><span class="SetOffSecondLevel">Snippets </span>Flare will convert your content and place each worksheet into a separate snippet.</li>
+                                </ul>
+                                <p>If you selected “Snippets” above, you can also choose from the following options:</p>
+                                <ul type="1" class="SecondLevel">
+                                    <li><span class="SetOffSecondLevel">Include tab titles as headings </span>Any title text on your worksheet tabs will become headings in the Flare snippets.</li>
+                                    <li><span class="SetOffSecondLevel">Create a topic with snippets </span>Flare will create a topic and place the snippets within it. Otherwise, only the snippets will be created.</li>
+                                </ul>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Organize worksheets into different folders per workbook </span>Select this option if you are importing multiple workbooks and want the resulting files to be stored in separate folders in Flare. If you do not select this option when importing multiple workbooks, the files will all be placed in the same folder in Flare.</li>
+                            <li><span class="SetOffFirstLevel">Import hidden rows/columns </span>This includes any hidden rows and columns in the import. Otherwise, they will not be part of the imported content.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Use first row as column header </span>Select this option if you want Flare to convert the first row of every spreadsheet into column headers in the Flare tables. If you do not select this option, the first row will be treated like all the other rows.</p>
+                            </li>
+                            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Import-Guide,Flare-Guides.Flare-Project-Creation-Guide,Flare-Guides.Flare-Whats-New-Guide" />
+                            <li>
+                                <p><span class="SetOffFirstLevel">Import equations based on settings </span>When importing Excel files that contain equations, you can select this option to convert them to MathML (the web standard) or images. If you disable this option, equations from Excel are not converted to Flare.</p>
+                                <MadCap:snippetBlock src="../Equations/Note-Import-Equations-Excel1.flsnp" />
+                                <MadCap:snippetBlock src="../Equations/Note-Import-Equations-Excel2.flsnp" />
+                                <MadCap:snippetBlock src="../Equations/Note-Import-Equations-Excel3.flsnp" />
+                                <MadCap:snippetBlock src="../Equations/Note-Import-Equations-Excel4.flsnp" />
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Import charts as </span>Any charts in your spreadsheets will be imported as images. Use this field to select the type of image format to be used.</p>
+                                <div class="note">
+                                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">An image displaying an imported chart is automatically placed below the worksheet (in the topic or snippet where the worksheet was converted to a table).</p>
+                                </div>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Split topics or snippets by maximum rows </span>You can select this option if you have spreadsheets with a lot of rows and want to divide them into multiple topics or snippets (rather than one very long topic or snippet). After enabling this option, enter the number of rows that you want to allow in each topic or snippet before a new topic or snippet is created.</li>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Easy Sync;Auto-reimport;Importing:auto-reimporting;Auto-Sync" />Auto-reimport before 'Generate Output' </span>
+                                <MadCap:snippetText src="../Importing/Auto-Reimport-Option.flsnp" />
+                            </li>
+                        </ul>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p>Do one of the following, depending on the part of the interface you are using:</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Wizard </span>
+                            <MadCap:snippetText src="../UI-Elements/Click-Next.flsnp" />
+                        </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Import Editor </span>Select the <span class="Emphasis">Styles</span> tab.</li>
+                </ul>
+            </li>
+            <li>
+                <p>Use this page to specify how you want the formatting of the Excel files to be treated upon import. Whether the imported files should retain their look and feel from Excel, or if you want to associate them with a table stylesheet that you’ve already created in Flare.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>options</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Preserve MS Excel Styles </span>This retains any formatting from your  spreadsheets so that you can continue to use that look and feel in Flare.</p>
+                                <p>If you have Excel installed, all styles (factory and custom) and local formatting are retained in Flare. If you do not have Excel installed, only custom styles and local formatting are preserved; factory styles are not retained. Also, if you are using more than one table style in a worksheet, only one of them will be retained in Flare.</p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Don't Preserve MS Excel Styles </span>This does not keep the formatting used in the  Excel spreadsheets. You can click <img src="../../../Images/Shared/All/browse_ellipses.png" class="ReduceButtonSize" /> in the field below this if you want to associate the imported spreadsheets with a table stylesheet that you’ve already created in Flare. If you do not choose a table stylesheet, the files will be imported with plain text.</li>
+                        </ul>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p>Do one of the following, depending on the part of the interface you are using:</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Wizard </span>
+                            <MadCap:snippetText src="../UI-Elements/Click-Next.flsnp" />
+                        </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Import Editor </span>Select the <span class="Emphasis">Filters</span> tab.</li>
+                </ul>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Topics-Guide" />
+            <li>
+                <p>You can use this page to exclude certain worksheets, or even specific rows and columns, from the import. By default, all workbooks, worksheets, rows, and columns are selected for import. You can click the corresponding check boxes to remove check marks, which excludes items from the import. If you click on a particular worksheet, the area to the right displays the rows and columns within it. You can then remove check marks for any rows or columns that you want to exclude.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If your worksheets have any hidden rows or columns that you did not include in the import, you may see that those rows or columns are skipped on this page. For example, you might see columns A, B, C, and E (where D is hidden).</p>
+                </div>
+            </li>
+            <li>
+                <p>Do one of the following, depending on the part of the interface you are using:</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Wizard </span>
+                            <MadCap:snippetText src="../Importing/Import-Finish.flsnp" />
+                        </p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Import Editor </span>
+                        <MadCap:snippetText src="../Importing/Click-Import-Reimport.flsnp" />
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <MadCap:snippetText src="../Importing/Import-Accept2.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

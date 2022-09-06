@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../../Resources/MasterPages/Central/PDF-Topics/Central-Projects-Builds.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Builds:private URL;Private URL;URL" />Using Private URLs</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Central/Projects/Private-URLs.flsnp" />
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Central/Banners/All-Users-Who-Belong-Project.flsnp" MadCap:conditions="General.Online-Only" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Use a Private URL</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Open-Project.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Open-Build-Management.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Navigate-Target.flsnp" />
+                    </li>
+                    <li>In the grid, click the build row (not the check box) that has the private URL you want to retrieve. The row expands, showing additional details.</li>
+                    <li>
+                        <p>Copy the URL&#160;from the <span class="Emphasis">Private URL</span>&#160;field.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Central/Private-URL.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Provide this URL to anyone on your Central license.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Projects-and-Builds-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Tip</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="tip">
+                    <p class="tipInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Tip: &lt;/span&gt;&lt;/b&gt;">If you create a target vanity <MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="Setting-Target-and-Build-Vanity-URLs.htm">Setting Target and Build Vanities</MadCap:xref>)</MadCap:conditionalText>, you can use that text in place of the auto-generated number that is normally part of a private URL. The benefit of doing this is that anyone referencing your private URL will always see the most recent build for that target, instead of having to use a different private URL each time you generate a new build.</p>
+                    <p>For example, you might have a private URL for a build, and the end of that URL looks something like this:</p>
+                    <p>…/fictionsoft/cfb33266bffa45048d636878f00b1317/Default.htm</p>
+                    <p>If you have a target vanity called “module1,” you could replace the auto-generated number. That way, you could give others a URL, the end of which looks more like this:</p>
+                    <p>…/fictionsoft/module1/Default.htm</p>
+                    <p>If anyone uses this second URL that contains the target vanity, the most recent build in the target will always open in the browser.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If a particular build is set as “Live,” users do not need to be logged in to Central in order to view the build’s private URL.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

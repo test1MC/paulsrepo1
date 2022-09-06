@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:snippetBlock src="../../Shared/Co-Fl/Tables/Editing-Table-Stylesheets-Summary.flsnp" />
+        <div class="video" MadCap:conditions="General.Server-Only">
+            <p class="buttonT32-play"><a href="https://www.youtube.com/watch?v=0zmcRrMZ2R8" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+            </p>
+            <p class="more-videos"><a href="https://www.madcapsoftware.com/videos/flare/#Styles" target="_blank">View More Videos in This Series</a>
+            </p>
+        </div>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to edit a table stylesheet</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Styles/Editing-Table-Styles-Steps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Alternatively, you can edit table styles in a regular stylesheet separately (see <MadCap:xref href="../../../../Flare/Tables/Editing-Table-Styles-in-Regular-Stylesheets.htm">Editing Table Styles in Regular Stylesheets</MadCap:xref>). For the differences between regular stylesheets, table stylesheets, and local properties—and when you should use one over the other—see <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Regular-Stylesheets-Table-Stylesheets-Properties.htm">Regular Stylesheets, Table Stylesheets, or Properties?</MadCap:xref></p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Apply-Table-Styles-Summary1.flsnp" /> See <MadCap:xref href="../../../../Flare/Styles/Applying-Table-Stylesheets-to-Tables.htm">Applying Table Stylesheets to Tables</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

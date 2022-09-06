@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="87" MadCap:lastWidth="1158">
+    <body>
+        <p MadCap:conditions="">You now have two projects—Legacy and Temp (which holds the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> Side</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> Top</MadCap:conditionalText> Navigation files). Now we need to get the appropriate files from one project to the other.</p>
+    </body>
+</html>

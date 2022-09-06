@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="12" MadCap:lastHeight="1200" MadCap:lastWidth="1088.25">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="../Topics/Viewing-Reviewed-Files-Inbox.flsnp" /> </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view reviewed files</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/UI-Elements/Select-Review-Ribbon.flsnp" /> In the <span class="Emphasis">Packages</span> section select <span class="Emphasis">File Reviews</span>.<p>The File Reviews window pane opens.</p></li>
+                    <li>Click in the drop-down field at the top of the window pane, select <span class="Emphasis">Inbox</span>. All reviewed files that you have brought into your project, but have not yet been accepted, are listed in the pane.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>From the File Reviews window pane, you can select a file in the list and click any of the following buttons in the local toolbar to take action on it. This window pane can be used for either Central file reviews or for review packages. Some of the options are available for only one process or the other.</p>
+                <MadCap:snippetBlock src="../Reviews-Contributions/Review-Files-Window-Table.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="71" MadCap:lastWidth="1241">
+    <body>
+        <p class="TableText">Receive a notification if a task is deleted. <MadCap:snippetText src="Task-Notification-Who-Receives-It.flsnp" /></p>
+    </body>
+</html>

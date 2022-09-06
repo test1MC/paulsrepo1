@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Following are the primary steps for micro content:</p>
+        <ol>
+            <li><span class="SetOffFirstLevel">Create </span>The first step in using micro content, for whatever purpose, is to create it in Flare. This entails adding a micro content file to the Content Explorer and then adding phrases and responses within it. <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">See <MadCap:xref href="../../../../Flare/Micro-Content/Creating-Micro-Content.htm">Creating Micro Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">See <MadCap:xref href="../../../../Flare/z/Creating-Micro-Content.htm">Creating Micro Content</MadCap:xref>.</MadCap:conditionalText></li>
+            <li><span class="SetOffFirstLevel">Enable in Search Results </span>If you intend to use micro content in your HTML5 output search results, you need to make sure it is enabled in the target. <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">See <MadCap:xref href="../../../../Flare/Micro-Content/Enabling-Micro-Content-Search-Results.htm">Enabling Micro Content in Search Results</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">See <MadCap:xref href="../../../../Flare/z/Enabling-Micro-Content-Search-Results.htm">Enabling Micro Content in Search Results</MadCap:xref>.</MadCap:conditionalText></li>
+            <li><span class="SetOffFirstLevel">Edit Look </span>If you integrate micro content into your HTML5 search results, there are different ways you can control its look. This is done in an HTML5 skin. <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">See <MadCap:xref href="../../../../Flare/Micro-Content/Editing-Look-Micro-Content.htm">Editing the Look of Micro Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">See <MadCap:xref href="../../../../Flare/z/Editing-Look-Micro-Content.htm">Editing the Look of Micro Content</MadCap:xref>.</MadCap:conditionalText></li>
+        </ol>
+    </body>
+</html>

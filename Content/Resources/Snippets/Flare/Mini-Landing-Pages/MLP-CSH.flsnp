@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareCSHGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Context-sensitive Help </span>A <MadCap:snippetText src="../CSH/CSH-Definition.flsnp" /> <a href="../../../../Flare/CSH/About-CSH.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <ol>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/CSH/Adding-Header-Files.htm">Adding Header Files</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/CSH/Adding-Alias-Files.htm">Adding Alias Files</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/CSH/Creating-Assigning-Identifiers.htm">Creating and Assigning Identifiers</MadCap:xref>
+                                    </li>
+                                </ol>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <ol start="4" class="Micro-Content">
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/CSH/Associating-Alias-File-with-Target.htm">Associating an Alias File with a Target</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/CSH/Providing-Developer-with-Header-File.htm">Providing a Developer with a Header File</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/CSH/Testing-CSH.htm">Testing Context-sensitive Help</MadCap:xref>
+                                    </li>
+                                </ol>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/CSH-Example.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

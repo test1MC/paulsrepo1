@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" style="mc-master-page: url('../../../Resources/MasterPages/Shared/Fl-Li/Source-Control-Perforce.flmsp');">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterProjects" />
+            <MadCap:keyword term="Source control:disconnect" />
+            <MadCap:concept term="FilterFeatures" />Disconnecting from Source Control<MadCap:conditionalText MadCap:conditions="General.Online-Only">—Perforce</MadCap:conditionalText></h1>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnecting-Intro.flsnp" MadCap:snippetVariables="Other.SourceControl:Perforce," />
+        </p>
+        <p>
+            <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnecting-Benefits.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Disconnect from Perforce</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/When-Work-Offline-Disconnect-Source-Control.flsnp" />
+                <ol>
+                    <li>
+                        <p>Check out the files you will need to work on while disconnected. See <MadCap:xref href="Checking-Out-Source-Control-Files-per.htm">Checking Out Source Control Files</MadCap:xref>.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/UI-Elements/Select-Source-Control-Ribbon.flsnp" /> In the <span class="Emphasis">Project</span> section select <span class="Emphasis">Disconnect</span>.</p>
+                            </li>
+                            <li>
+                                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Right-Click-Disconnect.flsnp" />
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Confirmation-Dialog-Click-Yes-Disconnect.flsnp" />
+                    </li>
+                </ol>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnecting-Disabling-Network.flsnp" />
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnect-Save-Error.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Source-Control-Guide-Perforce" />
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Disconnecting-Changing-Files.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Reconnect to Perforce</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/When-Finished-Working-Offline.flsnp" />
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/UI-Elements/Select-Source-Control-Ribbon.flsnp" /> In the <span class="Emphasis">Project</span> section select <span class="Emphasis">Reconnect</span>.</p>
+                                <MadCap:snippetText src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Right-Click-Disconnect.flsnp" />
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <p>Submit the files you previously checked out. See <MadCap:xref href="Submitting-Source-Control-Files-per.htm">Submitting Source Control Files—Perforce</MadCap:xref>.</p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Network-Connection-Status-Icon.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

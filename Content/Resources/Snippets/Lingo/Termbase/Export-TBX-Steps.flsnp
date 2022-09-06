@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Export a Termbase</span>
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Select <span class="Emphasis">Resources &gt; Export Termbase</span>.</li>
+                    <li>From the <span class="Emphasis">Termbase to export</span> drop-down, select the termbase you want to export. </li>
+                    <li>Next to the <span class="Emphasis">TBX File</span> field, click <img src="../../../Images/Shared/All/browse_ellipses.png" class="ReduceButtonSize" />. </li>
+                    <li>Locate an existing TBX file you want to overwrite, or enter a name for a new TBX file.</li>
+                    <li>Click <b>Save</b>. </li>
+                    <li>Click <span class="Emphasis">Start Export</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

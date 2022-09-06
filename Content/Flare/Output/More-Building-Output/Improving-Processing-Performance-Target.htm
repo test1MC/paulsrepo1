@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('..\..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Targets.flmsp');">
+    <head><title></title>
+        <meta name="description" content="Steps for using the Flare Target Editor to change the performance settings for your Help target." />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterOutput" />
+            <MadCap:concept term="FilterFeatures" />
+            <MadCap:keyword term="Building:improving performance;Targets:performance;Output:performance;Performance:targets;WebHelp:performance;WebHelp Plus:performance" />Improving the Processing Performance of the Target</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Banners/Feature-Supported/HTML5-WebHelp-WH-Plus.flsnp" />
+        <p>You can improve the speed that your output loads for end users in several ways.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to improve the processing performance of a target</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a target.</li>
+                    <li>In the Target Editor select the <span class="Emphasis">Performance</span> tab </li>
+                    <li>
+                        <p> Select the option(s) that you want to use:</p>
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="JavaScript:condensing" />Condense JavaScript Files </span>You can condense any JavaScript files in your output. This causes all of the output's runtime scripts to be merged into one file and improves web server performance by causing there to be fewer requests when loading the output.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Images:pre-loading" />Pre-load Images </span>You can pre-load your images that are not initially visible when output is opened. When those images are triggered to be displayed, they will appear faster since they were pre-loaded. This happens at the cost of the output taking slightly longer to initially open since it must download more content. On the other hand, disabling pre-loading images will cause the output to open faster. Instead they will have to be downloaded when they are triggered to be displayed.</p>
+                                <div class="note">
+                                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">This option is not available for HTML5 targets.</p>
+                                </div>
+                            </li>
+                            <li MadCap:conditions="General.Future">
+                                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Projects:merging;Merging:projects;Pre-merging;Search:pre-merging" /><MadCap:annotation MadCap:createDate="2018-04-26T11:10:06.6056480-07:00" MadCap:creator="jcheverie" MadCap:initials="JC" MadCap:comment="This feature has currently been supressed from all targets but may return later." MadCap:editor="jcheverie" MadCap:editDate="2018-04-26T11:10:20.7225753-07:00">Pre</MadCap:annotation>-merge Index File </span>If you have multiple projects whose outputs are set to be merged when you build the "master" project, you can pre-merge index files. <MadCap:conditionalText MadCap:conditions="General.Online-Only">For more information see <a href="../../TOCs/Merging-Projects.htm">Merging Projects</a>.</MadCap:conditionalText> If you select to pre-merge the index, you disable runtime merging, which means that you cannot compile and publish a "sub-project" later. You must generate and publish all linked Help systems at the same time. Selecting this option may slow down the generation of the output, but it will significantly increase the speed with which the output loads for the end user.</p>
+                            </li>
+                            <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Targets-Guide" />
+                            <li>
+                                <p>
+                                    <MadCap:keyword term="Chunking;Tables of contents:chunking;Search:chunk files;Indexes:chunking" /><span class="SetOffFirstLevel">Chunk Large Index/TOC/Glossary Files </span>You can control the size of "chunks" used when generating the index, TOC, and glossary files for a target. After you choose this option, select the number of bytes for each chunk. <MadCap:snippetText src="../../../Resources/Snippets/Flare/Search/Chunk-Size.flsnp" /></p>
+                                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The option for chunking large glossary files is only available in HTML 5 targets.</p>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                    <li>Build and publish the output.</li>
+                    <li>Open the output from the published destination to test the loading performance of the output.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

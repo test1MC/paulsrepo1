@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareAnalysisReportsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to View and Fix Broken Links</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <ol>
+                                <li>
+                                    <p>From the <span class="Emphasis">Analysis</span> ribbon, click the <span class="Emphasis">Summary </span>button.</p>
+                                    <p>
+                                        <img src="../../../Images/Flare/QS-Broken-Links1.png" alt="" title="" style="width: 257px;height: 96px;" />
+                                    </p>
+                                </li>
+                                <li>If you see a row indicating broken links in red, double-click it.</li>
+                                <li>In the grid listing all broken links, double-click one.</li>
+                                <li>In the file that opens, the broken link is highlighted.</li>
+                                <li>Edit the broken link or remove it.</li>
+                                <li>
+                                    <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                                </li>
+                            </ol>
+                            <p class="topic-only">
+                                <img src="../../../Images/Flare/QS-Broken-Links.gif" />
+                            </p>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                    <p class="micro-content-only"><a href="../../../../Flare/Nav-Links/Viewing-Broken-Links.htm">More Details…</a>
+                    </p>
+                </div>
+                <div class="micro-content-only">
+                    <p class="center" style="text-align: center;">
+                        <img src="../../../Images/Flare/QS-Broken-Links.gif" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

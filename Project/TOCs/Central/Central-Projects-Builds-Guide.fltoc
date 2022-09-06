@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Central">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Titles/Title.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page-Central.htm"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Titles/Title.flpgl"
+    PageNumber="(multiple)"
+    PageNumberReset="reset"
+    StartSection="false"
+    PageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    StartSection="false"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright/Copyright.flpgl"
+    PageNumber="(multiple)"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOCs/TOC-Central.flpgl"
+    PageType="first"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+  <TocEntry
+    Title="CH 1"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Central.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Projects"
+    Link="/Content/Central/Projects/About-Projects-Central.htm"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    PageNumberFormat="decimal"
+    BreakType="none">
+    <TocEntry
+      Title="Uploading (Binding)"
+      Link="/Content/Central/Projects/Uploading-Projects.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="pageLayout"></TocEntry>
+    <TocEntry
+      Title="Importing"
+      Link="/Content/Central/Projects/Importing-Projects.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Opening"
+      Link="/Content/Central/Projects/Opening-Project.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Using Source Control"
+      Link="/Content/Central/Projects/Source-Control/Source-Control-Central.htm">
+      <TocEntry
+        Title="Committing and Synchronizing (Pull, Push) in a Single-bound Model"
+        Link="/Content/Central/Projects/Source-Control/Committing-Synchronizing-Single-Bound.htm"
+        StartSection="false"></TocEntry>
+      <TocEntry
+        Title="Pushing in a Dual-bound Model"
+        Link="/Content/Central/Projects/Source-Control/Pushing-Dual-Bound-Model.htm"
+        StartSection="false" />
+      <TocEntry
+        Title="Setting Up Project Linking"
+        Link="/Content/Central/Projects/Source-Control/Setting-Up-Project-Linking.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Editing Profiles"
+      Link="/Content/Central/Projects/More/Editing-Project-Profiles.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Viewing Profiles"
+      Link="/Content/Central/Projects/More/Viewing-Project-Profiles.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Changing Status"
+      Link="/Content/Central/Projects/More/Changing-Status-Project.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Viewing Project Files and Commits"
+      Link="/Content/Central/Projects/Viewing-Project-Files-Commits.htm"
+      PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Viewing Activity"
+      Link="/Content/Central/Projects/More/Viewing-Project-Activity.htm"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="Deleting"
+      Link="/Content/Central/Projects/More/Deleting-Projects.htm"
+      PageType="firstright"
+      StartPageLayout="false"
+      PageNumber="(multiple)"
+      PageNumberReset="continue"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 2"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Central.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="Checklists"
+    Link="/Content/Central/Projects/Checklists/About-Project-Checklists.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="Creating Checklists"
+      Link="/Content/Central/Projects/Checklists/Creating-Project-Checklists.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Editing Checklists"
+      Link="/Content/Central/Projects/Checklists/Editing-Project-Checklists.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deleting Checklists"
+      Link="/Content/Central/Projects/Checklists/Deleting-Project-Checklists.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Creating Checklist Templates"
+      Link="/Content/Central/Projects/Checklists/Creating-Checklist-Templates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Editing Checklist Templates"
+      Link="/Content/Central/Projects/Checklists/Editing-Checklist-Templates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deleting Checklist Templates"
+      Link="/Content/Central/Projects/Checklists/Deleting-Checklist-Templates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 3"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Central.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Central/Projects/Reports/About-Reports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="CH 4"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Central.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="Reviews"
+    Link="/Content/Central/Projects/Reviews/About-Reviews.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Central/Projects/Reviews/Editing-Annotating-Review-Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Central/Projects/Reviews/Submitting-Review-Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 5"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Central.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Builds"
+    Link="/Content/Central/Projects/About-Builds.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="(multiple)"
+    PageNumberReset="continue"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    BreakType="none">
+    <TocEntry
+      Title="Running and Scheduling"
+      Link="/Content/Central/Projects/Builds/Generating-Scheduling-Builds.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Builds to &quot;Live&quot; or &quot;Keep&quot;"
+      Link="/Content/Central/Projects/Builds/Setting-Builds-to-Live-Keep.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Setting Target and Vanity Build URLs"
+      Link="/Content/Central/Projects/Builds/Setting-Target-and-Build-Vanity-URLs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Using Private URLs"
+      Link="/Content/Central/Projects/Builds/Using-Private-URLs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Excluding Live Builds from URLs"
+      Link="/Content/Central/Projects/Builds/Excluding-Live-Builds-from-Search-Engines.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Viewing Output"
+      Link="/Content/Central/Projects/Builds/Viewing-Output.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Viewing Deleted Targets"
+      Link="/Content/Central/Projects/Builds/Viewing-Deleted-Targets.htm" />
+    <TocEntry
+      Title="Opening the Build Log"
+      Link="/Content/Central/Projects/Builds/Opening-Build-Log.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Downloading"
+      Link="/Content/Central/Projects/Builds/Downloading-Builds.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Deleting"
+      Link="/Content/Central/Projects/Builds/Deleting-Builds.htm"
+      PageNumber="(multiple)" />
+    <TocEntry
+      Title="Flare Features Not Supported in Central"
+      Link="/Content/Central/Projects/Builds/Flare-Features-Not-Supported.htm"
+      PageNumber="(multiple)" />
+  </TocEntry>
+  <TocEntry
+    Title="Appendix"
+    Link="/Content/Print-Only-Topics/Shared/Appendix.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Central.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"></TocEntry>
+  <TocEntry
+    Title="PDF Library"
+    Link="/Content/Central/PDF-Guides/PDF-Guides-Central.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled"
+    ComputeToc="false"
+    PageType="first"
+    BreakType="none"></TocEntry>
+</CatapultToc>

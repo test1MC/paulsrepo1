@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="note">
+            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">During the build and publish processes, you may see messages in the Builds pane  about category and section translations in the Compile Status column. These messages are a function of the Zendesk publishing process, and are displayed even if there are no translated files. These messages are also displayed in the build log when the publish is completed.</p>
+        </div>
+    </body>
+</html>

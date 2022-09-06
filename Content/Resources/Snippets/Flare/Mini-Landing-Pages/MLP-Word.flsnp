@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlarePrintOutputCheatSheet.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/CheatSheet_Icon.png" title="Cheat Sheet" /></a> <a href="https://docs.madcapsoftware.com/flare2019/FlarePrintedOutputGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a></div>
+        <div class="Tiles-8-4" MadCap:conditions="General.Server-Only">
+            <div>
+                <p><span class="Emphasis">Word Output </span>An output type where the generated project is exported to Microsoft Word in one of the following formats: XML (default), DOC, DOCX, XPS, PDF. <a href="../../../../Flare/Output/Word-Output/About-Word-Output.htm">More Details…</a></p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Targets/Adding-Targets.htm">Adding Targets</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Reviews-Contributions/Track-Changes/Preserving-Tracked-Changes.htm">Preserving Tracked Changes in PDF or Word Output</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-DOCX-Output.htm">Specifying DOCX Output Via Microsoft Word</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/Output-Type-Comparison-Table.htm">Output Type Comparison Tables</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <div class="video">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=fIcvJxYK0ZA" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="Tiles-6-6" MadCap:conditions="General.Local-Only">
+            <div>
+                <p><span class="Emphasis">Word Output </span>An output type where the generated project is exported to Microsoft Word in one of the following formats: XML (default), DOC, DOCX, XPS, PDF. <a href="../../../../Flare/Output/Word-Output/About-Word-Output.htm">More Details…</a></p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Targets/Adding-Targets.htm">Adding Targets</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Reviews-Contributions/Track-Changes/Preserving-Tracked-Changes.htm">Preserving Tracked Changes in PDF or Word Output</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-DOCX-Output.htm">Specifying DOCX Output Via Microsoft Word</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/Output-Type-Comparison-Table.htm">Output Type Comparison Tables</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Word.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

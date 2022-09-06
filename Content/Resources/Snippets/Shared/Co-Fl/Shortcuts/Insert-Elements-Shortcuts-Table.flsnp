@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="516" MadCap:lastWidth="908">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1" MadCap:conditions="General.Print-Only">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1" colspan="2" MadCap:conditions="">
+                        <p class="TableTextHead">Insert Elements</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Bookmark</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+SHIFT+K</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Cross-Reference</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">CTRL+SHIFT+R</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Equation</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+E</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Glossary Term Link</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">Based on selected text</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+SHIFT+T</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Hyperlink</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">CTRL+K</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Image</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">CTRL+G</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Index Keyword</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">Based on selected text</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">F10</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">QR Code</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+SHIFT+Q</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Snippet</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+R</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet6">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Variable</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+SHIFT+V</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

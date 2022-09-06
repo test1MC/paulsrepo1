@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/Co-Fl/XML-Editor/Multiple-Layout-Modes.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Topics/About-Layout-Modes.htm">About Layout Modes</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/Flare/xml_editor_layout_modes.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>The Print Layout mode <MadCap:snippetText src="../../Shared/Co-Fl/XML-Editor/Print-Layout-Mode-Description.flsnp" /></p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Topics-Guide" />
+        <MadCap:snippetBlock src="../../Shared/Co-Fl/XML-Editor/Print-Layout-Mode2.flsnp" />
+        <p>
+            <img src="../../../Images/Flare/xml_editor_page_layout.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../Shared/Co-Fl/XML-Editor/Page-Type-Selection-XML-Editor.flsnp" />
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Topics-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p>Let's say have a project where you will be producing both online and PDF output using the same topics. You open one of your topics and in the Web Layout view in the XML Editor, it might look something like this.</p>
+                    <p>
+                        <img src="../../../Images/Flare/page_layout_dropdown1.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Topics-Guide" />
+                    <p>Now you want to see how it will look in the PDF output, so you switch to the Page Layout view.</p>
+                    <p>
+                        <img src="../../../Images/Flare/page_layout_dropdown2.png" class="MaxWidth90Percent" />
+                    </p>
+                    <p>But just because the topic is being displayed in Print Layout view with print styles, this does not mean the specific page layout intended for this topic in the output is being used here. In this case, you notice that the XML Editor is using a page layout that is intended for your PDF guide title page. This particular topic should be using your Chapters page layout instead.</p>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Topics-Guide" />
+                    <p>To get a more accurate preview of how the topic will look in the output, you switch to the page layout that will be used for chapters. You also select a specific page type.</p>
+                    <p>
+                        <img src="../../../Images/Flare/page_layout_dropdown3.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Topics-Guide" />
+                    <p>The result of your selection might make the topic look something like this:</p>
+                    <p>
+                        <img src="../../../Images/Flare/page_layout_dropdown4.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                    <p>This particular view happens to be using the Left page type from your Chapters page layout. But then you realize that this topic is actually going to be used at the very beginning of a chapter. So you once again select the drop-down and choose the First page type.</p>
+                    <p>
+                        <img src="../../../Images/Flare/page_layout_dropdown5.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                    <p>As a result, the view changes, showing the topic with the heading appearing part way down the page, with no header. This is how you want the first page of a chapter to look, so you know you're looking at the correct view.</p>
+                    <p>
+                        <img src="../../../Images/Flare/page_layout_dropdown6.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Topics-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to select a page layout and page type to view content</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl-Li/Topics/Open-Content-File.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Page-Layouts/Select-Page-Layout-Type1.flsnp" />
+                    </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Co-Fl/Page-Layouts/Select-Page-Layout-Type2.flsnp" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Because topics can end up anywhere in your output, based on your settings, Flare won't know exactly how a particular page will look until you generate the output. Once you generate the output, Flare takes all of the information that you've given it in different places (e.g., Target Editor, outline TOC) and puts it all together according to your rules.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can get an even more accurate look at how a topic will look in the output by associating conditions with it while you are editing. This is similar to the feature that you can use to preview a document with certain conditions set. The difference is that this associates the conditions to the document as you edit it in the XML Editor. See <MadCap:xref href="../../../../Flare/Conditions/Associating-Condition-Tags-to-File-While-Editing.htm">Associating Condition Tags to a File While Editing</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

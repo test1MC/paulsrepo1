@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="635" MadCap:lastWidth="1383">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div class="example">
+            <p><span class="exampleHeadTextEmpty">Example</span>
+            </p>
+            <p>Let's say you tracked changes in Flare.</p>
+            <p>
+                <img src="../../../Images/Flare/tracked_changes_preserve_flare.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Reviews-and-Contributions-Guide,Flare-Guides.Flare-Printed-Output-Guide" />
+            <p>If you preserve the tracked changes when you build your output in PDF, the changes will appear like this:</p>
+            <p>
+                <img src="../../../Images/Flare/tracked_changes_preserve_pdf.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

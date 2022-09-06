@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Say you are translating a project from English to Spanish. You have an existing TM in your project, but also want an MT&#160;provider to address any empty segments. So you add DeepL as an MT to get some additional suggestions. You then open the file you are translating to Spanish.</p>
+            <p>
+                <img src="../../../Images/Lingo/DeepL-example1.png" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Whats-New-Guide" />
+            <p>You start clicking through the empty segments, and receive suggestions in the TM Suggestions pane.</p>
+            <p>
+                <img src="../../../Images/Lingo/DeepL-example2.png" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Whats-New-Guide" />
+            <p>When you double-click the DeepL&#160;suggestion, it populates the target segment. The Status field remains at 0% because MT&#160;suggestions are initially set at this percentage, since Lingo is not making the direct suggestion. Once the suggestion is added to the TM, the Status field percentage is updated. </p>
+            <p>
+                <img src="../../../Images/Lingo/DeepL-example3.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

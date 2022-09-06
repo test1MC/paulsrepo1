@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Tasks-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p class="Micro-Content"><span class="Emphasis">Tasks </span>
+                    <MadCap:snippetText src="../Tasks/Opening-Tasks-Page.flsnp" /> <a href="../../../../Central/Tasks/About-Tasks.htm">More Details…</a></p>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <p class="Bold">Activities</p>
+                                <ul>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/Creating-Tasks.htm">Creating Tasks</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/Viewing-Task-Details.htm">Viewing Task Details</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/Editing-Tasks.htm">Editing Tasks</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/Moving-Tasks.htm">Moving Tasks</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/Adding-Comments-to-Tasks.htm">Adding Comments to Tasks</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/Filtering-Tasks.htm">Filtering Tasks</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/Deleting-Tasks.htm">Deleting Tasks</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <p class="Bold">Page Views</p>
+                                <ul>
+                                    <li><a href="../../../../Central/Tasks/About-Tasks.htm#BoardOnline">Dashboard</a>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/About-Tasks.htm#GridOnline">Grid</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/About-Tasks.htm#CalendarOnline">Calendar</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/About-Tasks.htm#ArchiveOnline">Archive</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Tasks/About-Tasks.htm#BacklogOnline">Backlog</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div>
+                <div class="video">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=lrrS1FQe6tw" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                    <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/central/#Tasks" target="_blank">View More Videos in This Series</a>
+                    </p>
+                </div>
+                <p style="text-align: center;" MadCap:conditions="General.Future">
+                    <img src="../../../Images/Central/tasks8.png" alt="" title="" class="ThumbnailMicroContent">
+                    </img>
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

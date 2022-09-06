@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent">
+            <a href="https://docs.madcapsoftware.com/flare2019/FlareMoviesGuide.pdf" target="_blank">
+                <img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" />
+            </a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p>
+                    <span class="Emphasis">Multimedia </span>
+                    <MadCap:variable name="Other.Product" /> lets you include various kinds of multimedia elements in your output.  <a href="../../../../Flare/Multimedia/About-Multimedia.htm">More Details…</a></p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Multimedia/About-Multimedia.htm#Video">Video</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Multimedia/About-Multimedia.htm#Audio">Audio</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Multimedia/About-Multimedia.htm#3D">3D Models</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Multimedia/About-Multimedia.htm#MultimediaFileTypesSupported">Multimedia File Types Supported</MadCap:xref>
+                    </li>
+                </ul>
+                <p>
+                    <a href="../../../../Flare/Project-Architecture/External-Architecture/Images-Videos.htm#WhatMadCapDocTeamDoesVideo">What the MadCap Doc Team Does</a>
+                </p>
+            </div>
+            <div>
+                <div class="video-wrap">
+                    <p class="responsive-position" style="text-align: center;">
+                        <object src="https://youtu.be/u6p5RhecxT8" style="max-width: 100%;width: 557px;height: 338px;">
+                        </object>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

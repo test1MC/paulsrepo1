@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>If you import anchored frame images and tell Flare not to include the callouts, your imported image files will look something like this in Windows Explorer.</p>
+            <p>
+                <img src="../../../Images/Flare/import_fm_image_files1.png" class="MaxWidth100Percent" />
+            </p>
+            <p>On the other hand, if you import the same images and tell Flare to include the callouts, it will look something like this in Windows Explorer.</p>
+            <p>
+                <img src="../../../Images/Flare/import_fm_image_files2.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

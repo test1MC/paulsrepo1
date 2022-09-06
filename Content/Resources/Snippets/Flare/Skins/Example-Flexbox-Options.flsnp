@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example</p>
+            <p>Let’s say you create a new Top Navigation skin. Initially it looks like this:</p>
+            <p>
+                <img src="../../../Images/Flare/Side-Nav-Flexbox-Options6.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <p>The logo comes first (Order=1) and is positioned left. The menu is second (Order=2) and is positioned right. The search bar is third (Order=3) and is set to take up all the space below the others (Full Row=yes).</p>
+            <p>
+                <img src="../../../Images/Flare/Side-Nav-Flexbox-Options7.png" alt="" title="" class="MaxWidth55Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Flare/Side-Nav-Flexbox-Options8.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <p>Now maybe you want each element to take up all the space on its row, centered, with the logo first, followed by the search bar, and then the menu.</p>
+            <p>
+                <img src="../../../Images/Flare/Side-Nav-Flexbox-Options9.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-HTML5-Guide" />
+            <p>In that case, you would change the settings like this:</p>
+            <p>
+                <img src="../../../Images/Flare/Side-Nav-Flexbox-Options10.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+            <p>
+                <img src="../../../Images/Flare/Side-Nav-Flexbox-Options11.png" alt="" title="" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="374" MadCap:lastWidth="1430">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1" MadCap:conditions="General.Print-Only">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1" colspan="2" MadCap:conditions="">
+                        <p class="TableTextHead">Position Cursor</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Beginning of Line</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">HOME</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet3,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Beginning of Next Block</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+DOWN</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Beginning of Next Word</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">CTRL+RIGHT</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet3,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Beginning of Previous Block</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+UP</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Beginning of Previous Word</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">CTRL+LEFT</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">End of Line</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">END</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Next Portion of Screen (if Web Layout view) or Next Page (if Print Layout view)</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">PAGE DOWN</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td style="border-bottom-style: solid;border-bottom-width: 0px;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Previous Portion of Screen (if Web Layout view) or Previous Page (if Print Layout view)</p>
+                    </td>
+                    <td style="border-bottom-style: solid;border-bottom-width: 0px;padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">PAGE UP</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

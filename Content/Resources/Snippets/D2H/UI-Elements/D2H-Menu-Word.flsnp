@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="1055" MadCap:lastWidth="912">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="D2H-Menu-Word2.flsnp" />
+        <MadCap:snippetBlock src="D2H-Menu-Word3.flsnp" />
+    </body>
+</html>

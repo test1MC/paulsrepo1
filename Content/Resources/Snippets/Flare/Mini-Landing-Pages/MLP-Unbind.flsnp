@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p><span class="Emphasis">Unbind </span>The idea of unbinding occurs in a couple of ways in Flare. (1) Remove the tags around content (e.g., drop-downs, lists) to return it to regular text. (2) Remove the connection between the project and a source control provider.</p>
+        <div class="Tiles-6-6">
+            <div>
+                <p class="Bold">Unbinding Tags</p>
+                <ol>
+                    <li>Enable the structure bar buttons <img src="../../../Images/Shared/Co-Fl/toggle_show_blocks_btn.png" class="ReduceButtonSize" /><img src="../../../Images/Shared/Co-Fl/toggle_show_spans_btn.png" class="ReduceButtonSize" /> at the bottom of the editor.</li>
+                    <li>Place your cursor on the content.</li>
+                    <li>Right-click the relevant block bar to the left or the span bar above the content, then select <span class="Emphasis">Unbind</span> or <span class="Emphasis">Unbind [Feature]</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </div>
+            <div>
+                <p class="Bold">Unbinding Source Control</p>
+                <ol>
+                    <li>In the <span class="Emphasis">Project</span> ribbon, select <span class="Emphasis">Project Properties</span>.</li>
+                    <li>Select the <span class="Emphasis">Source Control</span> tab.</li>
+                    <li>Click <span class="Emphasis">Unbind Project</span>.</li>
+                </ol>
+            </div>
+        </div>
+    </body>
+</html>

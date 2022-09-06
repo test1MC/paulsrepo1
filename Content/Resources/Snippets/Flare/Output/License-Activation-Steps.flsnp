@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol type="1" style="list-style-type: lower-alpha;">
+            <li>Click <span class="Emphasis">Activate</span>.</li>
+            <li>
+                <p>Enter the license key. </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/Steps-General/Click-Next.flsnp" />
+            </li>
+            <li>Enter your information:<ul><li><span class="Emphasis">First Name</span> Enter the first name of the user associated with the license key.</li><li><span class="Emphasis">Last Name</span> Enter the last name of the user associated with the license key.</li><li><span class="Emphasis">Email</span> Enter the email address associated with the license key.</li></ul></li>
+            <li>
+                <MadCap:snippetBlock src="../../Shared/All/Steps-General/Click-Next.flsnp" />
+            </li>
+            <li>Select either <span class="Emphasis">Internet Activation</span> or <span class="Emphasis">Manual Activation</span>.<ul><li>If you chose Manual Activation, follow the instructions on-screen to copy and paste the information in an email to customerservice@madcapsoftware.com.</li></ul></li>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/Steps-General/Click-Next.flsnp" />
+            </li>
+            <li>If you chose Internet Activation,  a confirmation displays to indicate that your  license has been activated. Click <span class="Emphasis">Finish</span>.</li>
+        </ol>
+        <MadCap:snippetBlock src="Zendesk-Note-Deactivate-Plugin.flsnp" />
+    </body>
+</html>

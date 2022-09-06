@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('..\..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Printed-Output.flmsp');">
+    <head><title></title>
+        <meta name="description" content="You can generate PDF&#160;files using MadCap Flare. Learn all about your options for creating PDF files with Flare. " />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterOutput" />
+            <MadCap:concept term="FilterFeatures" />
+            <MadCap:keyword term="Adobe PDF;Output:Adobe PDF" />About PDF Output</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/PDF/About-PDF.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Stitching PDFs</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/PDF/PDF-Stitching1.flsnp" />
+                <p>See <MadCap:xref href="Stitching-PDFs.htm">Stitching PDFs</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Preserving Tracked Changes in PDF Output</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../../Resources/Snippets/Flare/Targets/Preserve-Tracked-Changes.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet4] exclude[Snippets.Snippet5 or Snippets.Snippet6] " />
+                </p>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Targets/Tracked-Changes-Reasons.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet4] exclude[Snippets.Snippet5 or Snippets.Snippet6] " />
+                <p>See <MadCap:xref href="../../Reviews-Contributions/Track-Changes/Preserving-Tracked-Changes.htm">Preserving Tracked Changes in PDF or Word Output</MadCap:xref>.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>What Changes Are Preserved?</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Targets/Preserved-PDF-Changes-List.flsnp" />
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Targets/Example-Preserved-Tracked-Changes-PDF.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Change Bars</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>When you preserve track changes in a document, you can also use change bars to identify new, revised, or deleted text. When change bars are enabled and a revision is made, a vertical line appears in the left margin. This visual cue alerts readers that there was a change in that line. Change bars appear in both the XML&#160;Editor and PDF&#160;outputs.</p>
+                        <p>You can enable change bars from the Review tab of the Options dialog (<span class="Emphasis">Review &gt; Review Options</span>). Change bars can be enabled in addition to other track changes options (e.g., balloons, inline markup).</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/change_bars1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../Reviews-Contributions/Track-Changes/Changing-Display-Tracked-Changes.htm">Changing the Display of Tracked Changes</MadCap:xref>.</p>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Reviews-Contributions/Example-Change-Bars.flsnp" />
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Output/Preserving-Tracked-Changes.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Insert PDF Files as Images<a name="InsertPDFFilesImages"></a></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Co-Fl/Images/PDF-Files-Images.flsnp" />
+                <p>See <MadCap:xref href="../../Images/Inserting-Images.htm">Inserting Images</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Adobe PDF:Accessibility;Accessibility:Adobe PDF" />Accessibility and PDF<a name="AccessibilityPDF"></a></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>PDF output from <MadCap:variable name="Other.Product" /> is designed to be accessible to users with disabilities. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../Accessibility/About-Accessibility.htm">About Accessibility</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>Accessibility in PDF includes the following:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Alternate text" />Images—Alternate Text </span>HTML "alt" (alternate text) attributes are converted to the PDF equivalent during compilation so that screen readers have a way to describe the image. It is up to you to ensure that alt attributes are present on all images and descriptive enough to be useful to your end users. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../Images/Inserting-Images.htm">Inserting Images</MadCap:xref> and <MadCap:xref href="../../Images/Editing-Images/Editing-Images.htm">Editing Images</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Language for Content </span>XML "lang" attributes are converted to the PDF equivalent during compilation. This applies to both the project-level language (i.e., the language of the entire output document) and to element-level languages (i.e., languages applied to specific XHTML elements). This is an automatic process that occurs behind the scenes without user input.</li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Adobe PDF" />PDF Tagging </span>You can select an option on the PDF Options tab of the Target Editor to generate a tagged PDF. This gives the file a structure similar to that of the source XHTML documents. This structure is necessary for certain accessibility applications, including screen readers. For more information about viewing the tag structure in Adobe Acrobat Pro, please refer to the documentation provided with that application. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../Targets/More/Specifying-PDF-Options.htm">Specifying PDF Options</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you enable this feature, the size of the PDF output may increase somewhat. Compilation time should not be significantly affected.</p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Tables—Header Cells </span>Tables in PDF output are given a structure that designates which cells are header cells and which are content so that screen readers can translate the table data in a useful way. <MadCap:conditionalText MadCap:conditions="General.Online-Only">For more information about creating header cells in tables, see <MadCap:xref href="../../Tables/Inserting-Tables.htm">Inserting Tables</MadCap:xref> and <MadCap:xref href="../../Tables/Editing-Table-Properties.htm">Editing Table Properties</MadCap:xref>.</MadCap:conditionalText></li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Co-Fl/Fonts/Note-Font-Bold-Italic-PDF.flsnp" />
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                    <MadCap:keyword term="Adobe PDF:links;Linking:PDF;Hyperlinks:PDF" />You can link to PDF files outside of your project by simply creating an external link with absolute path. See <MadCap:xref href="../../Nav-Links/External-Links/Inserting-Links-to-External-Files.htm">Inserting Links to External Files—HTML, PDF, Microsoft Office</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

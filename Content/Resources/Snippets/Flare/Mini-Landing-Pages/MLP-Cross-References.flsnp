@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareNavigationLinksGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Cross-References </span>A cross-reference is a <MadCap:snippetText src="../Nav-Links/Cross-Reference-Definition.flsnp" />&#160;<MadCap:snippetText src="../../Shared/Co-Fl/Nav-Links/Automating-Links-Commands.flsnp" /> <a href="../../../../Flare/Nav-Links/Cross-References/About-Cross-References.htm">More Details…</a></p>
+                <p class="Bold">Common Tasks</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Inserting-Cross-References.htm">Inserting Cross-References</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Creating-Context-Sensitive-Cross-References.htm">Creating Context-sensitive Cross-References</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Editing-Cross-References.htm">Editing Cross-References</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Updating-Cross-References.htm">Updating Cross-References</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/cross_references1.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

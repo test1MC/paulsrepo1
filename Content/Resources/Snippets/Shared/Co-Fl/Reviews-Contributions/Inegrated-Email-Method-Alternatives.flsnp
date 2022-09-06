@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>The following steps include the integrated Outlook email method. If your systems are not set up for this feature, you can use one of the other methods (e.g.,<MadCap:conditionalText MadCap:conditions="Products.Flare"> <a href="../../../../../Flare/Sharepoint/About-SharePoint-Integration.htm">SharePoint</a>,</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor"> <a href="../../../../../Contributor/Sharepoint/About-SharePoint-Integration.htm">SharePoint</a>,</MadCap:conditionalText> or save to your computer and manually email).</p>
+    </body>
+</html>

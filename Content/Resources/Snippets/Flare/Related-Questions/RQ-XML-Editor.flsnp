@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="[%=PDF-URLs.TouringWorkspace%]" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">XML Editor </span>The primary editor that displays when you open a topic, snippet, or master page. It shows the underlying XML structure of documents in a comfortable visual authoring environment, but you do not need to know anything about XML to use it. <a href="../../../../Flare/Interface/UI-Elements/XML-Editor.htm">More Details…</a></p>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What can you do in the XML Editor?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>In addition to typing content, there are dozens of things you can do in the XML Editor. Following are just a few of the primary tasks that you can perform.&#160;<a href="../../../../Flare/Interface/UI-Elements/XML-Editor.htm#WhatYouCanDoInEditor">More Details…</a></p>
+                            <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                                <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                                <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                                <tbody>
+                                    <tr class="TableStyle-Simple-Body-Row1">
+                                        <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                            <ul>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Condition Tags to Content</MadCap:xref>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Styles/Applying-Styles-to-Content.htm">Applying Styles to Content</MadCap:xref>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Creating-Responsive-Layouts.htm">Creating Responsive Layouts</MadCap:xref>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Inserting-Cross-References.htm">Inserting Cross-References</MadCap:xref>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Nav-Links/Drop-Down-Text/Inserting-Drop-Down-Text.htm">Inserting Drop-Down Text</MadCap:xref>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Nav-Links/Text-Hyperlinks/Inserting-Text-Hyperlinks.htm">Inserting Text Hyperlinks</MadCap:xref>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Images/Inserting-Images.htm">Inserting Images</MadCap:xref>
+                                                </li>
+                                            </ul>
+                                        </td>
+                                        <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                            <ul>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Indexes/Inserting-Index-Keywords.htm">Inserting Index Keywords</MadCap:xref>
+                                                </li>
+                                                <li><a href="../../../../Flare/Proxies/About-Proxies.htm">Inserting Proxies</a>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Snippets/Inserting-Snippets.htm">Inserting Snippets</MadCap:xref>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Tables/Inserting-Tables.htm">Inserting Tables</MadCap:xref>
+                                                </li>
+                                                <li>
+                                                    <xref href="../../../../Flare/Nav-Links/Togglers/Inserting-Togglers.htm">Inserting Togglers</xref>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Variables/Inserting-Variables.htm">Inserting Variables</MadCap:xref>
+                                                </li>
+                                                <li>
+                                                    <MadCap:xref href="../../../../Flare/Topics/Previewing-Topics.htm">Previewing Topics</MadCap:xref>
+                                                </li>
+                                            </ul>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">Can you control the way content is displayed in the XML Editor?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/XML-Editor/Multiple-Layout-Modes.flsnp" />&#160;<a href="../../../../Flare/Topics/About-Layout-Modes.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">Can you edit code in the XML Editor?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>Yes. Although <MadCap:variable name="Other.Product" /> provides you with a user interface to work on topics (i.e., the XML Editor), you can get behind the scenes to see and edit the code for the topic. The easiest way to do this is to open the topic in the Internal Text Editor in <MadCap:variable name="Other.Product" />. To do this, open the topic as usual, then at the bottom of the XML Editor, click the <span class="Emphasis">Text Editor</span> tab. You can also use split the editor between the XML Editor and the Internal Text Editor. <a href="../../../../Flare/Interface/UI-Elements/XML-Editor.htm#EditingXHTMLCodeOnline">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the bars on the left and top of the XML Editor?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/XML-Editor/Structure-Bar-Summary.flsnp" />&#160;<a href="../../../../Flare/Structure-Bars/About-Structure-Bars.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are all these buttons and interface elements in the XML Editor?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Interface/UI-Elements/XML-Editor.htm#ButtonsSectionsTop">Buttons and Sections—Top of Editor</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Interface/UI-Elements/XML-Editor.htm#ButtonsSectionsBottomWebLayoutMode">Buttons and Sections—Bottom of Editor&#160;In Web Layout Mode</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Interface/UI-Elements/XML-Editor.htm#ButtonsSectionsBottomPrintLayoutMode">Buttons and Sections—Bottom of Editor in Print Layout Mode</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Interface/UI-Elements/XML-Editor.htm#ElementsEditingArea">Elements in Editing Area</MadCap:xref>
+                                </li>
+                            </ul>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/xml-editor-toolbars.png" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

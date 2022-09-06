@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p><span class="Emphasis">Proxies </span>A proxy acts as a placeholder for auto-generated content or content that you have created elsewhere. When you build output, the content takes the place of that proxy. Proxies are quite often used for print-based outputs to create TOCs, indexes, and glossaries. They can also be useful in online output, especially for HTML5 Top Navigation output, where the traditional tripane format is replaced by a more modern design. <a href="../../../../Flare/Proxies/About-Proxies.htm">More Details…</a></p>
+        <p class="Bold">Types of Proxies</p>
+        <div class="Tiles-4-4-4">
+            <div>
+                <ul>
+                    <li><a href="../../../../Flare/Proxies/Creating-Body-Proxy.htm">Body</a>
+                    </li>
+                    <li><a href="../../../../Flare/Proxies/Creating-Breadcrumbs.htm">Breadcrumbs</a>
+                    </li>
+                    <li><a href="../../../../Flare/Proxies/Creating-List-Concepts.htm">Concepts</a>
+                    </li>
+                    <li><a href="../../../../Flare/Proxies/Creating-Endnotes-Proxy.htm">Endnotes</a>
+                    </li>
+                    <li><a href="../../../../Flare/Output/Printed-Output/Creating-Glossary-Manually-Print.htm">Glossary</a>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li><a href="../../../../Flare/Output/Printed-Output/Creating-Index-Manually-Print.htm">Index</a>
+                    </li>
+                    <li><a href="../../../../Flare/Proxies/Creating-List-Elements.htm">List-Of</a>
+                    </li>
+                    <li><a href="../../../../Flare/Proxies/Creating-Topic-Menu.htm">Menu</a>
+                    </li>
+                    <li><a href="../../../../Flare/Proxies/Creating-Mini-TOC.htm">Mini-TOC</a>
+                    </li>
+                    <li><a href="../../../../Flare/Output/Printed-Output/Adding-Page-Header-Footer-Proxies.htm">Page Footer and Header</a>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li><a href="../../../../Flare/Nav-Links/Relationship-Links/About-Relationship-Tables.htm">Relationships</a>
+                    </li>
+                    <li><a href="../../../../Flare/Proxies/Creating-Search-Bar.htm">Search Bar</a>
+                    </li>
+                    <li><a href="../../../../Flare/Proxies/Creating-Search-Results.htm">Search Results</a>
+                    </li>
+                    <li><a href="../../../../Flare/Output/Printed-Output/Creating-TOC-Manually-Print.htm">TOC</a>
+                    </li>
+                    <li><a href="../../../../Flare/Proxies/Inserting-Editing-Topic-Toolbar.htm">Topic Toolbar</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" style="mc-master-page: url('../../../../Resources/MasterPages/Flare/PDF-Topics/Flare-Search.flmsp');">
+    <head>
+        <meta name="description" content="Learn about the search capabilities for the different MadCap&#160;Flare output types. See what features are supported by the client-side search engine and learn more about the options for delivering a server-side search engine. " />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.Online-Only">
+            <MadCap:concept term="FilterFeatures" />
+            <MadCap:keyword term="Search:Elasticsearch;Elasticsearch" />About Elasticsearch</h1>
+        <h1 MadCap:conditions="General.Print-Only">Elasticsearch</h1>
+        <MadCap:snippetBlock src="../../../../Resources/Snippets/Flare/Banners/Feature-Supported/HTML5.flsnp" />
+        <p>Elasticsearch is a <MadCap:snippetText src="../../../../Resources/Snippets/Flare/Search/Elasticsearch-Definition.flsnp" /></p>
+        <p>Elasticsearch is enabled by two web services, one used by Flare and the other used by Elasticsearch. The Elasticsearch web service runs a portal that lets you manage the targets, topics, and indexes employed by the Elasticsearch engine in your server-based HTML5 target.</p>
+        <p>
+            <img src="../../../../Resources/Images/Flare/elasticsearch-predictive-search-example.png" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Search-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>General Steps for Using Elasticsearch</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>These are the steps needed to set up Elasticsearch.</p>
+                <ol>
+                    <li><span class="Emphasis">Set Up Server </span>Configure a remote server to store your search indexing data. This is usually done by a network administrator. See <MadCap:xref href="Installing-Elasticsearch-Remote-Server.htm"> Installing Elasticsearch on a Remote Server</MadCap:xref>.</li>
+                    <li><span class="Emphasis">Set Search Engine </span>Select Elasticsearch as the search engine in the Target Editor.  See <MadCap:xref href="Enabling-Elasticsearch-Target-Editor.htm">Enabling Elasticsearch Through the Target Editor</MadCap:xref>.</li>
+                    <li><span class="Emphasis">Create Destination Files </span>Add and configure primary and Elasticsearch destination files so you can publish your output and search results. See <MadCap:xref href="Creating-Publishing-Destinations-Elasticsearch.htm">Creating Publishing Destinations for Elasticsearch</MadCap:xref>.</li>
+                    <li><span class="Emphasis">Connect Destinations with Target </span>Associate your publishing destinations with the HTML5 target. See <MadCap:xref href="Associating-Elasticsearch-Destination.htm">Associating Elasticsearch Destinations with a Target</MadCap:xref>.</li>
+                    <li>
+                        <p><span class="Emphasis">Generate and Test Output </span>Build the HTML5 target. When the build is near completion, you will notice a new icon display in the system tray. This is for the MadCap Process Manager, which will handle the web services required for Elasticsearch if you are running locally on your machine. See <MadCap:xref href="Madcap-Process-Manager.htm">MadCap Process Manager</MadCap:xref>.</p>
+                        <p>Once the build is complete, start testing your output with a few searches to ensure Elasticsearch is working in accordance with your configuration. </p>
+                    </li>
+                    <li><span class="Emphasis">Manage Search Indexes </span>As your Elasticsearch output is searched, you may want to control the size of the indexes for your target. See <MadCap:xref href="Content-Services-Portal.htm">Content Services Portal</MadCap:xref>.</li>
+                </ol>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also modify the appearance of your auto-complete suggestions in the search results. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../Skins/HTML5-Skin-Styles/Header-HTML5-Skins.htm">Headers in HTML5 Skins</MadCap:xref> and <MadCap:xref href="../../../Skins/HTML5-Skin-Styles/HTML5-Skin-Styles.htm">HTML5 Skin Styles</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Print-Only">See the Flare Skins Guide or the Flare online Help for more information.</MadCap:conditionalText></p>
+                </div>
+                <MadCap:snippetBlock src="../../../../Resources/Snippets/Flare/Search/Search-Filters-Not-Supported-Elasticsearch.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Search-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Setup Example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../../Resources/Snippets/Flare/Search/Example-Elasticsearch-Setup.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet2]exclude[Snippets.Snippet1]" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You must use Elasticsearch version 5.6, since that is the version supported by MadCap Flare.</p>
+                </div>
+                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Search-Guide" />
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you enable the Mark of the Web setting in your Elasticsearch target and viewing the output locally in Internet Explorer, you will continuously receive the following warning message:</p>
+                    <p>
+                        <img src="../../../../Resources/Images/Flare/Elasticsearch-Mark-Web-Warning.png" class="MaxWidth100Percent" />
+                    </p>
+                    <p>This message will display every time you enter search criteria. In order to avoid receiving this message, it is recommended that you disable the Mark of the Web setting. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../Targets/More/Adding-MOTW.htm">Adding Mark of the Web</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Print-Only">See the <span class="EmphasisItalic">Flare Targets Guide</span> or the Flare online Help for more information.</MadCap:conditionalText></p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Synonyms are not supported in Elasticsearch.</p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you are viewing your generated Elasticsearch output on Microsoft Edge, you will not be able to search.  In order to use Edge for your Elasticsearch output, you will need to run the following command prompt one time as an administrator:</p>
+                    <ul>
+                        <li>
+                            <p> CheckNetIsolation LoopbackExempt -d -n=Microsoft.MicrosoftEdge_8wekyb3d8bbwe</p>
+                        </li>
+                    </ul>
+                    <p>This will disable loopback in your Edge browser and allow you to use your Elasticsearch target in Edge. For more information on this, visit <a href="https://www.ibm.com/support/knowledgecenter/en/SSPH29_9.0.3/com.ibm.help.common.infocenter.aps/r_LoopbackForEdge.html" target="_blank">Enabling Elasticsearch Targets In Microsoft Edge</a>.</p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Elasticsearch is not supported for outputs hosted through MadCap Central.</p>
+                </div>
+                <MadCap:snippetBlock src="../../../../Resources/Snippets/Flare/Search/Search-Filters-Not-Supported-Elasticsearch.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Search-Guide" />
+    </body>
+</html>

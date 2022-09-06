@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ul class="FirstLevel">
+            <li><span class="SetOffFirstLevel">Ribbon </span>Select <span class="Emphasis">Home &gt; Style Window</span>. </li>
+            <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press <span class="Emphasis">F12</span></li>
+        </ul>
+        <p>The Styles window pane opens, showing styles from your stylesheet.</p>
+    </body>
+</html>

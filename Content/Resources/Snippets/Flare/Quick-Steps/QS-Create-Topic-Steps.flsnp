@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareTopicsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <div class="Tiles-4-4-4-Microcontent">
+                <div class="micro-content-dropdown">
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Create a Topic</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <ol>
+                                <li>
+                                    <p>In the Content Explorer, right-click on a folder and from the context menu select <span class="Emphasis">New &gt; Topic</span>.</p>
+                                    <div class="topic-only">
+                                        <MadCap:snippetBlock src="../Files/Tip-Add-New-Content-File.flsnp" />
+                                    </div>
+                                    <p class="topic-only"><b>Other Options:</b>
+                                    </p>
+                                    <div class="topic-only">
+                                        <ul class="FirstLevel">
+                                            <li><span class="SetOffFirstLevel">Ribbon </span>Open the <span class="Emphasis">Project</span> ribbon and select <span class="Emphasis">New &gt; Topic</span>. </li>
+                                            <li><span class="SetOffFirstLevel">Local Toolbar </span>In the local toolbar of the Content Explorer click <img src="../../../Images/Flare/create_new_topic_file_btn.png" class="ReduceButtonSize" />.</li>
+                                            <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>Press <span class="Emphasis">CTRL+T</span>.</li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p>Select a template.</p>
+                                    <div class="topic-only">
+                                        <ul class="FirstLevel">
+                                            <li>
+                                                <MadCap:snippetText src="../Templates/New-Template.flsnp" />
+                                                <ul class="SecondLevel">
+                                                    <li><span class="SetOffFirstLevel">NewTopic.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody> This creates a regular topic with default text that you can replace. This is the template that you will select most of the time.</MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">TopicForEndnotes.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody> This creates a topic with an Endnotes proxy, which can be used to generate a list of all your end notes (footnotes) when you build print-based output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Proxies/Creating-Endnotes-Proxy.htm">Using an Endnotes Proxy</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">TopicForGlossary.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody> This creates a topic with a Glossary proxy, which can be used to generate a list of all your glossary terms and definitions when you build print-based output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/Printed-Output/Creating-Glossary-Manually-Print.htm">Creating a Glossary Manually for Print</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">TopicForIndex.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody>  This creates a topic with an Index proxy, which can be used to generate an index when you build print-based output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/Printed-Output/Creating-Index-Manually-Print.htm">Creating an Index Manually for Print</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">TopicForListOfConcepts.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody> This creates a topic with a Concepts proxy, which can be used to generate a list of all your concept keywords when you build print-based output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Proxies/Creating-List-Concepts.htm">Creating a List of Concepts</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">TopicForListOfElements.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody> This creates a topic with a List-Of proxy, which can be used to generate a list of any kind of element you want when you build print-based output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Proxies/Creating-List-Elements.htm">Creating a List of Elements</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">TopicForListOfImages.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody> This creates a topic with a List-Of proxy, which can be used to generate a list of all of your images when you build print-based output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Proxies/Creating-List-Images.htm">Creating a List of Images</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">TopicForListOfTables.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody> This creates a topic with a List-Of proxy, which can be used to generate a list of all of your tables when you build print-based output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Proxies/Creating-List-Tables.htm">Creating a List of Tables</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">TopicForMiniTOC.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody>  This creates a topic with a mini-toc proxy, which can be used to generate a small table of contents when you build online or print-based output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Proxies/Creating-Mini-TOC.htm">Creating a Mini-TOC</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                    <li><span class="SetOffFirstLevel">TopicForTOC.htm </span>
+                                                        <MadCap:expanding>
+                                                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                            <MadCap:expandingBody> This creates a topic with a TOC proxy, which can be used to generate a full table of contents when you build print-based output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/Printed-Output/Creating-TOC-Manually-Print.htm">Creating a TOC Manually for Print</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                        </MadCap:expanding>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <MadCap:snippetText src="../Templates/New-Existing.flsnp" />
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p>In the <span class="Emphasis">File Name</span> field type a new name for the topic.</p>
+                                    <p class="topic-only">
+                                        <MadCap:snippetText src="../Steps-General/Select-Subfolder-Content-Explorer1.flsnp" />
+                                    </p>
+                                    <div class="topic-only">
+                                        <div class="note">
+                                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Spaces are allowed in the file name. However, if you are publishing output to a UNIX system, avoiding spaces in the file name is recommended. You can use underscores in place of spaces.</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p>(Optional) You can complete additional fields at the bottom of the dialog.</p>
+                                    <div class="topic-only">
+                                        <ul class="FirstLevel">
+                                            <li><span class="Emphasis">1st Heading </span>
+                                                <MadCap:expanding>
+                                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                    <MadCap:expandingBody>If you want the heading for the topic to use the same text that you provide for the file name, leave this field blank. Otherwise, enter the text that you want to use for the heading in the topic.</MadCap:expandingBody>
+                                                </MadCap:expanding>
+                                            </li>
+                                            <li><span class="Emphasis">Title </span>
+                                                <MadCap:expanding>
+                                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                    <MadCap:expandingBody>You can give the topic a title for the file. This does not refer to the visual title (or heading) at the top of the topic. Rather, it refers to the properties title for the topic (<MadCap:conditionalText MadCap:conditions="General.Online-Only">see <MadCap:xref href="../../../../Flare/Topics/Changing-Topic-Titles.htm">Changing Topic Titles</MadCap:xref></MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Topics-Guide">See <MadCap:xref href="../../../../Flare/Topics/Changing-Topic-Titles.htm#ChangingTopicTitles" target="" title="" alt="">Changing Topic Titles</MadCap:xref></MadCap:conditionalText>). If you leave this field blank, the text from the “1st Heading” field will be used for the title.</MadCap:expandingBody>
+                                                </MadCap:expanding> </li>
+                                            <li><span class="Emphasis">Stylesheet </span>
+                                                <MadCap:expanding>
+                                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                    <MadCap:expandingBody>Select a stylesheet to associate with the new topic. If you do not have a stylesheet in your project, this field remains blank. This field is disabled if you have applied a master stylesheet. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Styles/Associating-Master-Stylesheets-with-All-Files.htm">Applying Master Stylesheets</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                </MadCap:expanding>
+                                            </li>
+                                            <li><span class="Emphasis">Style </span>
+                                                <MadCap:expanding>
+                                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                    <MadCap:expandingBody>If you want the heading for the topic to use the default h1 style, leave this field blank. Otherwise, select a style to apply to the heading in the topic.</MadCap:expandingBody>
+                                                </MadCap:expanding>
+                                            </li>
+                                            <li><b>Condition Tags </b>
+                                                <MadCap:expanding>
+                                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                    <MadCap:expandingBody>If you want to apply condition tags to the file, expand the <span class="Emphasis">Attributes</span> section at the bottom of the dialog. Next to the <span class="Emphasis">Condition Tags</span> field, click <img src="../../../Images/Shared/All/browse_ellipses.png" class="ReduceButtonSize" /> and select the conditions you want to apply. <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Conditions/Applying-Condition-Tags-to-Content.htm">Applying Conditions to Content</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                </MadCap:expanding>
+                                            </li>
+                                            <li><b>File Tags </b>
+                                                <MadCap:expanding>
+                                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                                    <MadCap:expandingBody>If you want to apply file tags, expand the <span class="Emphasis">Attributes</span> section at the bottom of the dialog. Next to the <span class="Emphasis">File Tags</span> field, click <img src="../../../Images/Shared/All/browse_ellipses.png" class="ReduceButtonSize" /> and select the file tags you want to apply. <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/File-Tagging/Associating-Tags-with-Files.htm">Associating Tags with Files</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                                </MadCap:expanding>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li>Click <span class="Emphasis">Add</span>.</li>
+                            </ol>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                    <p class="micro-content-only"><a href="../../../../Flare/Topics/Creating-Topics.htm">More Details…</a>
+                    </p>
+                </div>
+                <div class="micro-content-only">
+                    <p class="center" style="text-align: center;">
+                        <img src="../../../Images/Flare/QS-Create-Topic.png" alt="" title="" class="ThumbnailMicroContent" />
+                    </p>
+                </div>
+                <div class="micro-content-only">
+                    <p>&#160;</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

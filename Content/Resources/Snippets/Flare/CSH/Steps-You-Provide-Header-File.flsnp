@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>
+                <p><span class="SetOffFirstLevel">You </span>Add a header file to the project.</p>
+                <p>See <MadCap:xref href="../../../../Flare/CSH/About-Header-Files.htm">About Header Files</MadCap:xref> and <MadCap:xref href="../../../../Flare/CSH/Adding-Header-Files.htm">Adding Header Files</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">You </span>Add an alias file to the project. The header file is the vital piece in this process. The alias file simply lets you edit the header file in a user-friendly interface.</p>
+                <p>See <MadCap:xref href="../../../../Flare/CSH/About-Alias-Files.htm">About Alias Files</MadCap:xref> and <MadCap:xref href="../../../../Flare/CSH/Adding-Alias-Files.htm">Adding Alias Files</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">You </span>Create and assign identifiers.</p>
+                <p>See <MadCap:xref href="../../../../Flare/CSH/Creating-Assigning-Identifiers.htm">Creating and Assigning Identifiers</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">You </span>Associate the alias file with the target. </p>
+                <p>This is necessary only if you have created more than one alias file. See <MadCap:xref href="../../../../Flare/CSH/Associating-Alias-File-with-Target.htm">Associating an Alias File with a Target</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">You </span>Provide the developer with a copy of the header file.</p>
+                <p>For example, you can do this by exporting the file to a shared drive. See <MadCap:xref href="../../../../Flare/CSH/Providing-Developer-with-Header-File.htm">Providing a Developer with a Header File</MadCap:xref>.</p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">You </span>(Optional)&#160;Create a CSH-specific skin and assign it a skin ID, then provide the developer with the skin ID.</p>
+                <p MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Skins/More/Enabling-Runtime-Skins.htm">Enabling Runtime Skins</MadCap:xref>. </p>
+            </li>
+            <li>
+                <p><span class="SetOffFirstLevel">You </span>Generate output and provide the developer with a copy of the Help output files.</p>
+                <p MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/About-Building-Output.htm">Building and Distributing Output</MadCap:xref>.</p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-CSH-Guide" />
+            <li>
+                <p><span class="SetOffFirstLevel">Software Developer </span>"Hooks" application interface or web links to online topics.</p>
+                <p>The developer connects the dialogs, windows, or web links to the appropriate online topics using the information in the header file. The developer also connects the help to the CSH-specific skin, if applicable. See the following for more details about the information that you might need to provide for the developer (depending on the output type you generated).</p>
+                <ul MadCap:conditions="General.Online-Only,Flare-Guides.Flare-CSH-Guide" class="FirstLevel">
+                    <li>
+                        <MadCap:xref href="../../../../Flare/CSH/HTML-Help-CSH-Calls/CSH-Calls-HTML-Help.htm">CSH Calls for HTML Help</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/CSH/HTML5-CSH-Calls/CSH-Calls-HTML5.htm" target="" title="" alt="">CSH Calls for HTML5 Output</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/CSH/WebHelp-CSH-Calls/CSH-Calls-WH-WHP.htm">CSH Calls for WebHelp and WebHelp Plus</MadCap:xref>
+                    </li>
+                </ul>
+            </li>
+            <li><span class="SetOffFirstLevel">Software Developer </span>Creates a new build of the software application or publishes updated web links.</li>
+            <li>
+                <p><span class="SetOffFirstLevel">You </span>Install the new software build or view updated website. Test the CSH.</p>
+                <p>
+                    <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/CSH/Testing-CSH.htm">Testing Context-sensitive Help</MadCap:xref>.</MadCap:conditionalText>
+                    <MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-CSH-Guide"> See <MadCap:xref href="../../../../Flare/CSH/Testing-CSH.htm#TestingCSH" target="" title="" alt="">Testing Context-sensitive Help</MadCap:xref>.</MadCap:conditionalText>
+                </p>
+            </li>
+        </ol>
+    </body>
+</html>

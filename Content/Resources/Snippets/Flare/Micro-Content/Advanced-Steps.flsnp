@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>
+                <p>After generating HTML5 output that includes micro content phrases and responses, you can open the <span class="Emphasis">Project</span> ribbon and click <span class="Emphasis">Open Output Folder</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content7.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>
+                <p>In Windows, open your target folder, then double-click the <span class="Emphasis">MicroContent</span> folder.</p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content12.png" alt="" title="" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-Search-Guide,Flare-Guides.Flare-HTML5-Guide" />
+                <p>This folder contains HTML files named after your phrases, with the associated responses contained inside.</p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content13.png" alt="" title="" />
+                </p>
+            </li>
+            <li>At this point, a developer would need to do some extra programming and work outside of Flare, pointing to the files in your MicroContent output folder as necessary. You might find the need to use third-party applications as well.</li>
+        </ol>
+    </body>
+</html>

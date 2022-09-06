@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>Here are a few things to keep in mind when creating your response content:</p>
+        <ul>
+            <li>
+                <p><span class="Emphasis">Keep It Short </span>Remember that micro means “small.” Flare lets you add lots of different things to micro content (e.g., paragraphs, lists, steps, images, animated gifs, videos, links, tables), the same kind of content you can add inside a topic. But that doesn’t mean that you <span class="EmphasisItalic">should</span> add lots of content. Try to keep your micro content as short as possible, while not sacrificing necessary information.</p>
+                <p>In the Skin Editor, you can set a maximum size for featured snippets in the output. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Micro-Content/Editing-Look-Micro-Content.htm">Editing the Look of Micro Content</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>If a response exceeds the height in the output, an arrow button lets users expand and collapse the content that is not initially shown.</p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content10.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content11.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-Search-Guide,Flare-Guides.Flare-HTML5-Guide" />
+            <li>
+                <p><span class="Emphasis">Responsive Structure </span>Depending on the subject matter, you might want to structure a response to show text on one side and something else—such as an image, animated gif, video, or table—on the other side. If you do this, you might consider using a responsive layout for the structure, so that the different elements stack on top of one another when viewed on a small screen. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Creating-Responsive-Layouts.htm">Creating Responsive Layouts</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content8.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>In the output, the image in the above example will display to the right of the steps, but on a smart phone, the image will display below the text.</p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+            <li>
+                <p><span class="Emphasis">To Link or Not to Link? </span>When creating a response, you can do so in the following ways:</p>
+                <ul class="SecondLevel">
+                    <li>You can enter content directly in the Micro Content Editor.</li>
+                    <li>You can link a phrase in the Micro Content Editor to a topic or snippet (or a bookmark within such a file).</li>
+                    <li>You can select specific content in a topic or snippet and create new micro content from there. The phrase you create will then be linked to that specific content in the topic or snippet.</li>
+                </ul>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 200px;" />
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+                    <thead>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                                <p class="TableTextHead">Method</p>
+                            </th>
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                                <p class="TableTextHead">Pros</p>
+                            </th>
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                                <p class="TableTextHead">Cons</p>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableTextEmphasis">Micro Content Editor</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">This method is simple. Just start adding content in the editor. </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">You don’t have as many options as you do in a topic or snippet. For example, you cannot add a responsive layout directly in the Micro Content Editor, but you can copy content such as this from a topic or snippet into that editor.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" rowspan="5">
+                                <p class="TableTextEmphasis">Link to Topic from Micro Content Editor</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">If you already have a topic that is suitable for micro content, you do not need to create new content, but instead just link to the existing file.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Linking to some topics (even using a bookmark) might be too much content for a micro content response.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">In a topic, you can use all of the editing features available in Flare.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">You can link to the entire topic, or to a bookmark within it. If you link to a bookmark, the output will show all of the content after that bookmark, but none before it.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">A link is automatically added to the bottom of the featured snippet in the search results, which lets users open the corresponding topic on a new page.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">Not only will the content display in the featured snippet in search results, but an abstract and link to the topic will also appear with the rest of the search results.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" rowspan="4">
+                                <p class="TableTextEmphasis">Link to Snippet from Micro Content Editor</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">If you already have a snippet that is suitable for micro content, you do not need to create new content, but instead just link to the existing file.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Linking to some snippets (even using a bookmark) might be too much content for a micro content response.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">In a snippet, you can use all of the editing features available in Flare.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">You can link to the entire snippet, or to a bookmark within it. If you link to a bookmark, the output will show all of the content after that bookmark, but none before it.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">In addition to linking a snippet to a micro content phrase, you can also reuse the snippet in other places in your project.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" rowspan="5">
+                                <p class="TableTextEmphasis">Create Micro Content from a Topic or Snippet</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">If you already have a topic or snippet that contains content that is suitable for micro content, you do not need to create new content, but instead just link to the content.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Some content contained in a topic or snippet might look just fine as a standalone micro content response. However, sometimes you might find the need to make edits to that content first.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">In a topic or snippet, you can use all of the editing features available in Flare.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                                <p class="TableText">This method lets you be more specific with the response than if you were to link to a topic or snippet from the Micro Content Editor. You can keep the response limited to just the content that you choose.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                                <p class="TableText">If the micro content was created in a topic (as opposed to a snippet), a link is added to the bottom of the featured snippet in the search results, which lets users open the corresponding topic on a new page.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                                <p class="TableText">If the micro content was created in a topic (as opposed to a snippet), not only will the content display in the featured snippet in search results, but an abstract and link to the topic will also appear with the search results.</p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                                <p class="TableText">&#160;</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </li>
+        </ul>
+    </body>
+</html>

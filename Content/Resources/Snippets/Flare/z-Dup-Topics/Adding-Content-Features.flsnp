@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>As soon as you start a project, you can do any number of things with it. Technically, you could build the final output immediately. However, if it is a new project, building the output right away would not do your end users much good, since the output does not yet have any real substance. The project needs topics, content, cross-references, navigation, and all of the other elements necessary to help your end users.</p>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+        <h2 MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide">What You Can Add to a Project</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>What You Can Add to a Project</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following is a list of content and features that you can create and insert into your <MadCap:variable name="Other.Product" /> project. <MadCap:conditionalText MadCap:conditions="Products.Flare-Online-Only,Flare-Guides.Flare-Getting-Started-Guide">Some of these features can be used in online output as well as print-based output, some are for online output only, and some are for print output only. </MadCap:conditionalText>Topics are essential for any project, but otherwise you can pick and choose which of the following to include and which to leave out. Also, it is not necessary that you add these items and features in any particular order, although topics usually are created first.<MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Getting-Started-Guide"> For more detailed information about each of these, including examples, see the online Help.</MadCap:conditionalText></p>
+                <ul MadCap:conditions="General.Online-Only">
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Topics" />Topics </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Topics/Topics-Summary.flsnp" /> See <MadCap:xref href="../../../../Flare/Topics/About-Topics.htm">About Topics</MadCap:xref>.<br /></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Browse sequences" />Browse Sequences </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Browse-Sequences/Browse-Sequence-Summary.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Browse-Sequences/About-Browse-Sequences.htm">About Browse Sequences</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Conditions" />Conditions </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../../Shared/Co-D2H-Fl/Conditions/Condition-Tag-Summary.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Conditions/About-Condition-Tags.htm">About Conditions</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Glossaries" />Glossaries </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Glossaries/Glossary-Summary.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Glossaries/About-Glossaries.htm">About Glossaries</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><b>Images and Multimedia</b>
+                        <ul>
+                            <li><span class="SetOffFirstLevel"><MadCap:keyword term="Images" />Images </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Images/Images-Summary.flsnp" />&#160;<MadCap:snippetText src="../../Shared/Co-Fl/Images/Images-Summary2.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Images/About-Images.htm">About Images</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Movies </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody>
+                                        <MadCap:snippetText src="../../Shared/Co-Fl/Movies/Movies-Summary.flsnp" />
+                                        <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Multimedia/Movies/Movies.htm">Movies</MadCap:xref>.</MadCap:conditionalText>
+                                    </MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Audio </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody>You can insert and edit audio files in Flare.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Multimedia/Audio/Audio.htm">Audio</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                            <li><span class="SetOffFirstLevel">3D Models </span>
+                                <MadCap:expanding>
+                                    <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                                    <MadCap:expandingBody>If you want to enhance your output using 3D, <MadCap:variable name="Other.Product" /> supports Universal 3D (U3D) files. These files allow you to show users an interactive 3D model in print or web output.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Multimedia/3D-Models/3D-Models.htm">3D Models</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                                </MadCap:expanding>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Indexes" />Indexes </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Indexes/Index-Summary.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Indexes/About-Indexes.htm">About Indexes</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Linking;Linking" />Links </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <snippetText src="../Nav-Links/Navigation-Link-Summary1.flsnp" /> See  <MadCap:xref href="../../../../Flare/Nav-Links/About-Links.htm">About Links</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Micro content;Search;HTML5:micro content" />Micro Content </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Micro-Content/Micro-Content-Summary.flsnp" /> See <MadCap:xref href="../../../../Flare/Micro-Content/About-Micro-Content.htm">About Micro Content</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Proxies" />Proxies </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Proxies/Proxy-Summary.flsnp" /> See <MadCap:xref href="../../../../Flare/Proxies/About-Proxies.htm">About Proxies</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="HTML5:responsive web design;Responsive web design" />Responsive Content </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Responsive-Design/Responsive-Layout-Summary.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Responsive-Content.htm">Responsive Content</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Search" />Search </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Search/Search-Summary.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Search/About-Search.htm">About Search</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Snippets" />Snippets </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Snippets/Snippet-Summary2.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Snippets/About-Snippets.htm">About Snippets</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Tables" />Tables </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/Tables/Table-Summary1.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Tables/About-Tables.htm">About Tables</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Tables of contents" />Tables of Contents </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../TOCs/Methods-Finding-Info.flsnp" />&#160;<MadCap:snippetText src="../Welcome/Most-Important-TOCs1.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/TOCs/About-TOCs.htm">About Tables of Contents</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Variables" />Variables </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Variables/Variables-Summary1.flsnp" />&#160;<MadCap:snippetText src="../Variables/Variables-Summary2.flsnp" /> See <MadCap:xref href="../../../../Flare/Variables/About-Variables.htm">About Variables</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Editor Tools </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>Flare provides many tools to assist you when you are working in its editors, including macros, customizable shortcuts, and structure bars. See <MadCap:xref href="../../../../Flare/Introduction/Features/Editor-Tools.htm">Editor Tools</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Additional Features </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>There are many other features that you can incorporate into your projects, such as accessibility, context-sensitive Help, equations, scripts, and more. See <MadCap:xref href="../../../../Flare/Introduction/Features/Additional-Features.htm">Additional Features</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                </ul>
+                <p MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide">This guide focuses only on the elements that are particularly important for creating print-based output. For more information about the features not discussed in this guide, please refer to the online Help or one of the other PDF guides.</p>
+                <ul MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide">
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Cross-references" />Cross-References (and Other Links) </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <snippetText src="../Nav-Links/Navigation-Link-Summary1.flsnp" /> In <MadCap:variable name="Other.Product" />, you can create links such as cross-references, text hyperlinks, text popups, topic popups, image hyperlinks, togglers, and bookmarks. For print-based output, cross-references are especially important and are therefore discussed in this guide. <MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide">See <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/About-Cross-References.htm">About Cross-References</MadCap:xref>. For information about the other types of navigation links, see the online Help.</MadCap:conditionalText></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Footnotes;Endnotes" />Footnotes </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/Footnotes/Footnotes-Summary.flsnp" /> See <MadCap:xref href="../../../../Flare/Footnotes/About-Footnotes.htm">About Footnotes</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Glossaries" />Glossaries </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Glossaries/Glossary-Summary.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide"> To create a generated glossary in print output, you can let Flare auto-generate one for you (faster method), or you can create a unique topic and insert a Glossary proxy into it (more powerful and flexible method).</MadCap:conditionalText> See <MadCap:xref href="../../../../Flare/Glossaries/About-Glossaries.htm">About Glossaries</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Images" />Images </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/Images/Images-Summary.flsnp" />&#160;<MadCap:snippetText src="../../Shared/Co-Fl/Images/Images-Summary2.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Images/About-Images.htm">About Images</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Indexes" />Indexes </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Indexes/Index-Summary.flsnp" /> <MadCap:snippetText src="../Indexes/Index1.flsnp" /> See <MadCap:xref href="../../../../Flare/Indexes/About-Indexes.htm">About Indexes</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Snippets" />Snippets </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Snippets/Snippet-Summary2.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Snippets/About-Snippets.htm">About Snippets</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Tables" />Tables </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/Tables/Table-Summary1.flsnp" />
+                                <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Tables/About-Tables.htm">About Tables</MadCap:xref>.</MadCap:conditionalText>
+                            </MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Tables of contents" />Tables of Contents </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>For print-based output, a TOC file is actually used an outline, and it's required so that Flare knows which topics you want to include in the output. To create a generated TOC in print output, you can let Flare auto-generate one for you (faster method), or you can create a unique topic and insert a TOC proxy into it (more powerful and flexible method). See <MadCap:xref href="../../../../Flare/Output/Printed-Output/Auto-Generating-TOCs-Print.htm">Auto-generating TOCs for Print</MadCap:xref> and <MadCap:xref href="../../../../Flare/Output/Printed-Output/Creating-TOC-Manually-Print.htm">Creating a TOC for Print-based Output</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Text boxes" />Text Boxes </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody> <MadCap:snippetText src="../../Shared/Co-Fl/Text-Boxes/Text-Boxes-Summary.flsnp" /><MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Text-Boxes/About-Text-Boxes.htm">About Text Boxes</MadCap:xref>.</MadCap:conditionalText></MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Variables" />Variables </span>
+                        <MadCap:expanding>
+                            <MadCap:expandingHead MadCap:conditions="General.Online-Only">Read more… </MadCap:expandingHead>
+                            <MadCap:expandingBody>
+                                <MadCap:snippetText src="../Variables/Variables-Summary1.flsnp" />&#160;<MadCap:snippetText src="../Variables/Variables-Summary2.flsnp" /> See <MadCap:xref href="../../../../Flare/Variables/About-Variables.htm">About Variables</MadCap:xref>.</MadCap:expandingBody>
+                        </MadCap:expanding>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What's Next?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="General.Online-Only">After you add content and features to your project, you can then move on to the other basic steps:</p>
+                <ol>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Introduction/Steps/Design.htm">Design</MadCap:xref>
+                    </li>
+                    <li><a href="../../../../Flare/Targets/Develop-Targets.htm">Develop Targets</a>
+                    </li>
+                    <li><a href="../../../../Flare/Output/About-Building-Output.htm">Build and Publish Output</a>
+                    </li>
+                </ol>
+                <p MadCap:conditions="Products.Flare-Online-Only">
+                    <MadCap:snippetBlock src="../Projects/Note-Dont-Have-To-Follow-Steps-Order.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="3" MadCap:lastHeight="93" MadCap:lastWidth="1231">
+    <body>
+        <div class="warning">
+            <p class="importantInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #ff6b31;&quot; class=&quot;mcFormatColor&quot;&gt;Important: &lt;/span&gt;&lt;/b&gt;">Once you enable a language skin target, you should not disable it unless you do not plan to use it in your project. Disabling the language skin target removes any translated strings from your skin file. If you do not need to see a target in the editor, you should instead collapse the target.</p>
+        </div>
+    </body>
+</html>

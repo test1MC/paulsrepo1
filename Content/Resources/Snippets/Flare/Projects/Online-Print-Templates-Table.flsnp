@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table class="TableStyle-Basic-Alternate-Rows" style="mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');margin-left: 0;margin-right: auto;width: 100%;" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" MadCap:conditions="" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" colspan="2">
+                        <p class="TableTextHead">Template</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Characteristics</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" colspan="2">
+                        <p class="TableTextEmphasis">Side Navigation and PDF</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Flare/Side-Navigation-PDF.png" class="MaxWidth90Percent" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <ul>
+                            <li>
+                                <MadCap:snippetText src="Contains-Starter-Online-Print.flsnp" /> </li>
+                            <li>The online HTML5 output looks like a <span class="Emphasis">modern website with navigation on the side (left or right)</span>. <MadCap:snippetText src="Offers-Frameless-Alternative.flsnp" /> <MadCap:snippetText src="Includes-Responsive-Output.flsnp" /></li>
+                            <li>
+                                <MadCap:snippetText src="PDF-Output-User-Guide.flsnp" />
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" colspan="2">
+                        <p class="TableTextEmphasis">Top Navigation and PDF</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Flare/Top-Navigation-PDF.png" class="MaxWidth90Percent" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <ul>
+                            <li>
+                                <MadCap:snippetText src="Contains-Starter-Online-Print.flsnp" />
+                            </li>
+                            <li>The online HTML5 output looks like a <span class="Emphasis">modern website with navigation on the top</span>. <MadCap:snippetText src="Offers-Frameless-Alternative.flsnp" /> <MadCap:snippetText src="Includes-Responsive-Output.flsnp" /></li>
+                            <li> <MadCap:snippetText src="PDF-Output-User-Guide.flsnp" /></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows" colspan="2">
+                        <p class="TableTextEmphasis">Tripane and PDF</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Flare/Tripane-PDF.png" class="MaxWidth90Percent" alt="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <ul>
+                            <li>
+                                <MadCap:snippetText src="Contains-Starter-Online-Print.flsnp" />
+                            </li>
+                            <li>The online HTML5 output uses a traditional <span class="Emphasis">tripane format (navigation pane, toolbar pane, content pane)</span>. <MadCap:snippetText src="Includes-Responsive-Output.flsnp" /></li>
+                            <li> <MadCap:snippetText src="PDF-Output-User-Guide.flsnp" /></li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

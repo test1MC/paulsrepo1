@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html style="mc-master-page: url('..\..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Plugin-API.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterFeatures" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />INavContext Interface</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Banners/Information-Developers.flsnp" MadCap:conditions="General.Online-Only" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <p>An instance of INavContext is returned using the GetNavContext() method in the IHost interface (see <MadCap:xref href="IHost.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">IHost Interface</MadCap:xref>). INavContext gives access to the navigational user interface components of Flare.</p>
+        <MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Methods</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ul>
+                    <li><i>Form </i><span class="Emphasis">GetParentForm() </span>Returns the parent <a href="http://msdn.microsoft.com/en-us/library/system.windows.forms.form.aspx" target="_blank">System.Windows.Form</a>. To be used as a reference control for child windows.</li>
+                    <li><i>ICustomToolBar </i><span class="Emphasis">CreateCustomToolBar(string) </span>Creates an instance of ICustomToolBar. See <MadCap:xref href="ICustomToolBar.htm">ICustomToolBar Interface</MadCap:xref>.</li>
+                    <li><i>IToolStripMenuItem </i> <span class="Emphasis">CreateToolStripMenu(string, string) </span>Creates an instance of IToolStripMenuItem to be added to the Tool Strip menu. See <MadCap:xref href="IToolStripMenuItem.htm">IToolStripMenuItem Interface</MadCap:xref>.</li>
+                    <li><i>IRibbon </i><span class="Emphasis">GetRibbon() </span>Returns the current IRibbon object. See <MadCap:xref href="IRibbon.htm">IRibbon Interface</MadCap:xref>.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </body>
+</html>

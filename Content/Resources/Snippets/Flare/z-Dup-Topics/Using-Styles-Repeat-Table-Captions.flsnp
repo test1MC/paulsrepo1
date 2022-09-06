@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature-Supported/All-Print.flsnp" />
+        <p>
+            <MadCap:snippetText src="../Styles/Repeating-Table-Captions-Intro.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">example</p>
+                    <p>
+                        <img src="../../../Images/Shared/Co-Fl/table_caption_repeat_continuation1.png" class="MaxWidth70Percent" />
+                    </p>
+                    <p>
+                        <img src="../../../Images/Shared/Co-Fl/table_caption_repeat_continuation2.png" class="MaxWidth75Percent" />
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to use styles to repeat table captions in print output</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <MadCap:snippetBlock src="../Styles/Edit-Style1.flsnp" />
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Styles-Simplified-Button-Shown.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Filter-Table-Styles1.flsnp" />
+                    </li>
+                    <li>On the left side of the editor, select <span class="Emphasis">table</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Select-Show-Relevant-Properties1.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Styles-Toggle-Group-Alphabetical.flsnp" />
+                    </li>
+                    <li>If you are using the group view, expand the <span class="Emphasis">Table</span> group.</li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Locate-Select-Property1.flsnp" />
+                        </p>
+                        <p>You can select the following:</p>
+                        <ul type="1" class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">mc-caption-repeat</span> If you want captions to repeat on tables that span multiple pages in print-based output,  click <img src="../../../Images/Shared/Co-Fl/Browse-btn.png" alt="" title="" class="ReduceButtonSize" /> and select <span class="Emphasis">true</span>.</li>
+                            <li><span class="SetOffFirstLevel">mc-caption-continuation</span> You can click in the value field to the right of this property and enter continuation text for the end of captions that repeat (other than the caption appearing on the first page where a table occurs). Typically this text would be something like "(continued)."</li>
+                        </ul>
+                        <p>
+                            <img src="../../../Images/Flare/table_caption_repeat_continuation_style_adv.png" class="MaxWidth90Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In addition to using styles, you can enable these repeat/continuation features for a specific table by using the Insert Table dialog or the Table Properties dialog. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Tables/Inserting-Tables.htm" target="" title="" alt="">Inserting Tables into Topics</MadCap:xref> and <MadCap:xref href="../../../../Flare/Tables/Editing-Table-Properties.htm" target="" title="" alt="">Editing Table Properties</MadCap:xref>.</MadCap:conditionalText></p>
+                <p class="note" MadCap:conditions="General.Online-Only" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In addition to (or instead of) using styles in a regular stylesheet, you can also use custom table stylesheets to modify the look and feel of multiple tables at once. These table stylesheets let you easily and quickly create patterns and different looks for tables. See <MadCap:xref href="../../../../Flare/Styles/Editing-Table-Stylesheets.htm">Editing Styles in a Table Stylesheet</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+    </body>
+</html>

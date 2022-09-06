@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html style="mc-master-page: url('..\..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Plugin-API.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterFeatures" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Ribbon Example</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Banners/Information-Developers.flsnp" MadCap:conditions="General.Online-Only" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <p>To add a ribbon tab for your plug-in, you need to use the INavContext interface. See <MadCap:xref href="../Interfaces/INavContext.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">INavContext Interface</MadCap:xref>.</p>
+        <p>From it, you may call GetRibbon() to retrieve an IRibbon instance. With the IRibbon instance, you may add a new ribbon tab. </p>
+        <MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p>Here is an example using data binding to the IRibbonControlData/IRibbonMenuData interfaces. See <MadCap:xref href="../Interfaces/IRibbonControlData.htm">IRibbonControlData Interface</MadCap:xref> and <MadCap:xref href="../Interfaces/IRibbonMenuData.htm">IRibbonMenuData Interface</MadCap:xref>.</p>
+                    <p xml:space="preserve" class="CodeIndented"><span class="CodeGreen">private void </span>CreatePluginRibbon()
+            </p>
+                    <p xml:space="preserve" class="CodeIndented">{
+            </p>
+                    <p class="CodeIndented2"><span class="CodeBlue2">IRibbon </span>ribbon = mNavigationContext.GetRibbon();</p>
+                    <p class="CodeIndented2"><span class="CodeBlue2">IRibbonTab </span>tab = ribbon.AddNewRibbonTab(<span class="CodeOrange">"PluginTab"</span>, <span class="CodeOrange">"P"</span>);</p>
+                    <p class="CodeIndented2" MadCap:conditions="General.Online-Only"><span class="CodeBlue2">IRibbonGroup </span>group = tab.AddNewRibbonGroup(<span class="CodeOrange">"PluginGroup"</span>);</p>
+                    <p class="CodeIndented2" MadCap:conditions="General.Print-Only"><span class="CodeBlue2">IRibbonGroup </span>group = tab.AddNewRibbonGroup</p>
+                    <p class="CodeIndented2" MadCap:conditions="General.Print-Only">(<span class="CodeOrange">"PluginGroup"</span>);</p>
+                    <p class="CodeIndented2"><span class="CodeBlue2">Button </span>searchAndHighlightButton = group.AddRibbonButton(<span class="CodeBlue2">PluginViewModel</span>.SearchHighlight);</p>
+                    <p class="CodeIndented2" MadCap:conditions="General.Online-Only"><span class="CodeBlue2">IRibbonComboBox </span>comboMenu = group.AddRibbonCombobox(<span class="CodeBlue2">PluginViewModel</span>.Fonts);            </p>
+                    <p class="CodeIndented2" MadCap:conditions="General.Print-Only"><span class="CodeBlue2">IRibbonComboBox </span>comboMenu = group.AddRibbonCombobox</p>
+                    <p class="CodeIndented2" MadCap:conditions="General.Print-Only">(<span class="CodeBlue2">PluginViewModel</span>.Fonts);            </p>
+                    <p xml:space="preserve" class="CodeIndented">}
+            </p>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" />
+                    <p>Sample code for the PluginViewModel:</p>
+                    <p class="CodeIndented"><span class="CodeGreen">public static class</span><span class="CodePurple">PluginViewModel</span>
+                    </p>
+                    <p class="CodeIndented">{</p>
+                    <p class="CodeIndented2"><span class="CodeGreen">private static</span><span class="CodePurple">RibbonControlData </span>_searchHighlight;</p>
+                    <p class="CodeIndented2"><span class="CodeGreen">private static</span><span class="CodePurple">RibbonMenuData </span>_fonts;</p>
+                    <p class="CodeIndented2"><span class="CodeGreen">public static</span><span class="CodePurple">RibbonControlData </span>SearchHighlight</p>
+                    <p class="CodeIndented2">{</p>
+                    <p class="CodeIndented3"><span class="CodeGreen">get</span>
+                    </p>
+                    <p class="CodeIndented3">{</p>
+                    <p class="CodeIndented4"><span class="CodeGreen">if </span>(_searchHighlight == <span class="CodeGreen">null</span>)</p>
+                    <p class="CodeIndented4">{</p>
+                    <p class="CodeIndented5">_searchHighlight = <span class="CodeGreen">new </span><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5">{</p>
+                    <p class="CodeIndented6">Label = <span class="CodeOrange">"Search and Highlight"</span>,</p>
+                    <p class="CodeIndented6">Command = new <span class="CodePurple">ButtonCommand</span>(),</p>
+                    <p class="CodeIndented6">KeyTip = <span class="CodeOrange">"S"</span></p>
+                    <p class="CodeIndented5">};</p>
+                    <p class="CodeIndented4">}</p>
+                    <p class="CodeIndented4"><span class="CodeGreen">return </span>_searchHighlight;</p>
+                    <p class="CodeIndented3">}</p>
+                    <p class="CodeIndented2">}</p>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" />
+                    <p class="CodeIndented2"><span class="CodeGreen">public static</span><span class="CodePurple">RibbonMenuData </span>Fonts</p>
+                    <p class="CodeIndented2">{</p>
+                    <p class="CodeIndented3"><span class="CodeGreen">get</span>
+                    </p>
+                    <p class="CodeIndented3">{</p>
+                    <p class="CodeIndented4"><span class="CodeGreen">if </span>(_fonts == <span class="CodeGreen">null</span>)</p>
+                    <p class="CodeIndented4">{</p>
+                    <p class="CodeIndented5"><span class="CodePurple">BitmapImage </span>image = <span class="CodeGreen">new </span><span class="CodePurple">BitmapImage</span>(<span class="CodeGreen">new </span><span class="CodePurple">Uri</span>(<span class="CodeOrange" MadCap:conditions="General.Online-Only">"C:/TFS/Trunk/ObjectApplications/Debug/Flare.app/Plugins/NavigationPlugin/Icons/EditDocument.png"</span><span class="CodeOrange" MadCap:conditions="General.Print-Only" style="font-size: 10pt;">"C:/TFS/Trunk/ObjectApplications/Debug/Flare.app/ Plugins/NavigationPlugin/Icons/EditDocument.png"</span>));</p>
+                    <p class="CodeIndented5">_fonts = <span class="CodeGreen">new </span><span class="CodePurple">RibbonMenuData</span>()</p>
+                    <p class="CodeIndented5">{</p>
+                    <p class="CodeIndented6">Label = <span class="CodeOrange">"My Fonts"</span>,</p>
+                    <p class="CodeIndented6">LargeImage = image</p>
+                    <p class="CodeIndented5">};</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Online-Only">_fonts.ControlDataCollection.Add(<span class="CodeGreen">new </span><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only">_fonts.ControlDataCollection.Add(<span class="CodeGreen">new </span></p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only"><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5">{</p>
+                    <p class="CodeIndented6">Label = <span class="CodeOrange">"Arial"</span></p>
+                    <p class="CodeIndented5">});</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Online-Only">_fonts.ControlDataCollection.Add(<span class="CodeGreen">new </span><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only">_fonts.ControlDataCollection.Add(<span class="CodeGreen">new </span></p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only"><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5">{</p>
+                    <p class="CodeIndented6">Label = <span class="CodeOrange">"Helvetica"</span></p>
+                    <p class="CodeIndented5">});</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Online-Only">_fonts.ControlDataCollection.Add(<span class="CodeGreen">new </span><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only">_fonts.ControlDataCollection.Add(<span class="CodeGreen">new </span></p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only"><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5">{</p>
+                    <p class="CodeIndented6">Label = <span class="CodeOrange">"Times New Roman"</span></p>
+                    <p class="CodeIndented5">});</p>
+                    <p class="CodeIndented4">}</p>
+                    <p class="CodeIndented4"><span class="CodeGreen">return </span>_fonts;</p>
+                    <p class="CodeIndented3">}</p>
+                    <p class="CodeIndented2">}</p>
+                    <p class="CodeIndented">}</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The ribbon tab is only visible when the Flare interface is in “Ribbon” mode.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

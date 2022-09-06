@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Projects-Builds-Guide.pdf" target="_blank"><img src="../../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" MadCap:conditions="Snippets.Snippet1" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p class="Bold">Review Workflow</p>
+                <ol>
+                    <li><b>Author—</b>In Central, open the <b>Users</b> page and invite the reviewer to Central.</li>
+                    <li><b>Reviewer—</b>Click the link in the email to accept the invitation and set a password.</li>
+                    <li><b>Author—</b>In Flare, select <b>Review &gt; Send For Review</b>, add files, choose reviewer(s), and click <b>Send</b>.</li>
+                    <li><b>Reviewer—</b>Click the link in the email to open the pending files in Central. Then edit and/or annotate each one.</li>
+                    <li><b>Reviewer—</b>In Central, open the Reviews page, edit/annotate the file, and click <b>Submit</b>.</li>
+                    <li><b>Author—</b>After all reviewers are done, open Flare. Select <b>Review &gt; File Reviews</b>, and set the reviewed files to "Close."</li>
+                    <li><b>Author—</b>In Flare, accept and/or reject the reviewer's changes in the editor.</li>
+                    <li><b>Author—</b>In the toolbar in Flare, click the <b>Accept</b> button.</li>
+                </ol>
+                <p MadCap:conditions="Products.Central" class="Micro-Content"><a href="../../../../../Central/Projects/Reviews/About-Reviews.htm">More Details…</a>
+                </p>
+                <p MadCap:conditions="Products.Flare" class="Micro-Content"><a href="../../../../../Flare/Reviews-Contributions/Central/About-Central-Review-Process.htm">More Details…</a>
+                </p>
+            </div>
+            <div>
+                <div class="video" MadCap:conditions="Products.Central-Online-Only">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=w21fUJhQhwU" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO (Author Perspective)</a>
+                    </p>
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=s9bL0qCNdYw" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO (SME Perspective)</a>
+                    </p>
+                    <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/central/#ProjectsBuilds" target="_blank">View More Videos in This Series</a>
+                    </p>
+                </div>
+                <div class="video" MadCap:conditions="Products.Flare-Server-Only">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=P5hlldvso3k" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                </div>
+                <p style="text-align: center;" MadCap:conditions="Products.Flare-Local-Only">
+                    <img src="../../../../Images/Shared/Ce-Fl/Central-Flare-Reviews-Workflow1.png" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

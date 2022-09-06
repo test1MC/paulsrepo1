@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Users-Teams-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p class="Micro-Content"><span class="Emphasis">Teams </span>
+                    <MadCap:snippetText src="../Teams/Opening-Teams-Page.flsnp" /> <a href="../../../../Central/Teams/About-Teams.htm">More Details…</a></p>
+                <p class="Bold">Activities</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Central/Teams/Creating-Teams.htm">Creating Teams</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Central/Teams/Editing-Teams.htm">Editing Teams</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Central/Teams/Deleting-Teams.htm">Deleting Teams</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <div class="video">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=c3vZMiu7isI" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                </div>
+                <p style="text-align: center;" MadCap:conditions="General.Future">
+                    <img src="../../../Images/Central/teams2.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

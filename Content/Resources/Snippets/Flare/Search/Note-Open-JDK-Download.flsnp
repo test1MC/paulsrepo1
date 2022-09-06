@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Effective January 2019, Oracle charges license fees to use their Java Development Kit (JDK). Therefore, we also provide support for a free alternative to Oracle's JDK. This alternative—Open JDK—can be used to support Elasticsearch on both local and remote servers made through the Content Services Portal. Both the Oracle and the Open JDK versions are available on <a href="https://www.madcapsoftware.com/downloads/java.aspx" target="_blank">https://www.madcapsoftware.com/downloads/java.aspx</a>.</p>
+    </body>
+</html>

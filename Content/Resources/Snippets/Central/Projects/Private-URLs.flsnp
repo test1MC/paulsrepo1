@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>In addition to your live URL, a private URL is also generated and provided to you. This occurs for each build, whether it is set to “Live” or “Keep,” or neither. This URL is useful for easily sharing generated output with individuals in your organization (e.g., for reviews and knowledge transfer). Only people who are registered on your Central license can access this URL.</p>
+    </body>
+</html>

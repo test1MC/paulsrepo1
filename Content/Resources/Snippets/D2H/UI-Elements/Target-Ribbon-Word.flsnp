@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>Targets can be added, built, and published within this ribbon. </p>
+        <p>The Active Target for your Doc-To-Help project can be set to any target that you have already created in your project. The Target Properties button lets you add, edit or delete any targets. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../D2H/Output/Editing-Target-Settings.htm">Editing Target Settings</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>The targets can be built ad-hoc or by scheduling a build. You can also Rebuild your target or schedule your target to be rebuilt. The build of the active target can be viewed, or you can cancel an ongoing build. Once the target has been built, you can view the Build Log, or Publish to SharePoint. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../D2H/Output/Building-Target.htm">Building Targets</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>The default themes of your targets can be modified. You can also add a new theme using the Wizard or Designer. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../D2H/Themes/About-Themes.htm">About Themes</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>Your Templates are also managed in this ribbon. Use the Target Template button to change your default template of your project. You can also Add, Edit, or Remove templates. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../D2H/Templates/About-Templates-Styles-D2H.htm">About Templates and Styles</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:pageBreak MadCap:conditions="D2H-Guides.D2H-Whats-New-Guide" />
+        <p>The following functions can be performed on the Target ribbon:</p>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 30%;" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 70%;" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Icon</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <img src="../../../Images/D2H/Active-Target-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Select the current target for your Doc-To-Help project.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <img src="../../../Images/D2H/Target-Properties-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Modify the settings of your active target.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <img src="../../../Images/D2H/Build-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Build the currently selected active target. If you click the drop-down arrow, you can also schedule a build for your active target.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <img src="../../../Images/D2H/Rebuild-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Rebuild your target. Similar to the Build button, you can also schedule a Rebuild for your target.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <img src="../../../Images/D2H/CancelBuild-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Cancel an ongoing build.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <img src="../../../Images/D2H/ViewPDF-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">View the PDF of your output if you have a printed manual target.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <img src="../../../Images/D2H/Publish-SharePoint-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Publish your output to a SharePoint repository.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <img src="../../../Images/D2H/BuildLog-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">View the log file of the most recent build. You can also click this button to hide the window pane for the build log.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p>
+                            <img src="../../../Images/D2H/TargetTheme-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Select a theme for your active target.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p>
+                            <img src="../../../Images/D2H/AddNew-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Add a new theme for your target.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p>
+                            <img src="../../../Images/D2H/Wizard-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Launch the Theme Wizard to walk you through creating a new theme.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p>
+                            <img src="../../../Images/D2H/Designer-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Open the Theme Designer so you can customize your theme.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p>
+                            <img src="../../../Images/D2H/TargetTemplate-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Select the template for your output.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p>
+                            <img src="../../../Images/D2H/Add-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Add a new template for your target.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p>
+                            <img src="../../../Images/D2H/Edit-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Edit the existing template selected for your target.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p>
+                            <img src="../../../Images/D2H/Remove-btn-Target-ribbon-Word.png" class="MaxWidth100Percent" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <p class="TableText">Remove the existing template.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

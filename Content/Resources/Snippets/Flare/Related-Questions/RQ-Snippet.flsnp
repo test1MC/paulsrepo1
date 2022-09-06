@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareSnippetsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">Snippet </span>
+                    <MadCap:snippetText src="../Snippets/Snippet-Definition.flsnp" /> <a href="../../../../Flare/Snippets/About-Snippets.htm">More Details…</a></p>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">Why use snippets?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Snippets/Snippet-Benefits.flsnp" />&#160;</p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are text and block snippets?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Snippets/Text-Block-Snippets1.flsnp" />&#160;</p>
+                            <ul>
+                                <li><span class="SetOffFirstLevel">Text Snippets </span>
+                                    <MadCap:snippetText src="../Snippets/Text-Snippet.flsnp" />
+                                </li>
+                                <li><span class="SetOffFirstLevel">Block Snippets </span>
+                                    <MadCap:snippetText src="../Snippets/Block-Snippet.flsnp" />
+                                </li>
+                            </ul>
+                            <p>
+                                <MadCap:snippetText src="../Snippets/Text-Block-Snippets2.flsnp" />
+                            </p>
+                            <p>
+                                <img src="../../../Images/Flare/snippet_examples.png" class="MaxWidth100Percent" />
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are snippet conditions?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Snippets/Snippet-Conditions-Summary.flsnp" />&#160;<a href="../../../../Flare/Snippets/Using-Snippet-Conditions.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the most common tasks involving snippets?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Snippets/Adding-New-Snippets.htm">Adding New Snippets</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Snippets/Creating-New-Snippets-from-Content.htm">Creating New Snippets from Existing Content</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Snippets/Editing-Snippets.htm">Editing Snippets</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Snippets/Inserting-Snippets.htm">Inserting Snippets into Topics</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Snippets/Opening-Snippets.htm">Opening Snippets</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Snippets/Using-Snippet-Conditions.htm">Using Snippet Conditions</MadCap:xref>
+                                </li>
+                            </ul>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Snippet.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

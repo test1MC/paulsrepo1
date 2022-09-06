@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="1196" MadCap:lastWidth="1511">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>A Doc-To-Help project can be opened directly in Word. When you click the File menu in Word, the Doc-To-Help menu is now available. This is the initial menu for Doc-To-Help that will display when you create a new project or open an existing project.</p>
+        <p MadCap:conditions="General.Online-Only">
+            <img src="../../../Images/D2H/D2H_menu_in_Word2.png" class="MaxWidth100Percent" />
+        </p>
+        <p MadCap:conditions="General.Online-Only">There are three categories of the Doc-To-Help menu:</p>
+        <ul MadCap:conditions="General.Online-Only">
+            <li><span class="SetOffFirstLevel">Getting Started</span> This contains the Open/Create and Help submenus.</li>
+            <li><span class="SetOffFirstLevel">Project </span>This section will display once you have a Doc-To-Help project open. This section contains the Common Tasks and Reports submenus .</li>
+            <li><span class="SetOffFirstLevel">Team Authoring</span> This submenu provides options for your shared Doc-To-Help project.</li>
+        </ul>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="D2H-Guides.D2H-Whats-New-Guide,D2H-Guides.D2H-Touring-Workspace-Guide" />
+        <MadCap:pageBreak MadCap:conditions="D2H-Guides.D2H-Whats-New-Guide,D2H-Guides.D2H-Touring-Workspace-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Getting Started</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Getting Started</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The Getting Started submenu lets you do one of the following when you select the Open/Create section:</p>
+                <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 20%;" />
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 80%;" />
+                    <thead>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" style="text-align: center;">Function</th>
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/Open_Project_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Opens an existing Doc-To-Help project in Word.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/New_Project_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Opens the wizard to create a new Doc-To-Help project. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/Open_Sample_Project_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                                <p class="TableText">Opens a sample Doc-To-Help project in Word. This may be helpful to review the structure of an existing project before creating your own project.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="D2H-Guides.D2H-Whats-New-Guide" />
+    </body>
+</html>

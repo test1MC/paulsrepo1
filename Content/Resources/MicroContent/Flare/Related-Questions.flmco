@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set.">
+    <MicroContent>
+        <MicroContentPhrase>styles</MicroContentPhrase>
+        <MicroContentPhrase>css</MicroContentPhrase>
+        <MicroContentPhrase>style class</MicroContentPhrase>
+        <MicroContentPhrase>style sheets</MicroContentPhrase>
+        <MicroContentPhrase>stylesheets</MicroContentPhrase>
+        <MicroContentPhrase>table styles</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-Styles.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>medium</MicroContentPhrase>
+        <MicroContentPhrase>stylesheet medium</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-Mediums.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>media query</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-Media-Queries.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>output</MicroContentPhrase>
+        <MicroContentPhrase>online output</MicroContentPhrase>
+        <MicroContentPhrase>print output</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-Output.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>side navigation</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-Side-Navigation.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>top navigation</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-Top-Navigation.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>snippet</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-Snippet.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>toc</MicroContentPhrase>
+        <MicroContentPhrase>master toc</MicroContentPhrase>
+        <MicroContentPhrase>table of contents</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-TOC.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>topics</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-Topics.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>xml editor</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Related-Questions/RQ-XML-Editor.flsnp" />
+    </MicroContent>
+</MicroContentSet>

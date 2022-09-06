@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ol>
+            <li MadCap:conditions="Products.Contributor,Products.Flare">
+                <MadCap:snippetText src="../../../Contributor/Documents/Open-Document-Topic.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../../Co-Fl-Li/Topics/Open-Content-File.flsnp" MadCap:conditions="Products.Flare" />
+            </li>
+            <li>Place your cursor where you want to insert the character or symbol. </li>
+            <li>
+                <MadCap:snippetText src="../../All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                <ul class="FirstLevel">
+                    <li><span class="SetOffFirstLevel">Ribbon </span>
+                        <MadCap:snippetText src="../../All/UI-Elements/Select-Insert-Ribbon.flsnp" /> In the <span class="Emphasis">Symbols</span> section, click the down arrow on the <span class="Emphasis">Character</span> button and choose a character or symbol listed under <span class="Emphasis">Recently Used</span>.</li>
+                    <li><span class="SetOffFirstLevel">Local Toolbar</span> In the local toolbar of the XML Editor, click the  down arrow next to the <span class="Emphasis">Character</span> button   <img src="../../../../Images/Shared/Co-Fl-Li/quick_character_btn.png" class="ReduceButtonSize" /> and select a character or symbol listed under <span class="Emphasis">Recently Used</span>.</li>
+                </ul>
+            </li>
+            <li>
+                <MadCap:snippetText src="../../All/Steps-General/Save-File.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example—Not Structuring Your TOC</p>
+            <p>Say that we have designated Knowledge Base as our default category, and FAQ as our default section. But we have decided not to structure the TOC in our destination file.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-destination-TOC-undefined.png" class="MaxWidth100Percent" />
+            </p>
+            <p>This is what our TOC looks like prior to publishing:</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-TOC-Not-Structured.png" />
+            </p>
+            <p>When we publish our Zendesk output, these topics are published as articles in the default category and section. But notice that these articles are published on the same level in the FAQ section, and do not mimic the nested levels that were used in the TOC. When the <b>Use TOC to define</b> option is unchecked in the destination file, the topics are always published as articles on the same level in the default category and section.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-published-TOC-not-structured.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

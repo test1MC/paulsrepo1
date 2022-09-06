@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p><span class="Emphasis">MadCap Connect for Zendesk</span> Use this if you want to publish your output to Zendesk. <MadCap:conditionalText MadCap:conditions="Products.Flare-Online-Only">See <MadCap:xref href="../../../../Flare/Output/Zendesk/About-Zendesk.htm">About Zendesk</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

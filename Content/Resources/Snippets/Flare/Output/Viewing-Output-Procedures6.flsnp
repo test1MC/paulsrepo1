@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>Open a browser window.</li>
+            <li>
+                <p>In the address field, type the following:</p>
+                <p><span class="TypedEntry">http://localhost/MCPreview/[Name of Main Entry File].htm</span>
+                </p>
+                <p>For example: http://localhost/MCPreview/Default.htm</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The above address pertains to <MadCap:keyword term="Microsoft Windows Server 2003" />Windows Server 2003. </p>
+            </li>
+            <li>Press <span class="Emphasis">Enter</span>.</li>
+        </ol>
+    </body>
+</html>

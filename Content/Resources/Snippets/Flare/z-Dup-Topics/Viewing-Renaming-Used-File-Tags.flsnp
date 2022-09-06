@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Analysis/Used-File-Tags-Summary.flsnp" />
+        </p>
+        <p>
+            <img src="../../../Images/Flare/used_file_tags_example.png" class="MaxWidth75Percent" />
+        </p>
+        <p>
+            <MadCap:snippetText src="../File-Tags/More-Info-About-File-Tags.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view used file tags</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a project. </li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../UI-Elements/Select-Analysis-Ribbon.flsnp" /> In the <span class="Emphasis">Dynamic Reports</span> section, select <span class="Emphasis">Used Items &gt; Used File Tags</span>.</p>
+                        <p>The Used File Tags window pane opens, listing all of the file tags used throughout the project.</p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Analysis-Guide" />
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Drag-Divider-See-More.flsnp" />
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">File Tag </span>
+                                <MadCap:snippetText src="../Analysis/File-Tag-Column.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Type</span> Displays the type of file tag (e.g., Status, Author). It also indicates if a file tag is undefined. In that case, use the Undefined File Tags window pane to fix the problem.</li>
+                            <li><span class="SetOffFirstLevel">File </span>
+                                <MadCap:snippetText src="../UI-Elements/File-Description.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Title </span>
+                                <MadCap:snippetText src="../UI-Elements/Title-Option.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Folder </span>
+                                <MadCap:snippetText src="../UI-Elements/Folder-Option.flsnp" />
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Fl-Li/UI-Elements/Page-Nav-Buttons.flsnp" />
+                    </li>
+                    <li>You can open any file in the list to view or modify it in an editor. <MadCap:snippetText src="../UI-Elements/Double-Click-Right-Click-Open.flsnp" /></li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to rename file tag occurrences</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Analysis/Rename-File-Tag-Steps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

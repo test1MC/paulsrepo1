@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" style="mc-master-page: url('../../../Resources/MasterPages/Flare/PDF-Topics/Flare-Styles.flmsp');">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterDesign" />
+            <MadCap:keyword term="Styles;Styles:stylesheets" />
+            <MadCap:keyword term="Cascading stylesheets" />
+            <MadCap:concept term="FilterFeatures" />Cascading</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Styles/Cascading-Summary.flsnp" />
+        <p>However, it is possible, even likely, that you will have conflicting style settings at times (e.g., one style says “red” while another says “blue”). Therefore, certain rules about importance, origin, specificity, etc. dictate which style “wins” in the end.</p>
+        <p>Our purpose here is not to provide an exhaustive explanation of cascading. You can refer to many sources on the Internet for that level of knowledge. But let’s go over some basics.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Importance</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The following syntax is used in CSS to make sure that a particular style setting always wins over other conflicting settings:</p>
+                <p class="CodeIndented">!important</p>
+                <p>For example:</p>
+                <p class="CodeIndented">padding: 10px !important;</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Origin</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Next, consider the origin of the style settings. Precedence is given to settings in this order:</p>
+                <ol>
+                    <li>Custom stylesheets in Flare projects</li>
+                    <li>Factory stylesheets (located where Flare was installed)</li>
+                    <li>Browser settings</li>
+                </ol>
+                <p MadCap:conditions="">For example, if the browser setting says a particular style should be 12 pixels, a factory stylesheet says 14 pixels, and your custom stylesheet says 16 pixels, the content will end up being 16 pixels, because that stylesheet carries the most weight.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Styles-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Ways to Apply CSS</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="">Now consider how styles or stylesheets are applied to a particular content file. In Flare, you are most likely to link your content files to a custom external stylesheet (usually located in the Resources folder in the Content Explorer). However, CSS also lets you embed stylesheets in HTML documents, or set styles inline. Here is the order of precedence:</p>
+                <ol>
+                    <li>Inline</li>
+                    <li>Embedded</li>
+                    <li>Linked external stylesheets</li>
+                </ol>
+                <p MadCap:conditions="">For example, what if you use the inline method to set paragraphs to green, but then you use the linked external stylesheet method to set paragraphs to blue? Inline has precedence over embedded styles, and embedded styles have precedence over external stylesheets. So in this case, the paragraphs will be green.</p>
+                <p MadCap:conditions="">Therefore, if you make changes in your custom stylesheet in Flare and notice that the look is not being changed, you might check to see if an inline or embedded style setting is overriding it.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Specificity</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p MadCap:conditions="">Also, consider the specificity of selectors in a stylesheet. Here is the basic order of precedence:</p>
+                <ol>
+                    <li>Style attribute</li>
+                    <li>IDs <MadCap:conditionalText MadCap:conditions="General.Online-Only">(see <MadCap:xref href="Important-Style-Terms-Concepts.htm#Identifiers">Identifiers</MadCap:xref>)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Print-Only">(see <MadCap:xref href="Important-Style-Terms-Concepts.htm#IdentifiersPrint">Identifiers</MadCap:xref>)</MadCap:conditionalText></li>
+                    <li>Classes <MadCap:conditionalText MadCap:conditions="General.Online-Only">(see <MadCap:xref href="Important-Style-Terms-Concepts.htm#classes">Classes</MadCap:xref>)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Print-Only">(see <MadCap:xref href="Important-Style-Terms-Concepts.htm#classesPrint">Classes</MadCap:xref>)</MadCap:conditionalText></li>
+                    <li>Type (element) selectors <MadCap:conditionalText MadCap:conditions="General.Online-Only">(see <MadCap:xref href="Important-Style-Terms-Concepts.htm#Selectors">Selectors</MadCap:xref>)</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="General.Print-Only">(see <MadCap:xref href="Important-Style-Terms-Concepts.htm#SelectorsPrint">Selectors</MadCap:xref>)</MadCap:conditionalText></li>
+                </ol>
+                <p>Attributes set on an HTML tag are the most specific. IDs are more specific than classes, which are more specific than element selectors. Therefore, a style attribute will win if there is a conflict because it has the most specificity.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Source Order</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Another important factor is that of the order of appearance. If the same level of specificity happens to occur, the rule that appears last in the stylesheet order of the HTML document wins.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Inheritance</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>And finally, keep in mind that inheritance also plays a role in how the content will eventually look in the output. See <MadCap:xref href="Inheritance.htm">Inheritance</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

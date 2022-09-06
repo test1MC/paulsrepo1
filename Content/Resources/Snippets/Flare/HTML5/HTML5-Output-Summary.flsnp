@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <MadCap:snippetBlock src="HTML5-Definition.flsnp" />
+        <p>The <MadCap:variable name="Outputs.HTML5" /> output consists of a collection of files that you will distribute to users. The output will be displayed in the user's Internet browser window. The main entry file has <MadCap:keyword term="HTM" />an .htm extension.</p>
+        <p MadCap:conditions="General.Online-Only">Flare's online Help was created with <MadCap:variable name="Outputs.HTML5" />.</p>
+    </body>
+</html>

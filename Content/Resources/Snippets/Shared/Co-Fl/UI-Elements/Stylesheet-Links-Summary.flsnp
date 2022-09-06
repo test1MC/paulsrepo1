@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="88" MadCap:lastWidth="1198">
+    <head>
+    </head>
+    <body>
+        <p class="TableText">Opens the Stylesheet Links dialog, which lets you apply one or more stylesheets to the active content file. <MadCap:conditionalText MadCap:conditions="Products.Flare">See <MadCap:xref href="../../../../../Flare/Styles/Associating-Stylesheets-with-Specific-Files.htm">Associating Stylesheets Locally with Specific Files</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Products.Contributor">See <MadCap:xref href="../../../../../Contributor/Styles/Associating-Stylesheets-with-Specific-Files.htm">Associating Stylesheets Locally with Specific Files</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

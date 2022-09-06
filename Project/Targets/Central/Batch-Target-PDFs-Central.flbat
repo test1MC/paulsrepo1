@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Align/Align-Local"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Align/Align11-Server"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/Capture-Creating-Images-Guide"
+      Type="PDF"
+      LastPublished="2018-02-21T16:43:30.9198637-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/Capture-Editing-Images-Guide"
+      Type="PDF"
+      LastPublished="2018-02-21T17:13:36.7609655-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/Capture-Getting-Started-Guide"
+      Type="PDF"
+      LastPublished="2018-02-21T16:43:58.5136236-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/Capture-Key-Features-Guide"
+      Type="PDF"
+      LastPublished="2018-02-21T16:44:23.1166662-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/Capture-Shortcuts"
+      Type="PDF"
+      LastPublished="2018-02-23T07:48:11.5241468-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/Capture-Local"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/Capture7-1-Server"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/Capture-Touring-Workspace-Guide"
+      Type="PDF"
+      LastPublished="2018-02-21T16:44:52.5549267-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Capture/Capture-Whats-New-Guide"
+      Type="PDF"
+      LastPublished="2018-02-24T08:17:23.6671803-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Central/Central-Getting-Started-Guide"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-30T14:51:51.3205973-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Central/Central-Projects-Builds-Guide"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-30T14:52:26.8086375-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Central/Central-Security-Whitepaper"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-30T14:52:04.7685232-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Central/Central-Server-Mgmt-Purchasing-Guide"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-30T14:52:22.5125530-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Central/Central-Slack-Set-Up"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Central/Central-Tasks-Guide"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-30T14:52:41.6214014-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Central/Central-Top-Nav-Server"
+      Type="HTML5"
+      LastBuilt="2018-05-30T14:36:46.5386857-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Central/Central-Users-Teams-Guide"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-30T14:52:46.0011223-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Central/Central-Widgets-Guide"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-30T14:53:00.3045444-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/Contributor-Contribution-Workflow-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/Contributor-Getting-Started-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/Contributor-Review-Workflow-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/Contributor-Shortcuts"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/Contributor-Local"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/Contributor9-Server"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Contributor/Contributor-Whats-New-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-CSH-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T13:53:10.8185739-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Documents-Templates-Content-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T13:53:16.3967159-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Getting-Started-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T13:52:31.6601348-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H6-Local"
+      Type="HTML Help" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Design-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T13:52:45.2165700-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Project-Management-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T13:52:01.4534567-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Getting-Started-Tutorial"
+      Type="PDF"
+      LastPublished="2018-02-22T13:51:57.7500531-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Shortcuts"
+      Type="PDF"
+      LastPublished="2018-02-23T07:50:40.4821826-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Targets-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T13:51:04.5026011-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H6-Server"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Touring-Workspace-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T13:50:51.6238637-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Upgrading-Old-Projects-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T13:50:18.6430940-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="D2H/D2H-Whats-New-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T13:49:03.6899285-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat-Sheets/Flare-Folders-Files-Cheat-Sheet"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:52:40.6675490-07:00"
+      LastPublished="2018-05-17T10:52:41.3917078-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat-Sheets/Flare-Print-Output-Cheat-Sheet"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:52:36.5166524-07:00"
+      LastPublished="2018-05-17T10:52:37.2286725-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat-Sheets/Flare-Shortcuts-Cheat-Sheet"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:52:49.0909707-07:00"
+      LastPublished="2018-05-17T10:52:49.7971633-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat-Sheets/Flare-Structure-Bars-Cheat-Sheet"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:52:50.9799007-07:00"
+      LastPublished="2018-05-17T10:52:51.8489838-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Cheat-Sheets/Flare-Styles-Cheat-Sheet"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:52:59.2207951-07:00"
+      LastPublished="2018-05-17T10:52:59.8924784-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Online/Content-Services-Portal"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Online/Flare-Top-Nav-Local"
+      Type="HTML5"
+      LastBuilt="2018-05-23T11:06:50.6459953-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Online/Flare-Top-Nav-Server-2019"
+      Type="HTML5"
+      LastBuilt="2018-05-28T21:50:37.0068527-07:00"
+      LastPublished="2018-05-16T09:16:24.0058863-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Tutorials/Flare-Product-Foldout-Tutorial"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:53:35.7286656-07:00"
+      LastPublished="2018-05-17T10:53:36.4771522-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Tutorials/Flare-Getting-Started-Tutorial"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:53:27.6969691-07:00"
+      LastPublished="2018-05-17T10:53:28.4632553-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Tutorials/Flare-Side-Nav-Tutorial"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:54:08.8505137-07:00"
+      LastPublished="2018-05-17T10:54:09.5656058-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/Tutorials/Flare-Top-Nav-Tutorial"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:54:25.7749470-07:00"
+      LastPublished="2018-05-17T10:54:26.5246141-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Accessibility-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:54:44.5643674-07:00"
+      LastPublished="2018-05-17T10:54:45.2624772-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Analysis-Reports-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:55:20.1955578-07:00"
+      LastPublished="2018-05-17T10:55:20.9132666-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Autonumbers-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:55:15.8250357-07:00"
+      LastPublished="2018-05-17T10:55:16.5043157-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Condition-Tags-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:55:51.5934633-07:00"
+      LastPublished="2018-05-17T10:55:52.2358308-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-CSH-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:55:47.1567607-07:00"
+      LastPublished="2018-05-17T10:55:47.8536349-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Eclipse-Help-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:56:14.6200820-07:00"
+      LastPublished="2018-05-17T10:56:15.3008583-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Getting-Started-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:56:37.1060801-07:00"
+      LastPublished="2018-05-17T10:56:37.8521186-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-GPL-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:56:54.0482869-07:00"
+      LastPublished="2018-05-17T10:56:54.8337485-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-HTML5-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:58:42.2875819-07:00"
+      LastPublished="2018-05-17T10:58:43.0522155-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-HTML-Help-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:57:43.6484296-07:00"
+      LastPublished="2018-05-17T10:57:44.4480387-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Images-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:58:32.2409379-07:00"
+      LastPublished="2018-05-17T10:58:32.9735432-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Import-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:59:05.0623199-07:00"
+      LastPublished="2018-05-17T10:59:05.7974622-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Index-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:59:13.7279917-07:00"
+      LastPublished="2018-05-17T10:59:14.4747741-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Key-Features-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:59:27.8767425-07:00"
+      LastPublished="2018-05-17T10:59:28.8065018-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Language-Support-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T10:59:38.9994788-07:00"
+      LastPublished="2018-05-17T10:59:39.6807336-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-MadCap-Central-Integration-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:00:00.0792543-07:00"
+      LastPublished="2018-05-17T11:00:01.2320883-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Movies-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:00:05.0452495-07:00"
+      LastPublished="2018-05-17T11:00:05.8002108-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Navigation-Links-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:01:19.3939316-07:00"
+      LastPublished="2018-05-17T11:01:20.1712522-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Printed-Output-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:03:08.1950097-07:00"
+      LastPublished="2018-05-17T11:03:08.9548616-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Project-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:02:00.1417260-07:00"
+      LastPublished="2018-05-17T11:02:01.2005855-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Pulse-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:03:40.4523029-07:00"
+      LastPublished="2018-05-17T11:03:41.5010982-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-QR-Codes-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:03:34.5682512-07:00"
+      LastPublished="2018-05-17T11:03:35.4042453-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Review-Packages-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:04:04.3884465-07:00"
+      LastPublished="2018-05-17T11:04:05.0709521-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Search-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:04:48.6997955-07:00"
+      LastPublished="2018-05-17T11:04:49.4633314-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-SharePoint-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:04:21.2581126-07:00"
+      LastPublished="2018-05-17T11:04:21.9452874-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Skins-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:06:18.7325808-07:00"
+      LastPublished="2018-05-17T11:06:19.6230399-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Snippets-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:05:12.3362288-07:00"
+      LastPublished="2018-05-17T11:05:13.0741890-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Source-Control-Guide-Git"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:05:38.4176697-07:00"
+      LastPublished="2018-05-17T11:05:39.2965376-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Source-Control-Guide-Perforce"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:06:02.4827342-07:00"
+      LastPublished="2018-05-17T11:06:03.1907550-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Source-Control-Guide-Subversion"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:06:26.4028505-07:00"
+      LastPublished="2018-05-17T11:06:27.1234999-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Source-Control-Guide-TFS"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:06:45.6403944-07:00"
+      LastPublished="2018-05-17T11:06:46.3925447-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Styles-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:11:19.8530769-07:00"
+      LastPublished="2018-05-17T11:11:20.7398046-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Tables-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:07:32.9194178-07:00"
+      LastPublished="2018-05-17T11:07:33.6238607-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Targets-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:09:27.0962897-07:00"
+      LastPublished="2018-05-17T11:09:27.8388174-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Templates-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:09:44.8837610-07:00"
+      LastPublished="2018-05-17T11:09:45.5969613-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-TOC-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:10:28.2041061-07:00"
+      LastPublished="2018-05-17T11:10:29.0349339-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Topics-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:11:21.9532191-07:00"
+      LastPublished="2018-05-17T11:11:22.7065868-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Touring-Workspace-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:12:09.5791155-07:00"
+      LastPublished="2018-05-17T11:12:10.3344134-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Transition-from-FM-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:11:45.9378517-07:00"
+      LastPublished="2018-05-17T11:11:46.6595277-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Variables-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:12:13.7991295-07:00"
+      LastPublished="2018-05-17T11:12:14.5493537-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Flare/User-Guides/Flare-Whats-New-Guide"
+      Type="PDF"
+      LastBuilt="2018-05-17T11:12:55.2645947-07:00"
+      LastPublished="2018-05-17T11:12:56.1143137-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Alignment-Guide"
+      Type="PDF"
+      LastPublished="2018-02-23T07:54:47.8966047-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Getting-Started-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T20:41:35.5098112-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Key-Features-Guide"
+      Type="PDF"
+      LastPublished="2018-02-22T20:18:35.5505542-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Shortcuts"
+      Type="PDF"
+      LastPublished="2018-02-23T07:35:00.0450903-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Source-Control-Guide-Git"
+      Type="PDF"
+      LastPublished="2018-02-23T10:51:00.2121701-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Source-Control-Guide-Perforce"
+      Type="PDF"
+      LastPublished="2018-02-23T10:26:17.8627696-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Source-Control-Guide-Subversion"
+      Type="PDF"
+      LastPublished="2018-02-23T10:10:50.0792865-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Source-Control-Guide-TFS"
+      Type="PDF"
+      LastPublished="2018-02-23T10:04:41.7002138-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Termbase-Guide"
+      Type="PDF"
+      LastPublished="2018-02-23T09:27:36.8329818-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Local"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo11-Server"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Touring-Workspace-Guide"
+      Type="PDF"
+      LastPublished="2018-02-23T09:36:02.6911761-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Translation-Guide"
+      Type="PDF"
+      LastPublished="2018-02-23T14:39:49.1716646-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Lingo/Lingo-Whats-New-Guide"
+      Type="PDF"
+      LastPublished="2018-02-23T10:54:07.7008640-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic-Getting-Started-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic-Key-Features-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic-Movie-Creation-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic-Movie-Editing-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic-Movie-Generation-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic-Shortcuts"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic-Local"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic8-2-Server"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic-Touring-Workspace-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Mimic/Mimic-Whats-New-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/Pulse-Dashboard-Admin-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/Pulse-Server-2008-Installation-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/Pulse-Server-2008R2-Installation-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/Pulse-Server-2012-Installation-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/Pulse-Top-Nav-Local"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/Pulse-Top-Nav-Server"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/Pulse-Upgrading-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/Pulse-User-Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Pulse/Pulse-Whats-New-Guide"
+      Type="PDF" />
+  </Targets>
+</CatapultBatchTarget>

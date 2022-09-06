@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p>
+            <MadCap:snippetText src="../../Shared/Co-Fl/Topics/Zoom-Scale.flsnp" /> <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Topics/About-Layout-Modes.htm">About Layout Modes</MadCap:xref>.</MadCap:conditionalText></p>
+        <h2 MadCap:conditions="General.Print-Only">Web Layout Mode</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>web layout mode</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Topics/Web-Layout-Mode.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Topics-Guide" />
+                <p class="Subheading">How to Use the Zoom/Scale Features in Web Layout Mode</p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl-Li/Topics/Open-Content-File.flsnp" />
+                    </li>
+                    <li>
+                        <p>Make sure the topic is displayed in the XML Editor in one of the Web Layout modes. If it is instead shown in Print Layout mode, then click the down arrow next to <img src="../../../Images/Shared/Co-Fl/layout_mode_print_btn.png" class="ReduceButtonSize" /> in the local toolbar to switch to a Web Layout mode.</p>
+                        <p>
+                            <img src="../../../Images/Flare/print_layout_mode_example3.png" class="MaxWidth85Percent" />
+                        </p>
+                        <p>
+                            <img src="../../../Images/Flare/web_layout_mode_example2.png" class="MaxWidth90Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>In the toolbar at the bottom of the topic, click any of the available buttons to zoom in or out on the font in the topic:</p>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Topics/Zoom-Scale-Features-Table.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Topics-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Print Layout Mode</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>print layout mode</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Topics/Print-Layout-Mode.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Topics-Guide" />
+                <p class="Subheading">How to Use the Zoom/Scale Features in Print Layout Mode</p>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl-Li/Topics/Open-Content-File.flsnp" />
+                    </li>
+                    <li>
+                        <p>Make sure the topic is displayed in the XML Editor in Print Layout mode. If it is instead shown in a Web Layout mode, then click the down arrow next to <img src="../../../Images/Shared/Co-Fl/layout_mode_web_btn.png" class="ReduceButtonSize" /> in the local toolbar and select <span class="Emphasis">Print Layout</span> from the drop-down.</p>
+                        <p>
+                            <img src="../../../Images/Flare/web_layout_mode_example.png" class="MaxWidth100Percent" />
+                        </p>
+                        <p>
+                            <img src="../../../Images/Flare/print_layout_mode_example2.png" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Topics-Guide" />
+                    <li>
+                        <p>In the toolbar at the bottom of the topic, click the Zoom/Scale button <img src="../../../Images/Shared/Co-Fl/zoom_scale_btn.png" class="ReduceButtonSize" /> to adjust the size and number of pages shown. When you select this button, you can choose from any of the following options:</p>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/XML-Editor/Zoom-Scale-Options.flsnp" />
+                    </li>
+                    <li>
+                        <p>Use the other features to zoom in or out on the font in the topic:</p>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Topics/Zoom-Scale-Features-Print-Table.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Topics-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Mouse Wheel Zoom</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Mouse Wheel Zoom</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Topics/Mouse-Wheel-Zoom.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Topics/Note-Zoom-100-Percent-Shortcut.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Topics/Note-Zoom-Font-Scale.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

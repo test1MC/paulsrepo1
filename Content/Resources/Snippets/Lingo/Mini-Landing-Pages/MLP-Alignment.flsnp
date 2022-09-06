@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/lingo11/LingoAlignmentGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <p class="micro-content-only"><span class="micro-content-only-inline"><b>Alignment </b></span>
+                        <MadCap:snippetText src="../../Shared/Al-Li/Alignment/Alignment-Summary.flsnp" /> <span class="micro-content-only-inline"><a href="../../../../Lingo/Alignment/About-Alignment.htm">More Details…</a></span></p>
+                    <p class="Bold">Basic Steps</p>
+                    <ol>
+                        <li>
+                            <MadCap:xref href="../../../../Lingo/Projects/Creating-Alignment-Projects.htm">Creating Alignment Projects</MadCap:xref>
+                        </li>
+                        <li>
+                            <MadCap:xref href="../../../../Lingo/Alignment/Aligning-Files.htm">Aligning Files</MadCap:xref> or <MadCap:xref href="../../../../Lingo/Alignment/Aligning-Segments.htm">Aligning Segments</MadCap:xref></li>
+                        <li>(Optional) <a href="../../../../Lingo/Segmentation-Split-Join/About-Segmentation-Rules.htm">Using Segmentation Rules</a></li>
+                        <li>
+                            <MadCap:snippetText src="../../Shared/Al-Li/Alignment/Upload-File-Segments-TM.flsnp" />
+                        </li>
+                    </ol>
+                </div>
+                <div class="micro-content-only">
+                    <p class="center" style="text-align: center;">
+                        <img src="../../../Images/Lingo/Launch-MadCap-Align.png" alt="" title="" class="ThumbnailMicroContent" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

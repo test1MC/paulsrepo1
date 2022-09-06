@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareTemplatesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-3-3">
+            <div>
+                <p><span class="Emphasis">Title Page </span>When you create a new Flare project, you can choose from a list of project templates that include print-based output, with a title page at the beginning of the output. The title page usually includes a logo, background image, variables, page layout settings, and more. <a href="../../../../Flare/Templates/About-Templates.htm#FlareFactoryProjectTemplates">More Details…</a></p>
+                <p class="Bold">Customizing the Title Page</p>
+                <ol>
+                    <li>On the left side of the project, open the Content Explorer.</li>
+                    <li>Double-click <span class="Emphasis">Template Instructions.pdf</span>.</li>
+                    <li>Follow the steps in this PDF to change the content and look of the title page, as well as other parts of the template.</li>
+                </ol>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Title-Page2.png" alt="" title="" style="width: 286px;height: 369px;" />
+                </p>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Title-Page.png" alt="" title="" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

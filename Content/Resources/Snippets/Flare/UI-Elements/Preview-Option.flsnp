@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="123" MadCap:lastWidth="1106">
+    <body>
+        <p class="TableText">Opens the Preview window pane, which shows a preview of the open topic, snippet, or master page. <MadCap:snippetText src="../Preview/Preview-Window-Pane-Definition.flsnp" />&#160;<MadCap:snippetText src="../Preview/Preview-Window-Intially-Floats.flsnp" />&#160;</p>
+    </body>
+</html>

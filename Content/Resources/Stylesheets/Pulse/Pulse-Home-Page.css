@@ -1,0 +1,996 @@
+﻿/*<meta conditions="" />*/
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+@font-face 
+{
+	font-family: 'Roboto';
+	src: url(../../Fonts/Roboto-Regular.ttf);
+}
+
+@font-face 
+{
+	font-family: 'Roboto Light';
+	src: url(../../Fonts/Roboto-Light.ttf);
+}
+
+@font-face 
+{
+	font-family: 'Roboto Medium';
+	src: url(../../Fonts/Roboto-Medium.ttf);
+}
+
+@font-face 
+{
+	font-family: 'Roboto Black';
+	src: url(../../Fonts/Roboto-Black.ttf);
+}
+
+/* Home Page General Styles*/
+
+body
+{
+	font-family: 'Roboto Light', Arial, Avenir, Myriad;
+	line-height: 1.5em;
+}
+
+html.HomePage
+{
+	mc-master-page: url('../../MasterPages/Pulse/Pulse-Home-Page.flmsp');
+	mc-community-features: disabled;
+}
+
+/* Hyperlinks*/
+
+a
+{
+	color: #058a95;
+}
+
+a:link
+{
+	font-family: 'Roboto Light';
+	text-decoration: none;
+	color: #058a95;
+}
+
+a:link:hover
+{
+	color: #25bcc3;
+}
+
+div.home-tiles a:hover
+{
+	color: #25bcc3;
+}
+
+div.home-tiles a:hover
+{
+	color: #25bcc3;
+}
+
+a.BlackText
+{
+	color: #000000;
+	text-decoration: none;
+}
+
+/* Generic Classes*/
+
+.centered-text
+{
+	text-align: center;
+}
+
+.center
+{
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	float: none !important;
+	text-align: center;
+}
+
+.tab-bar .nav-search .search-bar
+{
+	display: none;
+}
+
+.inner-wrap .main-section > .outer-row
+{
+	max-width: 100%;
+	padding: 0;
+}
+
+/* Headings*/
+
+h1
+{
+	font-size: 3.6em;
+	margin-top: 1.11em;
+	margin-bottom: 0.5em;
+	line-height: 100%;
+	font-family: 'Roboto Light';
+	color: #FFFFFF;
+}
+
+h2
+{
+	font-family: 'Roboto Light';
+	font-size: 2em;
+	line-height: 1.2em;
+	color: #242729;
+	margin: 60px 0px 0px;
+}
+
+h3
+{
+	font-size: 1.4em;
+	font-family: 'Roboto Light';
+	line-height: 1.2em;
+}
+
+p.pre-heading
+{
+	font-family: 'Roboto';
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 0.9em;
+	color: #242729;
+}
+
+p.sub-heading
+{
+	line-height: 17pt;
+	font-size: 14pt;
+	letter-spacing: .25;
+	margin-bottom: 12px;
+	margin-top: 12px;
+}
+
+/* Images*/
+
+img
+{
+	max-width: 100%;
+}
+
+img.Hyperlinked
+{
+	border-style: none;
+}
+
+p.responsive-position	/*Used for the PDF guide image and youtube video. Will hide in desktop but will appear in tablet/mobile*/
+{
+	max-width: 100%;
+	display: none;
+	text-align: center;
+	padding: 5% 0;
+}
+
+/* Paragraphs*/
+
+p
+{
+	color: #242729;
+	margin-bottom: 12px;
+	margin-top: 12px;
+	font-size: 14pt;
+	line-height: 17pt;
+	letter-spacing: .25;
+}
+
+p.Copyright
+{
+	font-size: 0.9em;
+	text-align: left;
+	color: #888888;
+	line-height: 1.6em;
+	margin: 0 0 10px 0;
+}
+
+/* Home Page Button Styles */
+
+.button
+{
+	cursor: pointer;
+	background-color: transparent;
+	width: 200px;
+	height: 35px;
+	font-weight: bold;
+	-webkit-transition: all 200ms;
+	-moz-transition: all 200ms;
+	-ms-transition: all 200ms;
+	-o-transition: all 200ms;
+	transition: all 200ms;
+	margin: 5% auto;
+	border-radius: 0;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border: solid 2px black;
+	color: black;
+}
+
+.button:hover
+{
+	background-color: #ccc;
+}
+
+.button a
+{
+	display: block;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+}
+
+/* Home Page Topic Hero section*/
+
+div.topic-hero
+{
+	padding-top: 1%;
+	height: auto;
+	padding-bottom: 5%;
+	background-color: #1c5a97;
+	background: linear-gradient(to right, #1c5a97, #25bcc3);
+}
+
+/* Main-section (low-layer background color) */
+
+.main-section > .outer-row
+{
+	background-color: #f3f4f4;
+}
+
+/* Home Master Page Footer */
+
+p.footer-sub
+{
+	text-align: left;
+	color: #FFFFFF;
+	font-family: 'Roboto Light', Arial, Avenir, Myriad;
+}
+
+div.responsive-position	/*Used for the images social media icons to switch positioning in mobile but will not display in desktop*/
+{
+	float: right;
+	display: none;
+}
+
+.footer
+{
+	background-color: #2f3335;
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+
+.footer a
+{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.footer > div.outer-row
+{
+	line-height: 30px;
+	padding: 0;
+}
+
+.footer-logo
+{
+	max-width: 100%;
+	margin: 0;
+	text-align: left;
+}
+
+.footer-links
+{
+	text-align: right;
+}
+
+.footer-links a
+{
+	padding-right: 15px;
+}
+
+.footer-icons
+{
+	text-align: right;
+}
+
+.footer-icons > a:first-of-type
+{
+	padding-right: 10px;
+}
+
+/* Mad Cap Proxies */
+
+MadCap|menuProxy.menu1
+{
+	mc-toc-depth: 1;
+	mc-context-sensitive: True;
+}
+
+MadCap|menuProxy.menu2
+{
+	mc-toc-depth: 1;
+	mc-context-sensitive: True;
+}
+
+MadCap|searchBarProxy
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	float: none;
+	width: 50%;
+}
+
+MadCap|topicToolbarProxy
+{
+	float: none;
+}
+
+/* Styles that had to be added due to limitations of the HTML5 Skin Editor */
+
+nav.title-bar	/*Left to right Gradient on header*/
+{
+	background: linear-gradient(to right, #1c5a97, #25bcc3);
+}
+
+._Skins_Pulse_Pulse_HTML5_Top_Nav ul.navigation	/*Uppercase + letter spacing (tracking) first level top nav items*/
+{
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+._Skins_Pulse_Pulse_HTML5_Top_Nav ul.navigation ul > li > a	/*Undoing the uppercase for second level items and switching font*/
+{
+	text-transform: none;
+	font-family: 'Roboto Light';
+	/*Leaving this here because having "Generate all skins enabled in the target does not inherit the font properties defined in the skin*/
+}
+
+/*Responsive Layout Styles.*/
+/*=Home-tiles-section=*/
+
+div.home-tiles-container	/*Controls the look of the home-tiles section*/
+{
+	background-color: #FFFFFF;
+	padding: 1% 2% 2%;
+	width: 65%;
+	margin: 0 auto;
+}
+
+div.home-tiles
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3%;
+	margin-bottom: 1%;
+}
+
+div.home-tiles::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.home-tiles::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.home-tiles img
+{
+	max-width: 70%;
+}
+
+div.home-tiles *
+{
+	text-align: center;
+}
+
+div.home-tiles a
+{
+	color: #000000;
+	font-family: 'Roboto Medium';
+	text-decoration: none;
+	letter-spacing: 0.2px;
+	font-size: 1em;
+}
+
+div.home-tiles > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	overflow: hidden;
+	background-color: #FFFFFF;
+	padding: 1%;
+	vertical-align: bottom;
+}
+
+div.home-tiles > div:nth-child(1)
+{
+	width: 33.333%;
+	margin-left: 0%;
+}
+
+div.home-tiles > div:nth-child(2)
+{
+	border-left: 2px solid #f3f3f3;
+	border-right: 2px solid #f3f3f3;
+	width: 33.333%;
+	margin-left: 0%;
+}
+
+div.home-tiles > div:nth-child(3)
+{
+	width: 33%;
+}
+
+/*=Info-section=*/
+
+div.info-content-container	/*Controls the look of the info-section underneath the home-tiles*/
+{
+	background-color: #f3f4f4;
+	margin: 0 auto;
+	background-image: url('../../Images/Pulse/pulse_crop.png');
+	background-repeat: no-repeat;
+	background-position: 75% 100%;
+	background-size: auto;
+	padding: 3% 0;
+}
+
+div.info-section
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.info-section::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.info-section::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.info-section > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.info-section > div:nth-child(1)
+{
+	width: 25%;
+	margin-left: 25%;
+}
+
+div.info-section > div:nth-child(2)
+{
+	width: 48%;
+	margin-left: 0%;
+}
+
+/*=PDF-section=*/
+
+div.pdf-container	/*Controls the look of the pdf-content underneath home-tiles*/
+{
+	background-color: #ffffff;
+	margin: 0 auto 5%;
+	padding: 2% 0;
+	width: 65%;
+}
+
+div.pdf-section	/*PDF Guides- 2 divs one for the text one for the image*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.pdf-section::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.pdf-section::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.pdf-section > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.pdf-section > div:nth-child(1)
+{
+	width: 25%;
+	margin-left: 11%;
+	padding-top: 6%;
+}
+
+div.pdf-section > div:nth-child(2)
+{
+	width: 45%;
+	margin-left: 10%;
+}
+
+/*=Video-section=*/
+
+div.video-wrap
+{
+	background-color: #FFFFFF;
+	max-width: 100%;
+}
+
+div.video-container
+{
+	width: 65%;
+	margin: 0 auto;
+}
+
+div.video-section	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	border-top: solid 1px #f5f5f5;
+	padding-top: 10%;
+	padding-bottom: 5%;
+}
+
+div.video-section::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.video-section::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.video-section > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.video-section > div:nth-child(1)
+{
+	width: 45%;
+}
+
+div.video-section > div:nth-child(2)
+{
+	width: 43%;
+	margin-left: 2%;
+	padding-top: 2%;
+}
+
+div.HomeMasterPageFooter	/*Controls the look of the footer in the Home master page.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+	border-bottom: 2px solid #292a2b;
+}
+
+div.HomeMasterPageFooter::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.HomeMasterPageFooter::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.HomeMasterPageFooter > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.HomeMasterPageFooter > div:nth-child(1)
+{
+	width: 25%;
+	margin-left: 0%;
+}
+
+div.HomeMasterPageFooter > div:nth-child(2)
+{
+	width: 65%;
+	margin-left: 0%;
+}
+
+div.HomeMasterPageFooter > div:nth-child(3)
+{
+	width: 10%;
+	margin-left: 0%;
+}
+
+html
+{
+	mc-community-features: disabled;
+}
+
+ul
+{
+	letter-spacing: .25;
+	line-height: 17pt;
+	font-size: 13pt;
+	margin: 12px 0px 24px;
+}
+
+/* Medium Layout */
+
+@media tablet
+{
+	.footer
+	{
+		padding: 2% 2% 1%;
+	}
+
+	.button
+	{
+		margin-right: auto;
+		margin-left: auto;
+		float: none;
+		margin: ;
+	}
+
+	p.responsive-position
+	{
+		display: block;
+	}
+
+	/* Responsive Layout Styles */
+
+	div.home-tiles-container
+	{
+		width: 99%;
+	}
+
+	div.home-tiles > div:nth-child(1)
+	{
+		width: 30%;
+		margin-left: 2%;
+	}
+
+	div.home-tiles > div:nth-child(2)
+	{
+		width: 30%;
+		margin-left: 3%;
+	}
+
+	div.home-tiles > div:nth-child(3)
+	{
+		width: 30%;
+		margin-left: 3%;
+	}
+
+	div.info-section > div:nth-child(1)
+	{
+		width: 66.66667%;
+		margin-left: 15%;
+	}
+
+	div.info-section > div:nth-child(2)
+	{
+		width: 33.33333%;
+		margin-left: 0%;
+	}
+
+	div.pdf-section > div:nth-child(1)
+	{
+		display: none;
+	}
+
+	div.pdf-section > div:nth-child(2)
+	{
+		width: 80%;
+		margin-left: 10%;
+	}
+
+	div.HomeMasterPageFooter > div:nth-child(1)
+	{
+		width: 25%;
+		margin-left: 0%;
+	}
+
+	div.HomeMasterPageFooter > div:nth-child(2)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.HomeMasterPageFooter > div:nth-child(3)
+	{
+		width: 25%;
+		margin-left: 0%;
+	}
+
+	div.video-section > div:nth-child(1)
+	{
+		display: none;
+	}
+
+	div.video-section > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.home-tiles a:hover
+	{
+		color: #25bcc3;
+	}
+}
+
+/* Small Layout */
+
+@media mobile
+{
+	MadCap|searchBarProxy.homeSearchBar
+	{
+		width: 100%;
+	}
+
+	h1
+	{
+		font-size: 2.4em;
+	}
+
+	h2
+	{
+		font-size: 2.2em;
+	}
+
+	.footer-links
+	{
+		text-align: center;
+	}
+
+	.footer
+	{
+		padding: 5% 7%;
+	}
+
+	/* Responsive Layout Styles */
+
+	div.home-tiles-container
+	{
+		width: 90%;
+	}
+
+	div.home-tiles > div
+	{
+		margin-top: 2%;
+	}
+
+	div.home-tiles > div:nth-child(1)
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+
+	div.home-tiles > div:nth-child(2)
+	{
+		width: 90%;
+		margin-left: 5%;
+		border-top: 2px solid #f3f3f3;
+		border-bottom: 2px solid #f3f3f3;
+		border-left: none;
+		border-right: none;
+	}
+
+	div.home-tiles > div:nth-child(3)
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+
+	div.info-content-container
+	{
+		padding-bottom: 50%;
+		width: 80%;
+	}
+
+	div.info-section > div:nth-child(1)
+	{
+		width: 95%;
+		margin-left: 5%;
+	}
+
+	div.info-section > div:nth-child(2)
+	{
+		
+	}
+
+	div.pdf-container
+	{
+		width: 90%;
+	}
+
+	div.pdf-section > div:nth-child(2)
+	{
+		width: 90%;
+		margin-left: 5%;
+	}
+
+	div.video-section > div:nth-child(1)
+	{
+		display: none;
+	}
+
+	div.video-section > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.HomeMasterPageFooter > div:nth-child(1)
+	{
+		width: 100%;
+	}
+
+	div.HomeMasterPageFooter > div:nth-child(2)
+	{
+		width: 100%;
+		margin: 3% 0;
+	}
+
+	div.HomeMasterPageFooter > div:nth-child(3)	/*Hide the social media icons as they will be replaced by div.responsive-position elements in mobile*/
+	{
+		display: none;
+	}
+
+	div.footer-links > a:nth-child(1)
+	{
+		float: left;
+	}
+
+	div.footer-links > a:nth-child(3)
+	{
+		float: right;
+	}
+
+	div.responsive-position
+	{
+		display: block;
+	}
+
+	div.responsive-position > a:first-of-type
+	{
+		padding-right: 10px;
+	}
+
+	.footer-links a
+	{
+		padding: 0;
+	}
+}
+
+p.getting-started-links
+{
+	color: #242729;
+	margin-bottom: 12px;
+	font-size: 14pt;
+	line-height: 17pt;
+	letter-spacing: .25;
+	margin-top: 30px;
+}
+
+p.sub-heading-pdf-guides
+{
+	line-height: 17pt;
+	font-size: 14pt;
+	letter-spacing: .25;
+	margin-bottom: 12px;
+	font-weight: bold;
+	margin-top: 24px;
+}
+
+h2.getting-started-area
+{
+	margin-left: 20pt;
+	margin-right: 20pt;
+	margin-top: 70pt;
+}
+
+@media (max-width: 460px)
+{
+	div.footer-links > a:nth-child(1)
+	{
+		width: 100%;
+	}
+	
+	div.footer-links > a:nth-child(2)
+	{
+		width: 100%;
+	}
+
+	div.footer-links > a:nth-child(3)
+	{
+		width: 100%;
+	}
+	
+	h2.getting-started-area
+	{
+		margin-top: 10pt;
+	}
+}
+
+@media (max-width: 350px)
+{
+	h1
+	{
+		font-size: 2.0em;
+	}
+	
+	h2
+	{
+		font-size: 1.5em;
+	}
+	
+	h2.getting-started-area
+	{
+		margin-top: 10pt;
+	}
+	
+	p
+	{
+		font-size: 11pt;
+		line-height: 15pt;
+	}
+	
+	p.getting-started-links
+	{
+		font-size: 12pt;
+	}
+	
+	p.sub-heading
+	{
+		line-height: 15pt;
+		font-size: 11pt;
+	}
+	
+	MadCap|dropDownHead
+	{
+		font-size: 13pt;
+	}
+}

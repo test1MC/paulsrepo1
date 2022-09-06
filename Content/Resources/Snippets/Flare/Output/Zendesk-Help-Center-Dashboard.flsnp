@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p>When you first activate your Zendesk dashboard,  there are default categories and sections already created. You can use these categories and sections if it aligns with the TOC you are using to publish to Zendesk. Otherwise, you should create your own categories and sections that better align with your TOC.</p>
+        <p>If you are using the TOC to define your categories and sections in Zendesk, keep the following rules in mind:</p>
+        <ul>
+            <li>The top-level books in your TOC are converted to categories alongside any categories already created.</li>
+            <li>Topics that are linked to top-level books are published to the default category and section.</li>
+            <li>Top-level topics are published to the default category and section. No additional categories are created for the top-level topics.</li>
+            <li>Secondary level topics are converted to sections.</li>
+            <li>Any topics linked to second-level books in your TOC are published as articles to that section.</li>
+        </ul>
+        <p>If you are using the TOC to define your sections, keep these rules in mind:</p>
+        <ul>
+            <li>Top-level books in your TOC are converted to sections.</li>
+            <li>Topics that are linked to top-level books are published as articles in that section.</li>
+            <li>Top-level topics are converted into sections and also included as articles in that newly created section.</li>
+            <li>Second-level, lower-level books, and topics in your TOC are published as articles in the section created by the parent book.</li>
+        </ul>
+        <p>Other considerations to keep in mind:</p>
+        <ul>
+            <li>Any topics that are not in the TOC—regardless if they are linked to topics in the TOC—are published to the default category and section configured in the destination file.</li>
+            <li>Any topics that reside in the third level or lower in your TOC will be published as articles on the same level in Zendesk. This is because there are only three levels in Zendesk:&#160;categories, sections, and articles. </li>
+            <li>Any categories and sections that are generated during publishing are added to Zendesk Help Center in the same order they are displayed in the TOC. This also applies to multilingual projects.</li>
+            <li>If the <span MadCap:createDate="2019-03-11T07:26:19.2598301-07:00" MadCap:creator="pstoecklein" MadCap:initials="PS" MadCap:comment="Probably need to make this bold so it's clear." MadCap:editor="pstoecklein" MadCap:editDate="2019-03-11T07:26:32.7079272-07:00" class="Emphasis">Use TOC to define</span> option is not checked in the destination file, all topics are published to the designated category and section in the destination editor.</li>
+            <li>You can use unlinked books in your TOC to mimic the categories and sections you are using for Zendesk. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Interface/UI-Elements/TOC-Editor.htm">TOC Editor</MadCap:xref>.</MadCap:conditionalText></li>
+        </ul>
+    </body>
+</html>

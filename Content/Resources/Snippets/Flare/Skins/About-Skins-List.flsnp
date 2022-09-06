@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ul>
+            <li>Pane position</li>
+            <li>Slide-out menu style</li>
+            <li>Main menu position</li>
+            <li>Top menu depth levels</li>
+            <li>User interface text</li>
+            <li>How big the output window should be and where it should be positioned on the user's screen</li>
+            <li>Which online elements (e.g., TOC, index, search) are included in the output and which one should be the default element (the one that is active when users first access the output)</li>
+            <li>And other settings…</li>
+        </ul>
+    </body>
+</html>

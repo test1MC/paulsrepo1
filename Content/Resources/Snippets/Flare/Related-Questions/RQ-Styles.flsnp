@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareStylesCheatSheet.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/CheatSheet_Icon.png" title="Cheat Sheet" /></a> <a href="https://docs.madcapsoftware.com/flare2019/FlareStylesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a></div>
+        <div class="Tiles-8-4" MadCap:conditions="General.Server-Only">
+            <div>
+                <p><span class="Emphasis">Styles and CSS </span>
+                    <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Styles-Summary-Short.flsnp" />&#160;<a href="../../../../Flare/Styles/About-Styles-Stylesheets.htm">More Details…</a></p>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot class="Micro-Content"><span class="micro-dropdown-head">Where can I learn more about CSS?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p><b>World Wide Web Consortium </b>
+                                <MadCap:snippetText src="../Styles/W3C-Summary.flsnp" />
+                            </p>
+                            <p><b>Webinars </b><a href="http://www.madcapsoftware.com/resources/recordedwebinars.aspx#flare" target="_blank">http://www.madcapsoftware.com/resources/recordedwebinars.aspx#flare</a>
+                            </p>
+                            <p><b>w3schools </b><a href="http://www.w3schools.com/css/css_intro.asp" target="_blank">http://www.w3schools.com/css/css_intro.asp</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What can CSS do?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>In addition to changing the look of text in your documentation, it can be used to modify the presentation and behavior of: element sizing and positioning (e.g., maximum image width, text box to the left of content flow), link attributes (e.g., page numbering for links), cursor manipulation, and much more.</p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">How does page structure relate to CSS?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>In order to truly understand CSS, you need to understand how different parts of an XML-based document relate to corresponding style elements. HTML and XHTML documents have certain style elements, usually with opening and closing tags (e.g., &lt;HTML&gt; and &lt;/HTML&gt;). <a href="../../../../Flare/Styles/Basics-of-CSS/CSS-Styles-Page-Structure.htm">More Details…</a></p>
+                            <div class="IndentMedium">
+                                <p>
+                                    <img src="../../../Images/Flare/page_structure_example.png" class="MaxWidth100Percent" />
+                                </p>
+                            </div>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is meant by "cascading"?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Styles/Cascading-Summary.flsnp" /> Also, in order to deal with conflicting settings, there are certain rules to be aware of about importance, origin, specificity, etc. dictate which style “wins” in the end. <a href="../../../../Flare/Styles/Basics-of-CSS/Cascading.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are some of the most important style terms and concepts?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>Styles</li>
+                                <li>Properties and values</li>
+                                <li>Selectors</li>
+                                <li>Advanced selectors</li>
+                                <li>Classes</li>
+                                <li>Identifiers</li>
+                                <li>Pseudo classes</li>
+                                <li>Pseudo class expressions</li>
+                                <li>Pseudo elements</li>
+                            </ul>
+                            <p><a href="../../../../Flare/Styles/Basics-of-CSS/Important-Style-Terms-Concepts.htm">More Details…</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is style inheritance about?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Styles/Inheritance-Summary.flsnp" /> <a href="../../../../Flare/Styles/Basics-of-CSS/Inheritance.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">When should I use regular stylesheets, table stylesheets, or local properties?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>You should use regular stylesheets for most of your formatting in Flare projects. You can use regular stylesheets to format tables, in addition to all kinds of other content. However, it can be beneficial to use table stylesheets for tables instead, especially if you want to create cool effects, such as rows or columns with alternating color backgrounds. Styles are pretty much always preferred over local (or inline) formatting (e.g., formatting content where it occurs rather than pointing to a style). If you set formatting using multiple methods, there is an order of precedence that dictates which look "wins" in the end. <a href="../../../../Flare/Styles/Using-Styles/Regular-Stylesheets-Table-Stylesheets-Properties.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is a medium?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Medium-Type-Summary.flsnp" />&#160;<a href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is a media query?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Media-Queries1.flsnp" />&#160;<a href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the styles that begin with "MadCap" and properties that begin with "mc"?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Styles/MadCap-Specific-Styles-Properties-Summary1.flsnp" />&#160;<MadCap:snippetText src="../Styles/MadCap-Specific-Styles-Properties-Summary2.flsnp" /> <a href="../../../../Flare/Styles/Using-Styles/MadCap-Specific-Styles-Properties.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are skin styles?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>In addition to regular and table stylesheets, you can use skin styles. These let you control the look of the online output window (e.g., navigation pane, TOC or browse sequence entries, index keywords). <a href="../../../../Flare/Styles/Using-Styles/Skin-Styles.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the most common style tasks in Flare?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Creating-Stylesheets.htm">Creating New Stylesheets</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Creating-Table-Stylesheets.htm">Creating Table Stylesheets</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Creating-Selectors.htm">Creating Selectors</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Editing-Styles.htm">Editing Styles in a Regular Stylesheet</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Applying-Styles-to-Content.htm">Applying Styles to Content</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Associating-Master-Stylesheets-with-All-Files.htm">Associating Master Stylesheets with All Files</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Associating-Stylesheets-with-Specific-Files.htm">Associating Stylesheets Locally with Specific Files</MadCap:xref>
+                                </li>
+                            </ul>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What does the MadCap Doc Team do with styles?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>We have multiple stylesheets for our projects, although the vast majority of styling is done within one stylesheet.</li>
+                                <li>Since almost all of the topics use styles from our main stylesheet, we set this stylesheet at the project level, but we have several other stylesheets that are set locally on our unique Home page topics.</li>
+                                <li>In addition to the “default” medium (where most of the styles are set) and the factory “print” medium, we created over a dozen mediums in our main stylesheet. For each product, we have an online and a print medium.</li>
+                                <li>For all of our stylesheets, we use the factory “tablet” and “mobile” media queries to change the look of some styles when content is displayed on smaller devices.</li>
+                                <li>We use classes a great deal in our stylesheets, especially in the main stylesheet. We also try to take special advantage of generic classes so that we can easily apply the formatting to many different parent styles.</li>
+                            </ul>
+                            <p><a href="../../../../Flare/Project-Architecture/Internal-Architecture/Stylesheets.htm#WhatMadCapDocTeamDoes">More Details…</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </div>
+            <div>
+                <div class="video">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=f8Mn38VPIXk" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                    <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/flare/#Styles" target="_blank">View More Videos in This Series</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="Tiles-6-6" MadCap:conditions="General.Local-Only">
+            <div>
+                <p><span class="Emphasis">Styles and CSS </span>
+                    <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Styles-Summary-Short.flsnp" />&#160;<a href="../../../../Flare/Styles/About-Styles-Stylesheets.htm">More Details…</a></p>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot class="Micro-Content"><span class="micro-dropdown-head">Where can I learn more about CSS?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p><b>World Wide Web Consortium </b>
+                                <MadCap:snippetText src="../Styles/W3C-Summary.flsnp" />
+                            </p>
+                            <p><b>Webinars </b><a href="http://www.madcapsoftware.com/resources/recordedwebinars.aspx#flare" target="_blank">http://www.madcapsoftware.com/resources/recordedwebinars.aspx#flare</a>
+                            </p>
+                            <p><b>w3schools </b><a href="http://www.w3schools.com/css/css_intro.asp" target="_blank">http://www.w3schools.com/css/css_intro.asp</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What can CSS do?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>In addition to changing the look of text in your documentation, it can be used to modify the presentation and behavior of: element sizing and positioning (e.g., maximum image width, text box to the left of content flow), link attributes (e.g., page numbering for links), cursor manipulation, and much more.</p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">How does page structure relate to CSS?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>In order to truly understand CSS, you need to understand how different parts of an XML-based document relate to corresponding style elements. HTML and XHTML documents have certain style elements, usually with opening and closing tags (e.g., &lt;HTML&gt; and &lt;/HTML&gt;). <a href="../../../../Flare/Styles/Basics-of-CSS/CSS-Styles-Page-Structure.htm">More Details…</a></p>
+                            <div class="IndentMedium">
+                                <p>
+                                    <img src="../../../Images/Flare/page_structure_example.png" class="MaxWidth100Percent" />
+                                </p>
+                            </div>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is meant by "cascading"?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Styles/Cascading-Summary.flsnp" /> Also, in order to deal with conflicting settings, there are certain rules to be aware of about importance, origin, specificity, etc. dictate which style “wins” in the end. <a href="../../../../Flare/Styles/Basics-of-CSS/Cascading.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are some of the most important style terms and concepts?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>Styles</li>
+                                <li>Properties and values</li>
+                                <li>Selectors</li>
+                                <li>Advanced selectors</li>
+                                <li>Classes</li>
+                                <li>Identifiers</li>
+                                <li>Pseudo classes</li>
+                                <li>Pseudo class expressions</li>
+                                <li>Pseudo elements</li>
+                            </ul>
+                            <p><a href="../../../../Flare/Styles/Basics-of-CSS/Important-Style-Terms-Concepts.htm">More Details…</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is style inheritance about?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Styles/Inheritance-Summary.flsnp" /><a href="../../../../Flare/Styles/Basics-of-CSS/Inheritance.htm">More Details…</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">When should I use regular stylesheets, table stylesheets, or local properties?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>You should use regular stylesheets for most of your formatting in Flare projects. You can use regular stylesheets to format tables, in addition to all kinds of other content. However, it can be beneficial to use table stylesheets for tables instead, especially if you want to create cool effects, such as rows or columns with alternating color backgrounds. Styles are pretty much always preferred over local (or inline) formatting (e.g., formatting content where it occurs rather than pointing to a style). If you set formatting using multiple methods, there is an order of precedence that dictates which look "wins" in the end. <a href="../../../../Flare/Styles/Using-Styles/Regular-Stylesheets-Table-Stylesheets-Properties.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is a medium?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Medium-Type-Summary.flsnp" />&#160;<a href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What is a media query?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Media-Queries1.flsnp" />&#160;<a href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the styles that begin with "MadCap" and properties that begin with "mc"?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Styles/MadCap-Specific-Styles-Properties-Summary1.flsnp" />&#160;<MadCap:snippetText src="../Styles/MadCap-Specific-Styles-Properties-Summary2.flsnp" /><a href="../../../../Flare/Styles/Using-Styles/MadCap-Specific-Styles-Properties.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are skin styles?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>In addition to regular and table stylesheets, you can use skin styles. These let you control the look of the online output window (e.g., navigation pane, TOC or browse sequence entries, index keywords). <a href="../../../../Flare/Styles/Using-Styles/Skin-Styles.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the most common style tasks in Flare?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Creating-Stylesheets.htm">Creating New Stylesheets</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Creating-Table-Stylesheets.htm">Creating Table Stylesheets</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Creating-Selectors.htm">Creating Selectors</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Editing-Styles.htm">Editing Styles in a Regular Stylesheet</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Applying-Styles-to-Content.htm">Applying Styles to Content</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Associating-Master-Stylesheets-with-All-Files.htm">Associating Master Stylesheets with All Files</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Styles/Associating-Stylesheets-with-Specific-Files.htm">Associating Stylesheets Locally with Specific Files</MadCap:xref>
+                                </li>
+                            </ul>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What does the MadCap Doc Team do with styles?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>We have multiple stylesheets for our projects, although the vast majority of styling is done within one stylesheet.</li>
+                                <li>Since almost all of the topics use styles from our main stylesheet, we set this stylesheet at the project level, but we have several other stylesheets that are set locally on our unique Home page topics.</li>
+                                <li>In addition to the “default” medium (where most of the styles are set) and the factory “print” medium, we created over a dozen mediums in our main stylesheet. For each product, we have an online and a print medium.</li>
+                                <li>For all of our stylesheets, we use the factory “tablet” and “mobile” media queries to change the look of some styles when content is displayed on smaller devices.</li>
+                                <li>We use classes a great deal in our stylesheets, especially in the main stylesheet. We also try to take special advantage of generic classes so that we can easily apply the formatting to many different parent styles.</li>
+                            </ul>
+                            <p><a href="../../../../Flare/Project-Architecture/Internal-Architecture/Stylesheets.htm#WhatMadCapDocTeamDoes">More Details…</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Styles.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

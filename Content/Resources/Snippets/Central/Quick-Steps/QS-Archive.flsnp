@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Tasks-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p class="Micro-Content"><span class="Emphasis">Archive </span>
+                    <MadCap:snippetText src="../Tasks/Archive-Summary.flsnp" /> <a href="../../../../Central/Tasks/Moving-Tasks.htm">More Details…</a></p>
+                <p class="Bold">How to Move a Task to Archive</p>
+                <ol>
+                    <li>On the left side of Central, select <span class="Emphasis">Tasks</span>.</li>
+                    <li>Right-click a task card.</li>
+                    <li>Select <b>Move &gt; Archive</b>.</li>
+                </ol>
+            </div>
+            <div>
+                <p style="text-align: center;">
+                    <img src="../../../Images/Central/QS-Archive.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

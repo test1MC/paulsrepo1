@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>The Flare output files are what end users see when they access the documentation that you build from a target and distribute to them—either online or print-based. Online output consists of one or more computer files that, when opened, display the documentation in a browser or window on the user's computer. Print-based output might consist of one or more documents in formats such as PDF or Word, which can be circulated in electronic format or printed and distributed to end users.</p>
+    </body>
+</html>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="[%=PDF-URLs.SourceControlGit%]" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Git </span>A source control tool that integrates with Flare. <MadCap:snippetText src="../../Shared/Fl-Li/Source-Control/Git-Summary.flsnp" /> <a href="../../../../Flare/Source-Control/Git/About-Git.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <ol>
+                                    <li>Install and Set Up Git (done outside of Flare)</li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Source-Control/Git/Binding-Project-Source-Control-git.htm">Binding a Project to Git</MadCap:xref>
+                                    </li>
+                                    <li>(Other Team Members) <MadCap:xref href="../../../../Flare/Source-Control/Git/Importing-Project-from-Source-Control-git.htm">Importing a Project from Git</MadCap:xref></li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Source-Control/Git/Pulling-Files-from-Remote.htm">Pulling Files from a Remote Repository—Git</MadCap:xref>
+                                    </li>
+                                </ol>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <ol start="5" class="Micro-Content">
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Source-Control/Git/Committing-Source-Control-Files-git.htm">Committing Source Control Files—Git</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Source-Control/Git/Pushing-Files-to-Remote.htm">Pushing Files to a Remote Repository—Git</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Source-Control/Git/Adding-Files-Source-Control-git.htm">Adding Files to Source Control—Git</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Source-Control/Git/Merging-Source-Control-Files-git.htm">Merging Source Control Files—Git</MadCap:xref>
+                                    </li>
+                                </ol>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p><a href="../../../../Flare/Project-Architecture/External-Architecture/Source-Control.htm#WhatMadCapDocTeamDoes">What the MadCap Doc Team Does</a>
+                </p>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Shared/Ce-Fl/Git-Logo.png" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

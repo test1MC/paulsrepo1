@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ul>
+            <li><span class="SetOffFirstLevel">[Priority Level] </span>Click in this field and select a level—<b>Low Priority</b>, <b>Medium Priority</b>, or <b>High Priority</b>. Each priority level is indicated by a color, which is shown in the task card:<ul class="SecondLevel"><li> Low=Green</li><li>Medium=Yellow</li><li>High=Red</li></ul><p><img src="../../../Images/Central/task-creation3.png" alt="" title="" class="MaxWidth65Percent" /></p></li>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Tasks-Guide,Snippets.Snippet1,Snippets.Snippet2" />
+            <li>
+                <p><span class="SetOffFirstLevel">[Estimated Hours] </span>You can enter an estimated number of hours for the task.</p>
+                <p>
+                    <img src="../../../Images/Central/task-creation4.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Tasks-Guide" />
+            <li>
+                <p><span class="SetOffFirstLevel">[Start and End Dates/Times] </span>You can select the date and time when the task should be started and when it is due. These dates are used when looking at the task in Calendar view. When a task is past the due date (and not yet completed), the text turns red.</p>
+                <p>
+                    <img src="../../../Images/Central/task-creation5.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Tasks-Guide" />
+            <li>
+                <p><b>[All Day Event] </b>Select this if you want the task to automatically select all of the time for each day in the date range, from 12:00 AM to 11:59 PM.</p>
+                <p>
+                    <img src="../../../Images/Central/task-creation10.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Tasks-Guide" />
+            <li>
+                <p><span class="SetOffFirstLevel">[Project] </span>Click <img src="../../../Images/Central/Select-Project-Icon.png" alt="" title="" class="ReduceButtonSize" /> if you want to select an uploaded Flare project. This associates the project with that task, and anytime users open the task, they can click the project link to open it in the Projects page.</p>
+                <p>
+                    <img src="../../../Images/Central/task-creation6.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Tasks-Guide,Snippets.Snippet1,Snippets.Snippet2" />
+            <li>
+                <p><span class="SetOffFirstLevel">[Owner] </span>You can click the down arrow to the right of the first avatar to choose another user as the owner of the task. This field might be needed when editing the task later, for example, if the original owner of the task leaves the company and you need to assign it to someone else.</p>
+                <p>
+                    <img src="../../../Images/Central/task-creation11.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Tasks-Guide" />
+            <li>
+                <p><span class="SetOffFirstLevel">[Assigned To] </span>The second avatar shows who the task has been assigned to. By default a new task is assigned to yourself, but you can click the down arrow on the right to assign the task to a different user.</p>
+                <p>
+                    <img src="../../../Images/Central/task-creation7.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">A task can be assigned to only one person.</p>
+                </div>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Tasks-Guide" />
+            <li>
+                <p><span class="SetOffFirstLevel">Description </span>You can enter a description for the task.</p>
+                <div class="tip">
+                    <p class="tipInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Tip: &lt;/span&gt;&lt;/b&gt;">If you need to create a project checklist as part of your task, you might consider  paste a copy of the checklist URL in your task description.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Central/Projects/Checklists/About-Project-Checklists.htm">About Project Checklists</MadCap:xref>.</MadCap:conditionalText></p>
+                    <p>
+                        <img src="../../../Images/Central/Project-Checklists22.png" alt="" title="" class="MaxWidth90Percent" />
+                    </p>
+                    <p>Once you finish the checklist, you can return to the Tasks page to move the task card to the Completed milestone.</p>
+                </div>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Tasks-Guide" />
+            <li>
+                <p><span class="SetOffFirstLevel">Discussion </span>You can use this area to add comments and maintain a conversation with others about the task. See <MadCap:xref href="../../../../Central/Tasks/Adding-Comments-to-Tasks.htm">Adding Comments to Tasks</MadCap:xref>.</p>
+                <p>
+                    <img src="../../../Images/Central/task-creation9.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Tasks-Guide" />
+            <li>
+                <p><span class="SetOffFirstLevel"><MadCap:keyword term="Tasks:attachments;Attachments:tasks" />Attachments </span>You can click this to choose one or more files to be associated with the task. Others can then download the attached files for more information about the task. (You can also use the paper clip button to add attachments to a comment in the Discussion area.)</p>
+                <p>
+                    <img src="../../../Images/Central/task-creation8.png" alt="" title="" class="MaxWidth65Percent" />
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+		<div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareStylesCheatSheet.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/CheatSheet_Icon.png" title="Cheat Sheet" /></a> <a href="https://docs.madcapsoftware.com/flare2019/FlareStylesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a></div>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">Span </span>A style that is used to format “character-level” content with certain attributes (such as font size, color, font family), as opposed to “block-level” content (such as a paragraph, heading, or list). <a href="../../../../Flare/Styles/Basics-of-CSS/Important-Style-Terms-Concepts.htm#Styles">More Details…</a></p>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty" MadCap:conditions="">example</p>
+                    <p MadCap:conditions="">You want some inline text to be red and bold to indicate a warning. Therefore, you create a class of the span style and name it “Warning” (span.Warning).</p>
+                </div>
+            </div>
+            <div>
+                <div class="video-wrap">
+                    <p class="center" style="text-align: center;">
+                        <img src="../../../Images/Flare/MLP-Span.gif" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

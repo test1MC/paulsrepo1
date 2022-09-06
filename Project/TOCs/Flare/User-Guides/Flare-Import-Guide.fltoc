@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="Products.Flare">
+  <TocEntry
+    Title="ComingSoonTitlePage"
+    Link="/Content/Print-Only-Topics/Shared/Coming-Soon-Title-Page.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Titles/Title.flpgl"
+    conditions="General.Future"></TocEntry>
+  <TocEntry
+    Title="Title"
+    Link="/Content/Print-Only-Topics/Shared/Title-Page-Green.htm"
+    StartSection="false"
+    PageNumber="1"
+    StartChapter="true"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Titles/Title.flpgl"
+    StartPageLayout="false"
+    ComputeToc="false"></TocEntry>
+  <TocEntry
+    Title="Copyright"
+    Link="/Content/Print-Only-Topics/Shared/Copyright.htm"
+    StartSection="false"
+    PageType="normal"
+    PageNumberReset="reset"
+    PageNumber="1"
+    StartPageLayout="true"
+    BreakPageLayout="/Content/Resources/PageLayouts/Copyright.flpgl"
+    BreakPageType="normal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    BreakType="pageLayout"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Copyright/Copyright.flpgl"></TocEntry>
+  <TocEntry
+    Title="PrintTOC"
+    Link="/Content/Print-Only-Topics/Shared/Print-TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageLayout="/Content/Resources/PageLayouts/Shared/TOCs/TOC-Green.flpgl"
+    PageType="first"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"></TocEntry>
+  <TocEntry
+    Title="CH 1"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="About Importing"
+    Link="/Content/Flare/Importing/About-Importing.htm"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumberReset="continue"
+    PageNumber="1"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    PageNumberFormat="decimal"
+    StartPageLayout="false"
+    BreakType="none"></TocEntry>
+  <TocEntry
+    Title="CH 2"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing Word Documents"
+    Link="/Content/Flare/Importing/Importing-Word-Files.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="none">
+    <TocEntry
+      Title="Additional Word Tasks"
+      Link="/Content/Flare/Importing/More-Word/Adding-Word-Import-File.htm">
+      <TocEntry
+        Title="Opening an MS Word Import File"
+        Link="/Content/Flare/Importing/More-Word/Opening-Word-Import-File.htm" />
+      <TocEntry
+        Title="Specifying Custom File Names for Word Imports"
+        Link="/Content/Flare/Importing/More-Word/Specifying-Custom-Filenames-for-Word-Imports.htm"></TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 3"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing FrameMaker Documents"
+    Link="/Content/Flare/Importing/Importing-FM-Files.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    BreakType="none">
+    <TocEntry
+      Title="Additional FrameMaker Tasks"
+      Link="/Content/Flare/Importing/More-FrameMaker/Adding-FM-Import-File.htm">
+      <TocEntry
+        Title="Opening a FrameMaker Import File"
+        Link="/Content/Flare/Importing/More-FrameMaker/Opening-FM-Import-File.htm" />
+      <TocEntry
+        Title="Creating Drop-Down Effects in FrameMaker Source Documents"
+        Link="/Content/Flare/Importing/More-FrameMaker/Creating-Drop-Down-Effects-in-FM.htm" />
+      <TocEntry
+        Title="Creating Hyperlinks in FrameMaker Source Documents"
+        Link="/Content/Flare/Importing/More-FrameMaker/Creating-Hyperlinks-in-FM-Source-Documents.htm" />
+      <TocEntry
+        Title="Creating Passthrough Markers in FrameMaker Source Documents"
+        Link="/Content/Flare/Importing/More-FrameMaker/Creating-Passthrough-Markers-in-FM.htm" />
+      <TocEntry
+        Title="Creating Topic Alias Markers in FrameMaker for Context-Sensitive Help"
+        Link="/Content/Flare/Importing/More-FrameMaker/Creating-Topic-Alias-Markers-for-CSH.htm" />
+      <TocEntry
+        Title="Specifying Custom File Names for FrameMaker Imports"
+        Link="/Content/Flare/Importing/More-FrameMaker/Specifying-Custom-Filenames-FM-Imports.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 4"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing a Doc-To-Help Project"
+    Link="/Content/Flare/Importing/Importing-D2H-Project.htm"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="none"></TocEntry>
+  <TocEntry
+    Title="CH 5"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing a RoboHelp Project"
+    Link="/Content/Flare/Importing/Importing-RH-Project.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="none"></TocEntry>
+  <TocEntry
+    Title="CH 6"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing HTML Files"
+    Link="/Content/Flare/Importing/Importing-HTML-Files.htm"
+    BreakType="none"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl">
+    <TocEntry
+      Title="Additional HTML Tasks"
+      Link="/Content/Flare/Importing/More-HTML/Adding-HTML-Import-File.htm">
+      <TocEntry
+        Title="Opening an HTML Import File"
+        Link="/Content/Flare/Importing/More-HTML/Opening-HTML-Import-File.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 7"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing an HTML Help Project (HHP)"
+    Link="/Content/Flare/Importing/Importing-HTML-Help-Project.htm"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="none"></TocEntry>
+  <TocEntry
+    Title="CH 8"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing CHM Files"
+    Link="/Content/Flare/Importing/Importing-CHM-Files.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    ChapterNumberReset="continue"
+    BreakType="none"></TocEntry>
+  <TocEntry
+    Title="CH 9"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Converting Author-it Files"
+    Link="/Content/Flare/Importing/Converting-AuthorIt-Files.htm"
+    BreakType="none"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"></TocEntry>
+  <TocEntry
+    Title="CH 10"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing DITA File Content"
+    Link="/Content/Flare/Importing/Importing-DITA-Files.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="none">
+    <TocEntry
+      Title="Additional DITA Tasks"
+      Link="/Content/Flare/Importing/More-DITA/Adding-DITA-Import-File.htm">
+      <TocEntry
+        Title="Opening a DITA Import File"
+        Link="/Content/Flare/Importing/More-DITA/Opening-DITA-Import-File.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 11"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing Excel Files"
+    Link="/Content/Flare/Importing/Importing-Excel-Files.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageType="firstright"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="none">
+    <TocEntry
+      Title="Additional Excel Tasks"
+      Link="/Content/Flare/Importing/More-Excel/Adding-Excel-Import-File.htm">
+      <TocEntry
+        Title="Opening an Excel Import File"
+        Link="/Content/Flare/Importing/More-Excel/Opening-Excel-Import-File.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CH 12"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing a Project from MadCap Central"
+    Link="/Content/Flare/Central/Importing-Projects.htm"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="none"></TocEntry>
+  <TocEntry
+    Title="CH 13"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Importing a Project from Source Control"
+    Link="/Content/Flare/Source-Control/Linked-Topics/Importing-Projects.htm"
+    PageType="firstright"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    BreakType="none">
+    <TocEntry
+      Title="Importing a Project from Subversion"
+      Link="/Content/Flare/Source-Control/Subversion/Importing-Project-from-Source-Control-svn.htm" />
+    <TocEntry
+      Title="Importing a Project from Git"
+      Link="/Content/Flare/Source-Control/Git/Importing-Project-from-Source-Control-git.htm" />
+    <TocEntry
+      Title="Importing a Project from Microsoft Team Foundation Server"
+      Link="/Content/Flare/Source-Control/TFS/Importing-Project-from-Source-Control-tfs.htm" />
+    <TocEntry
+      Title="Importing a Project from Microsoft Visual Studio Online"
+      Link="/Content/Flare/Source-Control/TFS/Importing-Project-from-Microsoft-Visual-Studio-Online.htm" />
+    <TocEntry
+      Title="Importing a Project from Perforce"
+      Link="/Content/Flare/Source-Control/Perforce/Importing-Project-from-Source-Control-per.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="CH 14"
+    Link="/Content/Print-Only-Topics/Shared/Chapter-Number.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="Additional Importing Tasks"
+    Link="/Content/Flare/Global-Project-Linking/Adding-Project-Import-Files.htm"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageType="firstright"
+    BreakType="none">
+    <TocEntry
+      Title="Disabling Auto-Sync of Import Files"
+      Link="/Content/Flare/Importing/Disabling-AutoSync-of-Import-Files.htm" />
+    <TocEntry
+      Title="Overwriting Imported Documents"
+      Link="/Content/Flare/Importing/Overwriting-Imported-Documents.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Appendix"
+    Link="/Content/Print-Only-Topics/Shared/Appendix.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="continue"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="PDF Library"
+    Link="/Content/Flare/PDF-Guides/PDF-Guides-Flare.htm"
+    PageLayout="/Content/Resources/PageLayouts/Shared/Chapters/Chapters-Green.flpgl"
+    StartPageLayout="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled"
+    ComputeToc="false"
+    PageType="first"
+    BreakType="none" />
+</CatapultToc>

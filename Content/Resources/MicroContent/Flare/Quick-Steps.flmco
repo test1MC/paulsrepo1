@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set for chat bots.">
+    <MicroContent>
+        <MicroContentPhrase>Apply condition tag</MicroContentPhrase>
+        <MicroContentPhrase>apply condition</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Apply-Condition-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Create topic</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Create-Topic-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>View fix broken links</MicroContentPhrase>
+        <MicroContentPhrase>broken links</MicroContentPhrase>
+        <MicroContentPhrase>view broken links</MicroContentPhrase>
+        <MicroContentPhrase>fix broken links</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-View-Fix-Broken-Links-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Change logo</MicroContentPhrase>
+        <MicroContentPhrase>logo</MicroContentPhrase>
+        <MicroContentPhrase>customize logo</MicroContentPhrase>
+        <MicroContentResponse href="../../Snippets/Flare/Quick-Steps/QS-Change-Logo-Steps.flsnp" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Set primary target</MicroContentPhrase>
+        <MicroContentPhrase>primary target</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Set-Primary-Target-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Import Word</MicroContentPhrase>
+        <MicroContentPhrase>Word</MicroContentPhrase>
+        <MicroContentPhrase>Microsoft Word</MicroContentPhrase>
+        <MicroContentPhrase>Word import</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:head>
+                    <xhtml:link xhtml:href="../../TableStyles/Shared/Basic-Alternate-Rows.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                </xhtml:head>
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Import-Word-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Create snippet</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Create-Snippet-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Create TOC</MicroContentPhrase>
+        <MicroContentPhrase>create table of contents</MicroContentPhrase>
+        <MicroContentPhrase>TOC Editor</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Create-TOC-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Use TOC depth for heading levels</MicroContentPhrase>
+        <MicroContentPhrase>toc depth</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Use-TOC-Depth-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Backlinks</MicroContentPhrase>
+        <MicroContentPhrase>Powered by MadCap Software</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Backlinks-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Create div</MicroContentPhrase>
+        <MicroContentPhrase>div</MicroContentPhrase>
+        <MicroContentPhrase>div tag</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Create-Div.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Customize home page</MicroContentPhrase>
+        <MicroContentPhrase>home page</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Customize-Home-Page.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Set master stylesheet</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Set-Master-Stylesheet.flsnp" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Create topic menu</MicroContentPhrase>
+        <MicroContentPhrase>menu</MicroContentPhrase>
+        <MicroContentPhrase>side menu</MicroContentPhrase>
+        <MicroContentPhrase>topic menu</MicroContentPhrase>
+        <MicroContentPhrase>menu proxy</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Create-Topic-Menu.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Create condition tag</MicroContentPhrase>
+        <MicroContentPhrase>create condition</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Flare/Quick-Steps/QS-Create-Conditions.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

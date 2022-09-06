@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" class="" style="mc-master-page: url('..\..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Printed-Output.flmsp');">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Adobe PDF:stitching;Stitching PDFs" />
+            <MadCap:concept term="FilterOutput" MadCap:conditions="Products.Flare" />
+            <MadCap:concept term="FilterFeatures" />Stitching PDFs</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Banners/Feature-Supported/All-Online-PDF.flsnp" />
+        <p>You can stitch existing PDFs into your output by adding links to them in a table of contents (TOC).</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Stitch PDFS Into Flare Output</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/PDF/PDF-Stitching-How-To.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Tables-of-Contents-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">PDF Targets</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>PDF Targets</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>If you generate a PDF target, the stitched PDF pages will be inserted at the location represented by the entry in the TOC.</p>
+                <p>If you insert a finished PDF in the middle of topic entries in the TOC, the topics after the inserted PDF will increment page numbers accordingly.</p>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p>Let's say you have a TOC like this, with a finished PDF inserted between two topic entries:</p>
+                    <p>
+                        <img src="../../../Resources/Images/Flare/pdf_merging4.png" class="MaxWidth90Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tables-of-Contents-Guide" />
+                    <p>In the output, the stitched PDF is sandwiched after the first topic and before the second one.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Flare/pdf_merging5.png" class="MaxWidth90Percent" style="max-width: 1in;" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Tables-of-Contents-Guide" />
+                    <p>If the existing PDF had not been included in the TOC, the second topic would normally have shown page 3 (page 1=generated TOC, page 2=first topic, page 3=second topic). But because the stitched PDF has been included, the second topic starts on page 6 (page 1=generated TOC, page 2=first topic, pages 3-5=stitched PDF, page 6=second topic).</p>
+                </div>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/PDF/PDF-Stitching-Language-Support.flsnp" />
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Language-Support/Multilingual-Target-Vs-PDF-Stitching.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet2] exclude[Snippets.Snippet1] " />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Tables-of-Contents-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Online Targets</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Online Targets</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/PDF/PDF-Stitching-Online-Outputs.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/PDF/Note-Stitched-PDF-Cannot-Link.flsnp" />
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/PDF/Note-Stitch-PDFs-Only.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

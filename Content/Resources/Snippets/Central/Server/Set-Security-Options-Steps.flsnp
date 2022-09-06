@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Set Security Options</span>
+                </MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>At the top of Central, click your user name, then click <span class="Emphasis">Settings</span>.</li>
+                    <li>In the dialog, select the <span class="Emphasis">License</span> tab.</li>
+                    <li>
+                        <p>On the left, click <span class="Emphasis">Security</span>.</p>
+                        <div class="topic-only">
+                            <p>
+                                <img src="../../../Images/Central/Security-Settings1.png" alt="" title="" class="MaxWidth100Percent" />
+                            </p>
+                        </div>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Server-Mgmt-Purchasing-Guide" />
+                    <li>Select any of the check boxes and choose values for each. If you do not select a check box next to an item, it will not be enabled<span class="topic-only"> (e.g., you can have an indefinite number of login attempts)</span>. These settings will affect all users on your license.<div class="topic-only"><p><img src="../../../Images/Shared/Ce-Fl/Security-Settings2.png" alt="" title="" class="MaxWidth100Percent" /></p><ul><li><b>Login attempts allowed</b> If a user exceeds the maximum number of login attempts, that person will be locked out for five minutes. After that, the user can try again, or click <b>Forgot password</b>.</li><li><b>Logout after idle for</b> If there is a lack of activity on Central, a user will see a warning message when one minute is left. After the time expires, the user will be logged out.</li><li><b>Require password change after</b> Starting two days before the expiration, users will see a reminder that their password will expire, prompting them to set a new password. Users can skip this prompt and continue with the old password until the final day, at which time they must set a new password.</li></ul></div></li>
+                    <li>Click <span class="Emphasis">Save</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

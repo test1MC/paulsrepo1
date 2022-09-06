@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareStylesCheatSheet.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/CheatSheet_Icon.png" title="Cheat Sheet" /></a> <a href="https://docs.madcapsoftware.com/flare2019/FlareStylesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a></div>
+        <div class="Tiles-8-4" MadCap:conditions="Products.Flare-Server-Only">
+            <div>
+                <p><span class="Emphasis">Style&#160;Inspector </span>The Style Inspector is part of the Formatting window pane (<span class="Emphasis">Home &gt; Formatting Window</span>). <MadCap:snippetText src="../Styles/Style-Inspector-Intro.flsnp" />&#160;<a href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm">More Details…</a></p>
+                <p class="Bold">Common Tasks</p>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <ul>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#ViewingStyleSettingsFormattingSpecificContent">Viewing Style Settings and Formatting for Specific Content</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#CreatingStyleClasses">Creating Style Classes</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#AddingPropertiesStyles">Adding Properties to Styles</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#EditingPropertyValues">Editing Property Values</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <ul>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#AddingCommentsStyles">Adding Comments to Styles</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#ModifyingStylesheetUndoDismiss">Modifying the Stylesheet—Undo or Dismiss</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#HidingStylesNonInheritedProperties">Hiding Styles with Non-Inherited Properties</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#IncludingSystemStyles">Including System Styles</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#TableStylesheetsStyleInspector">Table Stylesheets in the Style Inspector</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div>
+                <div class="video" MadCap:conditions="General.Server-Only">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=VeTKG5WB9YA" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                    <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/flare/#Styles" target="_blank">View More Videos in This Series</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="Tiles-8-4" MadCap:conditions="Products.Flare-Local-Only">
+            <div>
+                <p><span class="Emphasis">Style&#160;Inspector </span>The Style Inspector is part of the Formatting window pane (<span class="Emphasis">Home &gt; Formatting Window</span>). <MadCap:snippetText src="../Styles/Style-Inspector-Intro.flsnp" /><a href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm">More Details…</a></p>
+                <p class="Bold">Common Tasks</p>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <ul>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#ViewingStyleSettingsFormattingSpecificContent">Viewing Style Settings and Formatting for Specific Content</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#CreatingStyleClasses">Creating Style Classes</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#AddingPropertiesStyles">Adding Properties to Styles</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#EditingPropertyValues">Editing Property Values</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#AddingCommentsStyles">Adding Comments to Styles</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <ul>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#ModifyingStylesheetUndoDismiss">Modifying the Stylesheet—Undo or Dismiss</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#HidingStylesNonInheritedProperties">Hiding Styles with Non-Inherited Properties</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#IncludingSystemStyles">Including System Styles</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Styles/Using-Styles/Using-Style-Inspector.htm#TableStylesheetsStyleInspector">Table Stylesheets in the Style Inspector</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div>
+                <div class="video-wrap">
+                    <p class="center">
+                        <img src="../../../Images/Flare/style-inspector1.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

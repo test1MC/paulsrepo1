@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>On the right side of the master page, you will notice the logo from the Temp project. It just so happens that this logo is the same as the one in the Legacy project. But in a real scenario, the logo would be different. So let’s replace this logo with another one. Start by right-clicking the logo image, and from the context menu select <span class="Emphasis">Image Properties</span>.</p>
+    </body>
+</html>

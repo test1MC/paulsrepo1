@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>You can create a custom vanity for each target, or for each build. Having vanities on builds lets you have multiple outputs in a target set to the “Live” status, each with its own URL. When you set a target or build vanity, that text is used—along with your license vanity—to create the complete URL for your output.</p>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlarePrintOutputCheatSheet.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/CheatSheet_Icon.png" title="Cheat Sheet" /></a> <a href="https://docs.madcapsoftware.com/flare2019/FlarePrintedOutputGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a></div>
+        <p><span class="Emphasis">TOC Proxy </span>
+            <MadCap:snippetText src="../TOCs/Create-TOC-Proxy.flsnp" />&#160;As an alternative to the manual method, you can automatically generate a TOC, which is quicker but not as flexible. <a href="../../../../Flare/Output/Printed-Output/Creating-TOC-Manually-Print.htm">More Details…</a></p>
+        <div class="Tiles-4-4-4">
+            <div>
+                <p class="Bold">Manual Steps</p>
+                <MadCap:snippetBlock src="TOC-Print-Steps.flsnp" />
+            </div>
+            <div>
+                <p class="Bold">Automatic Steps</p>
+                <ol>
+                    <li>Open a print-based target.</li>
+                    <li>On the <span class="Emphasis">Advanced</span> tab of the Target Editor, select <span class="Emphasis">Generate TOC Proxy</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+                <p class="Bold">Other Tasks for Print TOC</p>
+                <MadCap:snippetBlock src="Other-Tasks-Print-Output.flsnp" />
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/toc_proxy_example.png" class="MaxWidth100Percent" />
+                </p>
+                <p class="center">
+                    <img src="../../../Images/Flare/toc_proxy_example2.png" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

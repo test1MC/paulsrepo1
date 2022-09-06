@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>This is the only topic file we want to import. It is the unique topic used for the Home page in the template. We already have a topic with this name in the Legacy project, and the Status column indicates this. The Home topic from the Temp project will replace the Home topic in our Legacy project. Since the target in our Legacy project already points to Home.htm as the startup topic, we won’t need to adjust it afterwards; in your actual project, you might need to open the target and point to the new Home topic as the startup in case you were using a file with a different name.</p>
+    </body>
+</html>

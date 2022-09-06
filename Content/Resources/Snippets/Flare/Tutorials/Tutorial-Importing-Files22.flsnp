@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>A message lets you know a few files will be overwritten. Click <span class="Emphasis">OK</span>.The files are imported into the Legacy project. The imported files are placed in the same locations where they existed in the Temp project, ensuring that any links to and from each other are not broken. This will save us some work.</p>
+    </body>
+</html>

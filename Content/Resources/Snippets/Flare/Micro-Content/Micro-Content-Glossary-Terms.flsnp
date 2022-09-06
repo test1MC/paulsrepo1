@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>If you have a glossary term that is the same as a micro content phrase, both will be displayed in the output. The micro content featured snippet will be on top, with the glossary term following it. Depending on how similar the content is between them, you might decide to remove one of them so that you are not displaying duplicate information to end users.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Glossaries/About-Glossaries.htm">About Glossaries</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Glossary-Terms.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>http://www.xyzincorporated.com/help systems/MyTargetName/AutoSearch. </p>
+            <p>However, if there are any other folders where you want either XHTML or non-XHTML files to be stored (instead of, or in addition to, AutoSearch), you can perform some extra steps to allow this.</p>
+            <p>Let's say you also want searches in the Help system to provide results from files in the folder C:\ExternalSearchFolder. Here are the steps to allow this:</p>
+            <ol>
+                <li>This folder must be accessible by IIS. Therefore, create a virtual directory in IIS for it. Following are steps for doing this.<ol class="LowerAlpha"><li>Open the Control Panel. On many computers, you can do this by clicking <span class="Emphasis">Start &gt; Control Panel</span>.</li><li> Double-click <span class="Emphasis">Administrative Tools</span>. The Administrative Tools dialog opens.</li><li>Double-click <span class="Emphasis">Internet Information Services</span>. The Internet Information Services (IIS) Manager dialog opens.</li><li>Expand the <span class="Emphasis">Web Sites</span> folder.</li><li>Right-click on the <span class="Emphasis">Default Web Site</span> folder and select <span class="Emphasis">New &gt; Virtual Directory</span>.</li><li>Click <span class="Emphasis">Next</span>.</li><li>In the <span class="Emphasis">Alias</span> field, enter a name for the subfolder (e.g., SearchFolder).</li><li>Click <span class="Emphasis">Next</span>.</li><li>Click the <span class="Emphasis">Browse</span> button, then find and select the folder holding the content that you want to publish (e.g., C:\ExternalSearchFolder).</li><li>Click <span class="Emphasis">Next</span>.</li><li>Make sure a check mark is next to <span class="Emphasis">Read</span>.</li><li>Click <span class="Emphasis">Next</span>.</li><li>Click <span class="Emphasis">Finish</span>.</li></ol><p><img src="../../../Images/Flare/WH_plus_nonxhtml_example.png" class="MaxWidth90Percent" /></p></li>
+                <li>Create an XML file called "SearchFolders.xml" and place it in the "AutoSearch" folder in the <MadCap:variable name="Outputs.WebHelp Plus" MadCap:conditions="Snippets.Snippet9" /><MadCap:conditionalText MadCap:conditions="Snippets.Snippet10"><MadCap:variable name="Outputs.HTML5" /> server-based</MadCap:conditionalText> output directory. The contents of this file will specify any virtual directories that <MadCap:variable name="Outputs.WebHelp Plus" MadCap:conditions="Snippets.Snippet9" /><MadCap:conditionalText MadCap:conditions="Snippets.Snippet10"><MadCap:variable name="Outputs.HTML5" /></MadCap:conditionalText> should search. Following is what you would type in the SearchFolders.xml file. This example specifies just one folder, but you can add references to as many virtual directories as you need.</li>
+            </ol>
+            <p class="CodeIndented2">&lt;?xml version="1.0" encoding="utf-8"?&gt;</p>
+            <p class="CodeIndented3">&lt;SearchFolders&gt;</p>
+            <p class="CodeIndented4">&lt;Url&gt;/SearchFolder&lt;/Url&gt;</p>
+            <p class="CodeIndented3">&lt;/SearchFolders&gt;</p>
+            <p>When users perform a search in your output, those non-XHTML files will also be scanned and become accessible to the users.</p>
+        </div>
+    </body>
+</html>

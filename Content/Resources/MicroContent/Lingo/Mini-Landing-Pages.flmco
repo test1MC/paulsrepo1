@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set.">
+    <MicroContent>
+        <MicroContentPhrase>termbase</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:head>
+                    <xhtml:link xhtml:href="../../TableStyles/Shared/Simple.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                </xhtml:head>
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Mini-Landing-Pages/MLP-Termbase.flsnp" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>translation memory</MicroContentPhrase>
+        <MicroContentPhrase>tm</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:head>
+                    <xhtml:link xhtml:href="../../TableStyles/Shared/Simple.css" xhtml:rel="stylesheet" MadCap:stylesheetType="table" />
+                </xhtml:head>
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Mini-Landing-Pages/MLP-Translation-Memory.flsnp" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>status</MicroContentPhrase>
+        <MicroContentPhrase>translation status</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Mini-Landing-Pages/MLP-Status.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>xliff</MicroContentPhrase>
+        <MicroContentPhrase>xlf</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Mini-Landing-Pages/MLP-XLIFF.flsnp" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>sql</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Mini-Landing-Pages/MLP-SQL.flsnp" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>align</MicroContentPhrase>
+        <MicroContentPhrase>alignment</MicroContentPhrase>
+        <MicroContentPhrase>alignment project</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Mini-Landing-Pages/MLP-Alignment.flsnp" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>source control</MicroContentPhrase>
+        <MicroContentPhrase>bind to source control</MicroContentPhrase>
+        <MicroContentPhrase>version control</MicroContentPhrase>
+        <MicroContentResponse>
+            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                <xhtml:body>
+                    <MadCap:snippetBlock xhtml:src="../../Snippets/Lingo/Mini-Landing-Pages/MLP-Source-Control.flsnp" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                </xhtml:body>
+            </xhtml:html>
+        </MicroContentResponse>
+    </MicroContent>
+</MicroContentSet>

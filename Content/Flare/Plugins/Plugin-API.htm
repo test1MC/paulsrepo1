@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:ignoredWords="english" style="mc-master-page: url('..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Plugin-API.flmsp');">
+    <head><title></title>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.Online-Only">
+            <MadCap:keyword term="Plug-in API;API:plug-in" />
+            <MadCap:concept term="FilterFeatures" />Plug-In API</h1>
+        <h1 MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide">Introduction</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Banners/Information-Developers.flsnp" MadCap:conditions="General.Online-Only" />
+        <p>The MadCap Software plug-in API lets you integrate <MadCap:variable name="Other.Product" /> with DLLs that you produce. For example, you might want to add customized ribbons, menus, or toolbar buttons to <MadCap:variable name="Other.Product" />. </p>
+        <p>Most of the information provided regarding the plug-in API is intended for developers or those who are quite familiar with APIs and DLLs.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>What You Need</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Here is what you need before you begin:</p>
+                <ul>
+                    <li>Latest build of MadCap <MadCap:variable name="Other.Product" /></li>
+                    <li>B3.PluginAPIKit.dll</li>
+                    <li>Visual Studio 2010 or later</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How To Create a Plug-In</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>In Visual Studio, create a new Class Library project. </li>
+                    <li>In the new project dialog, select <span class="Emphasis">.Net Framework 4.0</span>.</li>
+                    <li>Add a library reference to the B3.PluginAPIKit.dll assembly.</li>
+                    <li>
+                        <p>Implement the IPlugin interface. See <MadCap:xref href="Interfaces/IPlugin.htm">IPlugin Interface</MadCap:xref>.</p>
+                        <Div class="example">
+                            <p class="exampleHeadTextEmpty">Example</p>
+                            <p>Following is a basic example where the function of the plugin is to simply show a message box whenever the plugin is activated or deactivated.</p>
+                            <p class="Code"><span class="CodeGreen">using </span>System;</p>
+                            <p class="Code"><span class="CodeGreen">using </span>System.Windows.Forms;</p>
+                            <p class="Code"><span class="CodeGreen">using </span>B3.PluginAPIKit;</p>
+                            <p class="Code"><span class="CodeGreen">namespace </span>DemoPlugin</p>
+                            <p class="Code">{</p>
+                            <p class="CodeIndented"><span class="CodeGreen">public class </span><span class="CodeBlue2">DemoPlugin</span>:<span class="CodeBlue3">IPlugin</span></p>
+                            <p class="CodeIndented">{</p>
+                            <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">private </span><span class="CodeBlue2">IHost </span>mHost;
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">private bool </span>mActivated;
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">public bool </span>IsActivated
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2">{
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented3"><span class="CodeGreen">get </span>{ <span class="CodeGreen">return </span>mActivated; }
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2">}
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">public string </span>GetVersion()
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2">{
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented3"><span class="CodeGreen">return </span><span class="CodeOrange">"1.0"</span>;
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2">}
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">public string        </span>GetAuthor()</p>
+                            <p xml:space="preserve" class="CodeIndented2">{
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented3"><span class="CodeGreen">return </span><span class="CodeOrange">"Bob Smith"</span>;
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"> }</p>
+                            <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">public string     </span>GetDescription()</p>
+                            <p xml:space="preserve" class="CodeIndented2">{
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented3"><span class="CodeGreen">return </span><span class="CodeOrange">"Displays a message box."</span>;
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"> }</p>
+                            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" />
+                            <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">public string </span> GetName()</p>
+                            <p xml:space="preserve" class="CodeIndented2"> {</p>
+                            <p xml:space="preserve" class="CodeIndented3"><span class="CodeGreen">return </span><span class="CodeOrange">"DemoPlugin"</span>;
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"> }</p>
+                            <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">public void   </span>Initialize<span class="CodeBlue3">(IHost </span>host)</p>
+                            <p xml:space="preserve" class="CodeIndented2">{
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented3">mHost = host;
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"> }</p>
+                            <p xml:space="preserve" class="CodeIndented2"> <span class="CodeGreen">public void   </span>Execute()</p>
+                            <p xml:space="preserve" class="CodeIndented2">{
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented3">mActivated =  <span class="CodeGreen">true</span>;</p>
+                            <p xml:space="preserve" class="CodeIndented3"><span class="CodeBlue2">MessageBox</span>.Show(GetName() + <span class="CodeOrange">" activated!"</span>);
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2">}
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"><span class="CodeGreen">public void </span>Stop()
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"> {</p>
+                            <p xml:space="preserve" class="CodeIndented3"><span class="CodeBlue2">MessageBox</span>.Show(GetName() + <span class="CodeOrange">" deactivated!"</span>);
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented3">mHost.Dispose();
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented3">mActivated = <span class="CodeGreen">false</span>;
+                    </p>
+                            <p xml:space="preserve" class="CodeIndented2"> }</p>
+                            <p xml:space="preserve" class="CodeIndented">}
+                    </p>
+                            <p class="Code">}</p>
+                        </Div>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Integrate a Plug-In into Flare</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Flare monitors the Plugins folder under its root application directory. Any valid plug-in detected inside the Plugins folder will be listed on the Plugins tab of the Options dialog in Flare.</p>
+                <ol>
+                    <li>Make sure <MadCap:variable name="Other.Product" /> is not open.</li>
+                    <li>
+                        <p>In Windows navigate to the <MadCap:variable name="Other.Product" />.app\Plugins folder where you have installed <MadCap:variable name="Other.Product" /> (e.g., C:\Program Files\<MadCap:variable name="Other.CompanyName" />\MadCap <MadCap:variable name="Other.Product" /><MadCap:variable name="Other.VersionNumber" />\<MadCap:variable name="Other.Product" />.app\Plugins).</p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/plugin1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Within the <span class="Emphasis">Plugins</span> directory, create a new folder named after your plugin. For the example above, the plugin directory is named “DemoPlugin.”</li>
+                    <li>
+                        <p>Add your built plug-in assemblies and resource files into that directory. The directory hierarchy should look as follows:</p>
+                        <p>Flare.App</p>
+                        <div class="IndentSmall">
+                            <div class="IndentMedium">
+                                <p>
+                                    <img src="../../Resources/Images/Flare/BlueArrow.png" class="NoThumbnail" /> Plugins</p>
+                                <div class="IndentMedium">
+                                    <p class="Ind2">
+                                        <img src="../../Resources/Images/Flare/BlueArrow.png" class="NoThumbnail" /> DemoPlugin</p>
+                                    <div class="IndentMedium">
+                                        <p class="Ind3">
+                                            <img src="../../Resources/Images/Flare/BlueArrow.png" class="NoThumbnail" /> Plugin Assemblies + Resource Files</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How To Enable the Plug-in Within Flare</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Launch <MadCap:variable name="Other.Product" />.</li>
+                    <li>Select <span class="Emphasis">File &gt; Options</span>. The Options dialog opens.</li>
+                    <li>Select the <span class="Emphasis">Plugins </span>tab. You should see a row that represents your DLL.</li>
+                    <li>
+                        <p>Click <span class="Emphasis">Enable</span>.</p>
+                        <p>
+                            <img src="../../Resources/Images/Flare/plugin_example.png" class="MaxWidth100Percent" />
+                        </p>
+                        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Co-Fl/Plug-Ins/Note-Plug-In-API.flsnp" />
+                    </li>
+                    <li>Restart <MadCap:variable name="Other.Product" />.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Interfaces and Enumerations</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>For more details on the interfaces and enumerations with the plug-in API, see the following:</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="Interfaces/IPlugin.htm">IPlugin Interface</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="Interfaces/IHost.htm">IHost Interface</MadCap:xref>
+                        <ul class="SecondLevel">
+                            <li>
+                                <MadCap:xref href="Interfaces/IEditorContext.htm">IEditorContext Interface</MadCap:xref>
+                                <ul class="ThirdLevel">
+                                    <li>
+                                        <MadCap:xref href="Interfaces/IDocument.htm">IDocument Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Interfaces/ISelection.htm">ISelection Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Enums/EditorView.htm">EditorView Enumeration</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <MadCap:xref href="Interfaces/INavContext.htm">INavContext Interface</MadCap:xref>
+                                <ul class="ThirdLevel">
+                                    <li>
+                                        <MadCap:xref href="Interfaces/ICustomToolBar.htm">ICustomToolBar Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Interfaces/IToolStripMenuItem.htm">IToolStripMenuItem Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Interfaces/IRibbon.htm">IRibbon Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Interfaces/IRibbonControlData.htm">IRibbonControlData Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Interfaces/IRibbonMenuData.htm">IRibbonMenuData Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Interfaces/IRibbonTab.htm">IRibbonTab Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Interfaces/IRibbonGroup.htm">IRibbonGroup Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Interfaces/IRibbonComboBox.htm">IRibbonComboBox Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Interfaces/IRibbonMenu.htm">IRibbonMenu Interface</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="Enums/RibbonIconSize.htm">RibbonIconSize Enumeration</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Examples</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>For examples of creating and working with the plug-in API, see the following:</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="Examples/Context-Menu-Example.htm">Context Menu Example</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="Examples/Controlled-Language-Example.htm">Controlled Language Example</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="Examples/Ribbon-Example.htm">Ribbon Example</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="Examples/Search-Change-Text-Style-Example.htm">Search and Change Text Style Example</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="Examples/Toolbar-Example.htm">Toolbar Example</MadCap:xref>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Best Practices/Guidelines</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are some best practices an guidelines to keep in mind as you work with the plug-in API.</p>
+                <p class="Subheading">Target Framework</p>
+                <ul>
+                    <li>Currently, the <MadCap:variable name="Other.Product" /> API framework only supports libraries targeted to .NET Framework 4.0.</li>
+                </ul>
+                <p class="Subheading">Initialization</p>
+                <ul>
+                    <li>IPlugin.Initialize(IHost) should only be used to set the instance of IHost passed in to a class variable. </li>
+                    <li>Calls to obtain the editor or navigation context should be done in IPlugin.Execute().</li>
+                </ul>
+                <p class="Subheading">Cleaning Up</p>
+                <ul>
+                    <li>Events should be properly detached.</li>
+                    <li>Changes made to the UI should be reverted back to its original state (e.g., ribbon, context menus, tool strip).</li>
+                    <li>IHost.Dispose() should be called in IPlugin.Stop(). This will dispose of most of the menu bar items and ribbon items added.</li>
+                    <li>The IPlugin.IsActivated property should be set to <span class="Emphasis">false</span>.</li>
+                </ul>
+                <p class="Subheading">References</p>
+                <ul>
+                    <li>
+                        <p>The working directory is the base application directory. If you are passing in a URL to any of the interface methods, relative paths are relative to the “Plugins” directory. For example, “DemoPlugin/Icons/Filter.png” maps to:</p>
+                        <p>C:/&lt;<MadCap:variable name="Other.Product" /> Install Path&gt;/Flare.app/Plugins/DemoPlugin/Icons/Filter.png.</p>
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

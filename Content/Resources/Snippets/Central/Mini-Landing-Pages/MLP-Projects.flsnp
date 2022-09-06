@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Projects-Builds-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p class="Micro-Content"><span class="Emphasis">Projects </span>
+                    <MadCap:snippetText src="../Projects/Projects1.flsnp" /> <a href="../../../../Central/Projects/About-Projects-Central.htm">More Details…</a></p>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <p class="Bold">Activities</p>
+                                <ul>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Projects/Uploading-Projects.htm">Uploading (Binding) Projects</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Projects/Importing-Projects.htm">Importing Projects</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Users/Assigning-Users-to-Teams-Projects.htm">Assigning Users to Teams and Projects</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Central/Projects/Source-Control/Source-Control-Central.htm">Source Control and MadCap Central</MadCap:xref>
+                                    </li>
+                                </ul>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <p class="Bold">Page Views</p>
+                                <ul>
+                                    <li><a href="../../../../Central/Widgets/About-Dashboards-Widgets.htm">Dashboard</a>
+                                    </li>
+                                    <li><a href="../../../../Central/Projects/About-Builds.htm">Builds</a>
+                                    </li>
+                                    <li><a href="../../../../Central/Projects/Checklists/About-Project-Checklists.htm">Checklists</a>
+                                    </li>
+                                    <li><a href="../../../../Central/Projects/Viewing-Project-Files-Commits.htm">Files</a>
+                                    </li>
+                                    <li><a href="../../../../Central/Projects/Viewing-Project-Files-Commits.htm">Commits</a>
+                                    </li>
+                                    <li><a href="../../../../Central/Projects/Reports/About-Reports.htm">Reports</a>
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div>
+                <p style="text-align: center;">
+                    <img src="../../../Images/Central/projects2.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

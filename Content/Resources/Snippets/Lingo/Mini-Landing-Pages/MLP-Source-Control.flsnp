@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">Source Control </span>
+                    <MadCap:snippetText src="../../Shared/Fl-Li/Source-Control/Source-Control-Definition.flsnp" /> <a href="../../../../Lingo/Source-Control/About-Source-Control-Lingo.htm">More Details…</a></p>
+                <p class="Bold">Provider Options</p>
+                <ul>
+                    <li><a href="../../../../Lingo/Source-Control/Git/About-Git.htm">Git</a>
+                    </li>
+                    <li><a href="../../../../Lingo/Source-Control/Perforce/About-Perforce.htm">Perforce</a>
+                    </li>
+                    <li><a href="../../../../Lingo/Source-Control/Subversion/About-Apache-Subversion.htm">Subversion</a>
+                    </li>
+                    <li><a href="../../../../Lingo/Source-Control/TFS/About-Microsoft-Team-Foundation-Server.htm">Team Foundation Server</a>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Lingo/Source-Control-Process.png" alt="" title="" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

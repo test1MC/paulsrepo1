@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="723" MadCap:lastWidth="1397">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature-Supported/HTML5-WebHelp-WH-Plus.flsnp" />
+        <p>
+            <MadCap:snippetText src="../Topics/Including-Topic-Search.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to include or exclude topics in search</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Steps-General/Make-Sure-Content-Explorer-Open.flsnp" />
+                    </li>
+                    <li>Locate and click on the topic file.</li>
+                    <li>In the local toolbar, click <img src="../../../Images/Shared/Ca-Co-Fl-Li/run_properties2_btn.png" class="ReduceButtonSize" />. The Properties dialog for the file opens.</li>
+                    <li>Click the <span class="Emphasis">Topic Properties</span> tab. </li>
+                    <li>Click the check box labeled <span class="Emphasis">Include topic when full-text search database is generated</span>.</li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">In <MadCap:variable name="Outputs.HTMLHelp" />, all topics are always searchable.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

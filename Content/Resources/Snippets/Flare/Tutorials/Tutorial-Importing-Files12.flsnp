@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Notice that there are some files that Flare has found in both projects (the Status column indicates “File exists”). That's due to the fact that many of Flare's project templates contain similar files. In an actual situation, you probably won't see many (if any) files that are the same in both your existing project and the temporary project you are importing from.</p>
+    </body>
+</html>

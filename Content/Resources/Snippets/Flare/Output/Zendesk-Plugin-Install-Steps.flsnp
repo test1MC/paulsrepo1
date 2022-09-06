@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>
+                <p>When you install Flare, choose <span class="Emphasis">Custom</span> as the type of installation. Click <span class="Emphasis">Next</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/Custom-Install.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Targets-Guide" />
+            <li>
+                <p>On the next page of the installation wizard, select <span class="Emphasis">MadCap Connect for Zendesk</span>. Click <span class="Emphasis">Next</span>.</p>
+                <p>
+                    <img src="../../../Images/Flare/Zendesk-install-step2.png" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <li>Click <span class="Emphasis">Install</span>.</li>
+            <li>After the Flare installation is completed, open your project and create the destination file for Zendesk. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>.</MadCap:conditionalText></li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>Another alternative is to use a Tripane skin, which lets you generate output in a traditional format with three distinct frames (a navigation pane on the left, a toolbar and search on the top, and the main body pane). <MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-HTML5-Guide">See <MadCap:xref href="../../../../Flare/Output/HTML5-Output/HTML5-Tripane-Output.htm">HTML5 Tripane Output</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/Flare/Tripane-Output1.png" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

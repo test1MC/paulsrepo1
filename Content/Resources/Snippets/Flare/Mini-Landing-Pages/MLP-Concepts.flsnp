@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareNavigationLinksGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">Concepts </span>A <MadCap:snippetText src="../Concepts/Concept-Definition.flsnp" /> <a href="../../../../Flare/Concepts/About-Concepts.htm">More Details…</a></p>
+                <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                    <tbody>
+                        <tr class="TableStyle-Simple-Body-Row1">
+                            <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                <p class="Bold">Basic Steps</p>
+                                <ol>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Concepts/Adding-Concepts.htm">Adding Concepts</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Concepts/Assigning-Topics-to-Concepts.htm">Assigning Topics to Concepts</MadCap:xref>
+                                    </li>
+                                    <li>
+                                        <MadCap:xref href="../../../../Flare/Concepts/Inserting-Concepts.htm">Inserting Concepts</MadCap:xref>
+                                    </li>
+                                </ol>
+                            </td>
+                            <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                <p class="Bold">Reasons for Using Concepts</p>
+                                <ul>
+                                    <li><span class="Emphasis">Concept Links:</span>
+                                        <ul>
+                                            <li>
+                                                <MadCap:xref href="../../../../Flare/Concepts/Inserting-Concept-Links.htm">Inserting Concept Links into Topics</MadCap:xref>
+                                            </li>
+                                            <li>
+                                                <MadCap:xref href="../../../../Flare/Concepts/Concept-Link-Example.htm">Concept Link Example</MadCap:xref>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li><span class="Emphasis">Search Filters:</span>
+                                        <ul>
+                                            <li>
+                                                <MadCap:xref href="../../../../Flare/Search/Search-Filter-Sets/Creating-Search-Filters.htm">Creating Search Filters</MadCap:xref>
+                                            </li>
+                                            <li>
+                                                <MadCap:xref href="../../../../Flare/Search/Search-Filter-Sets/Search-Filter-Set-Example.htm">Search Filter Set Example</MadCap:xref>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li><span class="Emphasis">Lists of Concepts:</span>
+                                        <ul>
+                                            <li>
+                                                <MadCap:xref href="../../../../Flare/Proxies/Creating-List-Concepts.htm">Creating a List of Concepts</MadCap:xref>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Concepts.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

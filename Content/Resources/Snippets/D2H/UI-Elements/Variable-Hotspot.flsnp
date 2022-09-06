@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="TableText">Creates a hotspot to a text or rich content variable. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../D2H/Variables/Inserting-Variable.htm" MadCap:conditions="General.Online-Only" MadCap:excludeAction="unbind">Inserting a Variable</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide,D2H-Guides.D2H-Whats-New-Guide"> See the online Help or the <span class="EmphasisItalic">Making It Look Good Guide</span>.</MadCap:conditionalText></p>
+    </body>
+</html>

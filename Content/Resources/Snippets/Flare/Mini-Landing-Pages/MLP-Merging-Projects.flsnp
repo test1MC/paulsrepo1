@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareTablesOfContentsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <p><span class="Emphasis">Merging Projects </span>This structure involves multiple projects that are connected in a way that the source files are merged into a single online output. The merging is based on the table of contents (or browse sequence) in one master project, where links point to one or more other child projects. <a href="../../../../Flare/TOCs/Merging-Projects.htm">More Details…</a></p>
+        <div class="Tiles-6-6">
+            <div>
+                <p class="Bold">Ways to Merge Projects</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/TOCs/More/Merging-Flare-Projects-Using-Targets.htm">Runtime Merging Flare Projects Using Targets</MadCap:xref> (Recommended)</li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/TOCs/More/Merging-Output-from-HTML-Help-Projects.htm">Runtime Merging Output from HTML Help Projects (CHM Files)</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/TOCs/More/Merging-Output-from-Flare-WebHelp-Projects.htm">Runtime Merging Output from Flare WebHelp Projects</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/HTML5-Output/AutoMerge/Merging-Output-Runtime-Using-HTML5.htm">Runtime Merging Server-based HTML5 Output</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Output/WebHelp-Plus-Output/AutoMerge/Merging-Output-Runtime-Using-WebHelp-Plus.htm">Runtime Merging Output Using WebHelp Plus</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/pa-multiple-projects-merging1.png" alt="" title="" style="width: 416px;height: 245px;" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

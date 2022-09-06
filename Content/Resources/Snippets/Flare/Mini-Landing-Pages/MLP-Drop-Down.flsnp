@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareNavigationLinksGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">Drop-Down </span>A feature that lets users click a hotspot to expand and collapse specified content below it. <a href="../../../../Flare/Nav-Links/Drop-Down-Text/About-Drop-Down-Text.htm">More Details…</a></p>
+                <p class="Bold">Common Tasks</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Drop-Down-Text/Inserting-Drop-Down-Text.htm">Inserting Drop-Down Text          </MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Drop-Down-Text/Editing-Drop-Down-Text.htm">Editing Drop-Down Text</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Drop-Down-Text/Removing-Unbinding-Drop-Down-Text.htm">Removing/Unbinding Drop-Down Text</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Drop-Down-Text/Deleting-Drop-Down-Text.htm">Deleting Drop-Down Text</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Importing/More-FrameMaker/Creating-Drop-Down-Effects-in-FM.htm">Creating Drop-Down Effects in FrameMaker Source Documents</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Dropdown.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

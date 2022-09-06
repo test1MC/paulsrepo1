@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature-Supported/All.flsnp" />
+        <p>
+            <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Summary.flsnp" />
+        </p>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Autonumbers-Guide" />
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Autonumbers-Guide" />
+        <h2 MadCap:conditions="General.Print-Only" class="NoPageBreakBefore">Autonumbers in Print Versus Online Output</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Autonumbers in Print Versus Online output</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../Autonumbering/Autonumbers-Online-Limited.flsnp" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only" class="NoPageBreakBefore">Why Use Autonumbers?</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>why use autonumbers?</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Autonumbering can technically be used for both online and print-based output, but it is usually intended for print-based output. </p>
+                <p>Following are just a few reasons for using autonumbering. For samples of formats that you might use for these purposes, see <MadCap:xref href="../../../../Flare/Autonumbers/AutoNumber-Format-Examples.htm">Autonumber Format Examples</MadCap:xref>.</p>
+                <ul>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Volumes:auto-numbers;Autonumbers:volumes;Chapters:auto-numbers;Autonumbers:chapters;Sections:auto-numbers;Autonumbers:sections" />Chapter, Section, and Volume Numbers </span>If you are producing output that is organized into multiple chapters, sections, and/or volumes, you can apply autonumbers to those different elements. Not only does this let you produce numbers automatically for chapter, section, and volume headings, but you can also incorporate this numbering into other content (e.g., page numbers, figure captions, table headings).</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <div class="note">
+                                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">To generate <span class="EmphasisItalic">chapter</span> numbers, you need to create an autonumber format that includes the {chapnum} command. Then specify chapter breaks in the outline TOC. <MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Printed-Output-Guide">See <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm">Specifying Chapter Breaks and Page Layouts</MadCap:xref>.</MadCap:conditionalText></p>
+                                </div>
+                                <div class="note">
+                                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">To generate <span class="EmphasisItalic">section</span> numbers, you need to create an autonumber format that includes the {secnum} command. Then specify section breaks in the outline TOC. <MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Printed-Output-Guide">See <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm">Specifying Chapter Breaks and Page Layouts</MadCap:xref>.</MadCap:conditionalText></p>
+                                </div>
+                                <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Autonumbers-Guide" />
+                                <div class="note">
+                                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">To generate <span class="EmphasisItalic">volume</span> numbers, you need to create an autonumber format that includes the {volnum} command. Second, you need to specify chapter breaks in the outline TOC<MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Printed-Output-Guide"> (see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm">Specifying Chapter Breaks and Page Layouts</MadCap:xref>)</MadCap:conditionalText>. Third, you need to specify the autonumber flow for each volume, resetting the volume number to a specific number<MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Printed-Output-Guide"> (see <MadCap:xref href="../../../../Flare/Autonumbers/Specifying-Auto-Numbering-Flow-for-Output.htm">Specifying Autonumbering Flow for Output</MadCap:xref>)</MadCap:conditionalText>.</p>
+                                </div>
+                                <div class="note">
+                                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also insert Chapter, Section, or Volume Number variables into page layout headers. By doing this, you can automatically display the correct chapter, section, or volume number at the top or bottom of pages in the output. <MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Printed-Output-Guide">See <MadCap:xref href="../../../../Flare/Page-Layouts/Frames/Inserting-Chapter-Section-Volume-Number-Variables-Frames.htm">Inserting Chapter, Section, and Volume Number Variables into Frames</MadCap:xref>.</MadCap:conditionalText></p>
+                                </div>
+                                <MadCap:snippetBlock src="../Indexes/Note-Index-Autonumbers.flsnp" />
+                                <div class="note">
+                                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you are creating PDF or Word output, you do not necessarily need to create multiple documents, but you do need to create chapter breaks for the output. For more information see <MadCap:xref href="../../../../Flare/Output/Printed-Output/Specifying-Chapter-Breaks.htm" MadCap:conditions="General.Online-Only">Specifying Chapter Breaks for Printed Output</MadCap:xref><MadCap:conditionalText MadCap:conditions="General.Print-Only">the online Help</MadCap:conditionalText>.</p>
+                                </div>
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:paragraphs;Paragraphs:auto-numbers" />Paragraphs </span>You can apply autonumbering to different levels of paragraphs in your project.</p>
+                        <MadCap:dropDown class="SecondLevel">
+                            <MadCap:dropDownHead class="OnlineOnly">
+                                <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+                            </MadCap:dropDownHead>
+                            <MadCap:dropDownBody>
+                                <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/Example-Autonumbers-Paragraphs.flsnp" />
+                            </MadCap:dropDownBody>
+                        </MadCap:dropDown>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Figure captions:auto-numbers;Captions:auto-numbers;Autonumbers:figure captions" />Figure Captions </span>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Figure-Captions.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:table headings;Tables:auto-numbers" />Table Headings </span>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Table-Headings.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Page numbers:auto-numbers;Autonumbers:page numbering" />Page Numbering </span>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Page-Numbering.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="Autonumbers:lists;Lists:auto-numbers" />Lists </span>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Lists.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">And More… </span>
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Autonumbers-More.flsnp" />
+                    </li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide,Flare-Guides.Flare-Autonumbers-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Steps for Using Autonumbers</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>steps for using autonumbers</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Steps-Summary.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Steps.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot MadCap:conditions="General.Online-Only">
+                    <MadCap:keyword term="Autonumbers:formats;Autonumbers:commands;Commands:auto-numbers" />autonumber formats and commands</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Autonumbers-2.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Format-Building-Block.flsnp" />
+                <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Types-Commands.flsnp" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>autonumber commands</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Commands.flsnp" />
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Commands-List.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>
+                            <MadCap:keyword term="Autonumbers:file commands;File commands:auto-numbers" />file commands</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/File-Commands.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>
+                            <MadCap:keyword term="Autonumbers:format commands;Formatting:autonumbers" />format commands</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Format-Commands.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="Products.Flare">However, if you plan to generate Word output from your project, you should not use these format commands, since they are not supported in Word. Instead, create and apply a span class to the autonumber format to change its look. To create a span class, open the Stylesheet Editor, select the <span class="Emphasis">span</span> tag on the left side of the editor, and follow the steps for creating a style (e.g., span.BoldGreen).</MadCap:conditionalText>
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>
+                            <MadCap:keyword term="Autonumbers:page commands;Page commands:Auto-numbers" />page commands</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/Page-Commands.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>
+                            <MadCap:keyword term="Autonumbers:Text commands;Text commands:auto-numbers">
+                            </MadCap:keyword>text commands</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Autonumbering/Text-Commands.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>autonumber format examples</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>For more information see <MadCap:xref href="../../../../Flare/Autonumbers/AutoNumber-Format-Examples.htm">Autonumber Format Examples</MadCap:xref>.</p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="Flare-Guides.Flare-Autonumbers-Guide" class="NoPageBreakBefore">
+            <MadCap:keyword term="Autonumbers:importing from FrameMaker;Adobe FrameMaker:importing auto-numbers;Importing:auto-numbers" />Importing Autonumbers from FrameMaker</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Autonumbers:importing from FrameMaker;Adobe FrameMaker:importing auto-numbers;Importing:auto-numbers" />importing autonumbers from framemaker</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When you import FrameMaker files, the autonumbers in those documents are retained in <MadCap:variable name="Other.Product" />. You can then edit future content for your project (including autonumbers) either in <MadCap:variable name="Other.Product" /> or in FrameMaker.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Autonumbers-Guide" />
+        <h2 MadCap:conditions="Flare-Guides.Flare-Autonumbers-Guide" class="NoPageBreakBefore">Comparisons to FrameMaker's Autonumbering</h2>
+        <MadCap:dropDown MadCap:conditions="Flare-Guides.Flare-Autonumbers-Guide,General.Online-Only">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Comparisons to framemaker's autonumbering</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>If you are an experienced FrameMaker user, you will notice many similarities and differences between <MadCap:variable name="Other.Product" /> and FrameMaker when it comes to autonumbers. These include the following.</p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>similarities</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ul>
+                            <li>Many of the commands (i.e., building blocks) for autonumbers are much alike. </li>
+                            <li>You can uses series labels in both <MadCap:variable name="Other.Product" /> and FrameMaker.</li>
+                            <li>The basic steps are similar. In both <MadCap:variable name="Other.Product" /> and FrameMaker, you need to (a) create autonumber formats, (b) apply styles with autonumber formats to content, and (c) specify how autonumber formats work in volumes and chapters.</li>
+                        </ul>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>differences</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <ul>
+                            <li><span class="SetOffFirstLevel">User Interface </span>There are some commands in <MadCap:variable name="Other.Product" /> that are not seen in FrameMaker.</li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Workflow </span>Although some of the basic steps might be similar, the way to accomplish them in <MadCap:variable name="Other.Product" /> is sometimes different. </p>
+                                <div class="example">
+                                    <p class="exampleHeadTextEmpty">example</p>
+                                    <p>In FrameMaker, you specify an autonumber format for a paragraph format in the Paragraph Designer. In <MadCap:variable name="Other.Product" />, however, you can do this in cascading stylesheets, which let you provide numerous other settings for a style, as well as share the CSS file with others. You can also create autonumber formats for individual paragraphs only.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Numbered Lists </span>
+                                    <MadCap:snippetText src="../FrameMaker/FrameMaker-Numbered-Lists.flsnp" />
+                                </p>
+                                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Autonumbers-Guide" />
+                                <MadCap:dropDown class="ThirdLevel">
+                                    <MadCap:dropDownHead class="OnlineOnly">
+                                        <MadCap:dropDownHotspot>example</MadCap:dropDownHotspot>
+                                    </MadCap:dropDownHead>
+                                    <MadCap:dropDownBody>
+                                        <MadCap:snippetBlock src="../FrameMaker/Example-FrameMaker-Numbered-Lists.flsnp" />
+                                    </MadCap:dropDownBody>
+                                </MadCap:dropDown>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Autonumbers </span>In <MadCap:variable name="Other.Product" /> there is no need to update numbering manually, as there is in FrameMaker. All numbering in <MadCap:variable name="Other.Product" /> is automatically updated when you generate the output.</p>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li><span class="SetOffFirstLevel">CSS </span>In FrameMaker, you need to import paragraph formats from one document to another in order to use them. In <MadCap:variable name="Other.Product" />, the topics just need to be associated with the same stylesheet; they can then use the same paragraph style containing the necessary autonumber format. </li>
+                        </ul>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Printed-Output-Guide" />
+    </body>
+</html>

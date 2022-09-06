@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../Resources/MasterPages/Shared/All/Main-No-Breadcrumbs.flmsp');">
+    <head><title></title>
+        <meta name="description" content="MadCap installing SQL, installing SQL&#160;Server, SQL server requirements, Install Microsoft SQL&#160;Server" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="SQL:SQLite;SQL:Express" />
+            <MadCap:keyword term="Translation memory" />
+            <MadCap:keyword term="Translation memory:dictionaries;Dictionaries:translation memory" />SQL</h1>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Lingo/SQL/SQL-Summary.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2] " />
+        <h2 MadCap:conditions="General.Print-Only" class="NoPageBreakBefore">SQLite (Local)</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>sqlite (Local)</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Lingo/SQL/SQLite-Summary.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only" class="NoPageBreakBefore">SQL Server Express (Server)</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>sql server express (Server)</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Lingo/SQL/SQL-Express-Summary.flsnp" />
+                <MadCap:snippetBlock src="../../Resources/Snippets/Lingo/SQL/SQL-Express-Summary2.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you are having difficulty connecting to a remote Lingo database, it may be due to the security setting of SQL. To view a remote server, you must have administrator rights on that server. You can add users to a local machine as administrators or add users in SQL Management Studio. To do this in Management Studio: (1) open SQL Server Management Studio (see <a href="http://msdn.microsoft.com/" target="_blank">msdn.microsoft.com</a> for more information); (2) expand the server and then expand <span class="Emphasis">Security</span>; you’ll probably have a login called "BUILTIN\Administrators," which will have "sysadmin" rights; in that case, any admin of your machine will have sysadmin rights because they’re part of that group; and (3) add anyone to this who will need to access your server.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If your database is not displaying when you are setting up TM, your SQL browser service may not be enabled. To enable this service: (1) open SQL Server Management Studio (see <a href="http://msdn.microsoft.com/" target="_blank">msdn.microsoft.com</a> for more information), (2) open the SQL Server Configuration Manager, (3) open the SQL Server Browser and go to the <span class="Emphasis">Service</span> tab, (4) change the Start Mode to <span class="Emphasis">Automatic</span>, and (5) click <span class="Emphasis">Apply</span>, and (6) start your <span class="Emphasis">SQL Server Browser</span>.</p>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you are using <MadCap:keyword term="Microsoft Server 2005 Standard" />Microsoft Server 2012 Standard, you cannot specify a folder to install TM into from a remote machine. Therefore, all TM databases are initially installed into the default SQL location.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

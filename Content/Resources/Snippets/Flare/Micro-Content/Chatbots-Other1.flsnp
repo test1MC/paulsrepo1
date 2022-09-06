@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Featured snippets are quite easy to create and use right away, but there are other potential uses for micro content as well. The list of possibilities is limited only by your imagination and available resources. Here are just a few that you might consider:</p>
+        <p class="Subheading">Chatbots</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Chatbot.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <p class="Subheading">Field-level Help</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Field-Level-Help.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <p class="Subheading">FAQ Databases</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-FAQ-Database.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <p class="Subheading">Virtual and Augmented Reality Instructions</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Virtual-Reality.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>To accomplish any of the above, you might need the assistance of an experienced programmer and/or third-party applications.</p>
+        <p MadCap:conditions="Snippets.Snippet1">For more information, see <MadCap:xref href="../../../../Flare/Micro-Content/Creating-Micro-Content.htm#HowAdvancedPurposes">How to Use Micro Content for Advanced Purposes</MadCap:xref>.</p>
+        <p MadCap:conditions="Snippets.Snippet2">For more information, see <MadCap:xref href="../../../../Flare/z/Creating-Micro-Content.htm#HowAdvancedPurposes">How to Use Micro Content for Advanced Purposes</MadCap:xref>.</p>
+        <p MadCap:conditions="Snippets.Snippet3">For more information, see <MadCap:xref href="../../../../Flare/Introduction/Whats-New-Flare.htm#HowToAdvanced">How to Use Micro Content for Advanced Purposes</MadCap:xref>.</p>
+        <p MadCap:conditions="Snippets.Snippet4">For more information, see <MadCap:xref href="../../../../Print-Only-Topics/Flare/Whats-New/Micro-Content.htm#HowToAdvanced">How to Use Micro Content for Advanced Purposes</MadCap:xref>.</p>
+        <p MadCap:conditions="Snippets.Snippet5">For more information, see <MadCap:xref href="../../../../Flare/Micro-Content/Creating-Micro-Content.htm#HowAdvancedPurposesH2">How to Use Micro Content for Advanced Purposes</MadCap:xref>.</p>
+    </body>
+</html>

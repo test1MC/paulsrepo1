@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Analysis/Topics-Not-Linked-by-CSH-ID-Summary.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view topics not linked by a map id</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a project.</li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        </p>
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../UI-Elements/Select-Analysis-Ribbon.flsnp" />&#160;In the Dynamic Reports section, select <span class="Emphasis">More Reports &gt; Topics Not Linked By Map ID</span>.</p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Summary Window Pane</span> Double-click the row that mentions these items.</li>
+                        </ul>
+                        <p>The Topics Not Linked By Map ID window pane opens.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Drag-Divider-See-More.flsnp" />
+                        <ul>
+                            <li><span class="SetOffFirstLevel">File </span>
+                                <MadCap:snippetText src="../UI-Elements/File-Description.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Title </span>
+                                <MadCap:snippetText src="../UI-Elements/Title-Option.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Folder </span>
+                                <MadCap:snippetText src="../UI-Elements/Folder-Option.flsnp" />
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Fl-Li/UI-Elements/Page-Nav-Buttons.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody class="Final">
+                <MadCap:snippetBlock src="../Reports/Note-Can-Include-Info-Reports.flsnp" MadCap:conditions="General.Online-Only" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

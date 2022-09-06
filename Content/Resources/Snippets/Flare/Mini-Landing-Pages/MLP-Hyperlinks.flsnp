@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareNavigationLinksGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Hyperlinks </span>
+                    <MadCap:snippetText src="../Nav-Links/Text-Hyperlink-Intro.flsnp" /> </p>
+                <p class="Bold">Common Tasks</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Text-Hyperlinks/Inserting-Text-Hyperlinks.htm">Inserting Text Hyperlinks</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Nav-Links/Text-Hyperlinks/Editing-Text-Hyperlinks.htm">Editing Text Hyperlinks</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Hyperlinks.png" alt="" title="" style="width: 377px;height: 249px;" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

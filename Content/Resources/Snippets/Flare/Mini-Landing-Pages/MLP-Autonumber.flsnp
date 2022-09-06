@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareAutoNumbersGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Autonumbers </span>
+                    <MadCap:snippetText src="../../Shared/Co-Fl/Autonumbering/Autonumbers-Summary.flsnp" /> <a href="../../../../Flare/Autonumbers/About-Autonumbers.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Autonumbers/Creating-Auto-Number-Formats-for-Styles.htm">Creating Autonumber Formats for Styles</MadCap:xref> <br />(<a href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">Use stylesheet mediums to include autonumbers in only some outputs</a>)</li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Styles/Applying-Styles-to-Content.htm">Applying Styles to Topic Content</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Autonumbers/Specifying-Auto-Numbering-Flow-for-Output.htm">Specifying Autonumbering Flow for Output</MadCap:xref>
+                    </li>
+                </ol>
+                <p>
+                    <MadCap:xref href="../../../../Flare/Autonumbers/AutoNumber-Format-Examples.htm">Autonumber Format Examples</MadCap:xref>
+                </p>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Autonumbers1.png" alt="" title="" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

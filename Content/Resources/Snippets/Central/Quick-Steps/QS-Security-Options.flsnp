@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Server-Mgmt-Purchasing-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <MadCap:snippetBlock src="../Server/Set-Security-Options-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+            </div>
+            <div>
+                <p style="text-align: center;">
+                    <img src="../../../Images/Central/QS-Security-Options.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Using the Accessibility Suggestions window pane, you can view places in your project where you can make accessibility improvements for WebHelp and PDF outputs in Flare. This includes the ability to identify tables that are missing certain elements and finding objects—such as images, equations, and QR codes—that are missing alternate text. You can use the Accessibility Suggestions Search Properties dialog to customize which types of issues to display in the window pane.</p>
+    </body>
+</html>

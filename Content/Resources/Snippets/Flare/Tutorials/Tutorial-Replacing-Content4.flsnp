@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>When we imported files from the Temp project, we included the big hero image that is shown in the background at the top of the Home topic. Let’s say you have a different image that you want to use. Start by right-clicking the <span class="Emphasis">div</span> tag bar to the left of the hero image, then select <span class="Emphasis">Style Class</span>, then <span class="Emphasis">Edit Style Class</span>.</p>
+    </body>
+</html>

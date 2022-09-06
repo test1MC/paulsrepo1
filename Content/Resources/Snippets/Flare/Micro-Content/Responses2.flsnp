@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="caption-side: top;width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" cellspacing="0" class="TableStyle-Basic-Alternate-Rows">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Button/Section</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Co-Fl/medium_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Co-Fl/Styles/Medium-Drop-Down.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Styles/Mediums/About-Mediums-Media-Queries.htm">About Mediums and Media Queries</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Co-Fl/insert_a_hyperlink_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Opens the Insert Hyperlink dialog, which lets you insert a text hyperlink on the selected text. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Nav-Links/Text-Hyperlinks/Inserting-Text-Hyperlinks.htm">Inserting Text Hyperlinks</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Co-Fl/insert_new_cross_reference_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Opens the Insert Cross-Reference dialog, which lets you insert a cross-reference at the location of the cursor. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Nav-Links/Cross-References/Inserting-Cross-References.htm">Inserting Cross-References</MadCap:xref>.</MadCap:conditionalText></p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Co-Fl/insert_image_btn3.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../UI-Elements/Insert-Image-Button2.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Images/Inserting-Images.htm">Inserting Images</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/insert_snippet_btn.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../UI-Elements/Insert-Snippet-Link-Dialog-Description.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Snippets/Inserting-Snippets.htm">Inserting Snippets</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                    </td>
+                </tr>
+                <tr MadCap:conditions="" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Co-Fl/insert_variable_btn2.png" alt="" title="" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../UI-Elements/Insert-Variable-Button2.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Variables/Inserting-Variables.htm">Inserting Variables</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="Products.Flare">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Co-Fl-Li/quick_character_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Co-Fl/XML-Editor/Insert-Special-Characters-Description1.flsnp" />
+                            <MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Characters-and-Symbols/Inserting-Special-Characters-and-Symbols.htm">Inserting Characters and Symbols</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Co-Fl-Li/space_markers_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">
+                            <MadCap:snippetText src="../../Shared/Co-Fl/UI-Elements/Paragraph-Space-Markers-Button.flsnp" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Shared/Co-Fl/show_tags_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <p class="TableText">If you click the face of this button, all of the content changes, showing the XML tags surrounding the content. If you click the down arrow, you can select various other options<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../../../../Flare/Interface/UI-Elements/XML-Editor.htm">XML Editor</MadCap:xref> for more details)</MadCap:conditionalText>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

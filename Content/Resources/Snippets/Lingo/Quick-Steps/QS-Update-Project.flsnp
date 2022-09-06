@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/lingo11/LingoGettingStartedGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <p class="micro-content-only">
+                        <MadCap:snippetText src="../Projects/Update-Project-Summary.flsnp" /> <span class="micro-content-only-inline"><a href="../../../../Lingo/Projects/Updating-Projects.htm">More Details…</a></span></p>
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Update a Project</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <ol>
+                                <li>Select <span class="Emphasis">File &gt; Update Project</span>.</li>
+                                <li>Navigate to and select the project or file that has been changed. <span class="topic-only">A processing dialog temporarily displays as the changed files are integrated into the <MadCap:variable name="Other.Product"></MadCap:variable> project. This dialog closes automatically when it is finished.</span></li>
+                                <li>
+                                    <p>(Optional) If you want to update the localized images in your Lingo project with the images from the source, select <span class="Emphasis">Replace localized images for this project</span>, and click <span class="Emphasis">OK</span>.</p>
+                                    <div class="topic-only">
+                                        <div class="note">
+                                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You may want to replace the localized images if the images in the source project have changed considerably. Localized images will only be replaced if the source image is newer (i.e., more recently updated) than the localized image; localized images that have not changed in the source project will not be replaced.</p>
+                                        </div>
+                                        <div class="note">
+                                            <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You will only be prompted to replace images if there are images in your Lingo project.</p>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ol>
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                </div>
+                <div class="micro-content-only">
+                    <p class="center" style="text-align: center;">
+                        <img src="../../../Images/Lingo/QS-Update-Project.gif" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

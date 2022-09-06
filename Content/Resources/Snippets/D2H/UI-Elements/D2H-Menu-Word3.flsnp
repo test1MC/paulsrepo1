@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="5172" MadCap:lastWidth="1485">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <h2 MadCap:conditions="General.Print-Only">Help</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Help</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The Help section of the Getting Started submenu gives you access to the following Doc-To-Help features in Word:</p>
+                <p MadCap:conditions="General.Online-Only">
+                    <img src="../../../Images/D2H/D2H_Help_submenu_in_Word.png" class="MaxWidth100Percent" />
+                </p>
+                <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 20%;" />
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 80%;" />
+                    <thead>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" style="text-align: center;">Function</th>
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/Documentation_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Open the embedded help system for Doc-To-Help.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/Home_Page_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Open the Doc-To-Help home page. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/Community_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Visit MadCap's online forum to interact with other Doc-To-Help users. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                                <p class="TableText" style="text-align: center;">
+                                    <img src="../../../Images/D2H/PDF_Guides_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">View and download PDF manuals for Doc-To-Help.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText" style="text-align: center;">
+                                    <img src="../../../Images/D2H/Videos_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Watch tutorial videos on Doc-To-Help.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                                <p class="TableText" style="text-align: center;">
+                                    <img src="../../../Images/D2H/Report_Bug_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Report any errors or issues you encounter while using Doc-To-Help to MadCap Technical Support.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText" style="text-align: center;">
+                                    <img src="../../../Images/D2H/Check_for_updates_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Check to see if any updates are available to download for Doc-To-Help.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows" style="text-align: center;">
+                                <p class="TableText" style="text-align: center;">
+                                    <img src="../../../Images/D2H/Deactivate_btn.png" class="MaxWidth100Percent" />
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                                <p class="TableText">Deactivate Doc-To-Help from your workstation.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="D2H-Guides.D2H-Whats-New-Guide" />
+        <h2 MadCap:conditions="General.Print-Only">Common Tasks</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Common Tasks</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>The Common Tasks submenu lets you configure your options and settings, schedule builds, compact the size of your Doc-To-Help project and convert older versions of Word documents to the current version.</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The Common Tasks submenu will only display when you have a Doc-To-Help project already open.</p>
+                </div>
+                <p MadCap:conditions="General.Online-Only">
+                    <img src="../../../Images/D2H/D2H-menu-Common-Tasks-submenu.png" class="MaxWidth100Percent" style="mc-thumbnail: popup;">
+                    </img>
+                </p>
+                <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 20%;">
+                    </col>
+                    <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 80%;">
+                    </col>
+                    <thead>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" style="text-align: center;">Function</th>
+                            <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/D2H-menu-Word-Options-btn.png" class="MaxWidth100Percent">
+                                    </img>
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Configure file locations, preferences, and SharePoint options.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/D2h-menu-Word-BuildScheduler-btn.png" class="MaxWidth100Percent">
+                                    </img>
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Schedule builds for your Doc-To-Help project. </p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText">
+                                    <img src="../../../Images/D2H/D2h-menu-Word-SaveAs-btn.png" class="MaxWidth100Percent">
+                                    </img>
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Choose a specific name to save your Doc-To-Help project.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                                <p class="TableText" style="text-align: center;">
+                                    <img src="../../../Images/D2H/D2H-menu-Word-Compact-btn.png" class="MaxWidth100Percent" style="mc-thumbnail: popup;">
+                                    </img>
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Shrink the size of your project.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText" style="text-align: center;">
+                                    <img src="../../../Images/D2H/D2h-menu-Word-ImportSettings-btn.png" class="MaxWidth100Percent" style="mc-thumbnail: popup;">
+                                    </img>
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                                <p class="TableText">Import settings from an XML file or existing Doc-To-Help project.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                                <p class="TableText" style="text-align: center;">
+                                    <img src="../../../Images/D2H/D2h-menu-Word-ExportSettings-btn.png" class="MaxWidth100Percent" style="mc-thumbnail: popup;">
+                                    </img>
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                                <p class="TableText">Export settings to an XML file or another Doc-To-Help project.</p>
+                            </td>
+                        </tr>
+                        <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows" style="text-align: center;">
+                                <p class="TableText" style="text-align: center;">
+                                    <img src="../../../Images/D2H/D2h-menu-Word-ConvertDocToDocX-btn.png" class="MaxWidth100Percent">
+                                    </img>
+                                </p>
+                            </td>
+                            <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                                <p class="TableText">Convert older versions of Word documents to the current version.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <MadCap:pageBreak MadCap:conditions="D2H-Guides.D2H-Touring-Workspace-Guide,D2H-Guides.D2H-Whats-New-Guide" />
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Options</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <p>The Options dialog allows to you to configure file locations, preferences, and SharePoint options.</p>
+                        <p>
+                            <img src="../../../Images/D2H/Options_dialog_build_section.png" class="MaxWidth100Percent">
+                            </img>
+                        </p>
+                        <MadCap:snippetBlock src="../Whats-New/Prompts-Build-Options.flsnp">
+                        </MadCap:snippetBlock>
+                        <p> When that option is checked, the Build Log will automatically display while the build for your Doc-To-Help project is in progress. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../D2H/Interface/UI-Elements/Options-Dialog-D2H.htm">Options Dialog</MadCap:xref>.</MadCap:conditionalText></p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead>
+                        <MadCap:dropDownHotspot>Build Scheduler</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="../Output/Build-Scheduler.flsnp">
+                        </MadCap:snippetBlock>
+                        <p>
+                            <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../D2H/Output/Scheduling-Builds.htm">Scheduling Builds with the Build Scheduler.</MadCap:xref></MadCap:conditionalText>
+                        </p>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="D2H-Guides.D2H-Whats-New-Guide">
+        </MadCap:pageBreak>
+        <h2 MadCap:conditions="General.Print-Only">Reports</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Reports</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Reports/Reports-Submenu-Word.flsnp">
+                </MadCap:snippetBlock>
+                <MadCap:snippetBlock src="../Reports/Reports-List.flsnp">
+                </MadCap:snippetBlock>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="D2H-Guides.D2H-Whats-New-Guide">
+        </MadCap:pageBreak>
+        <h2 MadCap:conditions="General.Print-Only">Team Authoring</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Team Authoring</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Team-Authoring/Team-Authoring-Submenu-Word.flsnp" />
+                <MadCap:snippetBlock src="../Team-Authoring/Team-Authoring-Submenu-in-Word.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../Resources/MasterPages/Shared/All/Main.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>What's New?</h1>
+        <p>Following are new features available in <MadCap:variable name="Other.Product" />.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Translation Quotes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>A new page has been added to Central, letting you quickly obtain a quote for translating your Flare projects and other files. This quote originates from MadTranslations, which is the translation services division of MadCap Software. Any user associated with a Flare project can request a translation quote for it.</p>
+                <p class="Subheading">How to Request a Translation Quote</p>
+                <ol>
+                    <li>
+                        <p>On the left side of the interface, click <b>Translation</b>.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/Translation-Quote1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>On the left side of the Quote Request dialog, select the project(s) to be included in the quote. You can add or remove check marks next to targets to include or exclude them.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/Translation-Quote2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>Complete the fields on the right side of the dialog:</p>
+                        <ul>
+                            <li><b>Source language</b> From the drop-down, select the original language that is used in the project(s) you need to be translated. Make sure this language matches the source exactly. For example, you might select English (en) here, but the source files are actually in the English United States (en-us) language. Therefore, you should instead select English (United States) in this field. Also, if you have Flare projects in different source languages, you need to create a separate quote for each language.</li>
+                            <li><b>Target language(s)</b> Click in this field and enter a target language. As you type, the list is filtered, and you can choose the language from the list. You can repeat this process to select multiple target languages if necessary.</li>
+                            <li><b>Due date</b> Click <img src="../../Resources/Images/Central/Calendar-btn.png" alt="" title="" class="ReduceButtonSize" /> and select the date when you need the translated work finished.</li>
+                            <li><b>Description</b> You can provide more information about the translation work.</li>
+                            <li><b>Additional Files (.zip)</b> If you would like to include other documents (e.g., Word, PowerPoint) in the quote, place them inside a zip file. Then click this button to select that zip file.</li>
+                            <li><b>I agree to the Terms of Use Agreement and Privacy Policy</b> Before submitting the quote, you must click this check box to give MadTranslations permission to receive a copy of all your selected Flare projects.</li>
+                        </ul>
+                        <p>
+                            <img src="../../Resources/Images/Central/Translation-Quote3.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>Click <b>Submit</b>.</p>
+                        <p>You will receive an email confirming that MadTranslations has received the quote request with a copy of your project(s). MadTranslations will contact you with a quote or an email requesting more information within two business days.</p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Security Options</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>New options give you more control over security aspects of your license. This includes maximum login attempts, automatic logout settings when the system is idle, and password change requirements.</p>
+                <p class="Subheading">How to Set Security Options</p>
+                <ol>
+                    <li>At the top of Central, click your user name, then click <span class="Emphasis">Settings</span>.</li>
+                    <li>In the dialog, select the <span class="Emphasis">License</span> tab.</li>
+                    <li>
+                        <p>On the left, click <span class="Emphasis">Security</span>.</p>
+                        <p>
+                            <img src="../../Resources/Images/Central/Security-Settings1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Select any of the following check boxes and choose values for each. If you do not select a check box next to an item, it will not be enabled (e.g., you can have an indefinite number of login attempts). These settings will affect all users on your license.<ul><li><b>Login attempts allowed</b> If a user exceeds the maximum number of login attempts, that person will be locked out for five minutes. After that, the user can try again, or click <b>Forgot password</b>.</li><li><b>Logout after idle for</b> If there is a lack of activity on Central, a user will see a warning message when one minute is left. After the time expires, the user will be logged out.</li><li><b>Require password change after</b> Starting two days before the expiration, users will see a reminder that their password will expire, prompting them to set a new password. Users can skip this prompt and continue with the old password until the final day, at which time they must set a new password.</li></ul><p><img src="../../Resources/Images/Shared/Ce-Fl/Security-Settings2.png" alt="" title="" class="MaxWidth100Percent" /></p></li>
+                    <li>Click <span class="Emphasis">Save</span>.</li>
+                </ol>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">This feature is available only to persons with Server Management permission. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../Users/Setting-Permissions.htm">Setting User Permissions</MadCap:xref>.</MadCap:conditionalText></p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If a user belongs to more than one Central license, that person is bound to the most restrictive setting across all licenses. For example, License A might specify that three login attempts are allowed, while License B specifies five login attempts, and License C specifies seven login attempts. If the user is working on any of the licenses, that person will be limited to three login attempts.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Bulk Invitation of Subject Matter Experts</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Previously, bulk invitations for users were limited to authors, but now you can use this feature for subject matter experts (SMEs) as well. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../Users/Inviting-Users.htm">Inviting Users</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../Resources/Images/Central/Whats-New/WN-Bulk-SME.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Bulk Invitation Template</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>When you are doing a bulk invite (whether it is or authors or SMEs), you can download and use a CSV file template. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../Users/Inviting-Users.htm">Inviting Users</MadCap:xref>.</MadCap:conditionalText></p>
+                <p>
+                    <img src="../../Resources/Images/Central/Bulk-Invite-Template2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>This template speeds the process because the necessary column headings are already provided.</p>
+                <p>
+                    <img src="../../Resources/Images/Central/Bulk-Invite-Template1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p>After you complete the cells with each user’s email and name, save the CSV file. Then in Central, click <b>Bulk Invite</b> and select the file.</p>
+                <p>
+                    <img src="../../Resources/Images/Central/Bulk-Invite-Template3.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

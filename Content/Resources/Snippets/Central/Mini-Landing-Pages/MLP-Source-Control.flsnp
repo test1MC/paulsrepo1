@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div>
+            <div class="Tiles-6-6">
+                <div>
+                    <p class="Micro-Content"><span class="Emphasis">Source Control </span>
+                        <MadCap:snippetText src="../../Shared/Ce-Fl/Source-Control/Source-Control-Central1.flsnp" /> Git is the source control tool that works behind the scenes to integrate with Flare and Central. <a href="../../../../Central/Projects/Source-Control/Source-Control-Central.htm">More Details…</a></p>
+                </div>
+                <div>
+                    <div class="video">
+                        <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=KSx4vmczrgg" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO (Single-Bound)</a>
+                        </p>
+                        <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=tRKpP8F9Uj4" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO (Dual-Bound)</a>
+                        </p>
+                        <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/central/#ProjectsBuilds" target="_blank">View More Videos in This Series</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="Tiles-6-6" MadCap:conditions="General.Future">
+                <div>
+                    <p style="text-align: center;">
+                        <img src="../../../Images/Shared/Ce-Fl/SingleBoundDiagram.png" class="ThumbnailMicroContent" />
+                    </p>
+                </div>
+                <div>
+                    <p style="text-align: center;">
+                        <img src="../../../Images/Shared/Ce-Fl/DualBoundDiagram.png" class="ThumbnailMicroContent" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

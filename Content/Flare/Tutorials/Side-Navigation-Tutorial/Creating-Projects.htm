@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('..\..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Tutorials-Side-Nav.flmsp');">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Banners/Tutorials/Side-Nav.flsnp" MadCap:conditions="General.Online-Only" />
+        <h1>
+            <MadCap:keyword term="Tutorials:Side Navigation;Side Navigation" />
+            <MadCap:keyword term="Projects:creating" />
+            <MadCap:concept term="FilterIntroduction" />
+            <MadCap:concept term="FilterProjects" />Creating Projects</h1>
+        <p>You probably already have a Flare project that you want to convert to Side Navigation output. For the purposes of this tutorial, we are going to create two Flare projects to illustrate how you might convert your project to one that produces Side Navigation output. Here are the projects we will create:</p>
+        <ul>
+            <li><span class="SetOffFirstLevel">Legacy Project </span>We will create a Flare project that uses the Top Navigation format, pretending it is your existing project that you want to convert. In an actual conversion process, you <span class="EmphasisItalic">will not</span> need to perform these steps, because you will just use your existing project.</li>
+            <li><span class="SetOffFirstLevel">Temp Project </span>We will also create a simple Flare project based on the Side Navigation template. This will be a temporary project. Its only purpose is that we will use it to import into the legacy project the files that we need. In an actual conversion process, you <span class="EmphasisItalic">will</span> perform these steps.</li>
+        </ul>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Create the Legacy Project</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Select <span class="Emphasis">File &gt; New Project</span>. The Start New Project Wizard opens.</li>
+                    <li>In the <span class="Emphasis">Project name</span> field, name your project <span class="TypedEntry">Legacy</span>.</li>
+                    <li>
+                        <p>(Optional) In the <span class="Emphasis">Project folder</span> field, you can enter a location where you want to save your project. By default, projects are saved in your Documents &gt; My Projects folder.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/top_nav_tutorial_create_project1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Click <span class="Emphasis">Next</span>.</li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+                    <li>
+                        <p>Under <span class="Emphasis">Factory Templates</span>, expand the <span class="Emphasis">Online</span> folder and select the <b>Top Navigation</b> template.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/Top-Navigation-Template.png" alt="" title="" class="MaxWidth90Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>Click <span class="Emphasis">Next</span>.</p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+                    <li>
+                        <p>Click <span class="Emphasis">Finish</span>. The project is created and loaded into Flare.</p>
+                        <p>If you were to build and view the HTML5 target in this project right away, it would look something like this:</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/side-nav-tutorial1.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Create the Temp Project</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Open a new session of Flare. This way you can have both projects open at the same time.</li>
+                    <li>Select <span class="Emphasis">File &gt; New Project</span>. The Start New Project Wizard opens.</li>
+                    <li>In the <span class="Emphasis">Project name</span> field, name your project <span class="TypedEntry">Temp</span>.</li>
+                    <li>In the <span class="Emphasis">Project folder</span> field, use the same folder where your legacy project is located.</li>
+                    <li>Click <span class="Emphasis">Next</span>.</li>
+                    <li>
+                        <p>Because Flare's Side Navigation project template contains some elements that we wanted to use (e.g., the look and feel of the Home page), we will borrow those pieces and make changes to them in our legacy project. Under <span class="Emphasis">Factory Templates</span>, expand the <span class="Emphasis">Online</span> folder and select the <b>Side Navigation</b> template.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/Side-Navigation-Template.png" alt="" title="" class="MaxWidth80Percent" />
+                        </p>
+                    </li>
+                    <li>Click <span class="Emphasis">Next</span>.</li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+                    <li>
+                        <p>Click <span class="Emphasis">Finish</span>. The project is created and loaded into Flare.</p>
+                        <p>If you were to build and view the HTML5 target in this project right away, it would look something like this:</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/side-nav-tutorial2.png" alt="" title="" class="MaxWidth90Percent" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Edit the H1 Style in the Temp Project</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>We could stop right here and move on to the next lesson, but we’re going to do one more thing. You will notice that these two projects look somewhat similar, but not exact (including the Home page). Let’s make a change to the color of the first-level headings in the Temp project, so that it’s a little easier to see the difference between the projects</p>
+                <ol>
+                    <li MadCap:conditions="">Open the Temp project.</li>
+                    <li>
+                        <p>In the Content Explorer, double-click <span class="Emphasis">Home.htm</span>. The topic opens to the right in the XML Editor.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/side-nav-tutorial3.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+                    <li>
+                        <p>Scroll down until you see the heading “Latest Updates,” followed by another with the text “Frequently Asked Questions.” Each of these is using an h1 style, meaning they are first-level headings.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/side-nav-tutorial4.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+                    <li>
+                        <p>Make sure your structure bars are turned on. These are the bars that you see to the left of the topic. If they are not on, click <img src="../../../Resources/Images/Shared/Co-Fl/toggle_show_blocks_btn.png" class="ReduceButtonSize" /> in the toolbar at the very bottom of the XML Editor. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../Structure-Bars/About-Structure-Bars.htm">About Structure Bars</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p>You should notice an h1 bar to the left of each of these headings.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/side-nav-tutorial5.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+                    <li>
+                        <p>Right-click either of these structure bars, and from the context menu select <span class="Emphasis">Style Class &gt; Edit Style Class</span>.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/side-nav-tutorial6.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Tutorials-Guide-Side-Nav" />
+                    <li>
+                        <p>The Stylesheet Editor opens, with the h1 style selected on the left. Make sure the other options shown in the image below are selected. If so, you should see style property called “color” that is set to a value of “var(--Dark-Gray).”</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/side-nav-tutorial7.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>The value “var(--Dark-Gray)” looks somewhat cryptic. This is called a CSS variable. It’s a way to set a value (such as yellow or red) in one place in the stylesheet instead of setting it in multiple places. We’re going to replace this CSS variable with another one that is a shade of blue.</p>
+                    </li>
+                    <li>
+                        <p>Make sure the <span class="Emphasis">color</span> row is selected. Then, from the <span class="Emphasis">CSS Variable</span> drop-down in the local toolbar, click <span class="Emphasis">Insert CSS Variable</span>.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/side-nav-tutorial8.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>The Insert CSS Variable dialog opens.</p>
+                    </li>
+                    <li>
+                        <p>From the drop-down, you can select any of the other CSS variables in the stylesheet. The first one in the list (--Brand) is shown by default in the field.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Flare/side-nav-tutorial9.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                        <p>This is the one we want. So just click <span class="Emphasis">OK</span>.</p>
+                        <p>Notice that the new CSS variable is now shown in the color row.</p>
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p MadCap:conditions="General.Print-Only">For more information about using this wizard, see the online Help.</p>
+        <p MadCap:conditions="General.Online-Only">For more information about using this wizard, see <MadCap:xref href="../../Projects/Creating-Project.htm">Creating a New Project</MadCap:xref>.</p>
+        <p MadCap:conditions="General.Online-Only"><b>Next: </b>
+            <MadCap:xref href="Importing-Files.htm">Importing Files</MadCap:xref>
+        </p>
+    </body>
+</html>

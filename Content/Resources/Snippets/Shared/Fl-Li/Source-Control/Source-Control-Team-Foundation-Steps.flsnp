@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <ol class="LowerAlpha">
+            <li>
+                <MadCap:snippetText src="Source-Control-Bind-TFS1.flsnp" />
+            </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="Source-Control-Bind-TFS2.flsnp" />
+                </p>
+                <MadCap:snippetBlock src="Source-Control-Bind-TFS3.flsnp" />
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;"> If you are binding a Visual Studio Team Services repository to TFS, in the <span class="Emphasis">Server</span> field, enter the URL of the project's "Default Collection."</p>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../All/General/May-Need-Obtain-Info-Sys-Admin.flsnp" /> Click <span class="Emphasis">OK</span> in the dialogs until you return to the main wizard page.</p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Be sure to specify the path deeper than the server name. For example:</p>
+                    <p class="Small"><span class="TypedEntry">.../tfs/DefaultCollection</span>
+                    </p>
+                    <p> or </p>
+                    <p class="Small"><span class="TypedEntry">.../tfs/SourceCollection</span>
+                    </p>
+                    <p>If you do not know this information, contact your system administrator.</p>
+                    <p>
+                        <img src="../../../../Images/Shared/Fl-Li/source_control_bind_tfs_example.png" alt="" title="" class="MaxWidth60Percent" />
+                    </p>
+                </div>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: #fdc80b;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you run into issues in this dialog, chances are your user permissions do not have access to all of the collections on the TFS server or Visual Studio Team Services. Please try to enter in the server/collection path manually.</p>
+            </li>
+            <li>
+                <MadCap:snippetText src="Source-Control-Bind-TFS4.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="Source-Control-Bind-TFS5.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../../All/Steps-General/Click-OK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="Optional-Comment-Field1.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="Source-Control-Keep-Checked-Out.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="Source-Control-Bind-Project-Dialog-Click-OK.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

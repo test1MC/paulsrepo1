@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Projects-Builds-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p class="Micro-Content"><span class="Emphasis">Single-bound Project </span>
+                    <MadCap:snippetText src="../../Shared/Ce-Fl/Projects/Single-Bound-Project-Summary.flsnp" /> <a href="../../../../Central/Projects/Source-Control/Source-Control-Central.htm#SingleBoundOnline">More Details…</a></p>
+            </div>
+            <div>
+                <div class="video">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=KSx4vmczrgg" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                    <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/central/#ProjectsBuilds" target="_blank">View More Videos in This Series</a>
+                    </p>
+                </div>
+                <p style="text-align: center;" MadCap:conditions="General.Future">
+                    <img src="../../../Images/Shared/Ce-Fl/SingleBoundDiagram.png" class="ThumbnailMicroContent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

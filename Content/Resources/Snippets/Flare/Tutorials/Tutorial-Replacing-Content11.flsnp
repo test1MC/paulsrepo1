@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Changing text is really easy, so we’re not going to focus on that. But let’s say you want to add a fourth question. You could create a new drop-down using the usual steps, but it’s quicker to just copy one of the existing drop-downs. So let’s do that. Right-click the <span class="Emphasis">MadCap:dropDown</span> tag bar to the left of the first drop-down, then select <span class="Emphasis">Copy</span>.</p>
+    </body>
+</html>

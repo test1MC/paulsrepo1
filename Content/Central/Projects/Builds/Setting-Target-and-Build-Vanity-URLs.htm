@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../../Resources/MasterPages/Central/PDF-Topics/Central-Projects-Builds.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Builds:vanity URL;Vanity URL;URL;Targets:vanity URL" />Setting Target and Build Vanities</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Central/Projects/Setting-Target-Build-Vanity-URL.flsnp" />
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Central/Banners/Manage-Builds-Perm.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Set a Vanity for a Target</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Open-Project.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Open-Build-Management.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Navigate-Target.flsnp" />
+                    </li>
+                    <li>
+                        <p>In the toolbar of the Targets pane, click <img src="../../../Resources/Images/Central/Vertical-Dots-btn.png" alt="" title="" class="ReduceButtonSize" />, and from the menu, select <b>Edit Vanity</b>.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Central/Set-Target-Vanity.png" alt="" title="" class="MaxWidth70Percent" />
+                        </p>
+                        <p>The Edit Vanity dialog opens.</p>
+                    </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Vanity</span> field, enter your custom vanity.</p>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Central/Projects/Note-Vanity-URL-Limitations.flsnp" />
+                    </li>
+                    <li>
+                        <p>Click <span class="Emphasis">Save</span>.</p>
+                        <p>If you have the Vanity column set to display in the builds grid, you will see your vanity listed in each row.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Central/Set-Target-Vanity2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Projects-and-Builds-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Set a Vanity for a Build</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Open-Project.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Open-Build-Management.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../../Resources/Snippets/Central/Projects/Navigate-Target.flsnp" />
+                    </li>
+                    <li>In the grid, click the check box to the left of the build.</li>
+                    <li>In the toolbar, click <img src="../../../Resources/Images/Central/Edit-btn.png" alt="" title="" class="ReduceButtonSize" />. The Edit Build Settings dialog opens.</li>
+                    <li>
+                        <p>In the <span class="Emphasis">Vanity</span> field, enter your custom vanity.</p>
+                        <MadCap:snippetBlock src="../../../Resources/Snippets/Central/Projects/Note-Vanity-URL-Limitations.flsnp" />
+                    </li>
+                    <li>(Optional) In this dialog, you can also set the build to <span class="Emphasis">Live</span> or <span class="Emphasis">Keep</span>. In addition, you can choose to exclude the output from search engines (see <MadCap:xref href="Excluding-Live-Builds-from-Search-Engines.htm">Excluding Live Builds from Search Engines</MadCap:xref>).</li>
+                    <li>
+                        <p>Click <span class="Emphasis">Save</span>.</p>
+                        <p>If you have the Vanity column set to display in the builds grid, you will see your vanity listed in that build row. If you also have a target vanity set, the build vanity will display instead.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Central/Set-Build-Vanity.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Projects-and-Builds-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Inheritance and Multiple URLs</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are some important points to keep in mind when it comes to creating and using vanities:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Builds Inherit from Target </span>If you set a vanity on the target, builds will inherit it. However, if you also set a vanity on a build, the vanity for the build will have precedence.</li>
+                    <li><span class="SetOffFirstLevel">Use Build Vanity for Multiple Live Outputs </span>You cannot have multiple builds set to “Live” <span class="EmphasisItalic">using the same URL</span>. Therefore, you can have multiple builds set to “Live” in a target only if you are using a unique vanity on a build.</li>
+                    <li><span class="SetOffFirstLevel">One Live Target Vanity Per Target </span>Only one of your builds can be set to “Live” using the target vanity. Suppose you have a target vanity and you set a build to “Live.” Then you set another build to “Live,” inheriting the target vanity. In that case, only the most recent build will be “Live” and the other will automatically be set to “Keep.”</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p>Let’s say your company has a product called FictionSoft Pro, and it consists of four modules. Your documentation team has therefore created four different Flare projects for each of those modules. Suppose that you are in charge of the Module 3 project.</p>
+                    <p>Every year or so, your company releases a new version of the software. As a technical writer, you need to produce documentation for each of those releases.</p>
+                    <p>In your Flare Module 3 project, you have an HTML5 target that you use to produce an online Help system. Instead of creating a different target for each release, you want to just keep using the same target.</p>
+                    <p>You upload your Flare Module 3 project to Central, and you build output for FictionSoft Pro Version 1.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Central/Vanity-Build-URL-Example1.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Projects-and-Builds-Guide" />
+                    <p>Your vanity for the license has already been set as “fictionsoft.” But you also want your Module 3 Version 1 documentation to have a unique path, different than the paths for other modules, and for later versions of Module 3. So you click the check box next to the build and click <img src="../../../Resources/Images/Central/Edit-btn.png" alt="" title="" class="ReduceButtonSize" /> in the toolbar.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Central/Vanity-Build-URL-Example2.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                    <p>In the Edit Build Settings dialog, you click in the <span class="Emphasis">Vanity</span> field and decide to enter <span class="TypedEntry">mod3-online-v1</span>. The first part of this vanity refers to the project name (mod3), to keep it distinct from the other projects. The second part refers to the kind of target (online), to keep it distinct from the many PDFs you will also be producing for that project. And the third part refers to the version number (v1), to keep it distinct from later versions.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Central/Vanity-Build-URL-Example3.png" alt="" title="" class="MaxWidth60Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Projects-and-Builds-Guide" />
+                    <p>You can also click <span class="Emphasis">Live</span> to make the output available to your audience.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Central/Vanity-Build-URL-Example4.png" alt="" title="" class="MaxWidth75Percent" />
+                    </p>
+                    <p>After clicking <span class="Emphasis">Save</span>, you expand the build row and notice that the live URL has both the license vanity and the build vanity.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Central/Vanity-Build-URL-Example5.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Projects-and-Builds-Guide" />
+                    <p>Sometime later, you are ready to publish output for Version 2. So you push your changes up to Central and build the target again. This time, you open the Edit Build Settings dialog and set the vanity to <span class="Emphasis">mod3-online-v2</span>. You also set the build to <span class="Emphasis">Live</span>.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Central/Vanity-Build-URL-Example6.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Projects-and-Builds-Guide" />
+                    <p>When finished, you notice that the new build has its own unique URL, keeping it separate from the Version 1 output, which remains set to “Live” as well.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Central/Vanity-Build-URL-Example7.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead MadCap:conditions="General.Online-Only">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also change the vanity for your license. This includes the ability to edit the subdomain used in the URL, as well as mapping to your company’s host domain. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../Server/Changing-Vanity-URL.htm">Changing the License Vanity URL</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../../../Resources/Snippets/Shared/All/For-More-Info/See-Online-Help.flsnp" MadCap:conditions="General.Print-Only" /></p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

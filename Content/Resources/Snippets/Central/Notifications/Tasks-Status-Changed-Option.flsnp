@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="71" MadCap:lastWidth="1215">
+    <body>
+        <p class="TableText">Receive a notification if the status for a task is changed (i.e., To Do, In Progress, Completed, Archived, Backlogged). <MadCap:snippetText src="Task-Notification-Who-Receives-It.flsnp" /></p>
+    </body>
+</html>

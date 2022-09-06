@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table class="TableStyle-Basic-Alternate-Rows" style="margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p>
+                            <img src="../../../Images/Mimic/button_mode_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" style="vertical-align: middle;padding-left: 2px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">
+                        <p class="TableText" style="vertical-align: middle;padding-left: 2px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">Click this button to draw a button shape. </p>
+                        <p class="TableText" style="vertical-align: middle; padding-left: 2px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px; border-bottom-style: solid; border-bottom-width: 0px; border-bottom-color: #000000;">
+                            <MadCap:snippetText src="ButtonDefinition.flsnp" /> See <MadCap:xref href="../../../../Mimic/Objects/Buttons/Adding-Buttons.htm">Adding Buttons</MadCap:xref>.</p>
+                        <p MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Mimic/button_shape_example.png" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Mimic/typing_box_mode_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" style="vertical-align: middle;padding-left: 2px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;">
+                        <p class="TableText">Click this button to draw a typing box. </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="TypingObjectsDefinition.flsnp" /> See <MadCap:xref href="../../../../Mimic/Objects/Typing-Objects/Adding-Animated-Typing-Boxes.htm">Adding Animated Typing Boxes</MadCap:xref>.</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Mimic/typing_box_example.png" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Mimic/input_box_mode_btn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows" style="vertical-align: middle;padding-left: 2px;padding-right: 0px;padding-top: 0px;padding-bottom: 0px;border-bottom-style: solid;border-bottom-width: 0px;border-bottom-color: #000000;">
+                        <p class="TableText">Click this button to draw an input box. </p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="InputBoxesDefinition.flsnp" /> See <MadCap:xref href="../../../../Mimic/Objects/Typing-Objects/Adding-Input-Boxes.htm">Adding Input Boxes</MadCap:xref>.</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">
+                            <img src="../../../Images/Mimic/input_box_example.png" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

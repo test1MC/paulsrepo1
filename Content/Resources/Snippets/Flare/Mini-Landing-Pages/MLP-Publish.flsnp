@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareTargetsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Publish </span>
+                    <MadCap:snippetText src="../Output/Publish-Summary.flsnp" /> <a href="../../../../Flare/Output/About-Building-Output.htm">More Details…</a></p>
+                <p class="Bold">Publishing Options</p>
+                <ul>
+                    <li><span class="Emphasis">Manual </span>From the <span class="Emphasis">Project</span> ribbon select <span class="Emphasis">Open Output Folder</span>. Copy and paste the output files wherever you want.</li>
+                    <li><span class="Emphasis">Destination </span>
+                        <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref> and <MadCap:xref href="../../../../Flare/Output/Associating-Publishing-Destinations-Targets.htm">Associating Publishing Destinations with Targets</MadCap:xref></li>
+                    <li><span class="Emphasis">Cloud </span><a href="../../../../Flare/Central/About-Central-and-Flare.htm">MadCap Central</a>
+                    </li>
+                </ul>
+                <p><a href="../../../../Flare/Project-Architecture/External-Architecture/Publishing-Output.htm#WhatMadCapDocTeamDoes">What the MadCap Doc Team Does</a>
+                </p>
+            </div>
+            <div>
+                <div class="video-wrap">
+                    <div class="video" MadCap:conditions="General.Server-Only">
+                        <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=AGU74MgSNXw" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                        </p>
+                    </div>
+                    <p MadCap:conditions="Products.Flare-Local-Only" class="center" style="text-align: center;">
+                        <img src="../../../Images/Flare/MLP-Publish1.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

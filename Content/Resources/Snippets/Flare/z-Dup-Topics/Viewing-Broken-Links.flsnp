@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Nav-Links/Broken-Links-Summary.flsnp" />&#160;<MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Analysis/About-Analysis-and-Reports.htm">About Analysis and Reports</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:snippetBlock src="../Quick-Steps/QS-View-Fix-Broken-Links-Steps.flsnp" />
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Analysis-Guide,Flare-Guides.Flare-Navigation-Links-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Fix Links Directly in the Broken Links Window Pane</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>In the Broken Links window pane, click the row that you want to correct, then click <img src="../../../Images/Flare/fix_broken_links_icon.png" alt="" title="" class="ReduceButtonSize" />. The Fix Broken Links dialog opens. </li>
+                    <li>
+                        <p>In the Fix Broken Links dialog, do one of the following. </p>
+                        <ul class="FirstLevel">
+                            <li>Click  <img src="../../../Images/Flare/replace_existing_hyperlink_btn.png" alt="" title="" class="ReduceButtonSize" /> or right-click a file and from the context menu, select <span class="Emphasis">Select file for linking</span>. This option opens a  dialog, from which you can select a new link.</li>
+                            <li>Click <img src="../../../Images/Flare/scan_for_potential_links_btn.png" alt="" title="" class="ReduceButtonSize" /> or right-click a file and from the context menu, select <span class="Emphasis">Scan for Potential Links</span>. This option scans the project for potential matches to the broken link. When this option is selected, the Search for Similar Files dialog opens, which lists the similar files that the analysis tool has found. You can then select a file from that list.</li>
+                        </ul>
+                        <p>The name of the file you select to fix the broken link will be displayed in the File field at the bottom of the Fix Broken Links dialog.</p>
+                    </li>
+                    <li>Click <span class="Emphasis">Apply</span>.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Reports/Note-Can-Include-Info-Reports.flsnp" />
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">You can also see broken links in a file if you have the Link Viewer window pane open. See <MadCap:xref href="../../../../Flare/Folders-Files/Viewing_File_Links.htm">Viewing File Links</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

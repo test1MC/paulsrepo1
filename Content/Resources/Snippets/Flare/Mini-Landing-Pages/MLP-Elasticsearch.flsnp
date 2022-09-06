@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareSearchGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Elasticsearch </span>A <MadCap:snippetText src="../Search/Elasticsearch-Definition.flsnp" />&#160;<a href="../../../../Flare/Search/Search-Engines/Elasticsearch/Elasticsearch.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Search/Search-Engines/Elasticsearch/Installing-Elasticsearch-Remote-Server.htm">Installing Elasticsearch on a Remote Server</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Search/Search-Engines/Elasticsearch/Enabling-Elasticsearch-Target-Editor.htm">Enabling Elasticsearch Through the Target Editor</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Search/Search-Engines/Elasticsearch/Creating-Publishing-Destinations-Elasticsearch.htm">Creating Publishing Destinations for Elasticsearch</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Search/Search-Engines/Elasticsearch/Associating-Elasticsearch-Destination.htm">Associating Elasticsearch Destinations with a Target</MadCap:xref>
+                    </li>
+                    <li>Generating and Testing Output—<MadCap:xref href="../../../../Flare/Search/Search-Engines/Elasticsearch/Madcap-Process-Manager.htm">MadCap Process Manager</MadCap:xref></li>
+                    <li>Managing Search Indexes—<MadCap:xref href="../../../../Flare/Search/Search-Engines/Elasticsearch/Content-Services-Portal.htm">Content Services Portal</MadCap:xref></li>
+                </ol>
+            </div>
+            <div>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Elasticsearch.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

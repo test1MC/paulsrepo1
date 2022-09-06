@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example—splitting a segment into two</p>
+            <p>Here is a situation where two segments are stuck together:</p>
+            <p>
+                <img src="../../../../Images/Shared/Al-Li/align-segments-example5.png" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Alignment-Guide" />
+            <p>To split the segments apart, double-click in that cell. Then place your cursor where you want the split to occur.</p>
+            <p>
+                <img src="../../../../Images/Shared/Al-Li/align-segments-example6.png" class="MaxWidth100Percent" />
+            </p>
+            <p>
+                <img src="../../../../Images/Shared/Al-Li/align-segments-example7.png" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Alignment-Guide" />
+            <p>When finished, you can upload the aligned segment(s) to your translation memory database.</p>
+            <p>
+                <img src="../../../../Images/Shared/Al-Li/align-segments-example8.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

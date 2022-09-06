@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li MadCap:conditions="Snippets.Snippet5">
+                <MadCap:snippetText src="Create-Project-Step-Filters.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet3] exclude[Snippets.Snippet1 or Snippets.Snippet2] " />
+            </li>
+            <li>From the <span class="Emphasis">Filter</span> drop-down,  select<span class="Emphasis"> Create New</span>.</li>
+            <li>
+                <MadCap:snippetText src="Enter-Name-Filter.flsnp" />
+            </li>
+            <li>(Optional) <MadCap:snippetText src="Existing-Filter.flsnp" /><MadCap:snippetBlock src="Filter-Options.flsnp" /></li>
+            <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Translation-Guide" />
+            <li>
+                <p>
+                    <MadCap:snippetText src="Note-Segment.flsnp" />
+                </p>
+                <MadCap:dropDown class="SecondLevel">
+                    <MadCap:dropDownHead class="OnlineOnly">
+                        <MadCap:dropDownHotspot>Important</MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <MadCap:snippetBlock src="Updating-Legacy-Text-Filters.flsnp" />
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </li>
+            <li>
+                <p>
+                    <MadCap:snippetText src="First-Logical-Grouping.flsnp" />
+                </p>
+            </li>
+            <li>
+                <MadCap:snippetText src="Single-Line-Reg-Ex.flsnp" /> </li>
+            <li>Click <span class="Emphasis">OK</span>.</li>
+        </ol>
+        <MadCap:dropDown MadCap:conditions="General.Online-Only" class="SecondLevel">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p class="note" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">For more information about regular expressions, see <MadCap:xref href="../../../../Lingo/Find-Replace/Using-Find-Replace.htm">Using the Find and Replace in Files Feature</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

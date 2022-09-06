@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/lingo11/LingoTranslationGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <p class="micro-content-only">
+                <MadCap:snippetText src="../Bundles/Bundle-Summary.flsnp" />&#160;<span class="micro-content-only-inline"><a href="../../../../Lingo/Bundles/About-Bundles.htm">More Details…</a></span></p>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Prepare a Bundle</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <MadCap:snippetBlock src="../Bundles/Prepare-Bundle-Steps.flsnp" />
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                </div>
+                <div class="micro-content-dropdown">
+                    <MadCap:dropDown MadCap:conditions="Snippets.Snippet1" MadCap:excludeAction="unbind" class="Micro-Content2">
+                        <MadCap:dropDownHead>
+                            <MadCap:dropDownHotspot><span class="micro-dropdown-head">How to Merge a Completed Bundle</span>
+                            </MadCap:dropDownHotspot>
+                        </MadCap:dropDownHead>
+                        <MadCap:dropDownBody>
+                            <MadCap:snippetBlock src="../Bundles/Merge-Completed-Bundles-Steps.flsnp" />
+                        </MadCap:dropDownBody>
+                    </MadCap:dropDown>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

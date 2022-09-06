@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareMasterPagesGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Master Page </span>An element used to automatically apply certain content—such as breadcrumbs, menus, toolbars, search bars, mini-TOCs, or footer text—to multiple topics in the output. <a href="../../../../Flare/Master-Pages/About-Master-Pages.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Master-Pages/Creating-Master-Pages.htm">Creating Master Pages</MadCap:xref>
+                    </li>
+                    <li>Options for Associating Master Pages:<ul><li><MadCap:xref href="../../../../Flare/Master-Pages/Associating-Master-Pages-with-Targets.htm">Associating Master Pages with Targets</MadCap:xref></li><li><MadCap:xref href="../../../../Flare/Master-Pages/Associating-Master-Pages-Topics.htm">Associating Master Pages with Topics</MadCap:xref></li></ul></li>
+                </ol>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Master-Page1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Master-Page2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/lingo11/LingoTranslationGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <div class="Tiles-4-4-4">
+                <div class="micro-content-dropdown">
+                    <MadCap:snippetBlock src="../Reviews-Contributions/Send-Translated-Content-Review-Steps.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                    <p class="micro-content-only"><a href="../../../../Lingo/Reviews-Contributions/Sending-Translated-Content-for-Review.htm">More Details…</a>
+                    </p>
+                </div>
+                <div class="micro-content-dropdown">
+                    <MadCap:snippetBlock src="../Reviews-Contributions/Import-Reviewed-Files-Steps-Dropdown.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                    <p class="micro-content-only"><a href="../../../../Lingo/Reviews-Contributions/Importing-Review-Packages.htm">More Details…</a>
+                    </p>
+                </div>
+                <div class="micro-content-dropdown">
+                    <MadCap:snippetBlock src="../Reviews-Contributions/Accept-Reject-Changes-Steps-Dropdown.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                    <p class="micro-content-only"><a href="../../../../Lingo/Reviews-Contributions/Accepting-Changes-to-Lingo-Reviews.htm">More Details…</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

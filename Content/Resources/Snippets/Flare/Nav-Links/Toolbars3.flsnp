@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');margin-left: 0;margin-right: auto;" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 20%;" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Skin Type</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Web Toolbar</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Topic Toolbar</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">HTML5 Top Navigation<sup>1</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableText" style="text-align: center;">
+                            <MadCap:xref href="../../../../Flare/Skins/HTML5-Skin-Styles/Topic-Toolbars-HTML5-Skins.htm">Topic Toolbars in HTML5 Skin Components</MadCap:xref>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">HTML5 Side Navigation<sup>1</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableText" style="text-align: center;">
+                            <MadCap:xref href="../../../../Flare/Skins/HTML5-Skin-Styles/Topic-Toolbars-HTML5-Skins.htm">Topic Toolbars in HTML5 Skin Components</MadCap:xref>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">HTML5 Skinless<sup>1</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableText" style="text-align: center;">
+                            <MadCap:xref href="../../../../Flare/Skins/HTML5-Skin-Styles/Topic-Toolbars-HTML5-Skins.htm">Topic Toolbars in HTML5 Skin Components</MadCap:xref>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">HTML5 Tripane<sup>2</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableText" style="text-align: center;">
+                            <MadCap:xref href="../../../../Flare/Skins/More/Web-Toolbar-Settings-HTML5-Output.htm">Web Toolbars in HTML5 Output</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableText" style="text-align: center;">
+                            <MadCap:xref href="../../../../Flare/Skins/HTML5-Skin-Styles/Topic-Toolbars-HTML5-Skins.htm">Topic Toolbars in HTML5 Skin Components</MadCap:xref>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasis">Standard<sup>3</sup></p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableText" style="text-align: center;">
+                            <MadCap:xref href="../../../../Flare/Skins/More/Web-Toolbar-Settings-WebHelp-Output.htm">Web Toolbars in WebHelp Outputs</MadCap:xref>
+                        </p>
+                        <p class="TableText" style="text-align: center;">
+                            <MadCap:xref href="../../../../Flare/Skins/More/Web-Toolbar-Settings-HTML-Help-Output.htm">Web Toolbars in HTML Help Output</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                        <p class="TableText" style="text-align: center;">
+                            <MadCap:xref href="../../../../Flare/Skins/More/Topic-Toolbars-WebHelp-Output.htm">Topic Toolbars in WebHelp Outputs</MadCap:xref>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr class="TableStyle-Basic-Alternate-Rows-Foot-Footer1">
+                    <td class="TableStyle-Basic-Alternate-Rows-FootD-Regular-Footer1" colspan="3">
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">1</sup>Side and Top Navigation—as well as skinless outputs—do not use frames, like other outputs do. Therefore, you must use a topic toolbar if you want to display toolbar buttons.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">2</sup>In an HTML5 Tripane skin, you can configure a web toolbar by using the Toolbar tab.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">3</sup>Although Pulse is supported in WebHelp and WebHelp Plus targets, you can add Pulse-related buttons (e.g., Edit User Profile, Topic Ratings) only in a WebHelp toolbar. You cannot add them in a topic toolbar.</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>

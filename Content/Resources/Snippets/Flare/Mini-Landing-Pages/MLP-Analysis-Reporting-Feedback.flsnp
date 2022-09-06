@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareAnalysisReportsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p><span class="Emphasis">Project Analysis and Reports </span>Analysis ribbon and Project Organizer &gt; Reports (e.g., broken links, topics not in TOC).</p>
+                <p><b>Content Services </b>Data on search phrases and micro content used in Elasticsearch.</p>
+                <p><span class="Emphasis">Text Analysis </span>Tools ribbon (e.g., readability, average sentence length).</p>
+                <p><span class="Emphasis">MadCap Pulse </span>Reports on how people are using your output, comments at bottom of topics.</p>
+                <p><span class="Emphasis">Google Analytics </span>Obtain a tracking code, add it to master page in Flare, use Google Analytics website for reporting about output.</p>
+                <p><a href="../../../../Flare/Project-Architecture/External-Architecture/Analysis-Reporting-Feedback.htm">More Details…</a>
+                </p>
+                <p><a href="../../../../Flare/Project-Architecture/External-Architecture/Analysis-Reporting-Feedback.htm#WhatMadCapDocTeamDoes">What the MadCap Doc Team Does</a>
+                </p>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Analysis.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

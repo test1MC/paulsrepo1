@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Server/Slack-Integration1.flsnp" />
+        <p MadCap:conditions="Products.Central-Slack-Side-Only">To view the entire MadCap Central Help system, see <a href="https://help.madcapsoftware.com/central" target="_blank">https://help.madcapsoftware.com/central</a>.</p>
+        <div class="video" MadCap:conditions="Products.Central-Online-Only-Not-Slack-Side">
+            <p class="buttonT32-play"><a href="https://www.youtube.com/watch?v=QEv_e1JmMYM" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+            </p>
+            <p class="more-videos"><a href="https://www.madcapsoftware.com/videos/central/#LicenseSettings" target="_blank">View More Videos in This Series</a>
+            </p>
+        </div>
+        <MadCap:snippetBlock src="../Banners/Slack-Integration-Perm.flsnp" />
+        <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Server-Mgmt-Purchasing-Guide" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Set Up Slack Integration</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>In Slack, make sure you have set up a Slack account and created channels that you want to integrate with Central.</li>
+                    <li>
+                        <p>At the top of Central, click your name and select <span class="Emphasis">Settings</span>.</p>
+                        <p>
+                            <img src="../../../Images/Central/Slack-Webhooks1.png" alt="" title="" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>Select the <b>License</b> tab on the top, and on the left, select <span class="Emphasis">Slack</span>.</p>
+                        <p>
+                            <img src="../../../Images/Central/Slack-Webhooks17.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Server-Mgmt-Purchasing-Guide" />
+                    <li>
+                        <p>In the <span class="Emphasis">Channels</span> section, click <b>Connect a Channel</b>.</p>
+                        <p>
+                            <img src="../../../Images/Central/Slack-Webhooks2.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Choose your Slack team. And then in the <span class="Emphasis">Post to</span> field, select a channel that you want to integrate.</li>
+                    <li>Click <span class="Emphasis">Authorize</span>.</li>
+                    <li>
+                        <p>Back in Central, a message indicates that addition was successful. Click <span class="Emphasis">OK</span>. The channel is now shown in the grid.</p>
+                        <p>
+                            <img src="../../../Images/Central/slack-webhooks22.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Repeat steps 4-7 if you want to add more of your Slack channels to the grid.</li>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Server-Mgmt-Purchasing-Guide" />
+                    <li>
+                        <p>With your channel added, you’re ready to connect it to any of Central’s notifications. Click <b>Add Notification</b>.</p>
+                        <p>
+                            <img src="../../../Images/Central/Slack-Webhooks23.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>In the <span class="Emphasis">Name</span> field, provide a name for the channel notification. It can be the same name as the Slack channel you want to hook it to, but this isn’t necessary.</p>
+                        <p>
+                            <img src="../../../Images/Central/slack-webhooks25.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Server-Mgmt-Purchasing-Guide" />
+                    <li>
+                        <p>From the <span class="Emphasis">Channel</span> field, select the Slack channel that you want to associate with the notifications.</p>
+                        <p>
+                            <img src="../../../Images/Central/slack-webhooks24.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Server-Mgmt-Purchasing-Guide" />
+                    <li>
+                        <p>From the <span class="Emphasis">Activity Type</span> field, select one of the alert categories—<span class="Emphasis">Builds</span>, <span class="Emphasis">Checklists</span>, <span class="Emphasis">Projects</span>, <span class="Emphasis">Tasks</span>, <span class="Emphasis">Teams</span>, <span class="Emphasis">Users</span>. Notice that these are the same groups available when you set up personal notifications in your user settings.</p>
+                        <p>
+                            <img src="../../../Images/Central/slack-webhooks3.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Central-Guides.Central-Server-Mgmt-Purchasing-Guide" />
+                    <li>Depending on the activity type you choose, additional fields are displayed in the area below. Complete the fields as necessary to choose the type of notifications you want to be associated with the Slack channel.</li>
+                    <li>
+                        <p>Click <b>Add</b>. A row is added for the new channel notification.</p>
+                        <p>
+                            <img src="../../../Images/Central/slack-webhooks16.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <p>(Optional) You can perform an action in Central that you have integrated with the Slack channel (e.g., set a target to "Live"). You should see the notification added to your Slack channel.</p>
+                        <p>
+                            <img src="../../../Images/Central/Slack-Webhooks21.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Keep in mind that the notification UI in Central is unique to each user<MadCap:conditionalText MadCap:conditions="Products.Central-Online-Only-Not-Slack-Side"> (see <MadCap:xref href="../../../../Central/Users/Setting-Profile-Notifications.htm">Editing Your Account Settings</MadCap:xref>)</MadCap:conditionalText>. On the other hand, when you set up Slack integration, it is created for the entire license; therefore, other users can tap in to that channel notification to receive the same alerts via Slack.</p>
+                </div>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">If you encounter problems or need help with your Slack integration, please contact support. See <a href="http://www.madcapsoftware.com/support/contactoptions.aspx" target="_blank">http://www.madcapsoftware.com/support/contactoptions.aspx</a>.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

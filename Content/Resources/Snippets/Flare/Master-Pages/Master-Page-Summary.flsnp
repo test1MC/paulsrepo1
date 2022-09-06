@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../Stylesheets/Shared/styles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>A master page lets you apply certain content and elements (e.g., text, images, breadcrumbs, menus, toolbars, search bars) automatically to multiple topics in the output. A master page is primarily used in online outputs, but it can be used in Word output as well. For Word output, a master page lets you determine page specifications (such as size or orientation) and to apply certain content (e.g., header text or page numbers) to many topics in a manual. For print-based outputs other than Word, page layouts are used instead of master pages.</p>
+    </body>
+</html>

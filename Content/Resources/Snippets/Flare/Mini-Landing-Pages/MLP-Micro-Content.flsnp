@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareMicroContentGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <p><span class="Emphasis">Micro Content </span>Short, concise information that stands alone and is easily consumable. In Flare, it involves a collection of brief <span class="EmphasisItalic">phrases</span> and corresponding <span class="EmphasisItalic">responses</span>, such as questions and answers. You are reading an example of micro content in a featured snippet. <a href="../../../../Flare/Micro-Content/About-Micro-Content.htm">More Details…</a></p>
+        <div class="Tiles-4-4-4">
+            <div>
+                <p class="Bold">Steps for Featured Snippets in Search</p>
+                <ol>
+                    <li><a href="../../../../Flare/Micro-Content/Creating-Micro-Content.htm">Create micro content phrase/response combinations</a>.</li>
+                    <li><a href="../../../../Flare/Micro-Content/Enabling-Micro-Content-Search-Results.htm">Enable micro content in search results</a>.</li>
+                    <li><a href="../../../../Flare/Micro-Content/Editing-Look-Micro-Content.htm">Edit the look of micro content</a>.</li>
+                </ol>
+                <p><a href="../../../../Flare/Micro-Content/About-Micro-Content.htm#WhatMadCapDocTeamDoes">What the MadCap Doc Team Does</a>
+                </p>
+            </div>
+            <div>
+                <p class="Bold">Steps for Other Purposes (e.g., Chatbots)</p>
+                <ol>
+                    <li><a href="../../../../Flare/Micro-Content/Creating-Micro-Content.htm">Create micro content phrase/response combinations</a>.</li>
+                    <li>Build HTML5 output.</li>
+                    <li>In Windows, open your <b>Output</b> folder, then in the target subfolder, double-click the <span class="Emphasis">MicroContent</span> folder.</li>
+                    <li>At this point, a developer would need to use a third-party chatbot application and/or do some extra programming and work outside of Flare, pointing to the files in your MicroContent output folder as necessary.</li>
+                </ol>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/Micro-Content-Uses.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

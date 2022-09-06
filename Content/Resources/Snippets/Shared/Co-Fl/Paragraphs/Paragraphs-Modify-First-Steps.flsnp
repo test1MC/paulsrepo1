@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="80" MadCap:lastWidth="1006">
+    <body>
+        <ol>
+            <li>
+                <MadCap:snippetText src="../../../Contributor/Documents/Open-Document-Topic.flsnp" MadCap:conditions="Products.Contributor" />
+                <MadCap:snippetText src="../../Co-Fl-Li/Topics/Open-Content-File.flsnp" MadCap:conditions="Products.Flare" />
+            </li>
+            <li>Click on the paragraph that you want to modify.</li>
+        </ol>
+    </body>
+</html>

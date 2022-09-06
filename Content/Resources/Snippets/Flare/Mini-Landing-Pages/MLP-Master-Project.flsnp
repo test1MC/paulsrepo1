@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareArchitectureGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <p><span class="Emphasis">Master Project </span>Sometimes also called a “parent,” this is the main project in a structure that involves multiple connected projects. There are a few different structures where you might use a master project. <a href="../../../../Flare/Project-Architecture/External-Architecture/Flare-Project-Structures.htm">More Details…</a></p>
+        <div class="Tiles-4-4-4">
+            <div>
+                <p class="center">
+                    <MadCap:xref href="../../../../Flare/TOCs/Merging-Projects.htm">Merging Projects</MadCap:xref>
+                </p>
+                <p class="center">
+                    <img src="../../../Images/Flare/pa-multiple-projects-merging1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+            <div>
+                <p class="center"><a href="../../../../Flare/Global-Project-Linking/About-Global-Project-Linking.htm">Global Project Linking</a>
+                </p>
+                <p class="center">
+                    <img src="../../../Images/Flare/pa-multiple-projects-gpl1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+            <div>
+                <p class="center">
+                    <MadCap:xref href="../../../../Flare/Language-Support/About-Language-Support.htm#Multilin">Multilingual Output</MadCap:xref>
+                </p>
+                <p class="center">
+                    <img src="../../../Images/Flare/pa-multiple-projects-multilingual-output1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>We don’t want to change the color for that parent style to a really light color, because any links inserted where there is no background wouldn’t be easily visible either. Therefore, we will create a class (i.e., child) of the parent style and format it with a light color.</p>
+    </body>
+</html>

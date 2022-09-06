@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>This is a second master page in the Temp project that is used for all of the topics except the Home page. Once again, this happens to be the same file name as the master page in our Legacy project, so it will replace that file. In your actual project, you might be using a different file name, so you would then need to associate the bulk of your topics with this newer master page; this can be done by opening the Project Properties dialog and selecting the master page there.</p>
+    </body>
+</html>

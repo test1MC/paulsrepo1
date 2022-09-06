@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>You can run reports to find the following types of information about micro content:</p>
+        <ul class="FirstLevel">
+            <li>Duplicate Micro Content Phrases</li>
+            <li>Files with Micro Content Links</li>
+            <li>Micro Content Empty Phrases</li>
+            <li>Micro Content Empty Responses</li>
+        </ul>
+        <p MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Analysis/Reports.htm">Reports</MadCap:xref>.</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Reports.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

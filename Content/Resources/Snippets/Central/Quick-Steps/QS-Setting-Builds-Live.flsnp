@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/central/Central-Projects-Builds-Guide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-6-6">
+            <div>
+                <p class="Micro-Content"><span class="Emphasis">Set to "Live" </span>After you successfully generate a target in Central, you can mark that build as “Live," which means that the output can be viewed by the public.&#160;<a href="../../../../Central/Projects/Builds/Setting-Builds-to-Live-Keep.htm">More Details…</a></p>
+                <p class="Micro-Content"><span class="Emphasis">How to Set Builds to "Live"</span>
+                </p>
+                <ol>
+                    <li>On the left side of Central, select <span class="Emphasis">Projects</span>.</li>
+                    <li>In the grid, click the name of a project.</li>
+                    <li>At the top of the interface, click <b>Builds</b>.</li>
+                    <li>On the left, select a target.</li>
+                    <li>If you haven't already done so, click <img src="../../../Images/Central/Build-btn.png" alt="" title="" class="ReduceButtonSize" /> to build the target.</li>
+                    <li>If the build is successful, click the check box to the left of it (make sure no other builds are selected).</li>
+                    <li>In the toolbar click <img src="../../../Images/Central/set-as-live-btn.png" alt="" title="" class="ReduceButtonSize" />.</li>
+                    <li>Click <b>OK</b>.</li>
+                </ol>
+            </div>
+            <div>
+                <div class="video">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=S2FP-IHsJ0g" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                    <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/central/#ProjectsBuilds" target="_blank">View More Videos in This Series</a>
+                    </p>
+                </div>
+                <p style="text-align: center;" MadCap:conditions="General.Future">
+                    <img src="../../../Images/Central/QS-Set-Live.gif" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

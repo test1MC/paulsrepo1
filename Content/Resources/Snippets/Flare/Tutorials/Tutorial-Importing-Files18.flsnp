@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>This is the master page that is associated with the Home topic. It contains a unique configuration and references to styles we needed, so we definitely want this file, even though we already have a master page (which we will no longer use). This is the same file name as the master page in our Legacy project, so it will replace that file. In your actual project, you might be using a different file name, so you would then need to associate the Home topic with this newer master page.</p>
+    </body>
+</html>

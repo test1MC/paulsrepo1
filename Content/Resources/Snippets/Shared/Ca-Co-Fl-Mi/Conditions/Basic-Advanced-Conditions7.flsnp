@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="656" MadCap:lastWidth="1211">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>When you type in the Advanced section, a yellow warning icon displays with relevant text if you have typed an error.</p>
+        <p>
+            <img src="../../../../Images/Flare/conditions8.png" class="MaxWidth90Percent" MadCap:conditions="Products.Flare" />
+            <img src="../../../../Images/Capture/conditions8_capture.png" class="MaxWidth80Percent" MadCap:conditions="Products.Capture" />
+            <img src="../../../../Images/Mimic/conditions8_mimic.png" class="MaxWidth80Percent" MadCap:conditions="Products.Mimic" />
+        </p>
+        <MadCap:snippetBlock src="../../All/Print-Output/Empty-Page-Break-After.flsnp" MadCap:conditions="Flare-Guides.Flare-Condition-Tags-Guide,Flare-Guides.Flare-Targets-Guide" />
+        <p>You can expect to see this icon quickly appear and then disappear as you type. However, if the icon remains after you finish, you can click it. The error will then be highlighted in the text below.</p>
+        <p>
+            <img src="../../../../Images/Flare/conditions9.png" class="MaxWidth90Percent" MadCap:conditions="Products.Flare" />
+            <img src="../../../../Images/Capture/conditions9_capture.png" class="MaxWidth90Percent" MadCap:conditions="Products.Capture" />
+            <img src="../../../../Images/Mimic/conditions9_mimic.png" class="MaxWidth80Percent" MadCap:conditions="Products.Mimic" />
+        </p>
+    </body>
+</html>

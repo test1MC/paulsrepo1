@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:snippetBlock src="../Banners/z-Dark-Print-Background-Supported-All-Workflows.flsnp" MadCap:conditions="Products.Contributor-Online-Only" />
+        <MadCap:snippetBlock src="../Banners/Supported-All-Workflows.flsnp" MadCap:conditions="Contributor-Guides.Contributor-Getting-Started-Guide,Contributor-Guides.Contributor-Contribution-Workflow-Guide,Contributor-Guides.Contributor-Review-Workflow-Guide" />
+        <p MadCap:conditions="Products.Contributor">You can insert an annotation (comment) into a document. These annotations do not become part of the actual content, but rather are intended for internal use between you and others.</p>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Reviews-and-Contributions-Guide,Contributor-Guides.Contributor-Contribution-Workflow-Guide,Contributor-Guides.Contributor-Review-Workflow-Guide" />
+        <h2 MadCap:conditions="Contributor-Guides.Contributor-Contribution-Workflow-Guide,Contributor-Guides.Contributor-Review-Workflow-Guide">
+            <MadCap:keyword term="Reviews;Contributions" />
+            <MadCap:keyword term="Annotations" /><a name="InsertingAnnotations"></a>Inserting Annotations</h2>
+        <p MadCap:conditions="Contributor-Guides.Contributor-Contribution-Workflow-Guide,Contributor-Guides.Contributor-Review-Workflow-Guide">Following are steps for inserting annotations.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to insert an annotation</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <MadCap:snippetText src="../Documents/Open-Document-Topic.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Reviews-Contributions/Highlight-Content1.flsnp" />
+                        <MadCap:snippetBlock src="../../Shared/Co-Fl/Reviews-Contributions/Note-Do-Not-Highlight-More-One-Para.flsnp" />
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                    </li>
+                    <MadCap:snippetBlock src="../../Shared/Co-Fl/Reviews-Contributions/Insert-Annotation-Options.flsnp" />
+                </ol>
+                <MadCap:pageBreak MadCap:conditions="Contributor-Guides.Contributor-Getting-Started-Guide,Contributor-Guides.Contributor-Review-Workflow-Guide" />
+                <ol MadCap:continue="true">
+                    <li>
+                        <p>Type your comment in the annotation rectangle.</p>
+                        <p>
+                            <img src="../../../Images/Shared/Co-Fl/annotation-example1.png" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Reviews-Contributions/Note-Insert-Annotations1.flsnp" />&#160;<MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Contributor/Reviews-Contributions/Changing-User-Name-Initials.htm">Changing Your User Name and Initials</MadCap:xref>.</MadCap:conditionalText><MadCap:snippetText src="../../Shared/All/For-More-Info/See-Online-Help.flsnp" MadCap:conditions="General.Print-Only" /></p>
+                </div>
+                <div class="note" MadCap:conditions="General.Online-Only">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Reviews-Contributions/Note-Delete-Annoation.flsnp" />
+                    </p>
+                </div>
+                <div class="note" MadCap:conditions="General.Online-Only">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">
+                        <MadCap:snippetText src="../../Shared/Co-Fl/Reviews-Contributions/Note-Hide-Changes-Annotations.flsnp" />&#160;<MadCap:conditionalText MadCap:conditions="General.Online-Only,Contributor-Guides.Contributor-Contribution-Workflow-Guide,Contributor-Guides.Contributor-Review-Workflow-Guide">See <MadCap:xref href="../../../../Contributor/Reviews-Contributions/Track-Changes/Hiding-Showing-Changes-Annotations.htm">Hiding and Showing Changes and Annotations</MadCap:xref>.</MadCap:conditionalText></p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

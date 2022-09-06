@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/flare2019/FlareTargetsGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" /></a>
+        </div>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Output </span>
+                    <MadCap:snippetText src="../Output/Output-Summary.flsnp" />&#160;<a href="../../../../Flare/Output/About-Building-Output.htm">More Details…</a></p>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What types of output can you generate from Flare?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Output/Output-Types-Output.flsnp" /> <a href="../../../../Flare/Output/Determining-Output-Type.htm">More Details…</a></p>
+                            <ul>
+                                <li>HTML5</li>
+                                <li>PDF</li>
+                                <li>Word</li>
+                                <li>Clean XHTML</li>
+                                <li>Dita</li>
+                                <li>Eclipse Help</li>
+                                <li>EPUB</li>
+                                <li>HTML Help</li>
+                            </ul>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are targets?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../../Shared/D2H-Fl/Output/Output-Targets-Vs-Output-Types.flsnp" /> <a href="../../../../Flare/Targets/About-Targets.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What if you want different outputs to contain different content?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>The best way to accomplish this is through the use of conditions. <MadCap:snippetText src="../../Shared/Co-D2H-Fl/Conditions/Condition-Tag-Summary.flsnp" /> It is just one of the many single-sourcing features that you can use in <MadCap:variable name="Other.Product" />.&#160;<a href="../../../../Flare/Conditions/About-Condition-Tags.htm">More Details…</a></p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What are the most common output tasks in Flare?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <ul>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Output/Building-Single-Target.htm">Building and Publishing a Single Target</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Output/Building-Primary-Target.htm">Building and Publishing the Primary Target</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Output/Building-Multiple-Targets.htm">Building and Publishing Multiple Targets</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Output/Building-Output-Using-Batch-Target.htm">Building Output Using a Batch Target</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Output/Building-Targets-Using-Command-Line.htm">Building Targets Using the Command Line</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Creating Publishing Destinations</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/TOCs/Merging-Projects.htm">Merging Projects</MadCap:xref>
+                                </li>
+                                <li>
+                                    <MadCap:xref href="../../../../Flare/Output/Printed-Output/Creating-Printed-Output.htm">Creating Print-based Output</MadCap:xref>
+                                </li>
+                            </ul>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+                <MadCap:dropDown class="Micro-Content">
+                    <MadCap:dropDownHead class="Micro-Content">
+                        <MadCap:dropDownHotspot><span class="micro-dropdown-head">What does the MadCap Doc Team do with output?</span>
+                        </MadCap:dropDownHotspot>
+                    </MadCap:dropDownHead>
+                    <MadCap:dropDownBody>
+                        <div class="micro-content-drodown-body">
+                            <p>
+                                <MadCap:snippetText src="../Output/Doc-Team-Output1.flsnp" />
+                            </p>
+                            <ul>
+                                <li><b>MadCap Central </b>
+                                    <MadCap:snippetText src="../Output/Doc-Team-Output2.flsnp" />
+                                </li>
+                                <li><b>Web Server </b>
+                                    <MadCap:snippetText src="../Output/Doc-Team-Output3.flsnp" />
+                                </li>
+                                <li><b>Product Application </b>
+                                    <MadCap:snippetText src="../Output/Doc-Team-Output4.flsnp" />
+                                </li>
+                            </ul>
+                            <p><a href="../../../../Flare/Project-Architecture/External-Architecture/Publishing-Output.htm">More Details…</a>
+                            </p>
+                        </div>
+                    </MadCap:dropDownBody>
+                </MadCap:dropDown>
+            </div>
+            <div>
+                <div class="video" MadCap:conditions="General.Server-Only">
+                    <p class="buttonT32-play" style="text-align: center;"><a href="https://www.youtube.com/watch?v=AGU74MgSNXw" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                    </p>
+                </div>
+                <p MadCap:conditions="Products.Flare-Local-Only" class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Publish1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

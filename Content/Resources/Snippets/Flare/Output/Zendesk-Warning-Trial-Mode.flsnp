@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p class="warningInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Warning: &lt;/span&gt;&lt;/b&gt;">If you are using the MadCap Connect plug-in for Zendesk in trial mode, be careful when publishing to a live production environment. Users in trial mode are limited to publishing a maximum of 10 files. When you are sharing the same Flare project and Zendesk domain with other users, any files that were previously published from Flare by other users  are archived.</p>
+    </body>
+</html>

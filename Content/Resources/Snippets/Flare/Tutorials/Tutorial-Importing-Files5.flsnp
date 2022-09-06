@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="143" MadCap:lastWidth="1158">
+    <body>
+        <p><span class="SetOffFirstLevel">Question 3 </span><span class="EmphasisItalic">Which of the files from the Temp project do we want to import?</span> Obviously we want the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> Side</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> Top</MadCap:conditionalText> Navigation skin and its related files that give the<MadCap:conditionalText MadCap:conditions="Snippets.Snippet1"> Side</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2"> Top</MadCap:conditionalText> Navigation project template its look and feel. We also want to bring the Home page into our Legacy project, including some images. But we don't need most of the topics and many of the images, as well as most of the project files. In the steps below, we will indicate each file that we want to import (in an actual conversion, your list of files might be different).</p>
+    </body>
+</html>

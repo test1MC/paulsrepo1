@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">example</p>
+            <p>Let's say that to access your Pulse dashboard content users must type: <span class="TypedEntry">http://127.0.0.1/Pulse/</span> in the browser address bar. Using the steps below, you can change the host name to give users the ability to type: <span class="TypedEntry">http://pulse.example.com</span>.</p>
+        </div>
+    </body>
+</html>

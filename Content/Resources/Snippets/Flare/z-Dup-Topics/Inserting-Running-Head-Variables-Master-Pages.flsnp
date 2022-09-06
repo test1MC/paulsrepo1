@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <MadCap:snippetBlock src="../Banners/Feature-Supported/Word.flsnp" MadCap:conditions="General.Online-Only" />
+        <p>
+            <MadCap:snippetText src="../Variables/Running-Head-Variable-Master-Pages.flsnp" />
+        </p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to insert a running head variable into a master page</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>Add a variable set to the project, selecting the Running HF template.</li>
+                    <li>
+                        <MadCap:snippetText src="../Master-Pages/Open-Master-Page1.flsnp" />
+                    </li>
+                    <li>Place your cursor where you want to insert a Running head variable (i.e., in a page header or Page Footer proxy). <MadCap:conditionalText MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Printed-Output-Guide">See <MadCap:xref href="../../../../Flare/Output/Printed-Output/Adding-Page-Header-Footer-Proxies.htm">Adding Page Header and Footer Proxies</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li>
+                        <p>
+                            <MadCap:snippetText src="../../Shared/All/Steps-General/Do-One-Following-Depending-UI.flsnp" />
+                        </p>
+                        <ul class="FirstLevel">
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon </span>
+                                    <MadCap:snippetText src="../../Shared/All/UI-Elements/Select-Insert-Ribbon.flsnp" /> In the <span class="Emphasis">Single-Source</span> section select <span class="Emphasis">Variable</span>. </p>
+                            </li>
+                            <li><span class="SetOffFirstLevel">Local Toolbar </span>Click <img src="../../../Images/Shared/Ca-Co-Fl-Mi/insert_variable_btn.png" class="ReduceButtonSize" />.</li>
+                            <li><span class="SetOffFirstLevel">Keyboard Shortcut </span>On your keyboard press <span class="Emphasis">CTRL+SHIFT+V</span>.</li>
+                        </ul>
+                        <p>The Variables dialog opens, with the variable set(s) on the left and the variables associated with the selected set on the right. </p>
+                    </li>
+                    <li>On the left side of the dialog, select the Running Head variable set that you created.</li>
+                    <li>
+                        <p>On the right side of the dialog, select the variable you want to insert. Unless you edit the variable definitions to change the style classes within them, each variable is associated with one of the six heading styles (h1-h6). When you insert a Running Head variable into a master page, <MadCap:variable name="Other.Product" /> inserts the text from the first occurrence of the specified style on that page. If it doesn't find text using that style, it uses the text from the previous occurrence of that style.</p>
+                        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Variables-Guide,Flare-Guides.Flare-Master-Pages-Guide" />
+                        <div class="example">
+                            <p class="exampleHeadTextEmpty">example</p>
+                            <p>If you want the header in chapters to display content that is using the h1 style (perhaps you are using this style to display the chapter title for your output), select the <span class="Emphasis">Running H/F 1</span> variable. The header will then display the first h1 content that it finds in the document (e.g., "My First Chapter Title"). When the next occurrence of the h1 style appears on another page, the heading changes to display that text (e.g., "My Second Chapter Title"), and so on.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" /> The Running Head variable is added to the master page. </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+                    </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

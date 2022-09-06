@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Analysis/Suggestions-Submenu.flsnp" />
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Options</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ul>
+                    <li><span class="SetOffFirstLevel">Index Keyword Suggestions </span>Opens the Index Keyword suggestions pane. <MadCap:snippetText src="../Analysis/Index-Keyword-Suggestions-Summary.flsnp" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Indexes/Viewing-Index-Keyword-Suggestions.htm">Viewing and Adding Index Keyword Suggestions</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Snippet Suggestions </span>
+                        <MadCap:snippetText src="Open-Snippet-Suggestions-Window-Option.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Variable Suggestions </span>
+                        <MadCap:snippetText src="Open-Variable-Suggestions-Window-Option.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">New Style Suggestions </span>
+                        <MadCap:snippetText src="Open-New-Style-Suggestions-Window-Option.flsnp" />
+                    </li>
+                    <li>
+                        <p><span class="SetOffFirstLevel">Replace Local Style Suggestions </span>
+                            <MadCap:snippetText src="Open-Replace-Local-Style-Suggestions-Window-Option.flsnp" />
+                        </p>
+                        <p MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide">&#160;</p>
+                        <p MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide">&#160;</p>
+                    </li>
+                    <li><span class="SetOffFirstLevel">Accessibility Suggestions </span>
+                        <MadCap:snippetText src="Accessibility-Suggestions-Summary.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Markup Suggestions </span>
+                        <MadCap:snippetText src="Markup-Suggestions-Summary.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Cross-Reference Suggestions </span>
+                        <MadCap:snippetText src="Cross-Reference-Suggestions-Summary.flsnp" />
+                    </li>
+                    <li><span class="SetOffFirstLevel">Writing Suggestions </span>Opens the Writing Suggestions window pane. <MadCap:snippetText src="../Analysis/Writing-Suggestions-Summary.flsnp" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Analysis/Writing-Suggestions/Viewing-Writing-Suggestions.htm">Viewing Writing Suggestions</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Frequent Segments </span>Opens the Frequent Segments window pane, which lets you view a list of segments that occur frequently in your project. You can see the text, the number of occurrences of each segment, and the number of words and characters in each segment. If you notice that certain segments are repeated numerous times throughout your project, you can easily convert them to snippets or variables. <MadCap:conditionalText MadCap:conditions="General.Online-Only">For an example, see <MadCap:xref href="../../../../Flare/Analysis/Frequent-Segments/About-Frequent-Segments.htm">About Frequent Segments</MadCap:xref>. Also see <MadCap:xref href="../../../../Flare/Analysis/Frequent-Segments/Viewing-Frequent-Segments.htm">Viewing Frequent Segments</MadCap:xref>.</MadCap:conditionalText></li>
+                    <li><span class="SetOffFirstLevel">Similar Segments </span>Opens the Similar Segments window pane. <MadCap:snippetText src="../Analysis/Similar-Segments-Summary.flsnp" /><![CDATA[  ]]><MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Analysis/Frequent-Segments/Viewing-Similar-Segments.htm">Viewing Similar Segments</MadCap:xref>.</MadCap:conditionalText></li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

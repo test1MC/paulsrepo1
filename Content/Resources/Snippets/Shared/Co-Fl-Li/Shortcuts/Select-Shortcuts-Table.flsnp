@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="668" MadCap:lastWidth="1159">
+    <head>
+        <link href="../../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;caption-side: top;mc-table-style: url('../../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1" MadCap:conditions="General.Print-Only">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1" colspan="2" MadCap:conditions="">
+                        <p class="TableTextHead">Select</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">All</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">CTRL+A</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Content Between Current Position of Cursor and New Position</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">SHIFT+CLICK</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet3,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Content Between Cursor and Beginning of Block</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+SHIFT+UP</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Content Between Cursor and Beginning of Line</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">SHIFT+HOME</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet3,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Content Between Cursor and End of Block</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">CTRL+SHIFT+DOWN</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Content Between Cursor and End of Line</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">SHIFT+END</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Content Between Cursor and Next Portion of Screen </p>
+                        <p class="TableText">If Web Layout view</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">SHIFT+PAGE DOWN</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Content Between Cursor and Previous Portion of Screen</p>
+                        <p class="TableText"> If Web Layout view</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">SHIFT+PAGE UP</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Next Character</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">SHIFT+RIGHT</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet3,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Next Table Cell</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" MadCap:conditions="">
+                        <p class="TableText">TAB</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-LightRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Next Word</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">CTRL+SHIFT+RIGHT</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Previous Character</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">SHIFT+LEFT</p>
+                    </td>
+                </tr>
+                <tr valign="top" MadCap:conditions="Snippets.Snippet1,Snippets.Snippet3,Snippets.Snippet6" class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableTextEmphasis">Previous Table Cell</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" MadCap:conditions="">
+                        <p class="TableText">SHIFT+TAB</p>
+                    </td>
+                </tr>
+                <tr valign="top" class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" MadCap:conditions="">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Previous Word</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-DarkerRows">
+                        <p class="TableText">CTRL+SHIFT+LEFT</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

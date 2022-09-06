@@ -1,0 +1,1129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary conditions="Products.Flare">
+    <GlossaryEntry glossTerm="FlareGlossary.Term0">
+        <Terms>
+            <Term>Index Entry Mode</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you add index keywords to the Index window pane more quickly than you could otherwise. With the Index Entry Mode, you do not need to move around the interface as much; you simply click in the topic where you want to insert an index keyword and start typing (without typing over your topic content).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (6) of New" glossTerm="FlareGlossary.Term6">
+        <Terms>
+            <Term>Content Explorer</Term>
+        </Terms>
+        <Definition Link="">One of the most-used elements in the Flare interface (along with the Project Organizer). The Content Explorer, just as it sounds, is used to hold all of the content-related items in your project. Topic files are added to the root folder in the Content Explorer, unless you create custom folders to organize your topics. The rest of the content items are&#160;stored in the Resources folder, which Flare creates for you. Within the Resources folder are subfolders containing the various content items (e.g., Images, MasterPages, PageLayouts, Snippets).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (9) of New" glossTerm="FlareGlossary.Term9">
+        <Terms>
+            <Term>Book</Term>
+        </Terms>
+        <Definition Link="">A "container" in a table of contents or browse sequence used to organize and hold links to topics or external files.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (10) of New" glossTerm="FlareGlossary.Term10">
+        <Terms>
+            <Term>Span bar</Term>
+        </Terms>
+        <Definition Link="">A bar in the interface that is displayed at the top of the content area. Span bars show formatting tags in your content. For example, if you have a portion of a paragraph that is bold and you click it, you will see a "b" in a bar above.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (11) of New" glossTerm="FlareGlossary.Term11">
+        <Terms>
+            <Term>Structure bar</Term>
+        </Terms>
+        <Definition Link="">A bar in the interface that is displayed to the left of the content area. Structure bars show the different tags for your chunks of content. You can perform a variety of tasks (e.g., creating snippets, applying styles, editing the element,  setting conditions) for a tagged section by right-clicking on the block bar and then selecting an action from the context menu.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (14) of New" glossTerm="FlareGlossary.Term12">
+        <Terms>
+            <Term>Inline formatting</Term>
+        </Terms>
+        <Definition Link="">See "Local formatting."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (19) of New" glossTerm="FlareGlossary.Term16">
+        <Terms>
+            <Term>Local formatting</Term>
+        </Terms>
+        <Definition Link="">A way to change the look and feel of content directly so that the changes are applied only to that specific content (as opposed to applying the changes throughout your project via the use of styles). Many easy-to-use tools are provided for editing and formatting topics directly in the XML Editor to give them the look and feel you want, without having to know XML at all. Simply open the topic that you want to format, and use the tool that suits your needs best. This direct approach to formatting topics (sometimes called "inline" formatting) can be very attractive because it is quick and easy. However, it is recommended that you use style classes instead of local formatting whenever possible. Although local formatting is very convenient in the short-term, using style classes is much more efficient and can save you a great deal of time in the long-term.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (20) of New" glossTerm="FlareGlossary.Term17">
+        <Terms>
+            <Term>Build</Term>
+        </Terms>
+        <Definition Link="">The process of creating the final output for a project. After you finish building a target, one or more output files are created for you to distribute to your end users.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (24) of New" glossTerm="FlareGlossary.Term20">
+        <Terms>
+            <Term>Split View</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you view additional details for a file (such as the file size, date modified, title, class, and condition tags). When you  use the Split View feature,  the list of files is displayed to the right, but with more information about each file. If you click a file on the right side, a circle appears around the appropriate folder on the left side, showing you where the file is located. For example, you can use Split View when working in the Project Organizer. If you were to select a specific target file on the right side, you would see a circle around the Targets folder on the left.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (25) of New" glossTerm="FlareGlossary.Term21">
+        <Terms>
+            <Term>Floating window</Term>
+        </Terms>
+        <Definition Link="">A window that has been moved in the  interface and then "dropped" so that it "floats" in the interface, not being attached (or "docked") to any other elements.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (26) of New" glossTerm="FlareGlossary.Term22">
+        <Terms>
+            <Term>Docked window</Term>
+        </Terms>
+        <Definition Link="">A window that has been moved in the interface and then "dropped" so that it is attached (or "docked") to the sides, top, or bottom of the program interface. When you move the cursor over one of the square icons, semi-transparent shading shows where the window will be docked when you release the mouse button.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (27) of New" glossTerm="FlareGlossary.Term23">
+        <Terms>
+            <Term>Layout</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you save different configurations of the interface. So you could have one layout saved for when you are creating topics and adding content, and another layout for when you are indexing. In your indexing layout, you would want to have the Index Entry window open. You also might want to have the Index Explorer open so you can see and keep track of all your index entries. Also see "Page layout."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (28) of New" glossTerm="FlareGlossary.Term24">
+        <Terms>
+            <Term>Local toolbar</Term>
+        </Terms>
+        <Definition Link="">A toolbar with shortcut buttons that is available in an active element. For example, the XML Editor has its own local toolbar, as does the TOC Editor, the Content Explorer, the Project Organizer, and so on.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (29) of New" glossTerm="FlareGlossary.Term25">
+        <Terms>
+            <Term>Auto-generate TOC</Term>
+        </Terms>
+        <Definition Link="">If your topics make use of the heading styles H1 through H6 provided by Flare, you can automatically create a TOC based on these headings with the click of a button.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (30) of New" glossTerm="FlareGlossary.Term26">
+        <Terms>
+            <Term>Overwrite highlight</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you know whether you are in "insert" or "overwrite" mode in the XML Editor.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (33) of New" glossTerm="FlareGlossary.Term28">
+        <Terms>
+            <Term>Tag-sensitive cursor</Term>
+        </Terms>
+        <Definition Link="">In Flare's XML Editor, the insertion point cursor knows when it is inside or outside of a tag. By default, the insertion point cursor in the XML Editor is a bracket. This bracket cursor faces right ([) or left (]), depending on whether it is inside a particular tag. For example, let's say you have written a sentence. At the end of the sentence you have typed the word "Close" in bold font, followed by a period in regular font. Now you want to add the word "button" immediately after the word "Close," but you do not want the word "button" to take on the bold font. You hover the cursor at the end of the word "Close." The bracket faces left (]), which tells you that if you were to begin typing at that location, the next text would also be bold. So you move the cursor slightly toward the right and the bracket cursor faces right ([), which tells you that the next text at this location would take on the regular font of the period. You click the mouse button and type the new text in regular font.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (34) of New" glossTerm="FlareGlossary.Term29">
+        <Terms>
+            <Term>Extensible Markup Language</Term>
+        </Terms>
+        <Definition Link="">See "XML."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (35) of New" glossTerm="FlareGlossary.Term30" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Single-sourcing</Term>
+        </Terms>
+        <Definition Link="">Reusing content and producing multiple outputs from the same set of source files. Flare lets you single-source your projects in many ways, using various features. This includes features such as topic-based authoring, conditions, snippets, variables, multiple tables of contents, and more.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (37) of New" glossTerm="FlareGlossary.Term31">
+        <Terms>
+            <Term>Online Help</Term>
+        </Terms>
+        <Definition Link="">Output that consists of one or more computer files that, when opened, display the Help system in a window on the user's computer.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (47) of New" glossTerm="FlareGlossary.Term40">
+        <Terms>
+            <Term>Bookmark</Term>
+        </Terms>
+        <Definition Link="">A marker that you can apply to a specific location in a topic. Then you can add a navigation link that "jumps" to this specific location.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (49) of New" glossTerm="FlareGlossary.Term42">
+        <Terms>
+            <Term>WebHelp</Term>
+        </Terms>
+        <Definition Link="">An output type that is ideal for displaying on the Internet. Help created with this output type opens on all platforms (operating systems).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (50) of New" glossTerm="FlareGlossary.Term43">
+        <Terms>
+            <Term>Microsoft HTML Help</Term>
+        </Terms>
+        <Definition Link="">An HTML-based Help format that runs on Windows 32-bit platforms and requires Internet Explorer on the end users' systems. Use HTML Help to create Help for Windows desktop applications.&#160;HTML Help compresses the output into a single .chm file. CHM is not really a strict acronym, so to speak, but it more or less stands for "Compiled HTML Help Format."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (51) of New" glossTerm="FlareGlossary.Term44">
+        <Terms>
+            <Term>HTML Help</Term>
+        </Terms>
+        <Definition Link="">See "Microsoft HTML Help."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (55) of New" glossTerm="FlareGlossary.Term45">
+        <Terms>
+            <Term>Target frame</Term>
+        </Terms>
+        <Definition Link="">An option used when creating navigation links to determine the way the linked destination will open. With "Page Default," the destination topic will open in the same window as the online Help window. With "Parent Frame," the destination topic will open in the parent frame of the current topic while hiding that topic. With "New Window," the destination topic will open in a new browser window. With "Same Frame," the destination topic will open in the same window frame as the current topic. With "Top Frame," the destination topic will open in the Help file window, removing all other framesets. You might use this option, for example, if the destination topic has its own frameset. With "Popup Window," the destination topic will open in a popup window on top of the current topic.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (63) of New" glossTerm="FlareGlossary.Term51" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Marker</Term>
+        </Terms>
+        <Definition Link="">An indicator (usually shaded text, an icon, or both) within content showing that a certain feature has been inserted. For example, if you insert a bookmark into a topic, a bookmark marker indicates where it has been added. However, users do not see the actual marker in the output. The marker is simply used so that the author knows where certain features have been inserted. You can turn markers on or off by using the "Show tags" button in the local toolbar of the XML Editor.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (67) of New" glossTerm="FlareGlossary.Term53">
+        <Terms>
+            <Term>Content files</Term>
+        </Terms>
+        <Definition Link="">Files that are created as you create new topics or as you add resources such as images, stylesheets, or snippets within the project</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (68) of New" glossTerm="FlareGlossary.Term54">
+        <Terms>
+            <Term>Topic files</Term>
+        </Terms>
+        <Definition Link="">XHTML documents that are added to your project when you create topics. For example, let's say you are writing a Help system to teach people how to use expense reports at work. You want to create one topic called "Where to Find Expense Reports" and another called "How to Complete an Expense Report." After you create the topics, Flare will save one XHTML file for each of the topics (e.g., Where_to_Find_Expense_Reports.htm and How_to_Complete_an_Expense_Report.htm).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (70) of New" glossTerm="FlareGlossary.Term55">
+        <Terms>
+            <Term>Resources folder</Term>
+        </Terms>
+        <Definition Link="">The folder in the Content Explorer that holds certain content files that you create as you develop your project. This includes files such as images, master pages, page layouts, snippets, stylesheets, and table stylesheets.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (72) of New" glossTerm="FlareGlossary.Term57">
+        <Terms>
+            <Term>Project files</Term>
+        </Terms>
+        <Definition Link="">Files that are created as you add certain features to the project, develop outputs (targets), and work to make it all look good. When you develop a project, you probably want it to have certain features and characteristics. For example, you might want to include a table of contents or a glossary. When you specify elements such as these in Flare, specific project files are created for you so that the final output knows how to look and behave.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (75) of New" glossTerm="FlareGlossary.Term59">
+        <Terms>
+            <Term>Navigation link</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you quickly open additional information from a specific area in a topic. The link may open information in the same topic, a different topic, or even a file outside of the Help system altogether. In Flare, you can use navigation links in many ways, including the following: text hyperlinks, cross-references, topic popup, text popup, image hyperlink, bookmark, named destination, drop-down text, expanding text, related topic link, concept link, keyword link.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (76) of New" glossTerm="FlareGlossary.Term60">
+        <Terms>
+            <Term>Rule</Term>
+        </Terms>
+        <Definition Link="">A horizontal line (or bar) that you can insert into a topic. You might use a rule, for example, as a design element to separate your topic title from the content.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (77) of New" glossTerm="FlareGlossary.Term61">
+        <Terms>
+            <Term>Browse sequence</Term>
+        </Terms>
+        <Definition Link="">If you have several topics that you think end users should read in order, you can create browse sequences. When users view the compiled online Help system, they can use your browse sequences to "browse" through topics in a particular order.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (79) of New" glossTerm="FlareGlossary.Term63">
+        <Terms>
+            <Term>Body proxy</Term>
+        </Terms>
+        <Definition Link="">An element you can add to a master page. A Body proxy represents the main content from your topics (such as text, pictures, rulers, etc.). In a master page, if you enter additional content above the Body proxy bar, the content will display as a header (above the topic body) in the output. If you enter the content below the Body proxy bar in the master page, the content will display as a footer (below the topic body) in the output.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (80) of New" glossTerm="FlareGlossary.Term64">
+        <Terms>
+            <Term>Breadcrumbs proxy</Term>
+        </Terms>
+        <Definition Link="">An element that you can add to a master page. If this proxy is included in a master page, the output will display a "trail of breadcrumbs" comprised of the table of contents (TOC) entries above the current topic in the TOC hierarchy. </Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (85) of New" glossTerm="FlareGlossary.Term68">
+        <Terms>
+            <Term>Image hyperlink</Term>
+        </Terms>
+        <Definition Link="">A hyperlink that is applied to a picture rather than text.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (88) of New" glossTerm="FlareGlossary.Term71">
+        <Terms>
+            <Term>Related topic link</Term>
+        </Terms>
+        <Definition Link="">A navigation link that lets users open topics that you've determined are related to the current topic. This is similar to a concept link. You should use a related topic link if you are applying it to a topic that you want to associate with specific topics but you do not plan to reuse the same link in other topics.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (90) of New" glossTerm="FlareGlossary.Term73">
+        <Terms>
+            <Term>Keyword link</Term>
+        </Terms>
+        <Definition Link="">A navigation link that lets users open topics that are related to the current topic based on the index entry terms that they share.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (92) of New" glossTerm="FlareGlossary.Term74">
+        <Terms>
+            <Term>Text snippet</Term>
+        </Terms>
+        <Definition Link="">A snippet that is created out of a portion of one paragraph.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (93) of New" glossTerm="FlareGlossary.Term75">
+        <Terms>
+            <Term>Block snippet</Term>
+        </Terms>
+        <Definition Link="">A snippet that is created out of one or more paragraphs.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (95) of New" glossTerm="FlareGlossary.Term77">
+        <Terms>
+            <Term>Character style</Term>
+        </Terms>
+        <Definition Link="">A style class that is applied only to certain characters in a paragraph (rather than to the entire paragraph).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (96) of New" glossTerm="FlareGlossary.Term78">
+        <Terms>
+            <Term>Paragraph style</Term>
+        </Terms>
+        <Definition Link="">A style class that is applied only to an entire paragraph (rather than to certain characters in a paragraph).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (97) of New" glossTerm="FlareGlossary.Term79">
+        <Terms>
+            <Term>FTP</Term>
+        </Terms>
+        <Definition Link="">See "File Transfer Protocol."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (98) of New" glossTerm="FlareGlossary.Term80">
+        <Terms>
+            <Term>File Transfer Protocol</Term>
+        </Terms>
+        <Definition Link="">An option in the Destination Editor used to publish output files to another computer over a TCP/IP network.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (99) of New" glossTerm="FlareGlossary.Term81">
+        <Terms>
+            <Term>File System</Term>
+        </Terms>
+        <Definition Link="">An option in the Destination Editor used to publish the output to a location on your computer or to another drive on a network.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (36) of New" glossTerm="FlareGlossary.Term84">
+        <Terms>
+            <Term>Project Organizer</Term>
+        </Terms>
+        <Definition Link="">One of the most-used elements in the Flare interface (along with the Content Explorer). The Project Organizer, just as it sounds, is used to hold all of the project-related items in your project. This includes elements such as the following: browse sequences, destinations, glossaries, skins, tables of contents, targets, and variables. Each element is organized into a specific folder (e.g., targets are stored in the Targets folder).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term85">
+        <Terms>
+            <Term>Horizontal ruler</Term>
+        </Terms>
+        <Definition Link="">A horizontal measurement ruler that you can add at the top of your topic in the XML Editor. If you click the ruler after it is opened, you can select to convert the ruler to pixels, points, centimeters, or inches.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term86">
+        <Terms>
+            <Term>Vertical ruler</Term>
+        </Terms>
+        <Definition Link="">A vertical measurement ruler that you can add at the left&#160;of your topic in the XML Editor. If you click the ruler after it is opened, you can select to convert the ruler to pixels, points, centimeters, or inches.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term87">
+        <Terms>
+            <Term>Dependency</Term>
+        </Terms>
+        <Definition Link="">When you link one file with another, you create a dependency between the two files. Link dependencies are created when you perform tasks such as inserting a text hyperlink into a topic, inserting a picture into a topic, associating a skin with a target, and many other tasks.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term88">
+        <Terms>
+            <Term>Link dependency</Term>
+        </Terms>
+        <Definition Link="">See "Dependency."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term89">
+        <Terms>
+            <Term>Image map</Term>
+        </Terms>
+        <Definition Link="">A multi-sectioned hyperlink on a picture. When you create an image map, you select specific areas of the image and then apply hyperlinks to those different areas.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term91">
+        <Terms>
+            <Term>Hotspot</Term>
+        </Terms>
+        <Definition Link="">The portion of a navigation link that users click to see certain content. For example, drop-down text, expanding text, and togglers all contain hotspots.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term94">
+        <Terms>
+            <Term>Topic ID</Term>
+        </Terms>
+        <Definition Link="">Text within an identifier that refers to the dialog or window that is being "tied" to a particular topic in the Help system. It is simply a descriptive name that helps you know which dialog or window it is talking about (e.g., Properties_Dialog). You can add a prefix (e.g., IDC) to the beginning of a topic ID if you want. You must use underscores between words in a topic ID because spaces are not allowed.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term97">
+        <Terms>
+            <Term>Identifier</Term>
+        </Terms>
+        <Definition Link="">A line of text in a header file. This text refers to a specific dialog or window that is linked to a corresponding topic in the Help system. A header ID consists of preliminary text (#define), the topic ID, and a unique numerical value.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term99">
+        <Terms>
+            <Term>Section 508</Term>
+        </Terms>
+        <Definition Link="">The&#160;United&#160;States&#160;government&#160;passed&#160;the&#160;Rehabilitation&#160;Act in 1973. Part of this Act is Section 508, which was amended in 1998 and requires Federal agencies to follow standards in developing, maintaining, acquiring, or using electronic and information technology to make systems accessible to people with disabilities. This includes users who have visual, hearing, and mobility impairments. You can take certain steps when creating your Help content and use the WebHelp or WebHelp Plus output type to ensure your output is Section 508 compliant.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term101">
+        <Terms>
+            <Term>Counter</Term>
+        </Terms>
+        <Definition Link="">An auto-number command (such as {n}, {n=1}, {n+}, {r}, {A}, and {Gn}) that provides information about what types of numbers should be used and how they should be incremented.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term102">
+        <Terms>
+            <Term>Series label</Term>
+        </Terms>
+        <Definition Link="">A prefix to an auto-number format (comprised of one or two letters and a colon) that provides a way to limit a numbering sequences for different purposes. For example, if you are creating auto-numbers for procedures and figure captions in the same content flow, you do not want them to use the same numbering sequence.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term104">
+        <Terms>
+            <Term>Font set</Term>
+        </Terms>
+        <Definition Link="">A collection of fonts. You can create a font set in order to designate "backup" fonts to be used in case the preferred font is not available on the user's computer. If the first (preferred) font family in the set is not found on the user's computer, the second font family in the set is used. If the second font family is not found, the third font family is used, and so on.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term105">
+        <Terms>
+            <Term>Localization</Term>
+        </Terms>
+        <Definition Link="">The process of creating documentation in a particular language. Flare lets you create Help systems in many different languages. You can also customize the Help interface to display in a certain language.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term106">
+        <Terms>
+            <Term>Glossary proxy</Term>
+        </Terms>
+        <Definition Link="">If you want your printed output to include the glossary from your project, you need to create a topic specifically for this purpose and insert a Glossary proxy into it.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term107">
+        <Terms>
+            <Term>Index proxy</Term>
+        </Terms>
+        <Definition Link="">If you want your printed output to include the index from your project, you need to create a topic specifically for this purpose and insert an Index proxy into it.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term108">
+        <Terms>
+            <Term>Page header proxy</Term>
+        </Terms>
+        <Definition Link="">If you are creating printed documentation and want your manual to have headers (to hold content such as chapter titles and page numbers), you can accomplish this by creating master pages. The Page Header proxy lets you insert content or automatic page numbering (specifically designated for the first page, even pages, or odd pages) in a master page. Use the Page Header proxy to insert content and page numbering above the body.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term109">
+        <Terms>
+            <Term>Page footer proxy</Term>
+        </Terms>
+        <Definition Link="">If you are creating printed documentation and want your manual to have footers (to hold content such as chapter titles and page numbers), you can accomplish this by creating master pages. The Page Footer proxy lets you insert content or automatic page numbering (specifically designated for the first page, even pages, or odd pages) in a master page. Use the Page Footer proxy to insert content below the body.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term110">
+        <Terms>
+            <Term>MadCap Mimic</Term>
+        </Terms>
+        <Definition Link="">Mimic is MadCap Software's  movie-making software. From within Flare, you can launch Mimic, insert movie links, edit movies, and preview movies.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term111">
+        <Terms>
+            <Term>Shortcut control</Term>
+        </Terms>
+        <Definition Link="">A navigation link that lets users launch a program or window in an application that has a relationship to the current topic. For example, if a topic discusses a procedure that involves a specific dialog window, you can provide a link that a user can click in the topic to open the dialog in the program. Shortcut controls can make tasks easier for new users, and they can speed up complex procedures for experienced users.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term112">
+        <Terms>
+            <Term>Running HF variable</Term>
+        </Terms>
+        <Definition Link="">A special variable that you can insert into a header or footer in a page layout or print master page. It lets you display certain text in the header or footer automatically, based on the style associated with the variable. For example, Running HF variables are useful if you want to include the title of each chapter in a document in a header or footer without having to type them into multiple page layouts or master pages.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term113">
+        <Terms>
+            <Term>Tag bar</Term>
+        </Terms>
+        <Definition Link="">A bar in the interface that is displayed to the left of the content area. Tag bars show the different tags for your chunks of content.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term115">
+        <Terms>
+            <Term>Condition tag set</Term>
+        </Terms>
+        <Definition Link="">An element that is used to hold individual condition tags that you create.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term116">
+        <Terms>
+            <Term>Search filter set</Term>
+        </Terms>
+        <Definition Link="">A filter can be included in the search feature to let users narrow their search based on "concepts" that you have inserted into topics. Concepts are simply markers that you insert into topics that have some kind of relationship with each other.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term117">
+        <Terms>
+            <Term>Mark of the Web</Term>
+        </Terms>
+        <Definition Link="">A comment added to the HTML markup for a Web page. When users open the Web page from their local machine, Internet Explorer references this comment to determine the security zone in which it should run the page. This means you can deliver Web-based output without your online Help initially being blocked on the user's machine with a security message.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term118">
+        <Terms>
+            <Term>Language skin</Term>
+        </Terms>
+        <Definition Link="">A special type of skin that lets you display WebHelp output interfaces in a particular language. You can use a language skin instead of a regular skin for the text on labels, buttons, etc. To control the look of the output (e.g., color, navigation elements), you need to use the regular skin.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term120" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>DOCX</Term>
+        </Terms>
+        <Definition Link="">Microsoft Word's platform-independent, open XML format. In Flare, you can create DOCX files if you have at least Word 2007 installed.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term122">
+        <Terms>
+            <Term>Easy Sync</Term>
+        </Terms>
+        <Definition Link="">A feature that you can use when importing Flare, Microsoft Word, or Adobe FrameMaker documents. When you import these types of documents, you can maintain a connection between those source documents and the Flare project. This lets you continue editing in the source documents if you so decide. When you make change in the source documents, those files need to be re-imported into the project so that they can be included in the output. You have the option of re-importing the documents manually. However, you can also tell Flare to do this for you automatically, so that you do not have to. This is Easy Sync.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term123">
+        <Terms>
+            <Term>Unicode</Term>
+        </Terms>
+        <Definition Link="">An industry standard that defines every character in most writing systems in the world. The purpose of Unicode is to allow computers to consistently represent the many different languages that exist. Unicode may use up to four bytes to hold the code for a character, with the letter "U" always starting the code, followed by a plus sign and a hex number (e.g., U+006C).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term125">
+        <Terms>
+            <Term>Attribute</Term>
+        </Terms>
+        <Definition Link="">An element that lets you provide additional information about tagged content and how that content should behave</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term126">
+        <Terms>
+            <Term>Command line compilation</Term>
+        </Terms>
+        <Definition Link="">In addition to using Flare's interface to generate output for a target, you can build output from your operating system's command line. Using this method, you do not have to open Flare at all. You can build output for a single target or for all targets in your project in one batch.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term128" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Check in</Term>
+        </Terms>
+        <Definition Link="">In terms of source control, this means to copy your local Flare files to the source control application, overwriting the copies stored in Microsoft Team Foundation Server. This enables other authors on your team to access and edit the latest files (unless, of course, you keep the files checked out at the same time). You can also check in SharePoint files, but in that case you do not have a copy of the file locally. You are simply changing the "flag" on the SharePoint site indicating whether the file is checked in or checked out.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term129">
+        <Terms>
+            <Term>Check out</Term>
+        </Terms>
+        <Definition Link="">In terms of source control, this means to copy the latest source control files to your local Flare project and remove the "Read Only" designation from them so that you can edit the files. You can also check out SharePoint files, but in that case you do not have a copy of the file locally. You are simply changing the "flag" on the SharePoint site indicating whether the file is checked in or checked out.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term131">
+        <Terms>
+            <Term>MadCap Feedback</Term>
+        </Terms>
+        <Definition Link="">A live Help reporting service that works in conjunction with Flare to provide live Web 2.0 community benefits for your online output—including integrated user comments and reporting statistics.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term132">
+        <Terms>
+            <Term>Feedback Explorer</Term>
+        </Terms>
+        <Definition Link="">An application that is used to view and track all reader activity on your online output. This is a standalone application that is separate from Flare. It displays user activity for the most recently opened Feedback file (which is associated with a target/license combination in Flare). For more information see the online Help provided with MadCap Feedback Explorer.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term134">
+        <Terms>
+            <Term>SCC API</Term>
+        </Terms>
+        <Definition Link="">Microsoft Source Code Control API (SCC API) is an interface specification defined by Microsoft that defines the interface between Flare and a source control provider, providing hooks for a number of common source control operations (such as check out, check in, get latest, and so on).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term135">
+        <Terms>
+            <Term>Caret tag neighborhood</Term>
+        </Terms>
+        <Definition Link="">The interface of the XML Editor includes a "caret tag neighborhood." If you click on a line that contains inline tags (e.g., bold font, cross-reference), floating tag bars display above it. You can click on a bar to open the context menu and take action on the content. This feature is disabled by default. If you want to turn it on, simply click the down arrow in the Show Tags button (in the local toolbar of the XML Editor) and select Show Caret Tag Neighborhood.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term136" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Pseudo class</Term>
+        </Terms>
+        <Definition Link="">A a special style class that pertains to elements when they're in a certain state (e.g., the font turns orange when a user hovers over it). They are often (but not exclusively) used for styles associated with hyperlinks.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term137">
+        <Terms>
+            <Term>WebHelp Plus</Term>
+        </Terms>
+        <Definition Link="">An output type that is identical to the regular WebHelp output in most ways. However, WebHelp Plus is designed to work on a Web server running Microsoft Internet Information Services (IIS), ASP.NET, and Microsoft Indexing. The benefit of publishing WebHelp Plus output is that you and your users can take advantage of some advanced features, including faster server-side search, searching of non-XHTML content, and automatic runtime merging. Like WebHelp, WebHelp Plus is ideal for displaying on the Internet. Help created with this output type opens on all platforms (operating systems).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term138">
+        <Terms>
+            <Term>Synonym</Term>
+        </Terms>
+        <Definition Link="">A phrase similar to another word that is found in a particular topic. By creating synonyms, users will be able to search for and find the same topic information using either word, even though the synonym phrase does not occur in the actual topic.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term139">
+        <Terms>
+            <Term>Synonym group</Term>
+        </Terms>
+        <Definition Link="">A group of synonyms that produces the same search results for all of the words in the group. It is a useful method if you have multiple terms in your project that are similar, and you want the same search results to be returned when users enter any of those phrases. It works like this… In the Synonyms Editor, you enter the terms with an equal sign between each one (Synonym1=Synonym2=Synonym3=Synonym4). When users enter any of those terms in future searches, all topics containing any of those words are found.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term140">
+        <Terms>
+            <Term>Directional synonym</Term>
+        </Terms>
+        <Definition Link="">A synonym that works in one direction. It is a useful method if readers enter a search term that is not contained in your project, but you have a similar word that is contained in the project. It works like this… In the Synonyms Editor, you supply a synonym for a term that has not produced search results (because it is not contained in your project content). When users enter that word again in future searches, topics containing the synonym are found.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term141">
+        <Terms>
+            <Term>Passthrough marker</Term>
+        </Terms>
+        <Definition Link="">A special marker that you can insert into your FrameMaker source content when you have information or code that you plan to import to Flare and want left alone (or "passed through," leaving it exactly as you have authored it, rather than processing it). A passthrough can be just about anything, as long as  supports it in the XHTML code. You can specify how the marker content should be treated when the FrameMaker document is imported. The first option is that you can import the marker content as regular text (which is the default setting). The second option is that you can import the marker content as an XML fragment (e.g., the first part of a bold tag—&lt;b&gt;—content as a complete XML tag. You might use a passthrough marker for various reasons, such as for importing a marker as XHTML or JavaScript code.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term142">
+        <Terms>
+            <Term>Topic alias marker</Term>
+        </Terms>
+        <Definition Link="">A special marker that you can insert into your FrameMaker source content wherever you want a new context-sensitive Help (CSH) identifier to be created in Flare (after you import the FrameMaker document). After the developer "hooks" the CSH identifier with the appropriate user interface element in the application, that imported FrameMaker content will display when a user opens the CSH in the application's user interface.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term143">
+        <Terms>
+            <Term>Binary index</Term>
+        </Terms>
+        <Definition Link="">An index that is intended for merging multiple .chm files when you build a target. The index keywords in the .chm files are sorted alphabetically and numerically for display in the output</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term144">
+        <Terms>
+            <Term>Binary TOC</Term>
+        </Terms>
+        <Definition Link="">A table of contents that is intended for very large compiled Microsoft HTML Help projects, reducing the amount of time it takes to load a TOC.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term145">
+        <Terms>
+            <Term>Dynamic Help</Term>
+        </Terms>
+        <Definition Link="">A feature where a Help window automatically displays topics from a Help system that are relevant to the context as an individual uses an application. For example, if the user clicks on an area of your UI called "Project Organizer," the topic pertinent to the Project Organizer opens. You can see an example of Dynamic Help in MadCap Flare's online Help (select Help &gt; Dynamic Help).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term146">
+        <Terms>
+            <Term>IFilter</Term>
+        </Terms>
+        <Definition Link="">A plug-in that you may install if you are generating and publishing WebHelp Plus or HTML5 server-based output. An IFilter enables the Microsoft Indexing Service to read certain file types. This means that you can include some non-XHTML file types (such as PDF) in your output so that the content from those files are included in any searches performed by end users.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term147">
+        <Terms>
+            <Term>Embedded Help</Term>
+        </Terms>
+        <Definition Link="">Documentation that is built in to an application interface. This can be text that programmer's add directly into the different areas of the program. It can also mean Help that is displayed in its own window within the interface, such as Flare's dynamic Help.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term148" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Catalog</Term>
+        </Terms>
+        <Definition Link="">An element used when you are producing WebHelp Plus or HTML5 output. Microsoft Indexing Service stores all of its index information in catalogs. A catalog comprises index information and stored properties for a particular group of file system directories.  If Internet Information Services (IIS) is installed, the Indexing Service also creates a Web catalog, which contains an index of IIS, the default virtual server of the World Wide Web.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term149">
+        <Terms>
+            <Term>Text box</Term>
+        </Terms>
+        <Definition Link="">A box that you can insert into a topic (using a div tag) so that you can add content to it. A text box can be positioned in a variety of places on a page (e.g., aligned left on the page, outside frame, center of column). For example, let's say you want to add a case study that is positioned next to the main body text on a page. Therefore, you insert a text box with a border and unique background color to make it stand out. You position the text box to the left of the body frame on a page. That way, it is clear to the reader that the case study is intended to provide additional information pertaining to the body text on that page.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term150">
+        <Terms>
+            <Term>Footnote</Term>
+        </Terms>
+        <Definition Link="">A comment that is used to explain a specific area of the text. Both the area in the text and the comment contain a number or symbol that ties the two together. A footnote (or endnote) comment can be placed at the end of a page, document, chapter, section, or book.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term151">
+        <Terms>
+            <Term>CHM</Term>
+        </Terms>
+        <Definition Link="">See "Microsoft HTML Help."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term152">
+        <Terms>
+            <Term>Screen tip</Term>
+        </Terms>
+        <Definition Link="">Simple text that appears in a popup when an end user hovers over a link in the output (such as text hyperlinks or cross-references). You can create a screen tip for a link when you are in the process of inserting the link.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term153">
+        <Terms>
+            <Term>Tool tip</Term>
+        </Terms>
+        <Definition Link="">See "Screen tip."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term155">
+        <Terms>
+            <Term>Frame</Term>
+        </Terms>
+        <Definition Link="">Each page in a page layout can contain multiple frames, which are used to hold content and determine where that content is positioned. By default, certain frames will already be included in a page, depending on the template you select when adding a page layout.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term156">
+        <Terms>
+            <Term>SQL Server</Term>
+        </Terms>
+        <Definition Link="">A relational database management system created by Microsoft that uses the Structured Query Language (SQL). Various features in MadCap Software products require the installation of either SQL Server Compact or SQL Server 2005 Express, which can be downloaded for free from msdn.microsoft.com.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term159">
+        <Terms>
+            <Term>List-of proxy</Term>
+        </Terms>
+        <Definition Link="">A proxy that lets you generate a list of all of various types of elements in your output, with links to the corresponding content. For example, you might want to generate a list of tables or images that you have inserted throughout the project.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term160">
+        <Terms>
+            <Term>Object positioning</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you precisely specify the placement of objects, such as images and text boxes. For example, you can float objects to the left or right of a frame in a page. You might do this, for example, if you want to create a case study (using a text box) and make it display to the left of the flow of normal text in a chapter.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term161" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Layout modes</Term>
+        </Terms>
+        <Definition Link="">Flare provides multiple layout modes when working in the XML Editor: Web Layout, Web Layout (Tablet), Web Layout (Mobile), and Print Layout. This lets you see your content in the format that you are most likely concerned about at the moment. Web Layout mode is useful for seeing how the topic will look online.  It displays your content without showing any headers or footers from a page layout. Tablet Mode is useful for seeing how the topic will look on a tablet device. Mobile Mode is useful for seeing how the topic will look on a mobile device, such as a smart phone. Print Layout mode lets you see how the pages will look with a page layout applied to it. In other words, it lets you see how the page will look when you generate print-based output. This means that you will be able to view the actual page size and orientation, as well as the margins and any header or footer content.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term162" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Print Layout mode</Term>
+        </Terms>
+        <Definition Link="">One of the modes available when editing topics or snippets in the XML Editor. Print Layout mode lets you see how the pages will look with a page layout applied to it. In other words, it lets you see how the page will look when you generate print-based output. This means that you will be able to view the actual page size and orientation, as well as the margins and any header or footer content.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term163" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Web Layout mode</Term>
+        </Terms>
+        <Definition Link="">One of the modes available when editing topics or snippets in the XML Editor. There are three different options when using Web Layout mode: web, mobile, and tablet. These three options let you see how your content will appear on different kinds of web-based devices. Web Layout mode displays your content without showing any headers or footers from a page layout.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term164">
+        <Terms>
+            <Term>Endnote</Term>
+        </Terms>
+        <Definition Link="">A footnote where the comment appears later in the manual (e.g., at the end of the entire output), rather than at the same place where the corresponding number is inserted into the text.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term165">
+        <Terms>
+            <Term>Endnote Proxy</Term>
+        </Terms>
+        <Definition Link="">If you intend to use endnotes at the end of a manual, you can use an endnote proxy, which lets you specify the exact location where the endnotes begin to be displayed. For example, you might want to organize the end of your manual so that a generated glossary is included, followed by the endnotes, followed by a generated index. Or you might want these elements to be included in a different order. An Endnotes proxy lets you do just this. It also lets you start the list of endnotes on a new page (rather than immediately following the last paragraph in a manual).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term166">
+        <Terms>
+            <Term>Auto-index</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you automatically add words in your project to a generated index, rather than inserting all of the index markers manually. To do this, you can add phrases and corresponding index entries to an auto-index file. When you generate the output, Flare scans the auto-index file and adds the words it finds to the generated index.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term167">
+        <Terms>
+            <Term>Index link</Term>
+        </Terms>
+        <Definition Link="">An entry in a generated index that links to another entry.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term168">
+        <Terms>
+            <Term>Context-sensitive cross-reference</Term>
+        </Terms>
+        <Definition Link="">For print-based output, you can create context-sensitive cross-references. When you use a context-sensitive cross-reference, the text automatically changes based on the relationship of the link and the target location if they are on the same page or only one page away.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term169">
+        <Terms>
+            <Term>Heading variable</Term>
+        </Terms>
+        <Definition Link="">As an alternative to Running HF variables, Flare has another variety of system variables to use for headings in your project. These are called "Heading" variables, and they let you automatically display text based on the h1-h6 heading styles that you use in your project. Like Running HF variables, they are useful when creating print-based output. You can use them to automatically include heading text in the headers or footers of page layouts or master pages. It's an easy way, for example, to automatically display a chapter title in the header of that chapter.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term171">
+        <Terms>
+            <Term>Drop caps</Term>
+        </Terms>
+        <Definition Link="">An effect on a paragraph where the initial letter drops down to the lines below.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term172">
+        <Terms>
+            <Term>Initial caps</Term>
+        </Terms>
+        <Definition Link="">An effect on a paragraph where the initial letter is different than the others.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term173">
+        <Terms>
+            <Term>Hyphenation</Term>
+        </Terms>
+        <Definition Link="">You can specify whether words at the end of a line in a paragraph should be hyphenated before continuing to the next line. You can also determine minimum word and character settings to be used for hyphenation.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term174">
+        <Terms>
+            <Term>Page break</Term>
+        </Terms>
+        <Definition Link="">You can apply a break to a paragraph. For example, you might do this if you want the paragraph to start at the beginning of the next page. This feature is used for print-based output.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term175">
+        <Terms>
+            <Term>Column break</Term>
+        </Terms>
+        <Definition Link="">You can apply a break to a paragraph. For example, you might do this if you want the paragraph to start at the beginning of the next column on a page. This feature is used for print-based output.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term176">
+        <Terms>
+            <Term>Short line elimination</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you automatically adjust the spacing between words in a paragraph, depending on the length of the final (or short) line in the paragraph.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term177">
+        <Terms>
+            <Term>Widow control</Term>
+        </Terms>
+        <Definition Link="">A feature that determines the minimum number of lines in a paragraph to be left at the top of a page or column.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term178">
+        <Terms>
+            <Term>Orphan control</Term>
+        </Terms>
+        <Definition Link="">A feature that determines the minimum number of lines in a paragraph to be left at the bottom of a page or column.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term179">
+        <Terms>
+            <Term>Italic correction</Term>
+        </Terms>
+        <Definition Link="">You can correct the spacing in a line when italic formatting is involved. Often, when you italicize a word in the middle of a sentence, the last letter of that word has less space between it and the following word (due to the fact that it is italicized and the following word is not). Using italic correction, you can increase this space between the italicized word and the non-italicized word.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term181">
+        <Terms>
+            <Term>Concepts proxy</Term>
+        </Terms>
+        <Definition Link="">You can use the Concepts proxy to generate a list of all of the concepts in your project, with links to the corresponding content.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term183">
+        <Terms>
+            <Term>Contribution</Term>
+        </Terms>
+        <Definition Link="">Authors, developers, or other individuals in your company can use MadCap Contributor to create new documents and files, which can be incorporated into your Flare project.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term184" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Annotation</Term>
+        </Terms>
+        <Definition Link="">You and other individuals can insert comments and notes next to content in a topic. Annotations do not become part of the actual content; they are simply notations for your internal use. When other individuals send you reviewed files that contain annotations, you can accept those annotations so that they are copied into the source file in your project.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term185">
+        <Terms>
+            <Term>Contribution template</Term>
+        </Terms>
+        <Definition Link="">In order to accommodate and assist the contribution process, you can create contribution templates for other individuals to use. These templates are topic files that can be crafted to already have certain pieces in place (e.g., text, formatting, locked regions) and make certain ancillary files available (e.g., variables, condition tags, style sheets) to the contributor. After creating a new document in MadCap Contributor, the contributor can send it to you, and you can then include it into your project.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term186">
+        <Terms>
+            <Term>Lock: content</Term>
+        </Terms>
+        <Definition Link="">You can lock areas within topics, such as paragraphs, so that they cannot be edited. You might take advantage of this feature, for example, when you are using Flare's topic review and contributions process. If you want a reviewer to see portions of a topic, but you do not want that individual to alter them, you can lock those parts. After the file is returned, you can unlock those areas of the file.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term187">
+        <Terms>
+            <Term>MadCap Contributor</Term>
+        </Terms>
+        <Definition Link="">A MadCap Software product that lets you create short documents. MadCap Contributor is integrated with Flare and can be used in the review and contributions process to send files between individuals and incorporate others' documents into your project. Using MadCap Contributor, a reviewer or contributor can insert annotations into a document, edit a document, and create new files as contributions to your project.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term188">
+        <Terms>
+            <Term>Backups</Term>
+        </Terms>
+        <Definition Link="">You can manually create temporary backups of your files. In addition, Flare sometimes creates automatic backups of your files as you work on them.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term190">
+        <Terms>
+            <Term>Zip</Term>
+        </Terms>
+        <Definition Link="">If you want to send your project to another location or person, you can package (zip) the project into a single file that is much smaller than the entire project in its normal state. The zipped project can then be easily unzipped by anyone who also uses Flare, retuning the project to its normal state so that it can be edited. Zipping a project is also a great way to create and store a backup of your project.
+
+There are two methods you can use—(1) zipping only or (2) zipping and emailing. The first method lets you zip the project and place the compressed file where you want on your computer. The second method lets you zip the project and immediately attach it to an email so that you can send it to someone.
+
+Zipped files have an .flprjzip extension.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term191">
+        <Terms>
+            <Term>Window layout</Term>
+        </Terms>
+        <Definition Link="">See "Layout."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term192">
+        <Terms>
+            <Term>Leader</Term>
+        </Terms>
+        <Definition Link="">The area that "leads" from the headings in a generated table of contents or list of elements to the associated page numbers. Leaders are often represented by a series of dots, dashes, or a simple line.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term197">
+        <Terms>
+            <Term>Section break</Term>
+        </Terms>
+        <Definition Link="">A designation applied to a TOC entry, indicating that a special break should occur at that location in print-based output. You might want to use a section break for the following reasons: (1) to create a section break that is unique in Word output; (2) to use auto-numbering at the section level; and (3) to specify the use of a master page if you are generating Word output.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term198">
+        <Terms>
+            <Term>Chapter break</Term>
+        </Terms>
+        <Definition Link="">A designation applied to a TOC entry, indicating that a special break should occur at that location in print-based output. You might want to use a chapter break for the following reasons: (1) to use auto-numbering at the chapter level; and (2) to specify the use of a page layout, starting at that point in the output.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term200">
+        <Terms>
+            <Term>DITA</Term>
+        </Terms>
+        <Definition Link="">The Darwin Information Typing Architecture (DITA) is an XML-based architecture for authoring, producing, and delivering technical information. This architecture consists of a set of design principles for creating "information-typed" modules at a topic level and for using that content in various delivery modes. This lets you more easily reuse information, thereby saving time and maintaining consistency in your documents. In Flare, you can import and export DITA file content.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term201">
+        <Terms>
+            <Term>Thumbnails</Term>
+        </Terms>
+        <Definition Link="">When you insert images into Flare content, you can specify that the pictures should be displayed as thumbnails (i.e., much smaller versions of the image). This is a way to condense topics so that pictures are not taking up as much real estate. There are a couple of ways to use thumbnail images in Flare. You can use thumbnail images in output that you generate, as well as while you are editing content. You can also preview thumbnails while you are editing if you temporarily need to see its details.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term202" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Redacted text</Term>
+        </Terms>
+        <Definition Link="">Text that is "blacked out" in PDF&#160;output. This is much more efficient than attempting to black out text or images after the document has been printed. What is meant by "blacked out"? Redaction occurs when content is permanently eliminated from a printed or electronic document. In place of that content, end users will see black rectangles that indicate where the original content was found. When you use this feature, the text in the generated PDF&#160;output is truly gone. There is no way a user can peek into the PDF&#160;output and find it.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry Terms="Copy (80) of New" glossTerm="FlareGlossary.Term204">
+        <Terms>
+            <Term>Relationships proxy</Term>
+        </Terms>
+        <Definition Link="">An element that you can add to a topic in order to automatically create links between related topics. The links are based on a relationship table.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term205">
+        <Terms>
+            <Term>Topic toolbar proxy</Term>
+        </Terms>
+        <Definition Link="">A proxy that is used to generate a Web toolbar anywhere in any topics. This is an alternative (or an additional option) to the regular toolbar that can be included in all online outputs (via the Help Viewer or through the use of skins). This feature is available for any of the online output formats.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term206">
+        <Terms>
+            <Term>Batch target</Term>
+        </Terms>
+        <Definition Link="">A special target that lets you build and/or publish multiple other targets in a single group (or "batch"). You can schedule batches to run at any time.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term207">
+        <Terms>
+            <Term>File tagging</Term>
+        </Terms>
+        <Definition Link="">You can assign "tags" to topics and any other files in Flare. You can use file tags for many different purposes, such as assigning authors or milestones to topics. Flare  lets you generate reports based on the tags that are assigned. This makes project development easier to track, manage, and schedule.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term209">
+        <Terms>
+            <Term>Auto Suggestion</Term>
+        </Terms>
+        <Definition Link="">When you first start typing content in a topic, a popup may display below your text as you type. This is the Auto Suggestion feature, which analyzes text as you type and compares it to other content (e.g., phrases, variables, snippets) that already exists in the project. This means you can quickly select existing content from the popup so that you do not have to finish typing it.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term211">
+        <Terms>
+            <Term>QR code</Term>
+        </Terms>
+        <Definition Link="">A type of barcode that can be read by devices such as smart phones. The data encoded in the QR&#160;code can be text, a website URL, an email address, contact information, or SMS (Short Message Service, which is used for sending text messages).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term212" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Track changes</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you track changes made to content files edited in the XML Editor (topics, snippets, master pages) and accept or reject those alterations individually. Each change is marked in a color (different colors for different users) and/or labeled in a sidebar. You can preserve tracked changes in PDF and Word output so unaccepted changes will appear in these outputs.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term214">
+        <Terms>
+            <Term>Stop words</Term>
+        </Terms>
+        <Definition Link="">Common words (such as "an" and "the") that are omitted when users perform searches. Flare automatically omits these words from searches. However, if you would like those common words to be included in user searches, you can easily do so.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term215">
+        <Terms>
+            <Term>Accessibility</Term>
+        </Terms>
+        <Definition Link="">Accessibility has to do with making sure that your documentation can be accessed by people with disabilities (i.e., individuals who have visual, hearing, and mobility impairments). Documentation is considered accessible when it is easier for those with disabilities to use and easier to read using assistive technologies such as Microsoft Windows Narrator, Connect Outloud, and JAWS (Job Access With Speech).</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term216">
+        <Terms>
+            <Term>Web Content Accessibility Guidelines</Term>
+        </Terms>
+        <Definition Link="">These guidelines are created by the Web Accessibility Initiative (WAI), as part of the World Wide Web Consortium, in an effort to make the Web accessible to people with disabilities.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term217">
+        <Terms>
+            <Term>Comma-separated value</Term>
+        </Terms>
+        <Definition Link="">A file type that is typically used to transfer large amounts of spreadsheet or database information from one program to another.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term218">
+        <Terms>
+            <Term>CSV</Term>
+        </Terms>
+        <Definition Link="">See "Comma-separated value."</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term219">
+        <Terms>
+            <Term>Named destination</Term>
+        </Terms>
+        <Definition Link="">An element much like a bookmark that lets you point to a specific place in a PDF.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term221">
+        <Terms>
+            <Term>EPUB</Term>
+        </Terms>
+        <Definition Link="">An online format for creating reflowable digital books (ebooks). This format is developed and maintained by the International Digital Publishing Forum (IDPF). For additional information about this group and the EPUB&#160;format, see http://idpf.org/.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term222">
+        <Terms>
+            <Term>Ribbon</Term>
+        </Terms>
+        <Definition Link="">A modern workspace layout that consists of a File drop-down with common tasks such as creating new projects and files, as well as opening and saving documents. This is followed by the Home ribbon, which is the default, and several others related to various features in Flare.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term223">
+        <Terms>
+            <Term>Meta description</Term>
+        </Terms>
+        <Definition Link="">A brief summary of a web page that is displayed in search engine results pages (SERPs). Therefore, they are useful for search engine optimization in Web outputs.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term224">
+        <Terms>
+            <Term>Page Overview Bar</Term>
+        </Terms>
+        <Definition Link="">The area on the right side of the Page Layout Editor that displays small rectangles, representing each page in the layout.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term225">
+        <Terms>
+            <Term>Bleed</Term>
+        </Terms>
+        <Definition Link="">The area beyond the edge of the page where printing occurs. Professional printers use the bleed to prevent a final trimmed document from having unprinted areas along the edge of the document. You can set the size of the bleed in the Page Properties dialog.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term226">
+        <Terms>
+            <Term>Crop marks</Term>
+        </Terms>
+        <Definition Link="">Thin vertical and horizontal lines that show the edges of the page, where it will be trimmed by the printer. The location of crop marks are determined by the page size you specify.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term227">
+        <Terms>
+            <Term>Registration marks</Term>
+        </Terms>
+        <Definition Link="">Small cross-hair target icons shown next to crop marks. Each color in the final output is printed on its own layer. Therefore, in order to make sure the colors are matched up accurately, printers use registration marks to align plates on the press.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term228">
+        <Terms>
+            <Term>Eclipse Help</Term>
+        </Terms>
+        <Definition Link="">An output type is designed specifically for content developers who want to use Flare to author an Eclipse Help plug-in. A plug-in lets you extend the existing Help contents that come with the Eclipse Integrated Development Environment (IDE). It  requires an additional installation of the latest Java Runtime Environment (JRE)&#160;and Java version. This output type is particularly useful when you want to create  dynamic, searchable content that integrates into your Eclipse environment as a platform plug-in.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term230">
+        <Terms>
+            <Term>Slideshow</Term>
+        </Terms>
+        <Definition Link="">An alternative way to display content, using navigation controls to move from slide to slide to view different content. This can be especially useful for showing a gallery of images or videos. However, slideshows are not limited to multimedia. You can place almost any kind of content into a slideshow, including snippets, text, tables, and more.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term231">
+        <Terms>
+            <Term>Custom list format</Term>
+        </Terms>
+        <Definition Link="">You can create and edit lists with custom formats up to 10 levels deep. For each level, you can specify whether to use an ordered (numbered) or unordered (bulleted) style, select a custom bullet image, insert characters or symbols, and choose formatting (e.g., bold, color, size). The formats that you create are written to your stylesheet.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term232" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Frame break</Term>
+        </Terms>
+        <Definition Link="">For PDF output, you can apply breaks to page layout frames, similar to the way you can apply page breaks to content such as headings or paragraphs. By applying frame breaks you can automatically move content to the next frame on the current page in a layout. If no more frames are available on the current page, a page break occurs instead. This feature can be especially useful when you want to make sure that heading text is the only content in a particular body frame.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term233">
+        <Terms>
+            <Term>Hanging punctuation</Term>
+        </Terms>
+        <Definition Link="">An effect that lets you "hang" certain punctuation characters outside the block element, allowing the text to align.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term234">
+        <Terms>
+            <Term>Madbuild</Term>
+        </Terms>
+        <Definition Link="">Madbuild is Flare's build engine that is commonly used when generating output from the command line. It is also used if you use the option to build targets in the background via the user interface.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term236">
+        <Terms>
+            <Term>Macros</Term>
+        </Terms>
+        <Definition Link="">A feature that lets you automate frequently used commands or processes. After you record a macro, you can play it back to perform all of the steps in the macro with a single action.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term238">
+        <Terms>
+            <Term>Commit</Term>
+        </Terms>
+        <Definition Link="">In terms of source control, a commit lets you add your local changes to the source control database. When working with Git, committing adds your changes to the local Git database; you can later push them to the remote repository. When working with Subversion, committing the file overwrites the old copy of the file in source control with the new one from your local machine.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term239">
+        <Terms>
+            <Term>Submit</Term>
+        </Terms>
+        <Definition Link="">In terms of source control, a submit lets you add your local changes to the source control database. When working with Perforce, submitting your file overwrites the old copy of the file in the source control database with the new one from your local machine.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term240">
+        <Terms>
+            <Term>Lock: source control</Term>
+        </Terms>
+        <Definition Link="">When you are working with a project bound to source control, you may want to lock the files you have modified. Locking a file does not prevent other users from modifying the file. However, no one else can commit a file that you have locked until you unlock the file. If your project is bound to Subversion, you can steal a lock from another user if you need to commit a locked file while they are working on it. Likewise, another user can steal a lock on a file you have locked.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term241">
+        <Terms>
+            <Term>Pull</Term>
+        </Terms>
+        <Definition Link="">When working with a source control project bound to Git, you can pull—or download—the latest files from the remote repository.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term242">
+        <Terms>
+            <Term>Branch</Term>
+        </Terms>
+        <Definition Link="">When working with a source control project bound to Git, you can create branches. Branches create a new development area for a file that is separate from the original. You can use branches so multiple authors can work in individual authoring spaces, and or you can use them as a space to make major changes in your document without affecting the original (e.g., when documenting a new feature, rewriting large sections of a topic, or making layout changes). Even if others will not be working on a file, you can still create branches if you want to edit your file and then refer back to its previous versions.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term243">
+        <Terms>
+            <Term>Push</Term>
+        </Terms>
+        <Definition Link="">When working with a source control project bound to Git, you can push—or upload—your local commits to the remote repository.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term244">
+        <Terms>
+            <Term>Synchronize</Term>
+        </Terms>
+        <Definition Link="">When working with a source control project bound to Git, you can synchronize your files with the remote repository. This pulls the remote files from the Git repository and merges them with your local database, and then pushes your local changes back to the remote repository.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term237" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Snippet variables</Term>
+        </Terms>
+        <Definition Link="">If you are using variables in snippets, you can override the topic- or snippet-level definition of the variable. This gives you more ways to customize your snippets. This is beneficial because you do not need to create multiple versions of the same content if you need to use different variable definitions depending on where the snippet is used.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term245" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Selector</Term>
+        </Terms>
+        <Definition Link="">A way to associate HTML content with style settings based on various information—most often its type, class, or ID. Sometimes the word "selector" is used interchangeably with the term "style," but a selector can be much more than just a simple style.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term246" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Advanced selector</Term>
+        </Terms>
+        <Definition Link="">A selector that lets you format content based on very specific criteria.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term248" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Style ID</Term>
+        </Terms>
+        <Definition Link="">A style element that is similar to a class, except that IDs are unique. An element in your stylesheet can have only one ID on it, whereas it can have multiple classes. And each page of your output can have only one element with a particular ID. For many authors, using an ID may not be important, but for others—such as those making use of Javascript—IDs can be very useful.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term250" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Dual-bound project</Term>
+        </Terms>
+        <Definition Link="">A Flare project that you bind to MadCap Central but is already bound to another source control provider. The project is therefore bound to both the original third-party source control provider and to Central.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term251" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Single-bound project</Term>
+        </Terms>
+        <Definition Link="">A Flare project that is not already bound to an additional third-party source control provider when you bind it to MadCap Central. Therefore, the project only uses Central's internal source control system.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term252" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Clean XHTML</Term>
+        </Terms>
+        <Definition Link="">An output type producing basic HTML files that are free of MadCap-specific tags and not dependent upon other MadCap-generated files. The output does not include any skins, search, navigation, or other extra features; it is simply your single-sourced content. This lets you re-purpose your output in many flexible ways (e.g., you can embed the output files into other applications, such as project management tools, wikis, or eLearning systems). You might also perform other types of post-processing tasks with the output.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term253" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>MadCap Search</Term>
+        </Terms>
+        <Definition Link="">Flare's built-in search engine. The search rankings are specifically tailored for Flare users (taking into account not only H1-H6 headings, but also index keywords, glossary terms, etc.). With the MadCap Search engine, you can set the search result importance, include glossary terms in the results, set the number of results per page, and set the abstract character limit.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term254" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Google Search</Term>
+        </Terms>
+        <Definition Link="">The search engine provided by Google that can be integrated into your HTML5 Top Navigation output. After creating a new search engine, you can verify the URL, add a sitemap, submit the site for indexing, exclude the TOC from indexing, customize the appearance of the results, and review the indexing status.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term255" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Favicon</Term>
+        </Terms>
+        <Definition Link="">Short for “favorite icon," this is the image that you sometimes see in a browser tab, address bar, bookmark, Windows tiles, etc. A favicon can also be used on smart phones when a website is saved to the home screen. They are supported for HTML5 output in Flare.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="FlareGlossary.Term257" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Transform</Term>
+        </Terms>
+        <Definition Link="">In CSS, the transform property is used to create a 2D or 3D transformation effect.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Flare-Glossary.Term2" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Skin component</Term>
+        </Terms>
+        <Definition Link="">A small skin used for HTML5 outputs to include elements such as menus, toolbars, and search bars.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Flare-Glossary.Term4" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Frequent segments</Term>
+        </Terms>
+        <Definition Link="">Segments that occur repeatedly throughout your project. These segments can be converted to reusable content like snippets or variables.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Flare-Glossary.Term7" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Similar segments</Term>
+        </Terms>
+        <Definition Link="">Segments of text in your project that are similar, but not identical, to each other. You may want to modify similar segments so that they become identical to each other, or even convert them to snippets.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Flare-Glossary.Term5" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>SSH</Term>
+        </Terms>
+        <Definition Link="">Also called “Secure Shell,” this is a network protocol that lets you communicate remotely and securely between computers. You can choose this protocol when binding projects to MadCap Central, or importing projects from Central.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Flare-Glossary.Term6" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>HTTPS</Term>
+        </Terms>
+        <Definition Link="">Hypertext Transfer Protocol Secure (HTTPS) is a more secure version of HTTP, which is the standard protocol for transferring data over the web. You can choose this protocol when binding projects to MadCap Central, or importing projects from Central.</Definition>
+    </GlossaryEntry>
+    <GlossaryEntry glossTerm="Flare-Glossary.Term8" Stem="" IgnoreCase="false">
+        <Terms>
+            <Term>Revert</Term>
+        </Terms>
+        <Definition Link="">A type of commit that undoes a prior commit on your branch.</Definition>
+    </GlossaryEntry>
+</CatapultGlossary>

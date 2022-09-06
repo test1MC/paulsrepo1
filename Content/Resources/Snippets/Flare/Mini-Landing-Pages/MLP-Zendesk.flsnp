@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="Tiles-8-4">
+            <div>
+                <p><span class="Emphasis">Zendesk Publishing </span>With a publishing destination, you can copy Clean XHTML or HTML5 skinless output files to Zendesk. This is beneficial if you have a knowledge base or FAQ that supports any service desk tickets on your dashboard. You can publish directly to categories and sections you have created in Zendesk. <a href="../../../../Flare/Output/Zendesk/About-Zendesk.htm">More Details…</a></p>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>When installing Flare, choose <span class="Emphasis">Custom</span>, click <span class="Emphasis">Next</span>, and select <span class="Emphasis">MadCap Connect for Zendesk</span>.</li>
+                    <li><a href="../../../../Flare/Output/Zendesk/About-Zendesk.htm#ConfigureTOCZendesk">Configure the TOC for Zendesk</a> and create your categories and sections for publishing to Zendesk.</li>
+                    <li><a href="../../../../Flare/Output/Creating-Publishing-Destinations.htm">Create a publishing destination</a>, and complete the <span class="Emphasis">MadCap Connect for Zendesk</span> fields.</li>
+                    <li><a href="../../../../Flare/Output/Associating-Publishing-Destinations-Targets.htm">Associate the destination with the target</a> and <a href="../../../../Flare/Output/Zendesk/About-Zendesk.htm#PublishingToZendesk">publish to Zendesk</a>.</li>
+                    <li><a href="../../../../Flare/Output/Zendesk/About-Zendesk.htm#InstallZendeskThemes">Install</a> and <a href="../../../../Flare/Output/Zendesk/About-Zendesk.htm#ModifyZendeskThemes">modify</a> your Zendesk themes after publishing.</li>
+                </ol>
+            </div>
+            <div>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/Zendesk-install-step2.png" class="MaxWidth100Percent" />
+                </p>
+                <p class="center" style="text-align: center;">
+                    <img src="../../../Images/Flare/MLP-Zendesk.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

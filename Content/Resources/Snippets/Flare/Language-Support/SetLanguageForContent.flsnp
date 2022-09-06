@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>Open the topic or snippet. </li>
+            <li>Highlight the content where you want to change the language.</li>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/UI-Elements/Select-Home-Ribbon.flsnp" /> In the <span class="Emphasis">Attributes</span> section select <span class="Emphasis">Language</span>. </li>
+            <li>Select the language from the list  (those in bold font are supported in spell check).</li>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/Steps-General/Click-OK.flsnp" />
+            </li>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html style="mc-master-page: url('..\..\..\Resources\MasterPages\Flare\PDF-Topics\Flare-Plugin-API.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:concept term="FilterFeatures" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />Toolbar Example</h1>
+        <MadCap:snippetBlock src="../../../Resources/Snippets/Flare/Banners/Information-Developers.flsnp" MadCap:conditions="General.Online-Only" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <p>To add a custom toolbar, you need to use the INavContext interface. See <MadCap:xref href="../Interfaces/INavContext.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">INavContext Interface</MadCap:xref>.</p>
+        <MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p>Here is an example assuming your class instance of INavContext is named “mNav.”</p>
+                    <p xml:space="preserve" class="CodeIndented"><span class="CodeGreen">private void </span>    CreateCustombar()</p>
+                    <p xml:space="preserve" class="CodeIndented">{
+            </p>
+                    <p xml:space="preserve" class="CodeIndented2"><span class="CodePurple">ICustomToolBar </span>toolBar = mNav.CreateCustomToolBar(<span class="CodeOrange">"My ToolBar"</span>);
+            </p>
+                    <p class="CodeIndented2">toolBar.AddButton(<span class="CodeOrange">"My Button"</span>,<span class="CodeGreen">new</span><span class="CodePurple">ButtonCommand</span>());</p>
+                    <p class="CodeIndented2">toolBar.AddSeparator();</p>
+                    <p xml:space="preserve" class="CodeIndented2">toolBar.AddMenuButton(<span class="CodePurple">MyViewModel</span>.MenuData);           </p>
+                    <p xml:space="preserve" class="CodeIndented">}
+            </p>
+                    <p>ButtonCommand and MyViewModel are defined as follows:</p>
+                    <p class="CodeIndented"><span class="CodeGreen">public class</span><span class="CodePurple">ButtonCommand </span>:<span class="CodePurple">ICommand</span></p>
+                    <p class="CodeIndented">{</p>
+                    <p class="CodeIndented2"><span class="CodeGreen">public bool </span>CanExecute(<span class="CodeGreen">object </span>parameter)</p>
+                    <p class="CodeIndented2">{</p>
+                    <p class="CodeIndented3"><span class="CodeGreen">return true</span>;</p>
+                    <p class="CodeIndented2">}</p>
+                    <p class="CodeIndented2"><span class="CodeGreen">public void</span>Execute(<span class="CodeGreen">object </span>parameter)</p>
+                    <p class="CodeIndented2">{</p>
+                    <p class="CodeIndented3"><span class="CodeBlue2">MessageBox</span>.Show(<span class="CodeOrange">"I got pressed!"</span>);</p>
+                    <p class="CodeIndented2">}</p>
+                    <p class="CodeIndented">}</p>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Plugin-API-Guide" />
+                    <p class="CodeIndented"><span class="CodeGreen">public static class</span><span class="CodePurple">RibbonViewModel</span>
+                    </p>
+                    <p class="CodeIndented">{</p>
+                    <p class="CodeIndented2"><span class="CodeGreen">private static </span><span class="CodePurple">RibbonMenuData </span>_menuData;</p>
+                    <p class="CodeIndented2"><span class="CodeGreen">public static</span><span class="CodePurple">RibbonMenuData </span><span class="CodeGreen">MenuData</span>
+                    </p>
+                    <p class="CodeIndented2">{</p>
+                    <p class="CodeIndented3"><span class="CodeGreen">get</span>
+                    </p>
+                    <p class="CodeIndented3">{</p>
+                    <p class="CodeIndented4"><span class="CodeGreen">if </span>(_menuData ==<span class="CodeGreen">null</span>)</p>
+                    <p class="CodeIndented4">{</p>
+                    <p class="CodeIndented5"><span class="CodePurple">BitmapImage </span>image =<span class="CodeGreen">new </span><span class="CodePurple">BitmapImage</span>(<span class="CodeGreen">new </span><span class="CodePurple">Uri</span>(<span class="CodeOrange">"&lt;ICON PATH&gt;"</span>));</p>
+                    <p class="CodeIndented5">_menuData =<span class="CodeGreen">new </span><span class="CodePurple">RibbonMenuData</span>()</p>
+                    <p class="CodeIndented5">{</p>
+                    <p class="CodeIndented6">Label =<span class="CodeOrange">"My Menu"</span>,</p>
+                    <p class="CodeIndented6">SmallImage = image,</p>
+                    <p class="CodeIndented6">KeyTip =<span class="CodeOrange">"D"</span></p>
+                    <p class="CodeIndented5">};</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Online-Only">_menuData.ControlDataCollection.Add(<span class="CodeOrange">new </span><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only">_menuData.ControlDataCollection.Add(<span class="CodeOrange">new </span></p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only"><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5">{</p>
+                    <p class="CodeIndented6">MenuLabel = <span class="CodeOrange">"item1"</span></p>
+                    <p class="CodeIndented5">});</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Online-Only">_menuData.ControlDataCollection.Add(<span class="CodeGreen">new </span><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only">_menuData.ControlDataCollection.Add(<span class="CodeGreen">new </span></p>
+                    <p class="CodeIndented5" MadCap:conditions="General.Print-Only"><span class="CodePurple">RibbonControlData</span>()</p>
+                    <p class="CodeIndented5">{</p>
+                    <p class="CodeIndented6">MenuLabel = <span class="CodeOrange">"item2"</span></p>
+                    <p class="CodeIndented5">});</p>
+                    <p class="CodeIndented4">}</p>
+                    <p class="CodeIndented4"><span class="CodeGreen">return </span>_menuData;</p>
+                    <p class="CodeIndented3">}</p>
+                    <p class="CodeIndented2">}</p>
+                    <p class="CodeIndented">}</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="note">
+                    <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">The custom toolbar is only visible when the Flare interface is in “Tool Strip” mode.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

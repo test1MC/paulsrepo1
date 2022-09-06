@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="2932" MadCap:lastWidth="1094">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: 0;margin-right: auto;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" class="TableStyle-Basic-Alternate-Rows" cellspacing="0">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Icon</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Type</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableText">
+                            <img src="../../../Images/Flare/linked_flag_image_icon.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Global Project Linking</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">This icon is visible in the Content Explorer and Project Organizer.</p>
+                        <p class="TableText"> If you use global project linking, this icon is added to the top of a linked file in the <MadCap:variable name="Other.Product" /> interface. This lets you know that you need to edit the source file, rather than editing this file. If you remove the connection to the source file, this icon no longer displays on the file. Please note that if you have bound the project to source control, the icons used for source control take precedence over the link icon.</p>
+                        <p class="TableText" MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Global-Project-Linking/GPL-Importing-Files.htm">Global Project Linking—Importing Files from Other Projects</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <img src="../../../Images/Flare/mapped_resource_icon.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">External Resources</p>
+                        <p class="TableTextEmphasis">SharePoint</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This icon is visible in the Content Explorer and Project Organzier.</p>
+                        <p class="TableText">
+                            <MadCap:snippetText src="../SharePoint/Share-Point-Icon.flsnp" />
+                        </p>
+                        <p class="TableText">
+                            <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/External-Resources/Copying-Mapping-External-Resource-Files.htm">Copying and Mapping External Resource Files</MadCap:xref> and <MadCap:xref href="../../../../Flare/Sharepoint/Copying-Mapping-Sharepoint-Files.htm">Copying and Mapping SharePoint Files</MadCap:xref>.</MadCap:conditionalText>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <img src="../../../Images/Shared/Fl-Li/SourceControlCheckedOut.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Source Control</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">This icon is visible in the Content Explorer, Project Organizer, File List, and Pending Changes window pane.</p>
+                        <MadCap:snippetBlock src="../Source-Control/Check-Out-Icon.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <img src="../../../Images/Shared/Fl-Li/SourceControlNewFile.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Source Control</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This icon is visible in the Content Explorer, Project Organizer, File List, and Pending Changes window pane.</p>
+                        <MadCap:snippetBlock src="../Source-Control/Added-Icon.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <img src="../../../Images/Shared/Fl-Li/SourceControlLocked.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Source Control</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">This icon is visible in the Content Explorer, Project Organizer, File List, and Pending Changes window pane.</p>
+                        <MadCap:snippetBlock src="../Source-Control/Read-Only-Icon.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <img src="../../../Images/Shared/Fl-Li/source_control_RedLock.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Source Control</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This icon is visible in the Content Explorer, Project Organizer, File List, and Pending Changes window pane.</p>
+                        <MadCap:snippetBlock src="../Source-Control/Locked-Icon.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <img src="../../../Images/Shared/Fl-Li/source_control_GreenLock.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Source Control</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">This icon is visible in the Content Explorer, Project Organizer, File List, and Pending Changes window pane.</p>
+                        <MadCap:snippetBlock src="../../Shared/Fl-Li/Source-Control/Locked-By-You-Icon.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <img src="../../../Images/Shared/Fl-Li/SourceControlCheckedOutByOtherUser.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Source Control</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This icon is visible in the Content Explorer, Project Organizer, File List, and Pending Changes window pane.</p>
+                        <MadCap:snippetBlock src="../Source-Control/Another-User-Icon.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <img src="../../../Images/Shared/Fl-Li/SourceControlOutOfDate.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Source Control</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">This icon is visible in the Content Explorer, Project Organizer, File List, and Pending Changes window pane.</p>
+                        <MadCap:snippetBlock src="../Source-Control/Out-Date-Icon.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <img src="../../../Images/Shared/Fl-Li/SourceControlCursor.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Source Control</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">This icon is visible in the Content Explorer, Project Organizer, File List, and Pending Changes window pane.</p>
+                        <MadCap:snippetBlock src="../Source-Control/Renamed-Icon.flsnp" />
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <img src="../../../Images/Shared/Fl-Li/SourceControlDeleted.png" />
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasis">Source Control</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <p class="TableText">This icon is visible in the Content Explorer, Project Organizer, File List, and Pending Changes window pane.</p>
+                        <MadCap:snippetBlock src="../Source-Control/Deleted-Icon.flsnp" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

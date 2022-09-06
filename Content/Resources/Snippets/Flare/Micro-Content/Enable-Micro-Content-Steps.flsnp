@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ol>
+            <li>Open an HTML5 target.</li>
+            <li>Select the <span class="Emphasis">Search</span> tab.</li>
+            <li>From the <span class="Emphasis">Search Engine</span> section, make sure <span class="Emphasis">MadCap Search</span> or <span class="Emphasis">Elasticsearch</span> is selected.</li>
+            <li>Expand the <span class="Emphasis">Advanced Search Options</span> section.</li>
+            <li>Select <span class="Emphasis">Include micro contents results</span>.</li>
+            <li>
+                <MadCap:snippetText src="../../Shared/All/Steps-General/Save-File.flsnp" />
+            </li>
+        </ol>
+    </body>
+</html>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../../Resources/MasterPages/Shared/Fl-Li/Source-Control-Git.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>
+            <MadCap:keyword term="Source control:branch" />
+            <MadCap:concept term="FilterProjects" />
+            <MadCap:concept term="FilterFeatures" />
+            <MadCap:keyword term="Branch:merge" />
+            <MadCap:keyword term="Git" />Merging Branches<MadCap:conditionalText MadCap:conditions="General.Online-Only">—Git</MadCap:conditionalText></h1>
+        <p>In previous versions of Lingo you could merge individual files bound in Git. Now you can merge Git branches as well.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>How to Merge Branches in Git</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li>
+                        <p>Do one of the following, depending on the part of the user interface you are using:</p>
+                        <ul>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Ribbon</span> Select <span class="Emphasis">Source Control &gt; Merge</span>.</p>
+                                <p>
+                                    <img src="../../../Resources/Images/Lingo/merge-branches2.png" alt="" title="" class="MaxWidth90Percent" />
+                                </p>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Right-Click</span> If you have the File List window pane open, right-click any file and select <span class="Emphasis">Source Control &gt; Project &gt;&#160;Merge</span>.</p>
+                                <p>
+                                    <img src="../../../Resources/Images/Lingo/merge-branches3.png" alt="" title="" class="MaxWidth90Percent" />
+                                </p>
+                            </li>
+                            <li>
+                                <p><span class="SetOffFirstLevel">Source Control Explorer</span> Click the <span class="Emphasis">Merge Branch</span> button.</p>
+                                <p>
+                                    <img src="../../../Resources/Images/Lingo/merge-branches1.png" alt="" title="" class="MaxWidth100Percent" />
+                                </p>
+                            </li>
+                        </ul>
+                        <p>The Select branch to merge dialog opens.</p>
+                    </li>
+                    <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+                    <li>
+                        <p>From the drop-down, select the Git branch you wish to merge into the active branch.</p>
+                        <p>
+                            <img src="../../../Resources/Images/Lingo/merge-branches4.png" alt="" title="" class="MaxWidth100Percent" />
+                        </p>
+                    </li>
+                    <li>Click <span class="Emphasis">OK</span>.</li>
+                    <li>When the merge operation is completed, a dialog displays, indicating the merge was a success. Click <span class="Emphasis">OK</span> to close the dialog.</li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Example</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="example">
+                    <p class="exampleHeadTextEmpty">Example</p>
+                    <p>Let's say you have two feature branches that are bound in Git source control.</p>
+                    <p>In the first feature branch (develop-feature1), you make changes to a file called “Getting-Started” and commit those changes. These changes are specific to the first feature being developed.</p>
+                    <p>In the second feature branch (e.g., develop-feature2), you make changes to the same "Getting-Started"&#160;file and commit those changes. These changes are specific to the second feature being developed, and are being made in a separate part of the topic from the develop-feature1 changes.</p>
+                    <p>After you complete and commit your changes on the second feature branch, you decide you want to merge your changes from the first feature branch to the second feature branch. </p>
+                    <MadCap:pageBreak MadCap:conditions="Lingo-Guides.Lingo-Whats-New-Guide,Lingo-Guides.Lingo-Source-Control-Guide-Git" />
+                    <p>In the Source Control Explorer, you select the <span class="Emphasis">develop-feature2</span> branch. Then, you click the <span class="Emphasis">Merge Branch</span> button. From the drop-down, you select <span class="Emphasis">develop-feature1</span>.</p>
+                    <p>
+                        <img src="../../../Resources/Images/Lingo/merge-branches5.png" alt="" title="" class="MaxWidth100Percent" />
+                    </p>
+                    <p>You click <span class="Emphasis">OK</span> to merge. Since the changes took place in different sections of the "Getting-Started" file, the merging of the first feature branch into the second feature branch is successful.</p>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>Note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../../Resources/Snippets/Shared/Fl-Li/Source-Control/Note-Git-Branching-Merging.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

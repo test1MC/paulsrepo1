@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="caption-side: top;margin-left: 0;margin-right: auto;width: 100%;mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');" cellspacing="0" class="TableStyle-Basic-Alternate-Rows">
+            <col style="width: 25%;" class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">Button/Section</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Enable Auto Suggestion</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Select this to enable the entire Auto Suggestion feature. See <MadCap:xref href="../../../../Flare/Auto-Suggestion/Enabling-and-Disabling-Auto-Suggestion.htm">Enabling and Disabling Auto Suggestion</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Enable Snippet Auto Suggestion</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Select this to enable snippet suggestions. See <MadCap:xref href="../../../../Flare/Auto-Suggestion/Enabling-and-Disabling-Auto-Suggestion.htm">Enabling and Disabling Auto Suggestion</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasis">Max Suggestions</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableText">Enter the maximum number of suggestions that you want to be displayed in the popup at any given time. You can enter a number from 1 to 25. See <MadCap:xref href="../../../../Flare/Auto-Suggestion/Specifying-Auto-Suggestion-Details.htm">Specifying Auto Suggestion Details</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasis">Min Character Length</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableText">Enter the minimum number of characters that must be typed before the popup opens to display matching phrases, variables, or snippets. You can enter a number from 3 to 12. See <MadCap:xref href="../../../../Flare/Auto-Suggestion/Specifying-Auto-Suggestion-Details.htm">Specifying Auto Suggestion Details</MadCap:xref>.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasis">Enable/disable files</p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <p class="TableText">This area lists all custom auto suggestion list files and all variable sets in your project. Select any of the check boxes to enable a particular file for Auto Suggestion. See <MadCap:xref href="../../../../Flare/Auto-Suggestion/Enabling-and-Disabling-Auto-Suggestion.htm">Enabling and Disabling Auto Suggestion</MadCap:xref>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

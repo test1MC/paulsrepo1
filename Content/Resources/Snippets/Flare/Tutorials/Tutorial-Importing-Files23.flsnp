@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p MadCap:conditions="">We did this for a few reasons. First, we won't need it anymore. Second, Global Project Linking creates a link from the files in the source project to those in the child project, so anytime we try to edit one of these files in our Legacy project, Flare will give us a warning. And third, there is an option in the Project Import Editor that, if not deselected, will automatically import all of the files from the Temp project (not just the ones we want) if we begin to generate output. But we do not plan to use the import file the way you might normally use it for Global Project Linking, and we are all done with it. So by deleting the file, Flare removed any links between the Temp and Legacy projects. Therefore, we will not see any warnings when we try to edit a file, and we will not accidentally import files we don't want.</p>
+    </body>
+</html>

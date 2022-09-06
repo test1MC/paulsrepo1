@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>To start creating micro content, you first must add a micro content file to the Content Explorer. It is recommended that you create a subfolder named "MicroContent" under the Resources folder. Then right-click on that subfolder, select <b>New &gt; Micro Content</b>, and complete the fields to create the new file. A micro content file opens in the Micro Content Editor, where you add phrases and responses. Initially, you will see one phrase/response combination, which you can replace with your own content. <MadCap:conditionalText MadCap:conditions="Snippets.Snippet1">See <MadCap:xref href="../../../../Flare/Micro-Content/Creating-Micro-Content.htm">Creating Micro Content</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet2">See <MadCap:xref href="../../../../Flare/Introduction/Whats-New-Flare.htm#HowCreatePhrasesResponsesMCEditor">How to Create Phrases and Responses in the Micro Content Editor</MadCap:xref>.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Snippets.Snippet3">See <MadCap:xref href="../../../../Flare/z/About-Micro-Content.htm">About Micro Content</MadCap:xref>.</MadCap:conditionalText></p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-File-Editor.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>

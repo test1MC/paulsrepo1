@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>This is the stylesheet used for all topics in the Temp project. In our Legacy project we have a stylesheet with the same name, but we want to use this newer look. Therefore, we will import the file and it will replace our older stylesheet. In your actual project, it’s possible you might want to keep your old stylesheet instead, or even use both (the old one and the newer imported one), perhaps linking them together.</p>
+    </body>
+</html>

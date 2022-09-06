@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('../../Resources/MasterPages/Flare/PDF-Topics/Flare-MadCap-Central-Integration.flmsp');">
+    <head>
+        <script src="../../Resources/Scripts/lity/vendor/jquery.js">
+        </script>
+        <script src="../../Resources/Scripts/lity/dist/lity.js">
+        </script>
+        <link href="../../Resources/Scripts/lity/dist/lity.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1 MadCap:conditions="General.Online-Only">
+            <MadCap:keyword term="MadCap Central" />
+            <MadCap:concept term="FilterFeatures" />About MadCap Central and Flare</h1>
+        <h1 MadCap:conditions="Flare-Guides.Flare-MadCap-Central-Integration-Guide">Introduction</h1>
+        <p>
+            <MadCap:snippetText src="../../Resources/Snippets/Flare/Central/Central-Integration2.flsnp" /> Following are some of the main benefits of integrating your Flare projects with Central:</p>
+        <ul>
+            <li>Host builds with custom vanity URLs</li>
+            <li>Assign user permissions</li>
+            <li>Use integrated checklists</li>
+            <li>Collaborate with subject matter experts and other authors</li>
+            <li>Create and manage tasks</li>
+            <li>Customize dashboards and widgets</li>
+        </ul>
+        <p>For more complete information about Central, see its online Help:</p>
+        <p><a href="https://help.madcapsoftware.com/central" target="_blank">https://help.madcapsoftware.com/central</a>
+        </p>
+        <p MadCap:conditions="General.Online-Only">
+            <img src="../../Resources/Images/Shared/Ce-Fl/home_page1.png" alt="" title="" class="MaxWidth95Percent" />
+        </p>
+        <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Central/Central-Integration3.flsnp" />
+        <MadCap:snippetBlock src="../../Resources/Snippets/Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-MadCap-Central-Integration-Guide" />
+        <div class="video" MadCap:conditions="General.Server-Only">
+            <p class="buttonT32-play"><a href="https://youtu.be/2-6pdixkCgo" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+            </p>
+        </div>
+        <h2 MadCap:conditions="General.Print-Only">MadCap Central Window Pane</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>MadCap Central Window Pane</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Central/Central-Integration.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">Tasks Associated with Central</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>tasks Associated with Central</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>Following are tasks that you can perform from the MadCap Central window pane or the Source Control ribbon in Flare:</p>
+                <ul>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="MadCap Central:logging in/out" />Log In and Log Out </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Projects/Logging-In-Out-Central-Flare.flsnp" /> See <MadCap:xref href="Logging-In-and-Out-of-Central.htm">Logging In and Out of Central in Flare</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="MadCap Central:binding projects;MadCap Central:uploading projects;Projects:binding;Projects:uploading;Uploading projects;Binding projects;Source control:transfer protocol;Transfer protocol;SSH;HTTPS" />Selecting Transfer Protocol </span>If you plan to bind a Flare project to a MadCap Central license, you can choose between a couple of transfer protocol options when performing the binding. This includes binding new projects or importing existing projects from Central. It does not affect existing projects that are already bound. See <MadCap:xref href="Selecting-Transfer-Protocol.htm">Selecting a MadCap Central Transfer Protocol</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="MadCap Central:binding projects;MadCap Central:uploading projects;Projects:binding;Projects:uploading;Uploading projects;Binding projects" />Uploading (Binding) Projects </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/Ce-Fl/Projects/Uploading-Projects.flsnp" /> See <MadCap:xref href="Binding-Projects.htm">Uploading (Binding) Projects</MadCap:xref>.</li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="MadCap Central:importing projects;Projects:importing;Importing:projects" />Importing Projects </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Shared/Ce-Fl/Projects/Importing-Projects-Central.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet3] " /> See <MadCap:xref href="Importing-Projects.htm">Importing Projects from Central</MadCap:xref>.</li>
+                    <li><b>Source Control</b>
+                        <ul>
+                            <li><span class="SetOffFirstLevel">Committing and Synchronizing (Pull, Push) in Single-bound Model </span>If you are working in a single-bound model, you author content in Flare. When you want to transfer your changes to Central, you use the Source Control ribbon to commit  files that you’ve changed. This gives you the opportunity to organize your files into different groups when you add them to Central, and to add a comment to each commit as well. After this, you synchronize (pull, push) your changes with the cloned project on Central.  See <MadCap:xref href="../Projects/Committing-Synchronizing-Single-Bound.htm">Committing and Synchronizing (Pull, Push) in a Single-bound Model</MadCap:xref>.</li>
+                            <li><span class="SetOffFirstLevel">Pushing in Dual-bound Model </span>If you are working in a dual-bound model, you author content in Flare and use your third-party source control tool to synchronize your files with those from other writers. After this, you use Flare to push those changes to Central. See <MadCap:xref href="../Projects/Pushing-Dual-Bound-Model.htm">Pushing in a Dual-bound Model</MadCap:xref>.</li>
+                        </ul>
+                    </li>
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="MadCap Central:project properties;Projects:properties" />Viewing Project Properties </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Central/View-Project-Properties.flsnp" /> See <MadCap:xref href="Viewing-Project-Properties.htm">Viewing Project Properties</MadCap:xref>.</li>
+                    <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-MadCap-Central-Integration-Guide" />
+                    <li><span class="SetOffFirstLevel"><MadCap:keyword term="MadCap Central:unbinding projects;Projects:unbinding;Unbinding projects" />Removing Bindings </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Central/Remove-Central-Binding.flsnp" /> See <MadCap:xref href="Removing-Bindings-from-Projects.htm">Removing Bindings from Projects</MadCap:xref>.</li>
+                </ul>
+                <p>You can also do the following if you want to use MadCap Central for your review process:</p>
+                <ul>
+                    <li><span class="Emphasis"><MadCap:keyword term="MadCap Central:reviews;Reviews:MadCap Central" />Send for Review </span>
+                        <MadCap:snippetText src="../../Resources/Snippets/Flare/Reviews-Contributions/Central-Review-Process.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] " /> See <MadCap:xref href="../z/Sending-Files-for-Review-Central.htm">Sending Files for Review on Central</MadCap:xref>.</li>
+                </ul>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only"><a name="top"></a>
+            <MadCap:keyword term="Projects:single-bound;Single-bound projects" />
+            <MadCap:keyword term="Projects:dual-bound;Dual-bound projects" />Single-bound Versus Dual-bound</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Projects:single-bound;Single-bound projects" />
+                    <MadCap:keyword term="Projects:dual-bound;Dual-bound projects" />Single-bound Versus Dual-bound<a name="Using"></a></MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <p>
+                    <MadCap:snippetText src="../../Resources/Snippets/Shared/Ce-Fl/Source-Control/Source-Control-Central1.flsnp" /> <MadCap:snippetText src="../../Resources/Snippets/Shared/Ce-Fl/Source-Control/Source-Control-Central2.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet22] " /> See <MadCap:xref href="../Projects/Source-Control-Central.htm">Source Control and MadCap Central</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <h2 MadCap:conditions="General.Print-Only">
+            <MadCap:keyword term="Security" />
+            <MadCap:keyword term="MadCap Central:security" MadCap:conditions="Products.Flare" />Security</h2>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>
+                    <MadCap:keyword term="Security" />
+                    <MadCap:keyword term="MadCap Central:security" MadCap:conditions="Products.Flare" />Security</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Ce-Fl/Central/Security1.flsnp" MadCap:conditionTagExpression="exclude[Snippets.Snippet1] " />
+                <p>Also see <MadCap:xref href="Security.htm">Security and MadCap Central</MadCap:xref>.</p>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>notes</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Ce-Fl/Source-Control/Central-SC-Tasks-Flare.flsnp" />
+                <MadCap:snippetBlock src="../../Resources/Snippets/Shared/Ce-Fl/Central/Note-Certain-Flare-Features-Not-Supported.flsnp" />
+                <MadCap:snippetBlock src="../../Resources/Snippets/Flare/Central/Note-Central-Sold-Separately.flsnp" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <MadCap:changeData>
+            <MadCap:RemoveChange MadCap:userName="jcheverie" MadCap:initials="JC" MadCap:id="9" MadCap:timestamp="2018-04-30T13:39:56.8990511-07:00" />
+            <MadCap:AddChange MadCap:userName="jcheverie" MadCap:initials="JC" MadCap:id="10" MadCap:timestamp="2018-04-30T13:39:56.8990511-07:00" />
+            <MadCap:RemoveChange MadCap:userName="jcheverie" MadCap:initials="JC" MadCap:id="11" MadCap:timestamp="2018-04-30T13:41:04.8223649-07:00" />
+            <MadCap:AddChange MadCap:userName="jcheverie" MadCap:initials="JC" MadCap:id="12" MadCap:timestamp="2018-04-30T13:41:05.1348900-07:00" />
+            <MadCap:RemoveChange MadCap:userName="jcheverie" MadCap:initials="JC" MadCap:id="14" MadCap:timestamp="2018-04-30T13:53:00.3028485-07:00" />
+        </MadCap:changeData>
+        <link href="../../../TableStyles/Shared/Basic-Alternate-Rows.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table class="TableStyle-Basic-Alternate-Rows" cellspacing="0" style="mc-table-style: url('../../../TableStyles/Shared/Basic-Alternate-Rows.css');margin-left: 0;margin-right: auto;caption-side: top;width: 100%;">
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" style="width: 115px;" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <col class="TableStyle-Basic-Alternate-Rows-Column-Regular" />
+            <thead>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" style="border-right-color: #ffffff;">&#160;</th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1" colspan="3">
+                        <p class="TableTextHead">CLIENT-BASED OUTPUT</p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1" colspan="2">
+                        <p class="TableTextHead">SERVER-BASED&#160;OUTPUT</p>
+                    </th>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Head-Header1">
+                    <th style="border-right-color: #ffffff;" class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">&#160;</th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/html5_light.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/ms_html_help.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/web_help.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadE-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/html5_light.png" class="TableIcons" />
+                        </p>
+                    </th>
+                    <th class="TableStyle-Basic-Alternate-Rows-HeadD-Regular-Header1">
+                        <p class="TableTextHead">
+                            <img src="../../../Images/Flare/web_help_plus.png" class="TableIcons" />
+                        </p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Enable</p>
+                        <p class="TableTextEmphasisSmallNoIndent" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide">
+                            <MadCap:xref href="../../../../Flare/Search/Enabling-Search-Skins.htm">Enabling Search in Skins</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-1.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-2.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-2.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-1.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-2.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" style="height: 38px;">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Content Optimization</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Targets/More/Setting-Search-Abstract-Character-Limit.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Setting the Search Abstract Character Limit</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-3.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows" style="height: 38px;">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent">Content Optimization</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Targets/More/Setting-Search-Result-Importance.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Setting Search Result Importance</MadCap:xref>
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-3.png" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" style="height: 38px;">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextEmphasisSmallNoIndent">Content Optimization</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Targets/More/Including-Glossary-Terms-in-Search-Result.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Including Glossary Terms in Search Results</MadCap:xref>
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-3.png" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows" style="height: 38px;">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Content Optimization</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Targets/More/Setting-Number-Search-Results-Per-Page.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Setting the Number of Search Results Per Page</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-3.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-3.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" style="height: 38px;">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Elasticsearch</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Search-Engines/Elasticsearch/Elasticsearch.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">About Elasticsearch</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows" style="height: 38px;">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Google Search</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Search-Engines/Google-Search/About-Google-Search.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind" MadCap:changes="10">About Google Search</MadCap:xref>
+                            <MadCap:xref href="../../../../Flare/Search/Search-Engines/Setting-Up-Search-Engine.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind" MadCap:changes="9">Setting Up a Search Engine</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-4.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Micro Content Featured Snippets</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/z/Enabling-Micro-Content-Search-Results.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Enabling Micro Content in Search Results</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-3.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img class="ReduceButtonSize" src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-3.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Search Highlighting</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Search-Highlighting/Customizing-Highlight-Color-for-Search-Hits.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Customizing the Highlight Color for Search Hits</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Search Optimization</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Enabling-Partial-Word-Search.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Enabling Partial-word Search</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Search Optimization</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Including-Stop-Words.htm" MadCap:conditions="Flare-Guides.Flare-Search-Guide,General.Online-Only" MadCap:excludeAction="unbind">Including Stop Words in Search</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-5.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Search <MadCap:change MadCap:changes="10">Optimization</MadCap:change><MadCap:change MadCap:changes="9">Performance</MadCap:change></p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Excluding-Index-Entries-from-Search.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Excluding Index Entries From Search</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-6.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Search <MadCap:change MadCap:changes="12">Optimization</MadCap:change><MadCap:change MadCap:changes="11">Performance</MadCap:change></p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Excluding-Non-Words-from-Search.htm" MadCap:conditions="Flare-Guides.Flare-Search-Guide,General.Online-Only" MadCap:excludeAction="unbind">Excluding Non-words from Search</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-7.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Search Optimization<MadCap:change MadCap:changes="14">Performance</MadCap:change></p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Setting-N-Gram-Size.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Setting the N-Gram Size for Search</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Search Performance</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Chunking-Large-Database-Files.htm" MadCap:conditions="Flare-Guides.Flare-Search-Guide,General.Online-Only" MadCap:excludeAction="unbind">Chunking Large Search Database Files</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent" MadCap:conditions="General.Online-Only">Search Performance</p>
+                        <p class="TableTextEmphasisSmallNoIndent" MadCap:conditions="General.Online-Only">
+                            <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Pre-merging-Search-Database-Files.htm">Pre-merging Search Database Files</MadCap:xref> and <MadCap:xref href="../../../../Flare/TOCs/Merging-Projects.htm">Merging Projects</MadCap:xref></p>
+                        <p class="TableTextEmphasisSmallNoIndent" MadCap:conditions="General.Print-Only">Search Performance</p>
+                        <p class="TableTextEmphasisSmallNoIndent" MadCap:conditions="General.Print-Only">
+                            <MadCap:xref href="../../../../Flare/Search/Configuring-Search-Database/Pre-merging-Search-Database-Files.htm" MadCap:conditions="Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Pre-merging Search Database Files</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent">Search Results</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Search/Search-Filter-Sets/Customizing-Search-Filter-Ordering.htm" MadCap:conditions="General.Online-Only,Flare-Guides.Flare-Search-Guide" MadCap:excludeAction="unbind">Customizing Search Filter Ordering</MadCap:xref>
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-DarkerRows" style="height: 38px;">
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;">
+                        <p class="TableTextEmphasisSmallNoIndent">Search Toolbar</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Skins/More/Web-Toolbar-Settings-WebHelp-Output.htm" MadCap:conditions="General.Online-Only" MadCap:excludeAction="unbind">Specifying Web Toolbar Settings—WebHelp Outputs</MadCap:xref>
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyE-Regular-DarkerRows" style="text-align: center;">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyD-Regular-DarkerRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Basic-Alternate-Rows-Body-LightRows">
+                    <td style="padding-left: 5px;padding-right: 5px;padding-top: 5px;padding-bottom: 5px;" class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextEmphasisSmallNoIndent">Styles</p>
+                        <p class="TableTextEmphasisSmallNoIndent">
+                            <MadCap:xref href="../../../../Flare/Styles/More/Styles-for-Generated-Pages.htm" MadCap:conditions="Flare-Guides.Flare-Search-Guide,General.Online-Only" MadCap:excludeAction="unbind">Styles for Generated Pages</MadCap:xref>
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-4.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td style="text-align: center;" class="TableStyle-Basic-Alternate-Rows-BodyB-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-Check-8.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Basic-Alternate-Rows-BodyA-Regular-LightRows">
+                        <p class="TableTextCenter">
+                            <img src="../../../Images/Shared/All-Plus-Doc-Bible/Icon-X.png" class="ReduceButtonSize" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr class="TableStyle-Basic-Alternate-Rows-Foot-Footer1">
+                    <td class="TableStyle-Basic-Alternate-Rows-FootD-Regular-Footer1" colspan="6">
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">1</sup>HTML5 skin.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">2</sup>Standard skin.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">3</sup>This is supported if you are using Elasticsearch or MadCap Search, but not Google Search.<MadCap:conditionalText MadCap:conditions="General.Online-Only"> See <MadCap:xref href="../../../../Flare/Search/Search-Engines/Setting-Up-Search-Engine.htm">Setting Up a Search Engine</MadCap:xref>.</MadCap:conditionalText></p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">4</sup>This is supported only in HTML5 Side Navigation, Top Navigation, and skinless outputs. It is not supported in HTML5 Tripane output.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">5</sup>Stop words are always enabled.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">6</sup>Index entries are always excluded.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">7</sup>Non-words are always excluded.</p>
+                        <p colspan="15" class="TableTextFootnote"><sup style="font-weight: bold;">8</sup>SQL&#160;Server Compact is required.</p>
+                    </td>
+                    <td>
+                        <p class="TableText">&#160;</p>
+                    </td>
+                    <td>
+                        <p class="TableText">&#160;</p>
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+</html>

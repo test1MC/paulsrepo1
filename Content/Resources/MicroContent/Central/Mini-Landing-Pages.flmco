@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet
+  Comment="Default micro content set.">
+  <MicroContent>
+    <MicroContentPhrase>source control</MicroContentPhrase>
+    <MicroContentPhrase>version control</MicroContentPhrase>
+    <MicroContentPhrase>git</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Source-Control.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>vanity url</MicroContentPhrase>
+    <MicroContentPhrase>target url</MicroContentPhrase>
+    <MicroContentPhrase>license url</MicroContentPhrase>
+    <MicroContentPhrase>url</MicroContentPhrase>
+    <MicroContentPhrase>cname</MicroContentPhrase>
+    <MicroContentPhrase>host mapping</MicroContentPhrase>
+    <MicroContentPhrase>domain</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Vanity-URL.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>builds</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Builds.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>projects</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Projects.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>checklists</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Checklists.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>dashboards</MicroContentPhrase>
+    <MicroContentPhrase>widgets</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Dashboards.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>dual-bound project</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Dual-Bound-Project.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>reports</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Reports.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>reviews</MicroContentPhrase>
+    <MicroContentPhrase>topic review</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Shared/Ce-Fl/Mini-Landing-Pages/MLP-Reviews.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>single-bound project</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Single-Bound-Project.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>tasks</MicroContentPhrase>
+    <MicroContentPhrase>grid</MicroContentPhrase>
+    <MicroContentPhrase>calendar</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Tasks.flsnp" />
+  </MicroContent>
+  <MicroContent>
+    <MicroContentPhrase>teams</MicroContentPhrase>
+    <MicroContentResponse
+      href="../../Snippets/Central/Mini-Landing-Pages/MLP-Teams.flsnp" />
+  </MicroContent>
+</MicroContentSet>

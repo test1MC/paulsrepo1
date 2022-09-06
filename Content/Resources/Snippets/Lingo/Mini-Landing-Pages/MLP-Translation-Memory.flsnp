@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../../../TableStyles/Shared/Simple.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <div>
+            <div class="pdf-download-microcontent"><a href="https://docs.madcapsoftware.com/lingo11/LingoTranslationGuide.pdf" target="_blank"><img src="../../../Images/Shared/All-Plus-Doc-Bible/PDFGuide_Icon.png" title="PDF Guide" class="micro-content-only" /></a>
+            </div>
+            <div class="Tiles-6-6-Microcontent">
+                <div class="micro-content-dropdown">
+                    <p class="micro-content-only"><span class="micro-content-only-inline"><b>Translation Memory </b></span>
+                        <MadCap:snippetText src="../Translation-Memory/Translation-Memory-Summary.flsnp" MadCap:conditionTagExpression="include[Snippets.Snippet1] exclude[Snippets.Snippet2] " /> <span class="micro-content-only-inline"><a href="../../../../Lingo/Translation-Memory/About-Translation-Memory.htm">More Details…</a></span></p>
+                    <table style="width: 100%;mc-table-style: url('../../../TableStyles/Shared/Simple.css');" class="TableStyle-Simple" cellspacing="0">
+                        <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                        <col class="TableStyle-Simple-Column-Column1" style="width: 50%;" />
+                        <tbody>
+                            <tr class="TableStyle-Simple-Body-Row1">
+                                <td class="TableStyle-Simple-BodyB-Column1-Row1">
+                                    <p class="Bold">Basic Steps</p>
+                                    <ol>
+                                        <li><a href="../../../../Lingo/SQL/SQL-Lingo.htm">Installing SQL</a>
+                                        </li>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Creating-TM-Database.htm">Creating a Translation Memory Database</MadCap:xref>
+                                        </li>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Choosing-TM-Database.htm">Choosing a Translation Memory Database</MadCap:xref>
+                                        </li>
+                                        <li>
+                                            <p><a href="../../../../Lingo/Translating-Files/Translating-Files.htm">Uploading Translation Memory Content for Suggestions</a> </p>
+                                            <p>This occurs automatically when confirming a translated segment.</p>
+                                        </li>
+                                        <li>
+                                            <p>
+                                                <MadCap:xref href="../../../../Lingo/Translation-Memory/Applying-TM-Suggestions-to-Segments.htm">Applying Translation Memory Suggestions</MadCap:xref>
+                                            </p>
+                                            <p>You can apply TM suggestions at the project, file, or segment level.</p>
+                                        </li>
+                                    </ol>
+                                </td>
+                                <td class="TableStyle-Simple-BodyA-Column1-Row1">
+                                    <p class="Bold">Other Tasks and Information</p>
+                                    <ul>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Editing-Translation-Memory-Database.htm">Editing a Translation Memory Database</MadCap:xref>
+                                        </li>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Cleaning-Up-Translation-Memory.htm">Cleaning Up the Translation Memory</MadCap:xref>
+                                        </li>
+                                        <li><a href="../../../../Lingo/Translation-Memory/About-Translation-Memory-Exchange.htm">Translation Memory eXchange</a>
+                                        </li>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Ranking-Translation-Memory.htm">Ranking Translation Memories</MadCap:xref>
+                                        </li>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Statuses-Matches.htm">Statuses and Matches</MadCap:xref>
+                                        </li>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Setting-Match-Options-Suggestions.htm">Setting Match Options for Suggestions</MadCap:xref>
+                                        </li>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Accepting-Exact-Matches-on-Applying-TM.htm">Accepting Exact Matches on Applying Translation Memory</MadCap:xref>
+                                        </li>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Updating-Segments-With-101-Matches.htm">Updating Segments with 101% Matches</MadCap:xref>
+                                        </li>
+                                        <li>
+                                            <MadCap:xref href="../../../../Lingo/Translation-Memory/Updating-Translations-With-Identical-Source.htm">Updating Translations with an Identical Source</MadCap:xref>
+                                        </li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="micro-content-only">
+                    <div class="video" MadCap:conditions="General.Server-Only">
+                        <p class="buttonT32-play" style="text-align: center;"><a href="https://youtu.be/zAtjZEBEj20" data-lity="true" class="buttonT32-play-link">WATCH&#160;THE&#160;VIDEO</a>
+                        </p>
+                        <p class="more-videos" style="text-align: center;"><a href="https://www.madcapsoftware.com/videos/lingo/#TranslationMemory" target="_blank">View More Videos in This Series</a>
+                        </p>
+                    </div>
+                    <p MadCap:conditions="Products.Lingo-Local-Only" class="center" style="text-align: center;">
+                        <img src="../../../Images/Lingo/Translation-Memory.png" alt="" title="" class="ThumbnailMicroContent" />
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:snippetText src="../Topics/Topics-Not-Index-Window-Summary.flsnp" />&#160;<MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Indexes/Assigning-Topics-to-Index-Keywords.htm">Assigning Topics to Index Keywords</MadCap:xref>.</MadCap:conditionalText></p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>how to view topics not yet indexed</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <ol>
+                    <li> <MadCap:snippetText src="../UI-Elements/Select-Analysis-Ribbon.flsnp" /> In the <span class="Emphasis">Dynamic Reports</span> section select <span class="Emphasis">More Reports &gt; Topics Not In Index</span>. <p>The Topics Not In Index window pane opens. The area at the bottom of the window pane displays all topics where you have not yet inserted index keywords.</p></li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/All/Steps-General/Drag-Divider-See-More.flsnp" />
+                        <ul class="FirstLevel">
+                            <li><span class="SetOffFirstLevel">File </span>
+                                <MadCap:snippetText src="../UI-Elements/File-Description.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Title </span>
+                                <MadCap:snippetText src="../UI-Elements/Title-Option.flsnp" />
+                            </li>
+                            <li><span class="SetOffFirstLevel">Folder </span>
+                                <MadCap:snippetText src="../UI-Elements/Folder-Option.flsnp" />
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <MadCap:snippetText src="../../Shared/Fl-Li/UI-Elements/Page-Nav-Buttons.flsnp" />
+                    </li>
+                    <li>You can double-click any topic in the list to view or modify it. </li>
+                </ol>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead class="OnlineOnly">
+                <MadCap:dropDownHotspot>note</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <MadCap:snippetBlock src="../Reports/Note-Can-Include-Info-Reports.flsnp" MadCap:conditions="General.Online-Only" />
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

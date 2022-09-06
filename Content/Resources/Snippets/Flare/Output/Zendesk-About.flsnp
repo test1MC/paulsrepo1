@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:snippetBlock src="Zendesk-Summary1.flsnp" />
+        <p>You have the option to install the plug-in when you install or upgrade Flare. The MadCap Connect plug-in for Zendesk supports outputs using Clean XHTML and skinless HTML5 outputs.</p>
+        <p>Zendesk provides multilingual support to publish your articles. <MadCap:conditionalText MadCap:conditions="General.Online-Only">See <MadCap:xref href="../../../../Flare/Language-Support/About-Language-Support.htm">About Language Support</MadCap:xref>.</MadCap:conditionalText></p>
+    </body>
+</html>

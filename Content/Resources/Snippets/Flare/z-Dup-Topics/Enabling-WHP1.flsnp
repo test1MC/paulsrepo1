@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p MadCap:conditions="Flare-Guides.Flare-Search-Guide">You can enable server-based output for WebHelp Plus targets. This allows for searching of non-XHTML content and faster searching.</p>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Search-Guide" />
+    </body>
+</html>

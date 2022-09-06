@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p><span class="Emphasis">Glossary </span>A <MadCap:snippetText src="../Glossaries/Glossary-Definition.flsnp" />&#160;<a href="../../../../Flare/Glossaries/About-Glossaries.htm">More Details…</a></p>
+        <div class="Tiles-6-3-3">
+            <div>
+                <p class="Bold">Basic Steps</p>
+                <ol>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Glossaries/More/Adding-Glossary.htm">Adding a Glossary File</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Glossaries/Creating-Glossary-Terms-Definitions.htm">Creating Glossary Terms and Definitions</MadCap:xref>
+                    </li>
+                    <li>(Online Output) <MadCap:xref href="../../../../Flare/Glossaries/Enabling-Glossaries-in-Skins.htm">Enabling Glossaries in Skins</MadCap:xref></li>
+                    <li>(Print Output) <MadCap:xref href="../../../../Flare/Output/Printed-Output/Creating-Glossary-Manually-Print.htm">Creating a Glossary Manually for Print</MadCap:xref> or <MadCap:xref href="../../../../Flare/Output/Printed-Output/Auto-Generating-Glossaries-Print.htm">Auto-generating Glossaries for Print</MadCap:xref></li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Glossaries/Associating-Glossaries-with-Targets.htm">Associating Glossaries with Targets</MadCap:xref>
+                    </li>
+                </ol>
+                <p class="Bold">Other Tasks</p>
+                <ul>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Glossaries/More/Editing-Glossaries.htm">Editing Glossaries</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Glossaries/Inserting-Glossary-Term-Links.htm">Inserting Glossary Term Links</MadCap:xref>
+                    </li>
+                    <li>
+                        <MadCap:xref href="../../../../Flare/Glossaries/More/Using-Styles-to-Change-Look-of-Glossary.htm">Using Styles to Change the Look of a Glossary</MadCap:xref>
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <p class="Subheading" style="text-align: center;">Example—Online Output</p>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Glossary1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+            <div>
+                <p class="Subheading" style="text-align: center;">Example—Print Output</p>
+                <p class="center">
+                    <img src="../../../Images/Flare/MLP-Glossary2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </div>
+        </div>
+    </body>
+</html>

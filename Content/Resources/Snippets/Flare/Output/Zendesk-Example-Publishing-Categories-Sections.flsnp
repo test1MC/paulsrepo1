@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="example">
+            <p class="exampleHeadTextEmpty">Example—Using The TOC to Define Categories and Sections</p>
+            <p>Let's say we want to publish our full project  to Zendesk. We want to use the option to use the TOC of our project to define both the categories and sections in Zendesk.</p>
+            <p>First, we ensure that our Zendesk dashboard is configured to reflect what we want published. For this project, we want to create categories for Knowledge Base and Support. </p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-Dashboard-Publish-Categories-Sections.png" class="MaxWidth100Percent" />
+            </p>
+            <p>If we are publishing to both categories and sections, we need to create a section prior to publishing. Therefore, we create a section under the Knowledge Base category titled FAQ.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-Help-Center-Created-Categories-Sections.png" class="MaxWidth100Percent" />
+            </p>
+            <p>In the Zendesk guide settings, we ensure that the Help Center is activated.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-activate-help-center.png" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide" />
+            <p>Next, we enable the spam filter. </p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-spam-filter.png" class="MaxWidth100Percent" />
+            </p>
+            <p>We select the option to display unsafe content if we are publishing multimedia.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-display-unsafe-content.png" class="MaxWidth100Percent" />
+            </p>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide" />
+            <p>In Flare, we ensure that the destination file is configured to use the TOC to define categories and sections.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-destination-define-categories-sections.png" class="MaxWidth100Percent" />
+            </p>
+            <p>The last step prior to publishing is to check that our TOC is structured to publish the topics to the category and section designated. In this case, we want the contents of our TOC to be published directly under the category and section we set in the destination file. We can use unlinked books in our TOC to mimic the structure of the category and section we are using for Zendesk.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-TOC-Categories-Sections.png" class="MaxWidth100Percent" />
+            </p>
+            <div class="note">
+                <p class="noteInDiv" MadCap:autonum="&lt;b&gt;&lt;span style=&quot;color: Black;&quot; class=&quot;mcFormatColor&quot;&gt;Note: &lt;/span&gt;&lt;/b&gt;">Keep in mind that any top-level books in the TOC are converted into categories besides any existing categories in Zendesk.<br /></p>
+            </div>
+            <p>Then, we publish  to Zendesk Help Center. We then review our Zendesk Help Center dashboard to confirm that the output has been successfully published to the category and section designated in the destination file.</p>
+            <p>
+                <img src="../../../Images/Flare/Zendesk-Published-Categories-Sections.png" class="MaxWidth100Percent" />
+            </p>
+        </div>
+    </body>
+</html>

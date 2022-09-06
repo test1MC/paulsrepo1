@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>We currently do not use micro content for chatbots or other applications that require extra programming outside of a Flare project. However, we do use micro content extensively for featured snippets in search results of the output. Our approach involves the following.</p>
+        <MadCap:snippetBlock src="../../Shared/All/Print-Output/Chapter-Discusses-Following.flsnp" MadCap:conditions="Flare-Guides.Flare-Micro-Content-Guide" />
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Micro-Content-Guide" />
+        <h2 MadCap:conditions="Flare-Guides.Flare-Micro-Content-Guide">Analytics</h2>
+        <p class="Subheading" MadCap:conditions="Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide,Flare-Guides.Flare-Whats-New-Guide,General.Online-Only">Analytics</p>
+        <p>
+            <p>Our online output is integrated with MadCap Pulse, which gives us access to various reports<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../../../../Flare/Pulse-Features/About-Pulse.htm">About MadCap Pulse</MadCap:xref>)</MadCap:conditionalText>. We sort the Search Phrases report to see which terms end users are entering most often for searches. Based on these results, we create our micro content phrases and alternate phrases in the Flare project.</p>
+            <p>
+                <img src="../../../Images/Flare/Micro-Content-Doc-Team-Choosing-Phrases.png" alt="" title="" />
+            </p>
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <h2 MadCap:conditions="Flare-Guides.Flare-Micro-Content-Guide">Number of Micro Content Files</h2>
+        <p class="Subheading" MadCap:conditions="Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide,Flare-Guides.Flare-Whats-New-Guide,General.Online-Only">Number of Micro Content Files</p>
+        <p>Based on the search phrases we noticed in our Pulse reports, we decided to make three micro content files, storing them in a Resources &gt; MicroContent subfolder:</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Number-Files.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <ul>
+            <li>
+                <p><span class="Emphasis">Quick Steps </span>First, we noticed phrases containing verbs (e.g., apply condition tag, import Word), indicating that users are trying to find information on how to complete a specific task. Therefore, we created a micro content file and named it “Quick-Steps.” The response for each of these micro content phrases is a very brief set of steps, usually a shortened version of the main topic for that task.</p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content4.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-Search-Guide,Flare-Guides.Flare-HTML5-Guide" />
+            <li>
+                <p><span class="Emphasis">Mini Landing Pages </span>We discovered that the vast majority of search phrases in our reports are simply words or short phrases (e.g., skin, master pages, output), rather than actual questions or even phrases containing a verb. Therefore, we created a second micro content file and named it “Mini-Landing-Pages.” Since these search phrases are somewhat vague (e.g., if people search for “skin,” we don’t know which aspect of skins they want to know about), the responses associated with the micro content phrases are designed to be mini landing pages, containing a short snapshot of the subject with links to the tasks or other information that we think the user is most likely trying to find. These mini landing pages are essentially much smaller versions of the large landing pages that exist for most features in our documentation.</p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content-Doc-Team-MLP.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+            <li>
+                <p><span class="Emphasis">Related Questions </span>Finally, some of our mini landing pages seemed to require more content than we wanted to display normally in a micro content response. In other words, there were more gaps that we needed to fill when attempting to discern what information users are actually after. A good example for us is the phrase "styles," which is such a large subject that it's difficult to know what information to include or exclude in the micro content response.</p>
+                <p>One of the SERP features that you see in Google sometimes is called "Related Questions" (or "People Also Ask"). This object is a collection of drop-downs with common questions and answers for a big subject.</p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content-Doc-Team-Related-Questions1.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+                <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-Search-Guide,Flare-Guides.Flare-HTML5-Guide" />
+                <p>We used drop-downs as part of our micro content responses to mimic this behavior for our really big subjects, such as styles, output, and tables of contents. It's not exactly the same as Google's Related Questions feature, but it serves essentially the same purpose.</p>
+                <p>
+                    <img src="../../../Images/Flare/Micro-Content-Doc-Team-Related-Questions2.png" alt="" title="" class="MaxWidth100Percent" />
+                </p>
+            </li>
+            <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        </ul>
+        <h2 MadCap:conditions="Flare-Guides.Flare-Micro-Content-Guide">Structure and Style of Responses</h2>
+        <p class="Subheading" MadCap:conditions="Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide,Flare-Guides.Flare-Whats-New-Guide,General.Online-Only">Structure and Style of Responses</p>
+        <p>We wanted to include both text and either multimedia or images in most of our micro content responses. With text usually appearing on the left or top, and the multimedia or image on the right or bottom, we decided to create a few different responsive layouts; this allows the content to stack when viewed on a small screen<MadCap:conditionalText MadCap:conditions="General.Online-Only"> (see <MadCap:xref href="../../../../Flare/Responsive-Web-Design/Creating-Responsive-Layouts.htm">Creating Responsive Layouts</MadCap:xref>)</MadCap:conditionalText>. We also created a couple of unique styles that are used only for our micro content responses because we wanted the content to use as little space as possible in the search results (e.g., smaller font, less space between items in a list).</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Structure1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Structure2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <h2 MadCap:conditions="Flare-Guides.Flare-Micro-Content-Guide">Skin Styles</h2>
+        <p class="Subheading" MadCap:conditions="Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide,Flare-Guides.Flare-Whats-New-Guide,General.Online-Only">Skin Styles</p>
+        <p>As far as the skin is concerned, we used the default settings for most areas of the micro content. However, we did make a few changes.</p>
+        <p>First, we decided to increase the height of the responses because most of our content was requiring users to click the expand button to see all of the information. So on the Styles tab of the Skin Editor, we expanded <b>Search Micro Content Response &gt; Size</b>, and we changed the default <b>Maximum Height</b> from 200 px to <b>400 px</b>. Although some of our micro content responses still require users to use the expand function to see everything, the majority of our responses can now be seen without doing this on a large screen.</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Skin-Styles1.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <p class="Bold">Before the Change</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Skin-Styles2.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <p class="Bold">After the Change</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Skin-Styles3.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <p>Also, since we don't have links or paths to topics at the bottom of our responses, we decided to remove the bottom border for <b>Search Micro Content Response Expand</b>. This helps us avoid the look of a double border when there are responses that need to be expanded.</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Skin-Styles6.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <p>So when we have a response that needs to be expanded to see more, the bottom of that response no longer looks like this:</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Skin-Styles7.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <p>But instead it looks like this:</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Skin-Styles8.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+        <MadCap:pageBreak MadCap:conditions="Flare-Guides.Flare-Whats-New-Guide,Flare-Guides.Flare-Micro-Content-Guide,Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide" />
+        <h2 MadCap:conditions="Flare-Guides.Flare-Micro-Content-Guide">Response Links to Snippets</h2>
+        <p class="Subheading" MadCap:conditions="Flare-Guides.Flare-HTML5-Guide,Flare-Guides.Flare-Search-Guide,Flare-Guides.Flare-Whats-New-Guide,General.Online-Only">Response Links to Snippets</p>
+        <p>We do not use the Micro Content Editor to enter our content. The primary reason is that this editor does not allow us to insert responsive layouts directly, and those layouts are an integral part of our responses. We also decided not to link to full topics because they are typically too long for micro content responses. We considered creating micro content from selected content in existing topics—and we might still do that for some future micro content that we create—but doing that with our initial collection of micro content would have required more customization of existing content than we wanted. In the end, we decided the most streamlined solution for us was to create unique snippets that are designed to be condensed versions of our big landing pages or large task topics, and then we linked our phrases to those snippets from the Micro Content Editor.</p>
+        <p>
+            <img src="../../../Images/Flare/Micro-Content-Doc-Team-Link.png" alt="" title="" class="MaxWidth100Percent" />
+        </p>
+    </body>
+</html>
